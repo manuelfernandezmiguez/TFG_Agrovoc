@@ -24,13 +24,22 @@ def busqueda(parametro):
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     qres = sparql.query().convert()
-
+    fillos: list[str]= []
+    lista: list[str]= []
     #pprint(qres)
     for result in qres['results']['bindings']:
         xerarquia = result['hierarchicalType']['value']
         value = result['label']['value']
         uri = result['otherConcept']['value']
-        print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
+        lista=[]
+        if xerarquia!='broader':
+            lista.append(value)
+            lista.append(uri)
+            fillos.append(lista)
+            
+        #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
+        
+    return fillos
 
 def busquedaNome(nome):
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
@@ -61,13 +70,12 @@ def busquedaNome(nome):
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
     qres = sparql.query().convert()
-    pprint(qres)
+    #pprint(qres)
     for result in qres['results']['bindings']:
         uri = result['concept']['value']
         value = result['conceptLabel']['value']
-        print(f'\tValue: {value}         \tEnlace: {uri}')
+        #print(f'\tValue: {value}         \tEnlace: {uri}')
         return value,uri
-    return qres
 
 #busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
 #busquedaNome('poultry')
