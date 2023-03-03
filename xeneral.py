@@ -1,9 +1,10 @@
-from sparqlQueries import busqueda,busquedaNome,busquedaExhaustiva,busquedaPai
+from sparqlQueries import busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos
 from nltkFuncions import dividirTexto
 from parseCSV import escribir
 from pprint import pprint
 from anytree import Node, RenderTree
 from anytree.exporter import DotExporter
+import os
 
 d = {}
 
@@ -43,20 +44,20 @@ def ConceptosPalabras(texto: str):
     listaNomes: list[str]= []
     nome,uri = busquedaNome(texto)
     fillos = busquedaExhaustiva(uri)
-    print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)}")
+    print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
-        #print(f[0])
+        print(f[0])
         analizar=dividirTexto(f[0])
         if(len(analizar)>1):
             nome,uri = busquedaNome(f[0])
             for a in analizar:
                 if(busquedaNome(a) is not None):
+                    #print(a)
                     nomeA,uriNome = busquedaNome(a) 
                     paiNome,pai=busquedaPai(uri)
-                    print(f"nome: {nome} nomeA: {nomeA} indice: {i}")
-
                     if(nomeA in dividirTexto(paiNome)): #se o nome do noso elemento A buscado a partir do string sacado de f[0] por medio dun tokenizer coincide co pai do elemento f[0].
                         break
+                    print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA} indice: {i}")
                     #print('analizar')
                     auxiliar=[nome,uri,nomeA,uriNome]
                     listaNomes.append(auxiliar)
@@ -76,7 +77,40 @@ def gardarConsultaAccesos(nome: str):
     escribir(gardar,listaEscribir,cabeceira)
 
 
-#busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
+def gardadoXeralConsultaAccesos():
 
+    listaEscribir: list[str]= []
+    listaParcial: list[str]= []
+    listaInicial=busquedaOrfos()
+    cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
+    for l in listaInicial:
+        listaEscribir=[]
+        gardar="csvs/"+l[0] + ".csv"
+        print(f"\n IMOS EXPLORAR AGORA ESTE CONCEPTO INICIAL: {l[0]} \n")
+        if l[0] == 'organisms' or os.path.exists(gardar) :
+            continue    # continue here
+        listaFillos=busqueda(l[1])
+        
+        for i in listaFillos:    
+            listaParcial=[]
+            #print(i[0])
+            if(i[0] is not None):
+                listaParcial+=ConceptosPalabras(i[0])
+            
+            #pprint(listaParcial)
+            listaEscribir+=listaParcial
+            #pprint(listaEscribir)
+        escribir(gardar,listaEscribir,cabeceira)
+        
+    gardar= "csvs/xeral.csv"
+    #print(listaEscribir)
+    cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
+    escribir(gardar,listaEscribir,cabeceira)
+
+
+#busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
+#gardadoXeralConsultaAccesos()
+#boleo = os.path.exists("csvs/feeding.csv")
+#print(boleo)
 
 #busquedaNome('water')

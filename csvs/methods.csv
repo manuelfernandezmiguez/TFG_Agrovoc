@@ -1,0 +1,163 @@
+nome,uriVella,NovoElemento,uriNiovo
+fishing gear marking,http://aims.fao.org/aos/agrovoc/c_c9e65477,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fishing vessel marking,http://aims.fao.org/aos/agrovoc/c_68626e5b,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+low volume spraying,http://aims.fao.org/aos/agrovoc/c_25793,volume,http://aims.fao.org/aos/agrovoc/c_8288
+seed inoculation,http://aims.fao.org/aos/agrovoc/c_14170,seed,http://aims.fao.org/aos/agrovoc/c_6927
+soil inoculation,http://aims.fao.org/aos/agrovoc/c_14396,soil,http://aims.fao.org/aos/agrovoc/c_7156
+oral administration,http://aims.fao.org/aos/agrovoc/c_36803,administration,http://aims.fao.org/aos/agrovoc/c_130
+convergent improvement,http://aims.fao.org/aos/agrovoc/c_1847,improvement,http://aims.fao.org/aos/agrovoc/c_330895
+somatic hybridization,http://aims.fao.org/aos/agrovoc/c_27608,hybridization,http://aims.fao.org/aos/agrovoc/c_3706
+choice of species,http://aims.fao.org/aos/agrovoc/c_33964,species,http://aims.fao.org/aos/agrovoc/c_7280
+cultivar selection,http://aims.fao.org/aos/agrovoc/c_330719,selection,http://aims.fao.org/aos/agrovoc/c_6951
+mass selection,http://aims.fao.org/aos/agrovoc/c_36569,mass,http://aims.fao.org/aos/agrovoc/c_4639
+heterosis breeding,http://aims.fao.org/aos/agrovoc/c_34295,heterosis,http://aims.fao.org/aos/agrovoc/c_3705
+mutation breeding,http://aims.fao.org/aos/agrovoc/c_35675,mutation,http://aims.fao.org/aos/agrovoc/c_5014
+speed breeding,http://aims.fao.org/aos/agrovoc/c_681a7f51,speed,http://aims.fao.org/aos/agrovoc/c_24248
+paper chromatography,http://aims.fao.org/aos/agrovoc/c_13089,paper,http://aims.fao.org/aos/agrovoc/c_5548
+polyacrylamide gel electrophoresis,http://aims.fao.org/aos/agrovoc/c_34078,polyacrylamide,http://aims.fao.org/aos/agrovoc/c_28505
+thermal analysis,http://aims.fao.org/aos/agrovoc/c_7717,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+mass spectrometry,http://aims.fao.org/aos/agrovoc/c_12421,mass,http://aims.fao.org/aos/agrovoc/c_4639
+atomic absorption spectrometry,http://aims.fao.org/aos/agrovoc/c_28567,absorption,http://aims.fao.org/aos/agrovoc/c_27
+infrared spectrophotometry,http://aims.fao.org/aos/agrovoc/c_28568,spectrophotometry,http://aims.fao.org/aos/agrovoc/c_14497
+ultraviolet spectrophotometry,http://aims.fao.org/aos/agrovoc/c_28569,spectrophotometry,http://aims.fao.org/aos/agrovoc/c_14497
+chemiluminescence method,http://aims.fao.org/aos/agrovoc/c_35049,chemiluminescence,http://aims.fao.org/aos/agrovoc/c_3b5ab880
+fluorescence emission spectroscopy,http://aims.fao.org/aos/agrovoc/c_35050,fluorescence,http://aims.fao.org/aos/agrovoc/c_10935
+fluorescence emission spectroscopy,http://aims.fao.org/aos/agrovoc/c_35050,emission,http://aims.fao.org/aos/agrovoc/c_331377
+organoleptic analysis,http://aims.fao.org/aos/agrovoc/c_16006,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+enzymatic analysis,http://aims.fao.org/aos/agrovoc/c_26867,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+isotope analysis,http://aims.fao.org/aos/agrovoc/c_28238,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+neutron activation analysis,http://aims.fao.org/aos/agrovoc/c_28239,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+quantitative analysis,http://aims.fao.org/aos/agrovoc/c_32660,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+qualitative analysis,http://aims.fao.org/aos/agrovoc/c_35284,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+core analysis,http://aims.fao.org/aos/agrovoc/c_3bcb2967,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+spatial analysis,http://aims.fao.org/aos/agrovoc/c_40da9d3b,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+chemical analysis,http://aims.fao.org/aos/agrovoc/c_f5fd1a6c,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+dredging (catching methods),http://aims.fao.org/aos/agrovoc/c_2377,dredging,http://aims.fao.org/aos/agrovoc/c_50c7fa97
+fish poisoning,http://aims.fao.org/aos/agrovoc/c_2928,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish poisoning,http://aims.fao.org/aos/agrovoc/c_2928,poisoning,http://aims.fao.org/aos/agrovoc/c_6051
+light fishing,http://aims.fao.org/aos/agrovoc/c_4323,light,http://aims.fao.org/aos/agrovoc/c_4322
+ionization treatment,http://aims.fao.org/aos/agrovoc/c_34299,ionization,http://aims.fao.org/aos/agrovoc/c_25736
+runoff irrigation,http://aims.fao.org/aos/agrovoc/c_6698,runoff,http://aims.fao.org/aos/agrovoc/c_35388
+light microscopy,http://aims.fao.org/aos/agrovoc/c_01f95724,light,http://aims.fao.org/aos/agrovoc/c_4322
+fluorescence microscopy,http://aims.fao.org/aos/agrovoc/c_1d3a5d1e,fluorescence,http://aims.fao.org/aos/agrovoc/c_10935
+bagging (pest control),http://aims.fao.org/aos/agrovoc/c_25275,bagging,http://aims.fao.org/aos/agrovoc/c_24551
+hand weeding,http://aims.fao.org/aos/agrovoc/c_11451,weeding,http://aims.fao.org/aos/agrovoc/c_8346
+integrated pest management,http://aims.fao.org/aos/agrovoc/c_34030,management,http://aims.fao.org/aos/agrovoc/c_16086
+integrated disease management,http://aims.fao.org/aos/agrovoc/c_37497,management,http://aims.fao.org/aos/agrovoc/c_16086
+population control,http://aims.fao.org/aos/agrovoc/c_73b08e63,population,http://aims.fao.org/aos/agrovoc/c_330887
+fouling control,http://aims.fao.org/aos/agrovoc/c_dce112dd,fouling,http://aims.fao.org/aos/agrovoc/c_25400
+animal testing alternatives,http://aims.fao.org/aos/agrovoc/c_32378,testing,http://aims.fao.org/aos/agrovoc/c_7683
+soil sampling,http://aims.fao.org/aos/agrovoc/c_25271,soil,http://aims.fao.org/aos/agrovoc/c_7156
+sediment sampling,http://aims.fao.org/aos/agrovoc/c_615f97d6,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+water sampling,http://aims.fao.org/aos/agrovoc/c_9d82c8d0,water,http://aims.fao.org/aos/agrovoc/c_8309
+air sampling,http://aims.fao.org/aos/agrovoc/c_68bbeb07,air,http://aims.fao.org/aos/agrovoc/c_224
+blood sampling,http://aims.fao.org/aos/agrovoc/c_26873,blood,http://aims.fao.org/aos/agrovoc/c_959
+consumption functions,http://aims.fao.org/aos/agrovoc/c_1828,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+demand functions,http://aims.fao.org/aos/agrovoc/c_2172,demand,http://aims.fao.org/aos/agrovoc/c_2171
+production functions,http://aims.fao.org/aos/agrovoc/c_6204,production,http://aims.fao.org/aos/agrovoc/c_6200
+supply functions,http://aims.fao.org/aos/agrovoc/c_7525,supply,http://aims.fao.org/aos/agrovoc/c_7523
+savings functions,http://aims.fao.org/aos/agrovoc/c_28762,savings,http://aims.fao.org/aos/agrovoc/c_6826
+price volatility,http://aims.fao.org/aos/agrovoc/c_b5b2ad02,volatility,http://aims.fao.org/aos/agrovoc/c_24425
+elasticity of demand,http://aims.fao.org/aos/agrovoc/c_b85c38dd,elasticity,http://aims.fao.org/aos/agrovoc/c_26777
+elasticity of demand,http://aims.fao.org/aos/agrovoc/c_b85c38dd,demand,http://aims.fao.org/aos/agrovoc/c_2171
+supply elasticities,http://aims.fao.org/aos/agrovoc/c_00cef80e,supply,http://aims.fao.org/aos/agrovoc/c_7523
+employment elasticities,http://aims.fao.org/aos/agrovoc/c_7470e488,employment,http://aims.fao.org/aos/agrovoc/c_2550
+factor analysis,http://aims.fao.org/aos/agrovoc/c_10728,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+factorial analysis,http://aims.fao.org/aos/agrovoc/c_10729,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+regression analysis,http://aims.fao.org/aos/agrovoc/c_16335,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+probability analysis,http://aims.fao.org/aos/agrovoc/c_26806,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+multiple regression analysis,http://aims.fao.org/aos/agrovoc/c_28240,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+time series analysis,http://aims.fao.org/aos/agrovoc/c_28778,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+analysis of covariance,http://aims.fao.org/aos/agrovoc/c_28833,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+analysis of variance,http://aims.fao.org/aos/agrovoc/c_28834,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+component analysis (statistics),http://aims.fao.org/aos/agrovoc/c_28846,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+component analysis (statistics),http://aims.fao.org/aos/agrovoc/c_28846,statistics,http://aims.fao.org/aos/agrovoc/c_49978
+cross-sectional analysis,http://aims.fao.org/aos/agrovoc/c_28854,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+discriminant analysis,http://aims.fao.org/aos/agrovoc/c_28859,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+game theory,http://aims.fao.org/aos/agrovoc/c_28883,game,http://aims.fao.org/aos/agrovoc/c_3179
+multivariate analysis,http://aims.fao.org/aos/agrovoc/c_28921,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+statistical uncertainty,http://aims.fao.org/aos/agrovoc/c_28975,uncertainty,http://aims.fao.org/aos/agrovoc/c_d8c74b28
+path analysis,http://aims.fao.org/aos/agrovoc/c_34071,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+correspondence analysis,http://aims.fao.org/aos/agrovoc/c_37345,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+probit analysis,http://aims.fao.org/aos/agrovoc/c_1c49b800,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+data envelopment analysis,http://aims.fao.org/aos/agrovoc/c_375ed966,data,http://aims.fao.org/aos/agrovoc/c_49816
+data envelopment analysis,http://aims.fao.org/aos/agrovoc/c_375ed966,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+bibliometric analysis,http://aims.fao.org/aos/agrovoc/c_62e403a1,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+isolation techniques,http://aims.fao.org/aos/agrovoc/c_3965,isolation,http://aims.fao.org/aos/agrovoc/c_37744
+mass rearing,http://aims.fao.org/aos/agrovoc/c_16137,mass,http://aims.fao.org/aos/agrovoc/c_4639
+tissue culture,http://aims.fao.org/aos/agrovoc/c_7789,tissue,http://aims.fao.org/aos/agrovoc/c_49880
+callus culture,http://aims.fao.org/aos/agrovoc/c_9550,callus,http://aims.fao.org/aos/agrovoc/c_24576
+pollen culture,http://aims.fao.org/aos/agrovoc/c_27052,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+ovary culture (animals),http://aims.fao.org/aos/agrovoc/c_26853,animals,http://aims.fao.org/aos/agrovoc/c_444
+agglutination tests,http://aims.fao.org/aos/agrovoc/c_188,tests,http://aims.fao.org/aos/agrovoc/c_330976
+haemagglutination inhibition tests,http://aims.fao.org/aos/agrovoc/c_29656,inhibition,http://aims.fao.org/aos/agrovoc/c_28427
+milk ring test,http://aims.fao.org/aos/agrovoc/c_16780,milk,http://aims.fao.org/aos/agrovoc/c_4826
+latex agglutination test,http://aims.fao.org/aos/agrovoc/c_29654,latex,http://aims.fao.org/aos/agrovoc/c_4214
+complement fixation tests,http://aims.fao.org/aos/agrovoc/c_1792,tests,http://aims.fao.org/aos/agrovoc/c_330976
+immunoprecipitation tests,http://aims.fao.org/aos/agrovoc/c_3809,tests,http://aims.fao.org/aos/agrovoc/c_330976
+neutralization tests,http://aims.fao.org/aos/agrovoc/c_5152,neutralization,http://aims.fao.org/aos/agrovoc/c_5151
+neutralization tests,http://aims.fao.org/aos/agrovoc/c_5152,tests,http://aims.fao.org/aos/agrovoc/c_330976
+chemiluminescence immunoassays,http://aims.fao.org/aos/agrovoc/c_29658,chemiluminescence,http://aims.fao.org/aos/agrovoc/c_3b5ab880
+marketing techniques,http://aims.fao.org/aos/agrovoc/c_4625,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+health claims,http://aims.fao.org/aos/agrovoc/c_8baa857f,health,http://aims.fao.org/aos/agrovoc/c_3511
+sales promotion,http://aims.fao.org/aos/agrovoc/c_6744,sales,http://aims.fao.org/aos/agrovoc/c_25816
+isotope labelling,http://aims.fao.org/aos/agrovoc/c_3971,labelling,http://aims.fao.org/aos/agrovoc/c_330899
+management techniques,http://aims.fao.org/aos/agrovoc/c_28011,management,http://aims.fao.org/aos/agrovoc/c_16086
+operations research,http://aims.fao.org/aos/agrovoc/c_5364,research,http://aims.fao.org/aos/agrovoc/c_6513
+critical path analysis,http://aims.fao.org/aos/agrovoc/c_1960,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+aquaculture techniques,http://aims.fao.org/aos/agrovoc/c_28992,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+monoculture (aquaculture),http://aims.fao.org/aos/agrovoc/c_13693db2,monoculture,http://aims.fao.org/aos/agrovoc/c_4915
+wastewater aquaculture,http://aims.fao.org/aos/agrovoc/c_2c90eac9,wastewater,http://aims.fao.org/aos/agrovoc/c_8308
+evaluation techniques,http://aims.fao.org/aos/agrovoc/c_29775,evaluation,http://aims.fao.org/aos/agrovoc/c_2736
+genetic engineering,http://aims.fao.org/aos/agrovoc/c_15974,engineering,http://aims.fao.org/aos/agrovoc/c_2571
+molecular hybridization,http://aims.fao.org/aos/agrovoc/c_27578,hybridization,http://aims.fao.org/aos/agrovoc/c_3706
+DNA hybridization,http://aims.fao.org/aos/agrovoc/c_33478,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+somatic hybridization,http://aims.fao.org/aos/agrovoc/c_27608,hybridization,http://aims.fao.org/aos/agrovoc/c_3706
+induced polyploidy,http://aims.fao.org/aos/agrovoc/c_3843,polyploidy,http://aims.fao.org/aos/agrovoc/c_6094
+genetic improvement,http://aims.fao.org/aos/agrovoc/c_11119,improvement,http://aims.fao.org/aos/agrovoc/c_330895
+DNA fingerprinting,http://aims.fao.org/aos/agrovoc/c_34258,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+diallel analysis,http://aims.fao.org/aos/agrovoc/c_37366,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+amplified fragment length polymorphism,http://aims.fao.org/aos/agrovoc/c_331160,length,http://aims.fao.org/aos/agrovoc/c_4260
+amplified fragment length polymorphism,http://aims.fao.org/aos/agrovoc/c_331160,polymorphism,http://aims.fao.org/aos/agrovoc/c_6088
+DNA barcoding,http://aims.fao.org/aos/agrovoc/c_dd176cb0,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+quantitative trait loci mapping,http://aims.fao.org/aos/agrovoc/c_750f6f44,loci,http://aims.fao.org/aos/agrovoc/c_24869
+monitoring techniques,http://aims.fao.org/aos/agrovoc/c_331026,monitoring,http://aims.fao.org/aos/agrovoc/c_4911
+quality control,http://aims.fao.org/aos/agrovoc/c_6401,quality,http://aims.fao.org/aos/agrovoc/c_6400
+labelling controls,http://aims.fao.org/aos/agrovoc/c_28709,labelling,http://aims.fao.org/aos/agrovoc/c_330899
+water quality control,http://aims.fao.org/aos/agrovoc/c_f98e4885,water,http://aims.fao.org/aos/agrovoc/c_8309
+reproduction control,http://aims.fao.org/aos/agrovoc/c_27596,reproduction,http://aims.fao.org/aos/agrovoc/c_6507
+family planning,http://aims.fao.org/aos/agrovoc/c_2789,planning,http://aims.fao.org/aos/agrovoc/c_5951
+oestrus synchronization,http://aims.fao.org/aos/agrovoc/c_16143,synchronization,http://aims.fao.org/aos/agrovoc/c_7569
+induced parturition,http://aims.fao.org/aos/agrovoc/c_24858,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+induced ovulation,http://aims.fao.org/aos/agrovoc/c_27934,ovulation,http://aims.fao.org/aos/agrovoc/c_5463
+oxygen isotope dating,http://aims.fao.org/aos/agrovoc/c_03fd0555,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+thorium 230-thorium 232 dating,http://aims.fao.org/aos/agrovoc/c_6d9e6aad,thorium,http://aims.fao.org/aos/agrovoc/c_89fcf047
+contour cultivation,http://aims.fao.org/aos/agrovoc/c_1837,cultivation,http://aims.fao.org/aos/agrovoc/c_2018
+protected cultivation,http://aims.fao.org/aos/agrovoc/c_6243,cultivation,http://aims.fao.org/aos/agrovoc/c_2018
+crop overwintering,http://aims.fao.org/aos/agrovoc/c_29040,overwintering,http://aims.fao.org/aos/agrovoc/c_5460
+greenhouse production,http://aims.fao.org/aos/agrovoc/c_5c82ccbb,production,http://aims.fao.org/aos/agrovoc/c_6200
+draught animal cultivation,http://aims.fao.org/aos/agrovoc/c_25704,cultivation,http://aims.fao.org/aos/agrovoc/c_2018
+integrated plant production,http://aims.fao.org/aos/agrovoc/c_29103,production,http://aims.fao.org/aos/agrovoc/c_6200
+provenance trials,http://aims.fao.org/aos/agrovoc/c_36850,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+feeding experiments,http://aims.fao.org/aos/agrovoc/c_9759d5bb,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+livestock censuses,http://aims.fao.org/aos/agrovoc/c_28904,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+population censuses,http://aims.fao.org/aos/agrovoc/c_28745,population,http://aims.fao.org/aos/agrovoc/c_330887
+soil surveys,http://aims.fao.org/aos/agrovoc/c_16551,soil,http://aims.fao.org/aos/agrovoc/c_7156
+nutrition surveys,http://aims.fao.org/aos/agrovoc/c_25041,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+plankton surveys,http://aims.fao.org/aos/agrovoc/c_231f4aef,plankton,http://aims.fao.org/aos/agrovoc/c_5950
+ichthyoplankton surveys,http://aims.fao.org/aos/agrovoc/c_9c035c9d,ichthyoplankton,http://aims.fao.org/aos/agrovoc/c_d0813edc
+gravity surveys,http://aims.fao.org/aos/agrovoc/c_0a6a5b59,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+household consumption and expenditure surveys,http://aims.fao.org/aos/agrovoc/c_876355be,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+household consumption and expenditure surveys,http://aims.fao.org/aos/agrovoc/c_876355be,expenditure,http://aims.fao.org/aos/agrovoc/c_2757
+health surveys,http://aims.fao.org/aos/agrovoc/c_e470dc64,health,http://aims.fao.org/aos/agrovoc/c_3511
+radar imagery,http://aims.fao.org/aos/agrovoc/c_31271691,radar,http://aims.fao.org/aos/agrovoc/c_24071
+sonar imagery,http://aims.fao.org/aos/agrovoc/c_4aaa1e79,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+acoustic holography,http://aims.fao.org/aos/agrovoc/c_e41117d6,holography,http://aims.fao.org/aos/agrovoc/c_30d61cbf
+acoustic tomography,http://aims.fao.org/aos/agrovoc/c_fa813d62,tomography,http://aims.fao.org/aos/agrovoc/c_16614
+liver function tests,http://aims.fao.org/aos/agrovoc/c_16773,liver,http://aims.fao.org/aos/agrovoc/c_4395
+skin tests,http://aims.fao.org/aos/agrovoc/c_29665,skin,http://aims.fao.org/aos/agrovoc/c_7097
+catalase test,http://aims.fao.org/aos/agrovoc/c_e579f725,catalase,http://aims.fao.org/aos/agrovoc/c_1380
+toxicity tests,http://aims.fao.org/aos/agrovoc/c_24cd700f,toxicity,http://aims.fao.org/aos/agrovoc/c_7826
+seeding (sugar),http://aims.fao.org/aos/agrovoc/c_37314,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+extrusion cooking,http://aims.fao.org/aos/agrovoc/c_16207,extrusion,http://aims.fao.org/aos/agrovoc/c_2769
+meat hygiene,http://aims.fao.org/aos/agrovoc/c_4674,meat,http://aims.fao.org/aos/agrovoc/c_4669

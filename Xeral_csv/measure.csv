@@ -1,0 +1,66 @@
+nome,uriVella,NovoElemento,uriNiovo
+lactation duration,http://aims.fao.org/aos/agrovoc/c_26854,lactation,http://aims.fao.org/aos/agrovoc/c_4140
+fishing time,http://aims.fao.org/aos/agrovoc/c_6464a9b7,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+trip length,http://aims.fao.org/aos/agrovoc/c_a3ef4d11,length,http://aims.fao.org/aos/agrovoc/c_4260
+lean body mass,http://aims.fao.org/aos/agrovoc/c_37725,mass,http://aims.fao.org/aos/agrovoc/c_4639
+weaning weight,http://aims.fao.org/aos/agrovoc/c_16152,weaning,http://aims.fao.org/aos/agrovoc/c_15291
+grain test weight,http://aims.fao.org/aos/agrovoc/c_2f56dbd8,grain,http://aims.fao.org/aos/agrovoc/c_3346
+shear wave velocities,http://aims.fao.org/aos/agrovoc/c_93608715,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+sound velocity,http://aims.fao.org/aos/agrovoc/c_455dd288,sound,http://aims.fao.org/aos/agrovoc/c_7251
+blood pH,http://aims.fao.org/aos/agrovoc/c_33956,blood,http://aims.fao.org/aos/agrovoc/c_959
+soil pH,http://aims.fao.org/aos/agrovoc/c_34901,soil,http://aims.fao.org/aos/agrovoc/c_7156
+rhizosphere pH,http://aims.fao.org/aos/agrovoc/c_36313,rhizosphere,http://aims.fao.org/aos/agrovoc/c_6569
+skin temperature,http://aims.fao.org/aos/agrovoc/c_14324,skin,http://aims.fao.org/aos/agrovoc/c_7097
+air temperature,http://aims.fao.org/aos/agrovoc/c_230,air,http://aims.fao.org/aos/agrovoc/c_224
+soil temperature,http://aims.fao.org/aos/agrovoc/c_7197,soil,http://aims.fao.org/aos/agrovoc/c_7156
+water temperature,http://aims.fao.org/aos/agrovoc/c_16063,water,http://aims.fao.org/aos/agrovoc/c_8309
+boiling point,http://aims.fao.org/aos/agrovoc/c_989,boiling,http://aims.fao.org/aos/agrovoc/c_988
+freezing point,http://aims.fao.org/aos/agrovoc/c_3092,freezing,http://aims.fao.org/aos/agrovoc/c_3091
+melting point,http://aims.fao.org/aos/agrovoc/c_4732,melting,http://aims.fao.org/aos/agrovoc/c_4731
+dew point,http://aims.fao.org/aos/agrovoc/c_f3609849,dew,http://aims.fao.org/aos/agrovoc/c_2231
+wilting point,http://aims.fao.org/aos/agrovoc/c_32626,wilting,http://aims.fao.org/aos/agrovoc/c_8390
+xylem water potential,http://aims.fao.org/aos/agrovoc/c_37235,xylem,http://aims.fao.org/aos/agrovoc/c_8471
+domestic production,http://aims.fao.org/aos/agrovoc/c_28668,production,http://aims.fao.org/aos/agrovoc/c_6200
+economic growth rate,http://aims.fao.org/aos/agrovoc/c_29767,growth,http://aims.fao.org/aos/agrovoc/c_3394
+development indicators,http://aims.fao.org/aos/agrovoc/c_29170,development,http://aims.fao.org/aos/agrovoc/c_331049
+pollution indicators,http://aims.fao.org/aos/agrovoc/c_94b39c48,pollution,http://aims.fao.org/aos/agrovoc/c_6077
+biochemical oxygen demand,http://aims.fao.org/aos/agrovoc/c_7f1a72ca,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+biochemical oxygen demand,http://aims.fao.org/aos/agrovoc/c_7f1a72ca,demand,http://aims.fao.org/aos/agrovoc/c_2171
+chemical oxygen demand,http://aims.fao.org/aos/agrovoc/c_15de0183,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+chemical oxygen demand,http://aims.fao.org/aos/agrovoc/c_15de0183,demand,http://aims.fao.org/aos/agrovoc/c_2171
+total oxygen demand,http://aims.fao.org/aos/agrovoc/c_ab3521d2,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+total oxygen demand,http://aims.fao.org/aos/agrovoc/c_ab3521d2,demand,http://aims.fao.org/aos/agrovoc/c_2171
+sowing depth,http://aims.fao.org/aos/agrovoc/c_7269,sowing,http://aims.fao.org/aos/agrovoc/c_7268
+planting depth,http://aims.fao.org/aos/agrovoc/c_37311,planting,http://aims.fao.org/aos/agrovoc/c_5992
+ploughing depth,http://aims.fao.org/aos/agrovoc/c_d349db98,ploughing,http://aims.fao.org/aos/agrovoc/c_6021
+water depth,http://aims.fao.org/aos/agrovoc/c_46a166a5,water,http://aims.fao.org/aos/agrovoc/c_8309
+mixing length,http://aims.fao.org/aos/agrovoc/c_55339c5c,mixing,http://aims.fao.org/aos/agrovoc/c_4877
+ice thickness,http://aims.fao.org/aos/agrovoc/c_03e47d4d,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice volume,http://aims.fao.org/aos/agrovoc/c_246511f1,ice,http://aims.fao.org/aos/agrovoc/c_3782
+breast height diameter,http://aims.fao.org/aos/agrovoc/c_34790,height,http://aims.fao.org/aos/agrovoc/c_3536
+land area,http://aims.fao.org/aos/agrovoc/c_298db0d3,land,http://aims.fao.org/aos/agrovoc/c_4172
+skin fold thickness,http://aims.fao.org/aos/agrovoc/c_14325,skin,http://aims.fao.org/aos/agrovoc/c_7097
+skin fold thickness,http://aims.fao.org/aos/agrovoc/c_14325,thickness,http://aims.fao.org/aos/agrovoc/c_7726
+body size,http://aims.fao.org/aos/agrovoc/c_35330,size,http://aims.fao.org/aos/agrovoc/c_7093
+body surface area,http://aims.fao.org/aos/agrovoc/c_35331,area,http://aims.fao.org/aos/agrovoc/c_330588
+backfat thickness,http://aims.fao.org/aos/agrovoc/c_92333,backfat,http://aims.fao.org/aos/agrovoc/c_23992
+backfat thickness,http://aims.fao.org/aos/agrovoc/c_92333,thickness,http://aims.fao.org/aos/agrovoc/c_7726
+body mass index,http://aims.fao.org/aos/agrovoc/c_40f4c2ee,mass,http://aims.fao.org/aos/agrovoc/c_4639
+anthropometric dimensions,http://aims.fao.org/aos/agrovoc/c_d632d767,dimensions,http://aims.fao.org/aos/agrovoc/c_2283
+body length,http://aims.fao.org/aos/agrovoc/c_7202c2a9,length,http://aims.fao.org/aos/agrovoc/c_4260
+fish length,http://aims.fao.org/aos/agrovoc/c_af41798c,fish,http://aims.fao.org/aos/agrovoc/c_15903
+head dimensions,http://aims.fao.org/aos/agrovoc/c_4d1b7586,head,http://aims.fao.org/aos/agrovoc/c_3509
+head dimensions,http://aims.fao.org/aos/agrovoc/c_4d1b7586,dimensions,http://aims.fao.org/aos/agrovoc/c_2283
+fish depth,http://aims.fao.org/aos/agrovoc/c_bc1aa809,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish depth,http://aims.fao.org/aos/agrovoc/c_bc1aa809,depth,http://aims.fao.org/aos/agrovoc/c_2190
+fish width,http://aims.fao.org/aos/agrovoc/c_6e48e30d,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish width,http://aims.fao.org/aos/agrovoc/c_6e48e30d,width,http://aims.fao.org/aos/agrovoc/c_8387
+blood pressure,http://aims.fao.org/aos/agrovoc/c_967,blood,http://aims.fao.org/aos/agrovoc/c_959
+equilibrium moisture content,http://aims.fao.org/aos/agrovoc/c_7abd817b,equilibrium,http://aims.fao.org/aos/agrovoc/c_5364a9a1
+relative water content,http://aims.fao.org/aos/agrovoc/c_e65dd470,water,http://aims.fao.org/aos/agrovoc/c_8309
+bioconcentration factor,http://aims.fao.org/aos/agrovoc/c_d5f46881,bioconcentration,http://aims.fao.org/aos/agrovoc/c_7e418851
+absorption coefficient,http://aims.fao.org/aos/agrovoc/c_99753cef,absorption,http://aims.fao.org/aos/agrovoc/c_27
+mixing ratio,http://aims.fao.org/aos/agrovoc/c_be595aea,mixing,http://aims.fao.org/aos/agrovoc/c_4877
+ice cover,http://aims.fao.org/aos/agrovoc/c_da319c88,ice,http://aims.fao.org/aos/agrovoc/c_3782
+vertebrae counts,http://aims.fao.org/aos/agrovoc/c_d6eb9c59,vertebrae,http://aims.fao.org/aos/agrovoc/c_15155
+canopy temperature depression,http://aims.fao.org/aos/agrovoc/c_00369776,canopy,http://aims.fao.org/aos/agrovoc/c_1262

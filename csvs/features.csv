@@ -1,0 +1,114 @@
+nome,uriVella,NovoElemento,uriNiovo
+genetic maps,http://aims.fao.org/aos/agrovoc/c_24002,maps,http://aims.fao.org/aos/agrovoc/c_b43d8acf
+Greenland Sea,http://aims.fao.org/aos/agrovoc/c_3382,Greenland,http://aims.fao.org/aos/agrovoc/c_3380
+Caribbean Sea,http://aims.fao.org/aos/agrovoc/c_1321,Caribbean,http://aims.fao.org/aos/agrovoc/c_1320
+Gulf of Mexico,http://aims.fao.org/aos/agrovoc/c_3436,Mexico,http://aims.fao.org/aos/agrovoc/c_4792
+Gulf of Guinea,http://aims.fao.org/aos/agrovoc/c_50098,Guinea,http://aims.fao.org/aos/agrovoc/c_3423
+Timor Sea,http://aims.fao.org/aos/agrovoc/c_7781,Timor,http://aims.fao.org/aos/agrovoc/c_7780
+Gulf of Oman,http://aims.fao.org/aos/agrovoc/c_50102,Oman,http://aims.fao.org/aos/agrovoc/c_5345
+South China Sea,http://aims.fao.org/aos/agrovoc/c_7258,China,http://aims.fao.org/aos/agrovoc/c_1556
+Gulf of Thailand,http://aims.fao.org/aos/agrovoc/c_50110,Thailand,http://aims.fao.org/aos/agrovoc/c_7701
+Gulf of Alaska,http://aims.fao.org/aos/agrovoc/c_3433,Alaska,http://aims.fao.org/aos/agrovoc/c_240
+East China Sea,http://aims.fao.org/aos/agrovoc/c_2443,China,http://aims.fao.org/aos/agrovoc/c_1556
+Sea of Japan,http://aims.fao.org/aos/agrovoc/c_6897,Japan,http://aims.fao.org/aos/agrovoc/c_4039
+Gulf of California,http://aims.fao.org/aos/agrovoc/c_50096,California,http://aims.fao.org/aos/agrovoc/c_1206
+Gulf of Finland,http://aims.fao.org/aos/agrovoc/c_3435,Finland,http://aims.fao.org/aos/agrovoc/c_2905
+sloping land,http://aims.fao.org/aos/agrovoc/c_7109,land,http://aims.fao.org/aos/agrovoc/c_4172
+land cover,http://aims.fao.org/aos/agrovoc/c_37897,land,http://aims.fao.org/aos/agrovoc/c_4172
+selection forests,http://aims.fao.org/aos/agrovoc/c_34101,selection,http://aims.fao.org/aos/agrovoc/c_6951
+tropical rainforests,http://aims.fao.org/aos/agrovoc/c_7976,rainforests,http://aims.fao.org/aos/agrovoc/c_35654
+temperate rainforests,http://aims.fao.org/aos/agrovoc/c_35650,rainforests,http://aims.fao.org/aos/agrovoc/c_35654
+forest types (by species composition),http://aims.fao.org/aos/agrovoc/c_1374072455249,species,http://aims.fao.org/aos/agrovoc/c_7280
+forest types (by species composition),http://aims.fao.org/aos/agrovoc/c_1374072455249,composition,http://aims.fao.org/aos/agrovoc/c_331025
+broadleaved forests,http://aims.fao.org/aos/agrovoc/c_1100,forests,http://aims.fao.org/aos/agrovoc/c_3062
+deciduous summer forests,http://aims.fao.org/aos/agrovoc/c_2146,summer,http://aims.fao.org/aos/agrovoc/c_7519
+coniferous forests,http://aims.fao.org/aos/agrovoc/c_1813,forests,http://aims.fao.org/aos/agrovoc/c_3062
+mixed forests,http://aims.fao.org/aos/agrovoc/c_4874,forests,http://aims.fao.org/aos/agrovoc/c_3062
+microphyllous forests,http://aims.fao.org/aos/agrovoc/c_4808,forests,http://aims.fao.org/aos/agrovoc/c_3062
+snow cover,http://aims.fao.org/aos/agrovoc/c_7125,snow,http://aims.fao.org/aos/agrovoc/c_7124
+surface water,http://aims.fao.org/aos/agrovoc/c_25317,water,http://aims.fao.org/aos/agrovoc/c_8309
+Lake Ontario,http://aims.fao.org/aos/agrovoc/c_29718,Ontario,http://aims.fao.org/aos/agrovoc/c_5358
+Lake Michigan,http://aims.fao.org/aos/agrovoc/c_29713,Michigan,http://aims.fao.org/aos/agrovoc/c_4796
+Lake Chad,http://aims.fao.org/aos/agrovoc/c_29702,Chad,http://aims.fao.org/aos/agrovoc/c_1487
+Lake Victoria,http://aims.fao.org/aos/agrovoc/c_29726,Victoria,http://aims.fao.org/aos/agrovoc/c_8224
+artificial lakes,http://aims.fao.org/aos/agrovoc/c_8961,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+glacial lakes,http://aims.fao.org/aos/agrovoc/c_45c081d4,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+freshwater lakes,http://aims.fao.org/aos/agrovoc/c_0441c8d5,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+freshwater lakes,http://aims.fao.org/aos/agrovoc/c_0441c8d5,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+hypertrophic lakes,http://aims.fao.org/aos/agrovoc/c_9aa796a7,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+dystrophic lakes,http://aims.fao.org/aos/agrovoc/c_38c8f242,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+eutrophic lakes,http://aims.fao.org/aos/agrovoc/c_4658eed3,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+oligotrophic lakes,http://aims.fao.org/aos/agrovoc/c_8d3b72a3,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+strip mine lakes,http://aims.fao.org/aos/agrovoc/c_311b07d9,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+tropical lakes,http://aims.fao.org/aos/agrovoc/c_33a1d1e2,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+salt lakes,http://aims.fao.org/aos/agrovoc/c_7dcf2403,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+oxbow lakes,http://aims.fao.org/aos/agrovoc/c_d1099394,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+meromictic lakes,http://aims.fao.org/aos/agrovoc/c_adccc697,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+relict lakes,http://aims.fao.org/aos/agrovoc/c_b19846aa,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+Jordan River,http://aims.fao.org/aos/agrovoc/c_29733,Jordan,http://aims.fao.org/aos/agrovoc/c_4053
+Congo River,http://aims.fao.org/aos/agrovoc/c_29751,Congo,http://aims.fao.org/aos/agrovoc/c_1811
+Gambia River,http://aims.fao.org/aos/agrovoc/c_33497,Gambia,http://aims.fao.org/aos/agrovoc/c_3177
+Senegal River,http://aims.fao.org/aos/agrovoc/c_29746,Senegal,http://aims.fao.org/aos/agrovoc/c_6970
+Niger River,http://aims.fao.org/aos/agrovoc/c_29740,Niger,http://aims.fao.org/aos/agrovoc/c_5181
+Yukon River,http://aims.fao.org/aos/agrovoc/c_29749,Yukon,http://aims.fao.org/aos/agrovoc/c_8495
+Colorado River,http://aims.fao.org/aos/agrovoc/c_50063,Colorado,http://aims.fao.org/aos/agrovoc/c_1770
+Missouri River,http://aims.fao.org/aos/agrovoc/c_92372,Missouri,http://aims.fao.org/aos/agrovoc/c_4864
+Blackwater River (Florida),http://aims.fao.org/aos/agrovoc/c_50042,Florida,http://aims.fao.org/aos/agrovoc/c_2985
+Mississippi River,http://aims.fao.org/aos/agrovoc/c_92373,Mississippi,http://aims.fao.org/aos/agrovoc/c_4863
+Connecticut River,http://aims.fao.org/aos/agrovoc/c_50066,Connecticut,http://aims.fao.org/aos/agrovoc/c_1815
+Parana River,http://aims.fao.org/aos/agrovoc/c_29742,Parana,http://aims.fao.org/aos/agrovoc/c_5568
+Uruguay River,http://aims.fao.org/aos/agrovoc/c_29748,Uruguay,http://aims.fao.org/aos/agrovoc/c_8113
+Madeira River,http://aims.fao.org/aos/agrovoc/c_49970,Madeira,http://aims.fao.org/aos/agrovoc/c_4511
+Apure River,http://aims.fao.org/aos/agrovoc/c_50028,Apure,http://aims.fao.org/aos/agrovoc/c_549
+Cojedes River,http://aims.fao.org/aos/agrovoc/c_50062,Cojedes,http://aims.fao.org/aos/agrovoc/c_1737
+fish ponds,http://aims.fao.org/aos/agrovoc/c_2929,fish,http://aims.fao.org/aos/agrovoc/c_15903
+breeding ponds,http://aims.fao.org/aos/agrovoc/c_c9c1fd3c,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+cooling ponds,http://aims.fao.org/aos/agrovoc/c_96df5c3c,cooling,http://aims.fao.org/aos/agrovoc/c_1854
+temporary ponds,http://aims.fao.org/aos/agrovoc/c_3b32d86c,ponds,http://aims.fao.org/aos/agrovoc/c_6105
+ephemeral lakes,http://aims.fao.org/aos/agrovoc/c_65b481b9,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+intermittent rivers,http://aims.fao.org/aos/agrovoc/c_fd6baf87,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+intermittent lakes,http://aims.fao.org/aos/agrovoc/c_1b001e11,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+blackwater rivers,http://aims.fao.org/aos/agrovoc/c_4f5b9967,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+clearwater rivers,http://aims.fao.org/aos/agrovoc/c_18f09e45,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+whitewater rivers,http://aims.fao.org/aos/agrovoc/c_74cd8294,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+artificial reefs,http://aims.fao.org/aos/agrovoc/c_25395,reefs,http://aims.fao.org/aos/agrovoc/c_92343
+flooded land,http://aims.fao.org/aos/agrovoc/c_2978,land,http://aims.fao.org/aos/agrovoc/c_4172
+mud volcanoes,http://aims.fao.org/aos/agrovoc/c_bf59cb84,mud,http://aims.fao.org/aos/agrovoc/c_4973
+chenier plains,http://aims.fao.org/aos/agrovoc/c_2732d68a,plains,http://aims.fao.org/aos/agrovoc/c_5948
+ice caps,http://aims.fao.org/aos/agrovoc/c_d4909d00,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice fields,http://aims.fao.org/aos/agrovoc/c_ea9e79e5,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice fields,http://aims.fao.org/aos/agrovoc/c_ea9e79e5,fields,http://aims.fao.org/aos/agrovoc/c_2894
+ice sheets,http://aims.fao.org/aos/agrovoc/c_095544cb,ice,http://aims.fao.org/aos/agrovoc/c_3782
+surf zone,http://aims.fao.org/aos/agrovoc/c_1b728d2b,surf,http://aims.fao.org/aos/agrovoc/c_8b5a09b6
+oceanic trenches,http://aims.fao.org/aos/agrovoc/c_0d05857c,trenches,http://aims.fao.org/aos/agrovoc/c_25218e56
+continental slope,http://aims.fao.org/aos/agrovoc/c_b86c0687,slope,http://aims.fao.org/aos/agrovoc/c_fa256eab
+abyssal plains,http://aims.fao.org/aos/agrovoc/c_642b50d1,plains,http://aims.fao.org/aos/agrovoc/c_5948
+submarine banks,http://aims.fao.org/aos/agrovoc/c_e4ee02c9,banks,http://aims.fao.org/aos/agrovoc/c_812
+seamount chains,http://aims.fao.org/aos/agrovoc/c_5e9c0be3,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+island slope,http://aims.fao.org/aos/agrovoc/c_6560b414,slope,http://aims.fao.org/aos/agrovoc/c_fa256eab
+submarine valleys,http://aims.fao.org/aos/agrovoc/c_ec2e2203,valleys,http://aims.fao.org/aos/agrovoc/c_8149
+submarine troughs,http://aims.fao.org/aos/agrovoc/c_0d613693,troughs,http://aims.fao.org/aos/agrovoc/c_7982
+submarine plateaus,http://aims.fao.org/aos/agrovoc/c_ac893a9d,plateaus,http://aims.fao.org/aos/agrovoc/c_6002
+deep-sea channels,http://aims.fao.org/aos/agrovoc/c_e863ced5,channels,http://aims.fao.org/aos/agrovoc/c_01a53647
+ice fronts,http://aims.fao.org/aos/agrovoc/c_06588a87,ice,http://aims.fao.org/aos/agrovoc/c_3782
+sedimentary structures,http://aims.fao.org/aos/agrovoc/c_919e6853,structures,http://aims.fao.org/aos/agrovoc/c_330905
+sand waves,http://aims.fao.org/aos/agrovoc/c_f1e25b98,sand,http://aims.fao.org/aos/agrovoc/c_6779
+sediment drifts,http://aims.fao.org/aos/agrovoc/c_0a02e602,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+sand bars,http://aims.fao.org/aos/agrovoc/c_925ae357,sand,http://aims.fao.org/aos/agrovoc/c_6779
+sand ripples,http://aims.fao.org/aos/agrovoc/c_e8ee4105,sand,http://aims.fao.org/aos/agrovoc/c_6779
+mud banks,http://aims.fao.org/aos/agrovoc/c_c067af03,mud,http://aims.fao.org/aos/agrovoc/c_4973
+mud banks,http://aims.fao.org/aos/agrovoc/c_c067af03,banks,http://aims.fao.org/aos/agrovoc/c_812
+sand ribbons,http://aims.fao.org/aos/agrovoc/c_7d99e801,sand,http://aims.fao.org/aos/agrovoc/c_6779
+gravel waves,http://aims.fao.org/aos/agrovoc/c_9bf9bd38,gravel,http://aims.fao.org/aos/agrovoc/c_24850
+sand patches,http://aims.fao.org/aos/agrovoc/c_db18236d,sand,http://aims.fao.org/aos/agrovoc/c_6779
+trace fossils,http://aims.fao.org/aos/agrovoc/c_dd34eea6,fossils,http://aims.fao.org/aos/agrovoc/c_10989
+fossilized tracks,http://aims.fao.org/aos/agrovoc/c_a6881706,tracks,http://aims.fao.org/aos/agrovoc/c_7845
+turbidity current structures,http://aims.fao.org/aos/agrovoc/c_9ff38460,turbidity,http://aims.fao.org/aos/agrovoc/c_15043
+ash layers,http://aims.fao.org/aos/agrovoc/c_96e1cab0,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
+ice jams,http://aims.fao.org/aos/agrovoc/c_467029a9,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice jams,http://aims.fao.org/aos/agrovoc/c_467029a9,jams,http://aims.fao.org/aos/agrovoc/c_4037
+geological structures,http://aims.fao.org/aos/agrovoc/c_8fd09985,structures,http://aims.fao.org/aos/agrovoc/c_330905
+stratigraphic traps,http://aims.fao.org/aos/agrovoc/c_9d4ca315,traps,http://aims.fao.org/aos/agrovoc/c_7879
+ice canopy,http://aims.fao.org/aos/agrovoc/c_9f4c3f31,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice canopy,http://aims.fao.org/aos/agrovoc/c_9f4c3f31,canopy,http://aims.fao.org/aos/agrovoc/c_1262
+river mouth,http://aims.fao.org/aos/agrovoc/c_8f998050,mouth,http://aims.fao.org/aos/agrovoc/c_4960

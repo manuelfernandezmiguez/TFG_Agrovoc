@@ -175,6 +175,36 @@ def busquedaPaiExhaustiva(parametro):
         
     return pais
 
+def busquedaOrfos(): 
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query='''
+        PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+        PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#> 
+        SELECT ?uri ?prefLabel
+        WHERE { 
+            ?uri a skos:Concept .
+            FILTER NOT EXISTS {?uri skos:broader ?parent}
+            OPTIONAL {?uri skosxl:prefLabel/skosxl:literalForm ?prefLabel}
+            FILTER(lang(?prefLabel) = 'en') 
+        }
+    '''
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    fillos: list[str]= []
+    lista: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        value = result['prefLabel']['value']
+        uri = result['uri']['value']
+        lista=[]
+        lista.append(value)
+        lista.append(uri)
+        fillos.append(lista)
+            
+        #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
+    #pprint(fillos)
+    return fillos
 #nome,uri =busquedaPai("http://aims.fao.org/aos/agrovoc/c_1540")
 #print(nome)
 #print(uri)
@@ -185,3 +215,4 @@ def busquedaPaiExhaustiva(parametro):
 
 #lista = busquedaExhaustiva("http://aims.fao.org/aos/agrovoc/c_6145")
 #print(lista)
+#fillos=busquedaOrfos()

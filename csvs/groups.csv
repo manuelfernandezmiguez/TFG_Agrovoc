@@ -1,0 +1,52 @@
+nome,uriVella,NovoElemento,uriNiovo
+species (taxa),http://aims.fao.org/aos/agrovoc/c_331243,species,http://aims.fao.org/aos/agrovoc/c_7280
+new genus,http://aims.fao.org/aos/agrovoc/c_12c6efcf,genus,http://aims.fao.org/aos/agrovoc/c_11125
+new subfamily,http://aims.fao.org/aos/agrovoc/c_646a5fbc,subfamily,http://aims.fao.org/aos/agrovoc/c_331071
+new subspecies,http://aims.fao.org/aos/agrovoc/c_bb09cbf6,subspecies,http://aims.fao.org/aos/agrovoc/c_16047
+land commissions,http://aims.fao.org/aos/agrovoc/c_44cbbf6b,land,http://aims.fao.org/aos/agrovoc/c_4172
+fishing communities,http://aims.fao.org/aos/agrovoc/c_331405,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+trade unions,http://aims.fao.org/aos/agrovoc/c_7856,trade,http://aims.fao.org/aos/agrovoc/c_7848
+common markets,http://aims.fao.org/aos/agrovoc/c_1784,markets,http://aims.fao.org/aos/agrovoc/c_4626
+land leases,http://aims.fao.org/aos/agrovoc/c_331068,land,http://aims.fao.org/aos/agrovoc/c_4172
+tenant farmers,http://aims.fao.org/aos/agrovoc/c_f73955fb,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+land tenants,http://aims.fao.org/aos/agrovoc/c_c48aca78,land,http://aims.fao.org/aos/agrovoc/c_4172
+dams (mothers),http://aims.fao.org/aos/agrovoc/c_10277,dams,http://aims.fao.org/aos/agrovoc/c_2121
+livestock wild relatives,http://aims.fao.org/aos/agrovoc/c_4dc8fd29,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+seed stands,http://aims.fao.org/aos/agrovoc/c_24081,seed,http://aims.fao.org/aos/agrovoc/c_6927
+crown classes,http://aims.fao.org/aos/agrovoc/c_28174,crown,http://aims.fao.org/aos/agrovoc/c_16172
+dominated trees,http://aims.fao.org/aos/agrovoc/c_28176,trees,http://aims.fao.org/aos/agrovoc/c_7887
+filler trees,http://aims.fao.org/aos/agrovoc/c_28177,trees,http://aims.fao.org/aos/agrovoc/c_7887
+plus trees,http://aims.fao.org/aos/agrovoc/c_24884,trees,http://aims.fao.org/aos/agrovoc/c_7887
+height classes (in forestry),http://aims.fao.org/aos/agrovoc/c_11492,height,http://aims.fao.org/aos/agrovoc/c_3536
+height classes (in forestry),http://aims.fao.org/aos/agrovoc/c_11492,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+breeding lines,http://aims.fao.org/aos/agrovoc/c_29226,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+introgression lines,http://aims.fao.org/aos/agrovoc/c_86ec9f93,introgression,http://aims.fao.org/aos/agrovoc/c_24863
+agricultural workers,http://aims.fao.org/aos/agrovoc/c_8684,workers,http://aims.fao.org/aos/agrovoc/c_8445
+women farmers,http://aims.fao.org/aos/agrovoc/c_9001030,women,http://aims.fao.org/aos/agrovoc/c_8420
+urban farmers,http://aims.fao.org/aos/agrovoc/c_9001024,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+beef herds,http://aims.fao.org/aos/agrovoc/c_9202,beef,http://aims.fao.org/aos/agrovoc/c_861
+epidemiological units,http://aims.fao.org/aos/agrovoc/c_d9a70fad,units,http://aims.fao.org/aos/agrovoc/c_50324
+land stakeholders,http://aims.fao.org/aos/agrovoc/c_4374c6c9,land,http://aims.fao.org/aos/agrovoc/c_4172
+germplasm banks,http://aims.fao.org/aos/agrovoc/c_35302,germplasm,http://aims.fao.org/aos/agrovoc/c_3249
+germplasm banks,http://aims.fao.org/aos/agrovoc/c_35302,banks,http://aims.fao.org/aos/agrovoc/c_812
+germplasm collections,http://aims.fao.org/aos/agrovoc/c_36739,germplasm,http://aims.fao.org/aos/agrovoc/c_3249
+seed collections,http://aims.fao.org/aos/agrovoc/c_35301,seed,http://aims.fao.org/aos/agrovoc/c_6927
+soil seed banks,http://aims.fao.org/aos/agrovoc/c_35298,soil,http://aims.fao.org/aos/agrovoc/c_7156
+botanical gardens,http://aims.fao.org/aos/agrovoc/c_1020,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+sediment collections,http://aims.fao.org/aos/agrovoc/c_173ba126,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+employers' organizations,http://aims.fao.org/aos/agrovoc/c_50204,organizations,http://aims.fao.org/aos/agrovoc/c_37968
+unemployed workers' organization,http://aims.fao.org/aos/agrovoc/c_50322,workers,http://aims.fao.org/aos/agrovoc/c_8445
+unemployed workers' organization,http://aims.fao.org/aos/agrovoc/c_50322,organization,http://aims.fao.org/aos/agrovoc/c_330894
+pressure groups,http://aims.fao.org/aos/agrovoc/c_13567,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+informal organizations,http://aims.fao.org/aos/agrovoc/c_50238,organizations,http://aims.fao.org/aos/agrovoc/c_37968
+marketing groups,http://aims.fao.org/aos/agrovoc/c_50254,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+water user groups,http://aims.fao.org/aos/agrovoc/c_50329,water,http://aims.fao.org/aos/agrovoc/c_8309
+poultry producer groups,http://aims.fao.org/aos/agrovoc/c_50286,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+trade unions,http://aims.fao.org/aos/agrovoc/c_7856,trade,http://aims.fao.org/aos/agrovoc/c_7848
+land rights activists,http://aims.fao.org/aos/agrovoc/c_e6067b76,land,http://aims.fao.org/aos/agrovoc/c_4172
+freshwater ecologists,http://aims.fao.org/aos/agrovoc/c_bd0b321e,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+soil scientists,http://aims.fao.org/aos/agrovoc/c_7189,soil,http://aims.fao.org/aos/agrovoc/c_7156
+information scientists,http://aims.fao.org/aos/agrovoc/c_856556c2,information,http://aims.fao.org/aos/agrovoc/c_330966
+water users,http://aims.fao.org/aos/agrovoc/c_c275dfd6,water,http://aims.fao.org/aos/agrovoc/c_8309
+schools of fish,http://aims.fao.org/aos/agrovoc/c_80298917,schools,http://aims.fao.org/aos/agrovoc/c_6852
+schools of fish,http://aims.fao.org/aos/agrovoc/c_80298917,fish,http://aims.fao.org/aos/agrovoc/c_15903
