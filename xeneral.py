@@ -52,22 +52,36 @@ def ConceptosPalabras(texto: str):
     print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
         print(f[0])
-        analizar=dividirTexto(f[0])
+        analizar=dividirTexto(f[0].replace("'", ""))
         if(comprobarExistencia(f[0])==False):
             crearNodo(f[0],f[1])
         nome,uri = busquedaNome(f[0])
         paiNome,pai=busquedaPai(uri)
         pais=busquedaPaiExhaustiva(uri)
-        if(comprobarExistenciaRelacion(f[0],paiNome,"Broader")==False):
+        if(comprobarExistenciaRelacion(f[0],paiNome,"Broader")==None):
             crearRelacion(f[0],paiNome,"Broader")
-        if(comprobarExistenciaRelacion(paiNome,f[0],"Narrower")==False):
+        if(comprobarExistenciaRelacion(paiNome,f[0],"Narrower")==None):
             crearRelacion(paiNome,f[0],"Narrower")
         if(len(analizar)>1):
             #nome,uri = busquedaNome(f[0])
+            ij=0
             for a in analizar:
+                ij+=1
+                if(ij<0):#se aumentamos o i artificialmente xa saimos que xa conseguimos a palabra
+                    break
+                if(len(analizar)>2 and ij<(len(analizar))):#se hai polo menos 2 palabras antes da palabra final tentamos probar se hai un concepto de duas palabras contido
+                    a=analizar[ij-1] + ' ' + aplicarPlural(analizar[ij])
+                    if(busquedaNome(a) is not None):
+                        print('entra aqui?')
+                        ij=-2
+                    else:
+                        print('non entra aqui e ten este nome: '+analizar[ij-1])
+                        a=analizar[ij-1]
                 if(busquedaNome(a) is None):
+                    print('entrou: '+a)
                     a=aplicarPlural(a)
                 if(busquedaNome(a) is not None):
+                    print('entrou2: '+a)
                     nomeA,uriNome = busquedaNome(a) 
                     #paiNome,pai=busquedaPai(uri)
                     if(aplicarStemmingIndividual(nomeA) in aplicarStemming(paiNome)):
@@ -88,10 +102,11 @@ def ConceptosPalabras(texto: str):
                     print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA} indice: {i}")
                     if(comprobarExistencia(nomeA)==False):
                         crearNodo(nomeA,uriNome)
-                    if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==False):
+                    if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
                         crearRelacion(nomeA,nome,"Contido_en")
                     auxiliar=[nome,uri,nomeA,uriNome]
-                    listaNomes.append(auxiliar)    
+                    listaNomes.append(auxiliar)  
+                      
     return listaNomes
 
 
@@ -126,13 +141,13 @@ def gardadoXeralConsultaAccesos():
         
         for i in listaFillos:    
             listaParcial=[]
-            #print(i[0])
+            print(i[0]+l[0])
             if(i[0] is not None):
                 if(comprobarExistencia(i[0])==False):
                     crearNodo(i[0],i[1])
-                if(comprobarExistenciaRelacion(i[0],l[0],"Broader")==False):
+                if(comprobarExistenciaRelacion(i[0],l[0],"Broader")==None):    
                     crearRelacion(i[0],l[0],"Broader")
-                if(comprobarExistenciaRelacion(l[0],i[0],"Narrower")==False):
+                if(comprobarExistenciaRelacion(l[0],i[0],"Narrower")==None):
                     crearRelacion(l[0],i[0],"Narrower")
                 listaParcial+=ConceptosPalabras(i[0])
             
@@ -148,7 +163,7 @@ def gardadoXeralConsultaAccesos():
 
 
 #busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
-gardadoXeralConsultaAccesos()
+#gardadoXeralConsultaAccesos()
 #boleo = os.path.exists("csvs/feeding.csv")
 #print(boleo)
 #gardarConsultaAccesos("housing")

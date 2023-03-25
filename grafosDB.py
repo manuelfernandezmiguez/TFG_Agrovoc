@@ -10,11 +10,14 @@ driver = GraphDatabase.driver(uri, auth=(username, password))
 
 
 def crearNodo(nome,uri):
+    nome = nome.replace("'", "")
     query = "CREATE (skos:Concept {label:"+ f"'{nome}'"+", uri: "+f"'{uri}',"+ "graph: 'AGROVOC'})"
     with driver.session() as session:
         session.run(query)
 
 def crearRelacion(nome,nome2,tipoRelacion):
+    nome = nome.replace("'", "")
+    nome2 = nome2.replace("'", "")
     query = f"""
     MATCH
     (a:Concept),
@@ -30,6 +33,7 @@ def crearRelacion(nome,nome2,tipoRelacion):
         
 
 def comprobarExistencia(nome):
+    nome = nome.replace("'", "")
     query = "OPTIONAL MATCH (n:Concept {label: "+f"'{nome}'"+"}) RETURN n.label AS label"
     with driver.session() as session:
         nodes =  session.run(query)
@@ -41,6 +45,8 @@ def comprobarExistencia(nome):
                 return True
             
 def comprobarExistenciaRelacion(nome,nome2,nomeRelación):
+    nome = nome.replace("'", "")
+    nome2 = nome2.replace("'", "")
     query="MATCH  (p:Concept {label:"+f"'{nome}'"+"}), (b:Concept {label:"+f"'{nome2}'"+"}),( (b)-[:"+f"{nomeRelación}"+"]-(p) )  RETURN b.label AS label"
     with driver.session() as session:
         nodes =  session.run(query)
@@ -49,6 +55,7 @@ def comprobarExistenciaRelacion(nome,nome2,nomeRelación):
                 return False
             else:
                 return True
+
 
 #query = "MATCH (n:Concept) WHERE n.label='chiken' RETURN properties(n)"
 # Run the query and print the results

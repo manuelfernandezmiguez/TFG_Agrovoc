@@ -27,7 +27,9 @@ opt = -1
 while(opt!=0):
     print(mensaxe)
     opt=int(input())
-    if(opt==1):
+    if(opt==0):
+        break
+    elif(opt==1):
         op1()
     elif(opt==2):
         op2()
