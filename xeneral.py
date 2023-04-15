@@ -1,5 +1,5 @@
-from sparqlQueries import busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva
-from nltkFuncions import dividirTexto,aplicarStemming,aplicarStemmingIndividual,aplicarPlural
+from sparqlQueries import busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva,busquedaRelacionados,busquedaNomeAlternativo,busquedaTodosPais
+from nltkFuncions import dividirTexto,aplicarStemming,aplicarStemmingIndividual,aplicarPlural,estaEnIngles
 from parseCSV import escribir
 from pprint import pprint
 from anytree import Node, RenderTree
@@ -8,6 +8,14 @@ from grafosDB import crearNodo,crearRelacion,comprobarExistencia,comprobarExiste
 import os
 
 d = {}
+def procesar_relacionados(nome:str,uri:str):
+    relacionados =busquedaRelacionados(uri)
+    for result in relacionados:
+        if(comprobarExistencia(result[0])==False):
+            crearNodo(result[0],result[1])
+        if(comprobarExistenciaRelacion(nome,result[0],"Relacionado")==None):
+            crearRelacion(nome,result[0],"Relacionado")
+        
 
 def explorar(nome: str):
     lista: list[str]= []
@@ -40,8 +48,10 @@ def explorar(nome: str):
         print("%s%s" % (pre, node.name))
     imaxe= "imxs/"+nome+".png"
     DotExporter(A).to_picture(imaxe)
-
-def ConceptosPalabras(texto: str):
+#esta función
+#a variable latin serve para diferenciar as chamadas dende o resto dos TOP concepts de organismos, que debido a ter termos en latin ten que filtralos
+def ConceptosPalabras(texto: str,latin:bool):
+    ingles:bool = False
     listaNomes: list[str]= []
     nome,uri = busquedaNome(texto)
     if(comprobarExistencia(nome)==False):
@@ -51,37 +61,65 @@ def ConceptosPalabras(texto: str):
     fillos = busquedaExhaustiva(uri)
     print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
-        print(f[0])
+        print("analizamos o seguinte concepto: "+f[0])
+        if latin == True:
+            ingles = False #serve para logo ver se facemos as relacions contido_en no caso de que sexa un termo que conten moitos conceptos en latin
+            if(estaEnIngles(f[0])):
+                ingles=True
+            else:
+                for alternativo in busquedaNomeAlternativo(f[1]):
+                    if(estaEnIngles(alternativo)):
+                        f[0]=alternativo
+                        ingles=True
         analizar=dividirTexto(f[0].replace("'", ""))
         if(comprobarExistencia(f[0])==False):
             crearNodo(f[0],f[1])
+        procesar_relacionados(f[0],f[1])
         nome,uri = busquedaNome(f[0])
         paiNome,pai=busquedaPai(uri)
+        listaPais = busquedaTodosPais(uri)
+        if len(listaPais)>1:
+            for fi in listaPais:
+                print("ENTRAMOS AQUI "+fi[0])
+                if(comprobarExistencia(fi[0])==False):
+                    crearNodo(fi[0],fi[1])
+                if(comprobarExistenciaRelacion(f[0],fi[0],"Broader")==None):
+                    crearRelacion(f[0],fi[0],"Broader")
+                if(comprobarExistenciaRelacion(fi[0],f[0],"Narrower")==None):
+                    crearRelacion(fi[0],f[0],"Narrower")
+        
         pais=busquedaPaiExhaustiva(uri)
+        #print("este e o concepto: "+f[0]+"e este é o pai: "+paiNome)
         if(comprobarExistenciaRelacion(f[0],paiNome,"Broader")==None):
             crearRelacion(f[0],paiNome,"Broader")
         if(comprobarExistenciaRelacion(paiNome,f[0],"Narrower")==None):
             crearRelacion(paiNome,f[0],"Narrower")
-        if(len(analizar)>1):
+        tamano = len(analizar)
+        if(tamano>1):
             #nome,uri = busquedaNome(f[0])
             ij=0
             for a in analizar:
                 ij+=1
                 if(ij<0):#se aumentamos o i artificialmente xa saimos que xa conseguimos a palabra
                     break
-                if(len(analizar)>2 and ij<(len(analizar))):#se hai polo menos 2 palabras antes da palabra final tentamos probar se hai un concepto de duas palabras contido
+                if(tamano>2 and ij<(tamano)):#se hai polo menos 2 palabras antes da palabra final tentamos probar se hai un concepto de duas palabras contido
                     a=analizar[ij-1] + ' ' + aplicarPlural(analizar[ij])
                     if(busquedaNome(a) is not None):
-                        print('entra aqui?')
-                        ij=-2
+                        #print('entra aqui?')
+                        ij=-2  
                     else:
-                        print('non entra aqui e ten este nome: '+analizar[ij-1])
-                        a=analizar[ij-1]
+                        a=analizar[ij-1] + ' ' + (analizar[ij])
+                        if(busquedaNome(a) is not None):
+                            #print('entra aqui?')
+                            ij=-2
+                        else:
+                            #print('non entra aqui e ten este nome: '+analizar[ij-1])
+                            a=analizar[ij-1]
                 if(busquedaNome(a) is None):
-                    print('entrou: '+a)
+                    #print('entrou: '+a)
                     a=aplicarPlural(a)
                 if(busquedaNome(a) is not None):
-                    print('entrou2: '+a)
+                    #print('entrou2: '+a)
                     nomeA,uriNome = busquedaNome(a) 
                     #paiNome,pai=busquedaPai(uri)
                     if(aplicarStemmingIndividual(nomeA) in aplicarStemming(paiNome)):
@@ -102,8 +140,15 @@ def ConceptosPalabras(texto: str):
                     print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA} indice: {i}")
                     if(comprobarExistencia(nomeA)==False):
                         crearNodo(nomeA,uriNome)
-                    if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
-                        crearRelacion(nomeA,nome,"Contido_en")
+                    procesar_relacionados(nomeA,uriNome)
+                    if(latin==True and ingles==True):
+                        if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
+                            crearRelacion(nomeA,nome,"Contido_en")
+                    elif(latin!=True):
+                        if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
+                            crearRelacion(nomeA,nome,"Contido_en")
+                    else: 
+                        break
                     auxiliar=[nome,uri,nomeA,uriNome]
                     listaNomes.append(auxiliar)  
                       
@@ -115,7 +160,7 @@ def ConceptosPalabras(texto: str):
 #nome = input()
 #explorar(nome)
 def gardarConsultaAccesos(nome: str):
-    listaEscribir=ConceptosPalabras(nome)
+    listaEscribir=ConceptosPalabras(nome,False)
     gardar= "csvs/"+nome + ".csv"
     #print(listaEscribir)
     cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
@@ -123,25 +168,29 @@ def gardarConsultaAccesos(nome: str):
 
 
 def gardadoXeralConsultaAccesos():
-
+    mandar:bool = False
     listaEscribir: list[str]= []
     listaParcial: list[str]= []
     listaInicial=busquedaOrfos()
     cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
     
     for l in listaInicial:
+        mandar=False
         if(comprobarExistencia(l[0])==False):
             crearNodo(l[0],l[1])
+        procesar_relacionados(l[0],l[1])
         listaEscribir=[]
         gardar="csvs/"+l[0] + ".csv"
         print(f"\n IMOS EXPLORAR AGORA ESTE CONCEPTO INICIAL: {l[0]} \n")
-        if l[0] == 'organisms' or os.path.exists(gardar) :
-            continue    # continue here
+        if l[0] == 'organisms': 
+            mandar=True    # continue here
+        if os.path.exists(gardar) :
+            continue
         listaFillos=busqueda(l[1])
         
         for i in listaFillos:    
             listaParcial=[]
-            print(i[0]+l[0])
+            print("iste é un dos fillos: "+i[0]+"dos fillos dun concepto top, que é: "+l[0])
             if(i[0] is not None):
                 if(comprobarExistencia(i[0])==False):
                     crearNodo(i[0],i[1])
@@ -149,7 +198,8 @@ def gardadoXeralConsultaAccesos():
                     crearRelacion(i[0],l[0],"Broader")
                 if(comprobarExistenciaRelacion(l[0],i[0],"Narrower")==None):
                     crearRelacion(l[0],i[0],"Narrower")
-                listaParcial+=ConceptosPalabras(i[0])
+                procesar_relacionados(i[0],i[1])
+                listaParcial+=ConceptosPalabras(i[0],mandar)
             
             #pprint(listaParcial)
             listaEscribir+=listaParcial

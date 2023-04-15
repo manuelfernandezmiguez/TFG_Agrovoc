@@ -2,6 +2,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
+from nltk.corpus import wordnet
 import inflect
 
 def dividirTexto(text: str):
@@ -33,4 +34,19 @@ def aplicarPlural(nome):
     m = inflect.engine()
     return m.plural(nome)
 
+def estaEnIngles(string):
+
+    for i in dividirTexto(string):
+        if not wordnet.synsets(i):
+        #Not an English Word
+            continue
+        else:
+            return True
+            #se polo menos unha palabra está en inglés significará que non é un termo en latin, devolvemos true
+        #English Word
+    #se ningunha pertence ao vocabulario inglés devolvemos false
+    return False    
+
 #print(aplicarPlural("calf"))
+#estaEnIngles("pinus radiata")
+#print(estaEnIngles("Argentinian duck"))

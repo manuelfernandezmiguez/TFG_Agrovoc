@@ -47,14 +47,16 @@ def comprobarExistencia(nome):
 def comprobarExistenciaRelacion(nome,nome2,nomeRelación):
     nome = nome.replace("'", "")
     nome2 = nome2.replace("'", "")
-    query="MATCH  (p:Concept {label:"+f"'{nome}'"+"}), (b:Concept {label:"+f"'{nome2}'"+"}),( (b)-[:"+f"{nomeRelación}"+"]-(p) )  RETURN b.label AS label"
+    query = "MATCH p=(n:Concept)-[r:"+nomeRelación+"]->(n2:Concept) WHERE n.label="+f"'{nome}'"+" AND n2.label="+f"'{nome2}'"+" RETURN r"
+    #query="MATCH  (p:Concept {label:"+f"'{nome}'"+"}), (b:Concept {label:"+f"'{nome2}'"+"}),( (b)-[:"+f"{nomeRelación}"+"]->(p) )  RETURN b.label AS label"
     with driver.session() as session:
         nodes =  session.run(query)
         for node in nodes:
-            if node["label"] is None:
+            if node is None:
                 return False
             else:
                 return True
+            
 
 
 #query = "MATCH (n:Concept) WHERE n.label='chiken' RETURN properties(n)"
@@ -68,7 +70,7 @@ def comprobarExistenciaRelacion(nome,nome2,nomeRelación):
 def get_some_data(limit) :
     lista: list[json_data]= []
     query = "MATCH (n:Concept) WHERE n.label='chiken' RETURN properties(n) LIMIT " + str(limit)
-    query = "MATCH (n) RETURN n{label: n.label, graph:n.graph} "
+    query = "MATCH (n) WHERE n.label='poultry' RETURN n{label: n.label, graph: n.graph} "
     with driver.session() as session:
         results =  session.run(query)
         for record in results:
@@ -76,9 +78,36 @@ def get_some_data(limit) :
             lista.append(json_data)
         
         return lista
+    
+def busquedaTermosConcepto(concepto1,concepto2) :
+    lista: list[json_data]= []
+    query = f"MATCH (n) WHERE n.label='{concepto1}' OR n.label='{concepto2}' RETURN n.label as label  "
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+        
+        return lista
+    
+def busquedaPais(concepto1) :
+    lista: list[json_data]= []
+    query = "MATCH (n:Concept {label:"+f"'{concepto1}'"+"})-[:Broader*]->(p:Concept) RETURN p.label as label "
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+        
+        return lista
 ###
 #json_data = json.dumps(get_some_data(limit=1).data())
 #print(json_data)
-#print(get_some_data(limit=5))
-
+#print(busquedaTermosConcepto("animals","poultry"))
+#print(busquedaPais("chemistry"))
+#proba = comprobarExistenciaRelacion("useful animals","animals","Broader")
+#if proba:
+#    print('a')
+#proba = comprobarExistencia("useful animals")
+#print(proba)
 driver.close()
