@@ -1,0 +1,145 @@
+nome,uriVella,NovoElemento,uriNiovo
+variety (taxa),http://aims.fao.org/aos/agrovoc/c_1423211760123,varieties,http://aims.fao.org/aos/agrovoc/c_8157
+family (taxa),http://aims.fao.org/aos/agrovoc/c_330937,families,http://aims.fao.org/aos/agrovoc/c_2785
+division (taxa),http://aims.fao.org/aos/agrovoc/c_330949,divisions,http://aims.fao.org/aos/agrovoc/c_50200
+species (taxa),http://aims.fao.org/aos/agrovoc/c_331243,species,http://aims.fao.org/aos/agrovoc/c_7280
+new family,http://aims.fao.org/aos/agrovoc/c_0c653599,families,http://aims.fao.org/aos/agrovoc/c_2785
+new genus,http://aims.fao.org/aos/agrovoc/c_12c6efcf,genus,http://aims.fao.org/aos/agrovoc/c_11125
+new subfamily,http://aims.fao.org/aos/agrovoc/c_646a5fbc,subfamily,http://aims.fao.org/aos/agrovoc/c_331071
+new subspecies,http://aims.fao.org/aos/agrovoc/c_bb09cbf6,subspecies,http://aims.fao.org/aos/agrovoc/c_16047
+new variety,http://aims.fao.org/aos/agrovoc/c_8307d5da,varieties,http://aims.fao.org/aos/agrovoc/c_8157
+new tribe,http://aims.fao.org/aos/agrovoc/c_8f3b60c0,tribal peoples,http://aims.fao.org/aos/agrovoc/c_331526
+tribe (taxa),http://aims.fao.org/aos/agrovoc/c_53182dc3,tribal peoples,http://aims.fao.org/aos/agrovoc/c_331526
+Commission of the European Communities,http://aims.fao.org/aos/agrovoc/c_49916,European Union,http://aims.fao.org/aos/agrovoc/c_34779
+land commissions,http://aims.fao.org/aos/agrovoc/c_44cbbf6b,land,http://aims.fao.org/aos/agrovoc/c_4172
+fishing communities,http://aims.fao.org/aos/agrovoc/c_331405,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fishery communities,http://aims.fao.org/aos/agrovoc/c_331405,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+savings groups,http://aims.fao.org/aos/agrovoc/c_50301,savings,http://aims.fao.org/aos/agrovoc/c_6826
+task forces,http://aims.fao.org/aos/agrovoc/c_50314,forces,http://aims.fao.org/aos/agrovoc/c_b75b64aa
+trade unions,http://aims.fao.org/aos/agrovoc/c_7856,trade,http://aims.fao.org/aos/agrovoc/c_7848
+labour unions,http://aims.fao.org/aos/agrovoc/c_7856,labour,http://aims.fao.org/aos/agrovoc/c_4128
+economic unions,http://aims.fao.org/aos/agrovoc/c_2480,economics,http://aims.fao.org/aos/agrovoc/c_2481
+common markets,http://aims.fao.org/aos/agrovoc/c_1784,commons,http://aims.fao.org/aos/agrovoc/c_778a14cf
+common markets,http://aims.fao.org/aos/agrovoc/c_1784,markets,http://aims.fao.org/aos/agrovoc/c_4626
+tenancy agreements,http://aims.fao.org/aos/agrovoc/c_4240,tenancy,http://aims.fao.org/aos/agrovoc/c_7661
+farm leases,http://aims.fao.org/aos/agrovoc/c_10747,farms,http://aims.fao.org/aos/agrovoc/c_2809
+land leases,http://aims.fao.org/aos/agrovoc/c_331068,land,http://aims.fao.org/aos/agrovoc/c_4172
+land leasing,http://aims.fao.org/aos/agrovoc/c_331068,land,http://aims.fao.org/aos/agrovoc/c_4172
+land tenants,http://aims.fao.org/aos/agrovoc/c_c48aca78,land,http://aims.fao.org/aos/agrovoc/c_4172
+male parents,http://aims.fao.org/aos/agrovoc/c_2815,males,http://aims.fao.org/aos/agrovoc/c_15995
+female parents,http://aims.fao.org/aos/agrovoc/c_4952,females,http://aims.fao.org/aos/agrovoc/c_15969
+dams (mothers),http://aims.fao.org/aos/agrovoc/c_10277,dams,http://aims.fao.org/aos/agrovoc/c_2121
+crop wild relatives,http://aims.fao.org/aos/agrovoc/c_b9f455a9,crops,http://aims.fao.org/aos/agrovoc/c_1972
+livestock wild relatives,http://aims.fao.org/aos/agrovoc/c_4dc8fd29,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+plant population,http://aims.fao.org/aos/agrovoc/c_5975,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant density,http://aims.fao.org/aos/agrovoc/c_5975,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant density,http://aims.fao.org/aos/agrovoc/c_5975,density,http://aims.fao.org/aos/agrovoc/c_2186
+forest stands,http://aims.fao.org/aos/agrovoc/c_28080,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forest management units,http://aims.fao.org/aos/agrovoc/c_28080,forest management,http://aims.fao.org/aos/agrovoc/c_16129
+uneven aged stands,http://aims.fao.org/aos/agrovoc/c_28181,elderly,http://aims.fao.org/aos/agrovoc/c_28629
+mixed forest stands,http://aims.fao.org/aos/agrovoc/c_24203,mixed forests,http://aims.fao.org/aos/agrovoc/c_4874
+even aged stands,http://aims.fao.org/aos/agrovoc/c_28081,elderly,http://aims.fao.org/aos/agrovoc/c_28629
+seed stands,http://aims.fao.org/aos/agrovoc/c_24081,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed orchards,http://aims.fao.org/aos/agrovoc/c_24081,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed orchards,http://aims.fao.org/aos/agrovoc/c_24081,orchards,http://aims.fao.org/aos/agrovoc/c_5379
+tree classes,http://aims.fao.org/aos/agrovoc/c_28173,trees,http://aims.fao.org/aos/agrovoc/c_7887
+tree age classes,http://aims.fao.org/aos/agrovoc/c_28173,trees,http://aims.fao.org/aos/agrovoc/c_7887
+tree age classes,http://aims.fao.org/aos/agrovoc/c_28173,age,http://aims.fao.org/aos/agrovoc/c_186
+crown classes,http://aims.fao.org/aos/agrovoc/c_28174,crown,http://aims.fao.org/aos/agrovoc/c_16172
+stem classes,http://aims.fao.org/aos/agrovoc/c_28175,stems,http://aims.fao.org/aos/agrovoc/c_7390
+height classes (in forestry),http://aims.fao.org/aos/agrovoc/c_11492,height,http://aims.fao.org/aos/agrovoc/c_3536
+height classes (in forestry),http://aims.fao.org/aos/agrovoc/c_11492,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+inbred strains,http://aims.fao.org/aos/agrovoc/c_24039,strains,http://aims.fao.org/aos/agrovoc/c_ae97fbc0
+human offspring,http://aims.fao.org/aos/agrovoc/c_12907,humans,http://aims.fao.org/aos/agrovoc/c_4586
+female offspring,http://aims.fao.org/aos/agrovoc/c_2133,females,http://aims.fao.org/aos/agrovoc/c_15969
+male offspring,http://aims.fao.org/aos/agrovoc/c_7239,males,http://aims.fao.org/aos/agrovoc/c_15995
+animal offspring,http://aims.fao.org/aos/agrovoc/c_16574,animals,http://aims.fao.org/aos/agrovoc/c_444
+plant offspring,http://aims.fao.org/aos/agrovoc/c_16575,plants,http://aims.fao.org/aos/agrovoc/c_5993
+breeding lines,http://aims.fao.org/aos/agrovoc/c_29226,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+introgression lines,http://aims.fao.org/aos/agrovoc/c_86ec9f93,introgression,http://aims.fao.org/aos/agrovoc/c_24863
+sports (plant),http://aims.fao.org/aos/agrovoc/c_5013,sport,http://aims.fao.org/aos/agrovoc/c_7328
+sports (plant),http://aims.fao.org/aos/agrovoc/c_5013,plants,http://aims.fao.org/aos/agrovoc/c_5993
+clonal colonies,http://aims.fao.org/aos/agrovoc/c_ad9d76d1,colonies,http://aims.fao.org/aos/agrovoc/c_b3e7e4e4
+litters (births),http://aims.fao.org/aos/agrovoc/c_0c9fac2b,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+human population,http://aims.fao.org/aos/agrovoc/c_3683,humans,http://aims.fao.org/aos/agrovoc/c_4586
+people (demography),http://aims.fao.org/aos/agrovoc/c_3683,demography,http://aims.fao.org/aos/agrovoc/c_10328
+farm workers,http://aims.fao.org/aos/agrovoc/c_8684,farms,http://aims.fao.org/aos/agrovoc/c_2809
+women farmers,http://aims.fao.org/aos/agrovoc/c_9001030,women,http://aims.fao.org/aos/agrovoc/c_8420
+urban farmers,http://aims.fao.org/aos/agrovoc/c_9001024,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+animal population,http://aims.fao.org/aos/agrovoc/c_435,animals,http://aims.fao.org/aos/agrovoc/c_444
+beef herds,http://aims.fao.org/aos/agrovoc/c_9202,beef,http://aims.fao.org/aos/agrovoc/c_861
+dairy herds,http://aims.fao.org/aos/agrovoc/c_10272,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+honeybee colonies,http://aims.fao.org/aos/agrovoc/c_857,honey bees,http://aims.fao.org/aos/agrovoc/c_3654
+epidemiological units,http://aims.fao.org/aos/agrovoc/c_d9a70fad,units,http://aims.fao.org/aos/agrovoc/c_50324
+land stakeholders,http://aims.fao.org/aos/agrovoc/c_4374c6c9,land,http://aims.fao.org/aos/agrovoc/c_4172
+land surveyors,http://aims.fao.org/aos/agrovoc/c_26e30c73,land,http://aims.fao.org/aos/agrovoc/c_4172
+germplasm banks,http://aims.fao.org/aos/agrovoc/c_35302,germplasm,http://aims.fao.org/aos/agrovoc/c_3249
+germplasm banks,http://aims.fao.org/aos/agrovoc/c_35302,banks,http://aims.fao.org/aos/agrovoc/c_812
+germplasm collections,http://aims.fao.org/aos/agrovoc/c_36739,germplasm,http://aims.fao.org/aos/agrovoc/c_3249
+seed collections,http://aims.fao.org/aos/agrovoc/c_35301,seed,http://aims.fao.org/aos/agrovoc/c_6927
+soil seed banks,http://aims.fao.org/aos/agrovoc/c_35298,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil seed potential,http://aims.fao.org/aos/agrovoc/c_35298,soil,http://aims.fao.org/aos/agrovoc/c_7156
+core collections,http://aims.fao.org/aos/agrovoc/c_cafc8290,cores,http://aims.fao.org/aos/agrovoc/c_26353107
+core subsets,http://aims.fao.org/aos/agrovoc/c_cafc8290,cores,http://aims.fao.org/aos/agrovoc/c_26353107
+animal collections,http://aims.fao.org/aos/agrovoc/c_424,animals,http://aims.fao.org/aos/agrovoc/c_444
+zoological gardens,http://aims.fao.org/aos/agrovoc/c_8531,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+plant collections,http://aims.fao.org/aos/agrovoc/c_5957,plants,http://aims.fao.org/aos/agrovoc/c_5993
+botanical gardens,http://aims.fao.org/aos/agrovoc/c_1020,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+sediment collections,http://aims.fao.org/aos/agrovoc/c_173ba126,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+mineral collections,http://aims.fao.org/aos/agrovoc/c_a4ff6586,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+museum collections,http://aims.fao.org/aos/agrovoc/c_dd1b3d92,museums,http://aims.fao.org/aos/agrovoc/c_25285
+fire prevention guards,http://aims.fao.org/aos/agrovoc/c_2914,fire prevention,http://aims.fao.org/aos/agrovoc/c_2910
+fire wardens,http://aims.fao.org/aos/agrovoc/c_2914,fires,http://aims.fao.org/aos/agrovoc/c_2915
+smoke jumpers,http://aims.fao.org/aos/agrovoc/c_2914,smokes,http://aims.fao.org/aos/agrovoc/c_7117
+technical societies,http://aims.fao.org/aos/agrovoc/c_50316,society,http://aims.fao.org/aos/agrovoc/c_50309
+unemployed workers' organization,http://aims.fao.org/aos/agrovoc/c_50322,workers,http://aims.fao.org/aos/agrovoc/c_8445
+unemployed workers' organization,http://aims.fao.org/aos/agrovoc/c_50322,organization,http://aims.fao.org/aos/agrovoc/c_330894
+pressure groups,http://aims.fao.org/aos/agrovoc/c_13567,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+country clubs,http://aims.fao.org/aos/agrovoc/c_50195,countries,http://aims.fao.org/aos/agrovoc/c_330904
+economic interest groups,http://aims.fao.org/aos/agrovoc/c_50201,economics,http://aims.fao.org/aos/agrovoc/c_2481
+informal organizations,http://aims.fao.org/aos/agrovoc/c_50238,organizations,http://aims.fao.org/aos/agrovoc/c_37968
+marketing groups,http://aims.fao.org/aos/agrovoc/c_50254,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+natural resource user groups,http://aims.fao.org/aos/agrovoc/c_50264,natural resources,http://aims.fao.org/aos/agrovoc/c_5091
+forest user groups,http://aims.fao.org/aos/agrovoc/c_50212,forests,http://aims.fao.org/aos/agrovoc/c_3062
+water user groups,http://aims.fao.org/aos/agrovoc/c_50329,water users,http://aims.fao.org/aos/agrovoc/c_c275dfd6
+poultry producer groups,http://aims.fao.org/aos/agrovoc/c_50286,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+produce groups,http://aims.fao.org/aos/agrovoc/c_50288,products,http://aims.fao.org/aos/agrovoc/c_6211
+parent teacher groups,http://aims.fao.org/aos/agrovoc/c_50280,parents,http://aims.fao.org/aos/agrovoc/c_5585
+parent teacher groups,http://aims.fao.org/aos/agrovoc/c_50280,teachers,http://aims.fao.org/aos/agrovoc/c_7637
+land rights activists,http://aims.fao.org/aos/agrovoc/c_e6067b76,land rights,http://aims.fao.org/aos/agrovoc/c_37898
+farm managers,http://aims.fao.org/aos/agrovoc/c_29295,farms,http://aims.fao.org/aos/agrovoc/c_2809
+forest managers,http://aims.fao.org/aos/agrovoc/c_1374058972358,forests,http://aims.fao.org/aos/agrovoc/c_3062
+research scientists,http://aims.fao.org/aos/agrovoc/c_6855,research,http://aims.fao.org/aos/agrovoc/c_6513
+animal breeders,http://aims.fao.org/aos/agrovoc/c_422,animals,http://aims.fao.org/aos/agrovoc/c_444
+plant pathologists,http://aims.fao.org/aos/agrovoc/c_13436,plants,http://aims.fao.org/aos/agrovoc/c_5993
+fishery biologists,http://aims.fao.org/aos/agrovoc/c_44ff7d85,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+plant breeders,http://aims.fao.org/aos/agrovoc/c_5955,plants,http://aims.fao.org/aos/agrovoc/c_5993
+marine biologists,http://aims.fao.org/aos/agrovoc/c_2142ac39,biologists,http://aims.fao.org/aos/agrovoc/c_924
+freshwater ecologists,http://aims.fao.org/aos/agrovoc/c_bd0b321e,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+soil scientists,http://aims.fao.org/aos/agrovoc/c_7189,soil,http://aims.fao.org/aos/agrovoc/c_7156
+information scientists,http://aims.fao.org/aos/agrovoc/c_856556c2,information,http://aims.fao.org/aos/agrovoc/c_330966
+information specialists,http://aims.fao.org/aos/agrovoc/c_856556c2,information,http://aims.fao.org/aos/agrovoc/c_330966
+freshwater scientists,http://aims.fao.org/aos/agrovoc/c_d2133890,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+social workers,http://aims.fao.org/aos/agrovoc/c_7138,workers,http://aims.fao.org/aos/agrovoc/c_8445
+people (sociology),http://aims.fao.org/aos/agrovoc/c_15520,sociology,http://aims.fao.org/aos/agrovoc/c_7142
+disabled persons,http://aims.fao.org/aos/agrovoc/c_34011,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+handicapped persons,http://aims.fao.org/aos/agrovoc/c_34011,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+religious organizations,http://aims.fao.org/aos/agrovoc/c_28949,organizations,http://aims.fao.org/aos/agrovoc/c_37968
+internally displaced persons,http://aims.fao.org/aos/agrovoc/c_dabac782,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+environmentally displaced persons,http://aims.fao.org/aos/agrovoc/c_d472af3a,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+water users,http://aims.fao.org/aos/agrovoc/c_c275dfd6,water,http://aims.fao.org/aos/agrovoc/c_8309
+extension workers,http://aims.fao.org/aos/agrovoc/c_143,extension,http://aims.fao.org/aos/agrovoc/c_2762
+extension workers,http://aims.fao.org/aos/agrovoc/c_143,workers,http://aims.fao.org/aos/agrovoc/c_8445
+low income groups,http://aims.fao.org/aos/agrovoc/c_28816,income,http://aims.fao.org/aos/agrovoc/c_3820
+self-help groups,http://aims.fao.org/aos/agrovoc/c_9000147,self-help,http://aims.fao.org/aos/agrovoc/c_16073
+fishing fleets,http://aims.fao.org/aos/agrovoc/c_e71b5571,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fossil assemblages,http://aims.fao.org/aos/agrovoc/c_3ecec9e4,fossils,http://aims.fao.org/aos/agrovoc/c_10989
+organism aggregations,http://aims.fao.org/aos/agrovoc/c_7187852e,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+aggregations (organisms),http://aims.fao.org/aos/agrovoc/c_7187852e,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+hiving swarms,http://aims.fao.org/aos/agrovoc/c_14719,hive management,http://aims.fao.org/aos/agrovoc/c_3639
+schools of fish,http://aims.fao.org/aos/agrovoc/c_80298917,schools,http://aims.fao.org/aos/agrovoc/c_6852
+schools of fish,http://aims.fao.org/aos/agrovoc/c_80298917,fish,http://aims.fao.org/aos/agrovoc/c_15903
+schools (biological),http://aims.fao.org/aos/agrovoc/c_80298917,schools,http://aims.fao.org/aos/agrovoc/c_6852
+aquaculture farmers,http://aims.fao.org/aos/agrovoc/c_83ca3d44,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+aquaculture farmers,http://aims.fao.org/aos/agrovoc/c_83ca3d44,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+land practitioners,http://aims.fao.org/aos/agrovoc/c_4cae1a3d,land,http://aims.fao.org/aos/agrovoc/c_4172

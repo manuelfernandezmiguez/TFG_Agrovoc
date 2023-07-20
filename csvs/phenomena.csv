@@ -1,0 +1,1410 @@
+nome,uriVella,NovoElemento,uriNiovo
+policy innovation,http://aims.fao.org/aos/agrovoc/c_576d3503,policies,http://aims.fao.org/aos/agrovoc/c_6062
+rock slides,http://aims.fao.org/aos/agrovoc/c_4187,rock,http://aims.fao.org/aos/agrovoc/c_6628
+earth tremors,http://aims.fao.org/aos/agrovoc/c_2440,earth,http://aims.fao.org/aos/agrovoc/c_2437
+earth tremors,http://aims.fao.org/aos/agrovoc/c_2440,tremor,http://aims.fao.org/aos/agrovoc/c_16819
+forest fires,http://aims.fao.org/aos/agrovoc/c_3045,forests,http://aims.fao.org/aos/agrovoc/c_3062
+plant water relations,http://aims.fao.org/aos/agrovoc/c_16147,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant water relations,http://aims.fao.org/aos/agrovoc/c_16147,water,http://aims.fao.org/aos/agrovoc/c_8309
+plant water metabolism,http://aims.fao.org/aos/agrovoc/c_16147,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant water metabolism,http://aims.fao.org/aos/agrovoc/c_16147,water metabolism,http://aims.fao.org/aos/agrovoc/c_26866
+water consumption (plants),http://aims.fao.org/aos/agrovoc/c_16147,water,http://aims.fao.org/aos/agrovoc/c_8309
+water consumption (plants),http://aims.fao.org/aos/agrovoc/c_16147,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+water consumption (plants),http://aims.fao.org/aos/agrovoc/c_16147,plants,http://aims.fao.org/aos/agrovoc/c_5993
+water transport (in plants),http://aims.fao.org/aos/agrovoc/c_16147,waterway transport,http://aims.fao.org/aos/agrovoc/c_31910
+normal water loss (of plants),http://aims.fao.org/aos/agrovoc/c_7871,evaporation,http://aims.fao.org/aos/agrovoc/c_2739
+leaf conductance,http://aims.fao.org/aos/agrovoc/c_37241,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+livestock injuries,http://aims.fao.org/aos/agrovoc/c_11775,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+bruises of products,http://aims.fao.org/aos/agrovoc/c_16138,products,http://aims.fao.org/aos/agrovoc/c_6211
+plant injuries,http://aims.fao.org/aos/agrovoc/c_32596,plants,http://aims.fao.org/aos/agrovoc/c_5993
+browsing damage,http://aims.fao.org/aos/agrovoc/c_1119,browsing,http://aims.fao.org/aos/agrovoc/c_1118
+hail damage,http://aims.fao.org/aos/agrovoc/c_32475,hail,http://aims.fao.org/aos/agrovoc/c_3469
+radiation damage,http://aims.fao.org/aos/agrovoc/c_6421,radiation,http://aims.fao.org/aos/agrovoc/c_6422
+radiation sickness,http://aims.fao.org/aos/agrovoc/c_6421,radiation,http://aims.fao.org/aos/agrovoc/c_6422
+radiation injuries,http://aims.fao.org/aos/agrovoc/c_6421,radiation,http://aims.fao.org/aos/agrovoc/c_6422
+wind damage,http://aims.fao.org/aos/agrovoc/c_8392,winds,http://aims.fao.org/aos/agrovoc/c_8401
+frost damage,http://aims.fao.org/aos/agrovoc/c_3114,frost,http://aims.fao.org/aos/agrovoc/c_3113
+ice scorch,http://aims.fao.org/aos/agrovoc/c_3114,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice scorch,http://aims.fao.org/aos/agrovoc/c_3114,scorch,http://aims.fao.org/aos/agrovoc/c_24896
+ice damage,http://aims.fao.org/aos/agrovoc/c_3114,ice,http://aims.fao.org/aos/agrovoc/c_3782
+cold injury,http://aims.fao.org/aos/agrovoc/c_3114,cold,http://aims.fao.org/aos/agrovoc/c_1743
+frost injury,http://aims.fao.org/aos/agrovoc/c_3114,frost,http://aims.fao.org/aos/agrovoc/c_3113
+spatial distribution,http://aims.fao.org/aos/agrovoc/c_36230,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+vertical distribution,http://aims.fao.org/aos/agrovoc/c_6a4c1369,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+United Nations Collaborative Programme on Reducing Emissions from Deforestation and Forest Degradation in Developing Countries,http://aims.fao.org/aos/agrovoc/c_1370618026157,UN,http://aims.fao.org/aos/agrovoc/c_8069
+REDD+ partnership,http://aims.fao.org/aos/agrovoc/c_1370618424101,REDD+,http://aims.fao.org/aos/agrovoc/c_1370618248311
+REDD+ partnership,http://aims.fao.org/aos/agrovoc/c_1370618424101,partnerships,http://aims.fao.org/aos/agrovoc/c_5602
+REDD-plus partnership,http://aims.fao.org/aos/agrovoc/c_1370618424101,REDD+,http://aims.fao.org/aos/agrovoc/c_1370618248311
+REDD-plus partnership,http://aims.fao.org/aos/agrovoc/c_1370618424101,partnerships,http://aims.fao.org/aos/agrovoc/c_5602
+United Nations Forum on Forests,http://aims.fao.org/aos/agrovoc/c_1370618601074,UN,http://aims.fao.org/aos/agrovoc/c_8069
+TRAFFIC (wildlife trade monitoring network),http://aims.fao.org/aos/agrovoc/c_1371049701397,wildlife,http://aims.fao.org/aos/agrovoc/c_8389
+TRAFFIC (wildlife trade monitoring network),http://aims.fao.org/aos/agrovoc/c_1371049701397,trade,http://aims.fao.org/aos/agrovoc/c_7848
+TRAFFIC (wildlife trade monitoring network),http://aims.fao.org/aos/agrovoc/c_1371049701397,monitoring,http://aims.fao.org/aos/agrovoc/c_4911
+TRAFFIC (wildlife trade monitoring network),http://aims.fao.org/aos/agrovoc/c_1371049701397,networks,http://aims.fao.org/aos/agrovoc/c_50266
+heat shock,http://aims.fao.org/aos/agrovoc/c_34015,heat,http://aims.fao.org/aos/agrovoc/c_3519
+cold shock,http://aims.fao.org/aos/agrovoc/c_36476,cold,http://aims.fao.org/aos/agrovoc/c_1743
+economic shock,http://aims.fao.org/aos/agrovoc/c_02cda71c,economics,http://aims.fao.org/aos/agrovoc/c_2481
+livestock overwintering,http://aims.fao.org/aos/agrovoc/c_29041,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+nutrient intake,http://aims.fao.org/aos/agrovoc/c_34064,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+energy intake (food or feed),http://aims.fao.org/aos/agrovoc/c_34064,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy intake (food or feed),http://aims.fao.org/aos/agrovoc/c_34064,foods,http://aims.fao.org/aos/agrovoc/c_3032
+energy intake (food or feed),http://aims.fao.org/aos/agrovoc/c_34064,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+death rate,http://aims.fao.org/aos/agrovoc/c_4945,death,http://aims.fao.org/aos/agrovoc/c_2138
+fishing mortality,http://aims.fao.org/aos/agrovoc/c_c6774ac5,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+tagging mortality,http://aims.fao.org/aos/agrovoc/c_6f86a007,marking,http://aims.fao.org/aos/agrovoc/c_25756
+livestock mortality,http://aims.fao.org/aos/agrovoc/c_92a58d79,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+mass mortality,http://aims.fao.org/aos/agrovoc/c_34f2e89a,mass,http://aims.fao.org/aos/agrovoc/c_4639
+fish kill,http://aims.fao.org/aos/agrovoc/c_b204fae4,fish,http://aims.fao.org/aos/agrovoc/c_15903
+brain drain,http://aims.fao.org/aos/agrovoc/c_9969eab9,brain,http://aims.fao.org/aos/agrovoc/c_1053
+circular migration,http://aims.fao.org/aos/agrovoc/c_884ed6ee,regulations,http://aims.fao.org/aos/agrovoc/c_6493
+feather pecking,http://aims.fao.org/aos/agrovoc/c_10764,feathers,http://aims.fao.org/aos/agrovoc/c_2822
+feather pecking,http://aims.fao.org/aos/agrovoc/c_10764,pecking,http://aims.fao.org/aos/agrovoc/c_a1f642b1
+sexual abuse,http://aims.fao.org/aos/agrovoc/c_c8b9d31a,abuse,http://aims.fao.org/aos/agrovoc/c_f1b9ed13
+drinking habits,http://aims.fao.org/aos/agrovoc/c_2388,habits,http://aims.fao.org/aos/agrovoc/c_11419
+grain orientation,http://aims.fao.org/aos/agrovoc/c_09881041,grain,http://aims.fao.org/aos/agrovoc/c_3346
+core orientation,http://aims.fao.org/aos/agrovoc/c_3746a44e,cores,http://aims.fao.org/aos/agrovoc/c_26353107
+dominance of animals,http://aims.fao.org/aos/agrovoc/c_10435,animals,http://aims.fao.org/aos/agrovoc/c_444
+group behaviour,http://aims.fao.org/aos/agrovoc/c_11371,groups,http://aims.fao.org/aos/agrovoc/c_50227
+gender relations,http://aims.fao.org/aos/agrovoc/c_04c53419,gender,http://aims.fao.org/aos/agrovoc/c_34835
+animal behaviour,http://aims.fao.org/aos/agrovoc/c_8811,animals,http://aims.fao.org/aos/agrovoc/c_444
+spawning migrations,http://aims.fao.org/aos/agrovoc/c_4d1412b7,spawning,http://aims.fao.org/aos/agrovoc/c_14490
+feeding migrations,http://aims.fao.org/aos/agrovoc/c_4f188d27,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+communication between animals,http://aims.fao.org/aos/agrovoc/c_32647,communication,http://aims.fao.org/aos/agrovoc/c_37866
+marking behaviour,http://aims.fao.org/aos/agrovoc/c_9349cfad,marking,http://aims.fao.org/aos/agrovoc/c_25756
+scent marking behaviour,http://aims.fao.org/aos/agrovoc/c_022275ba,odour,http://aims.fao.org/aos/agrovoc/c_14344
+flight behaviour,http://aims.fao.org/aos/agrovoc/c_01c7b3de,flight,http://aims.fao.org/aos/agrovoc/c_24948
+bird flight behaviour,http://aims.fao.org/aos/agrovoc/c_01c7b3de,birds,http://aims.fao.org/aos/agrovoc/c_935
+bird navigation,http://aims.fao.org/aos/agrovoc/c_72b03d35,birds,http://aims.fao.org/aos/agrovoc/c_935
+bird navigation,http://aims.fao.org/aos/agrovoc/c_72b03d35,navigation,http://aims.fao.org/aos/agrovoc/c_15908
+navigation (animal),http://aims.fao.org/aos/agrovoc/c_72b03d35,navigation,http://aims.fao.org/aos/agrovoc/c_15908
+cleaning behaviour,http://aims.fao.org/aos/agrovoc/c_a1cfa692,cleaning,http://aims.fao.org/aos/agrovoc/c_1661
+human behaviour,http://aims.fao.org/aos/agrovoc/c_28698,humans,http://aims.fao.org/aos/agrovoc/c_4586
+consumer behaviour,http://aims.fao.org/aos/agrovoc/c_1821,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+purchasing habits,http://aims.fao.org/aos/agrovoc/c_1821,purchasing,http://aims.fao.org/aos/agrovoc/c_6375
+purchasing habits,http://aims.fao.org/aos/agrovoc/c_1821,habits,http://aims.fao.org/aos/agrovoc/c_11419
+consumer response,http://aims.fao.org/aos/agrovoc/c_1821,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+consumer preferences,http://aims.fao.org/aos/agrovoc/c_1821,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+willingness to pay,http://aims.fao.org/aos/agrovoc/c_5e003e07,toes,http://aims.fao.org/aos/agrovoc/c_14912
+willingness to pay,http://aims.fao.org/aos/agrovoc/c_5e003e07,remuneration,http://aims.fao.org/aos/agrovoc/c_6499
+willingness to purchase,http://aims.fao.org/aos/agrovoc/c_5e003e07,toes,http://aims.fao.org/aos/agrovoc/c_14912
+panic buying,http://aims.fao.org/aos/agrovoc/c_144e1e4c,purchasing,http://aims.fao.org/aos/agrovoc/c_6375
+economic behaviour,http://aims.fao.org/aos/agrovoc/c_28671,economics,http://aims.fao.org/aos/agrovoc/c_2481
+final consumption,http://aims.fao.org/aos/agrovoc/c_28880,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+intermediate consumption,http://aims.fao.org/aos/agrovoc/c_28895,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+energy consumption,http://aims.fao.org/aos/agrovoc/c_16121,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy use,http://aims.fao.org/aos/agrovoc/c_16121,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy use,http://aims.fao.org/aos/agrovoc/c_16121,uses,http://aims.fao.org/aos/agrovoc/c_8117
+food consumption,http://aims.fao.org/aos/agrovoc/c_3016,foods,http://aims.fao.org/aos/agrovoc/c_3032
+fish consumption,http://aims.fao.org/aos/agrovoc/c_c7d26ce9,fish,http://aims.fao.org/aos/agrovoc/c_15903
+household consumption,http://aims.fao.org/aos/agrovoc/c_3674,households,http://aims.fao.org/aos/agrovoc/c_3676
+feed consumption,http://aims.fao.org/aos/agrovoc/c_16124,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+employee attitude,http://aims.fao.org/aos/agrovoc/c_28679,attitudes,http://aims.fao.org/aos/agrovoc/c_28836
+perception of tenure security,http://aims.fao.org/aos/agrovoc/c_6e4e50f1,senses,http://aims.fao.org/aos/agrovoc/c_27922
+perception of tenure security,http://aims.fao.org/aos/agrovoc/c_6e4e50f1,tenure security,http://aims.fao.org/aos/agrovoc/c_7fc44e33
+vaccine hesitancy,http://aims.fao.org/aos/agrovoc/c_a842118a,vaccines,http://aims.fao.org/aos/agrovoc/c_8130
+farmers' attitudes,http://aims.fao.org/aos/agrovoc/c_173a2356,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+consumer attitudes,http://aims.fao.org/aos/agrovoc/c_eedb375b,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+feeding habits,http://aims.fao.org/aos/agrovoc/c_2840,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+feeding habits,http://aims.fao.org/aos/agrovoc/c_2840,habits,http://aims.fao.org/aos/agrovoc/c_11419
+feeding behaviour,http://aims.fao.org/aos/agrovoc/c_2840,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+food habits,http://aims.fao.org/aos/agrovoc/c_2840,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food habits,http://aims.fao.org/aos/agrovoc/c_2840,habits,http://aims.fao.org/aos/agrovoc/c_11419
+food intake,http://aims.fao.org/aos/agrovoc/c_3022,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food ingestion,http://aims.fao.org/aos/agrovoc/c_3022,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food preferences,http://aims.fao.org/aos/agrovoc/c_29779,foods,http://aims.fao.org/aos/agrovoc/c_3032
+diet preferences,http://aims.fao.org/aos/agrovoc/c_29779,diet,http://aims.fao.org/aos/agrovoc/c_2261
+food choice,http://aims.fao.org/aos/agrovoc/c_29779,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food beliefs,http://aims.fao.org/aos/agrovoc/c_29779,foods,http://aims.fao.org/aos/agrovoc/c_3032
+blood feeding,http://aims.fao.org/aos/agrovoc/c_37315,blood,http://aims.fao.org/aos/agrovoc/c_959
+oestrus behaviour,http://aims.fao.org/aos/agrovoc/c_7015,oestrous cycle,http://aims.fao.org/aos/agrovoc/c_5322
+animal learning,http://aims.fao.org/aos/agrovoc/c_32638,animals,http://aims.fao.org/aos/agrovoc/c_444
+habitat selection,http://aims.fao.org/aos/agrovoc/c_a7111c29,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+habitat selection,http://aims.fao.org/aos/agrovoc/c_a7111c29,selection,http://aims.fao.org/aos/agrovoc/c_6951
+mothering ability,http://aims.fao.org/aos/agrovoc/c_12428,ability,http://aims.fao.org/aos/agrovoc/c_49830
+blood circulation,http://aims.fao.org/aos/agrovoc/c_961,blood,http://aims.fao.org/aos/agrovoc/c_959
+blood flow,http://aims.fao.org/aos/agrovoc/c_961,blood,http://aims.fao.org/aos/agrovoc/c_959
+metabolic profile,http://aims.fao.org/aos/agrovoc/c_4769,profiles,http://aims.fao.org/aos/agrovoc/c_c4457c2d
+carbohydrate metabolism,http://aims.fao.org/aos/agrovoc/c_1299,carbohydrates,http://aims.fao.org/aos/agrovoc/c_1300
+mineral metabolism,http://aims.fao.org/aos/agrovoc/c_4850,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+protein metabolism,http://aims.fao.org/aos/agrovoc/c_6254,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+amino acid metabolism,http://aims.fao.org/aos/agrovoc/c_35993,amino acids,http://aims.fao.org/aos/agrovoc/c_342
+urea biosynthesis,http://aims.fao.org/aos/agrovoc/c_36988,urea,http://aims.fao.org/aos/agrovoc/c_8090
+urea biosynthesis,http://aims.fao.org/aos/agrovoc/c_36988,biosynthesis,http://aims.fao.org/aos/agrovoc/c_928
+energy metabolism,http://aims.fao.org/aos/agrovoc/c_10611,energy,http://aims.fao.org/aos/agrovoc/c_2565
+carbon assimilation,http://aims.fao.org/aos/agrovoc/c_5812,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+carbon assimilation,http://aims.fao.org/aos/agrovoc/c_5812,assimilation,http://aims.fao.org/aos/agrovoc/c_678
+carbon dioxide fixation,http://aims.fao.org/aos/agrovoc/c_5812,carbon dioxide,http://aims.fao.org/aos/agrovoc/c_1302
+crassulacean acid metabolism,http://aims.fao.org/aos/agrovoc/c_24826,acids,http://aims.fao.org/aos/agrovoc/c_92
+cell respiration,http://aims.fao.org/aos/agrovoc/c_6527,cells,http://aims.fao.org/aos/agrovoc/c_1418
+cell respiration,http://aims.fao.org/aos/agrovoc/c_6527,respiration,http://aims.fao.org/aos/agrovoc/c_9421
+water metabolism,http://aims.fao.org/aos/agrovoc/c_26866,water,http://aims.fao.org/aos/agrovoc/c_8309
+fluid balance (metabolic),http://aims.fao.org/aos/agrovoc/c_26866,fluids,http://aims.fao.org/aos/agrovoc/c_2994
+fluid balance (metabolic),http://aims.fao.org/aos/agrovoc/c_26866,balances,http://aims.fao.org/aos/agrovoc/c_9062
+xenobiotic metabolism,http://aims.fao.org/aos/agrovoc/c_33569,xenobiotics,http://aims.fao.org/aos/agrovoc/c_33568
+ATP cycle,http://aims.fao.org/aos/agrovoc/c_126,ATP,http://aims.fao.org/aos/agrovoc/c_125
+adenosine triphosphate cycle,http://aims.fao.org/aos/agrovoc/c_126,ATP,http://aims.fao.org/aos/agrovoc/c_125
+pentose phosphate cycle,http://aims.fao.org/aos/agrovoc/c_5686,pentoses,http://aims.fao.org/aos/agrovoc/c_13205
+pentose phosphate cycle,http://aims.fao.org/aos/agrovoc/c_5686,phosphorus cycle,http://aims.fao.org/aos/agrovoc/c_64a01d32
+respiratory chain,http://aims.fao.org/aos/agrovoc/c_6528,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+tricarboxylic acid cycle,http://aims.fao.org/aos/agrovoc/c_7896,acids,http://aims.fao.org/aos/agrovoc/c_92
+citric acid cycle,http://aims.fao.org/aos/agrovoc/c_7896,citric acid,http://aims.fao.org/aos/agrovoc/c_1631
+cyanide resistant respiration,http://aims.fao.org/aos/agrovoc/c_34208,cyanides,http://aims.fao.org/aos/agrovoc/c_2053
+cyanide resistant respiration,http://aims.fao.org/aos/agrovoc/c_34208,respiration,http://aims.fao.org/aos/agrovoc/c_9421
+cyanide resistant pathway,http://aims.fao.org/aos/agrovoc/c_34208,cyanides,http://aims.fao.org/aos/agrovoc/c_2053
+metabolic detoxification,http://aims.fao.org/aos/agrovoc/c_34050,detoxification,http://aims.fao.org/aos/agrovoc/c_2219
+nitrogen metabolism,http://aims.fao.org/aos/agrovoc/c_5197,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+nitrate assimilation,http://aims.fao.org/aos/agrovoc/c_12832,nitrates,http://aims.fao.org/aos/agrovoc/c_5187
+nitrate assimilation,http://aims.fao.org/aos/agrovoc/c_12832,assimilation,http://aims.fao.org/aos/agrovoc/c_678
+lipid metabolism,http://aims.fao.org/aos/agrovoc/c_4361,lipids,http://aims.fao.org/aos/agrovoc/c_4362
+glyceride metabolism,http://aims.fao.org/aos/agrovoc/c_3296,acylglycerols,http://aims.fao.org/aos/agrovoc/c_3297
+phospholipid metabolism,http://aims.fao.org/aos/agrovoc/c_5802,phospholipids,http://aims.fao.org/aos/agrovoc/c_5803
+steroid metabolism,http://aims.fao.org/aos/agrovoc/c_7406,steroids,http://aims.fao.org/aos/agrovoc/c_7407
+animal metabolism,http://aims.fao.org/aos/agrovoc/c_8b3d19ae,animals,http://aims.fao.org/aos/agrovoc/c_444
+plant metabolism,http://aims.fao.org/aos/agrovoc/c_c62bd37d,plants,http://aims.fao.org/aos/agrovoc/c_5993
+stomach motility,http://aims.fao.org/aos/agrovoc/c_3200,stomach,http://aims.fao.org/aos/agrovoc/c_7422
+horse gaits,http://aims.fao.org/aos/agrovoc/c_6327ff96,horses,http://aims.fao.org/aos/agrovoc/c_3668
+nutrition physiology,http://aims.fao.org/aos/agrovoc/c_5275,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+nutrient uptake,http://aims.fao.org/aos/agrovoc/c_5273,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+water uptake,http://aims.fao.org/aos/agrovoc/c_8329,water,http://aims.fao.org/aos/agrovoc/c_8309
+water consumption (animals),http://aims.fao.org/aos/agrovoc/c_8329,water,http://aims.fao.org/aos/agrovoc/c_8309
+water consumption (animals),http://aims.fao.org/aos/agrovoc/c_8329,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+water consumption (animals),http://aims.fao.org/aos/agrovoc/c_8329,animals,http://aims.fao.org/aos/agrovoc/c_444
+hunger (physiology),http://aims.fao.org/aos/agrovoc/c_367c7bbb,hunger,http://aims.fao.org/aos/agrovoc/c_9be48a31
+nutrient utilization,http://aims.fao.org/aos/agrovoc/c_36245,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nutrient utilization,http://aims.fao.org/aos/agrovoc/c_36245,uses,http://aims.fao.org/aos/agrovoc/c_8117
+milk secretion,http://aims.fao.org/aos/agrovoc/c_4140,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk ejection,http://aims.fao.org/aos/agrovoc/c_4140,milk,http://aims.fao.org/aos/agrovoc/c_4826
+soil respiration,http://aims.fao.org/aos/agrovoc/c_33553,soil,http://aims.fao.org/aos/agrovoc/c_7156
+lung ventilation,http://aims.fao.org/aos/agrovoc/c_07c4fe59,lungs,http://aims.fao.org/aos/agrovoc/c_4462
+lung ventilation,http://aims.fao.org/aos/agrovoc/c_07c4fe59,ventilation,http://aims.fao.org/aos/agrovoc/c_8188
+gas exchange,http://aims.fao.org/aos/agrovoc/c_11098,gases,http://aims.fao.org/aos/agrovoc/c_3197
+oxygen consumption,http://aims.fao.org/aos/agrovoc/c_5478,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+oxygen consumption,http://aims.fao.org/aos/agrovoc/c_5478,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+colour vision,http://aims.fao.org/aos/agrovoc/c_6d1ee00f,colour,http://aims.fao.org/aos/agrovoc/c_1773
+colour perception,http://aims.fao.org/aos/agrovoc/c_6d1ee00f,colour,http://aims.fao.org/aos/agrovoc/c_1773
+taste (sensation),http://aims.fao.org/aos/agrovoc/c_29059,sensation,http://aims.fao.org/aos/agrovoc/c_49895
+lymph flow,http://aims.fao.org/aos/agrovoc/c_27935,lymph,http://aims.fao.org/aos/agrovoc/c_4481
+lymph circulation,http://aims.fao.org/aos/agrovoc/c_27935,lymph,http://aims.fao.org/aos/agrovoc/c_4481
+natural pruning,http://aims.fao.org/aos/agrovoc/c_28115,pruning,http://aims.fao.org/aos/agrovoc/c_6274
+physiological regulation,http://aims.fao.org/aos/agrovoc/c_32719,regulations,http://aims.fao.org/aos/agrovoc/c_6493
+sex determination,http://aims.fao.org/aos/agrovoc/c_14226,sex,http://aims.fao.org/aos/agrovoc/c_7010
+sex control,http://aims.fao.org/aos/agrovoc/c_14226,sex,http://aims.fao.org/aos/agrovoc/c_7010
+body temperature regulation,http://aims.fao.org/aos/agrovoc/c_7722,body temperature,http://aims.fao.org/aos/agrovoc/c_983
+thermal control (physiology),http://aims.fao.org/aos/agrovoc/c_7722,thermal control,http://aims.fao.org/aos/agrovoc/c_34347
+body thermobalance,http://aims.fao.org/aos/agrovoc/c_7722,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+physiological heat production,http://aims.fao.org/aos/agrovoc/c_35611,heat,http://aims.fao.org/aos/agrovoc/c_3519
+physiological heat production,http://aims.fao.org/aos/agrovoc/c_35611,production,http://aims.fao.org/aos/agrovoc/c_6200
+specific dynamic action,http://aims.fao.org/aos/agrovoc/c_5c6d8f6a,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+body heat loss,http://aims.fao.org/aos/agrovoc/c_37217,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body heat loss,http://aims.fao.org/aos/agrovoc/c_37217,heat,http://aims.fao.org/aos/agrovoc/c_3519
+body heat loss,http://aims.fao.org/aos/agrovoc/c_37217,losses,http://aims.fao.org/aos/agrovoc/c_4438
+heat loss of organisms,http://aims.fao.org/aos/agrovoc/c_37217,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat loss of organisms,http://aims.fao.org/aos/agrovoc/c_37217,losses,http://aims.fao.org/aos/agrovoc/c_4438
+heat loss of organisms,http://aims.fao.org/aos/agrovoc/c_37217,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+heat stress,http://aims.fao.org/aos/agrovoc/c_11488,heat,http://aims.fao.org/aos/agrovoc/c_3519
+drought stress,http://aims.fao.org/aos/agrovoc/c_24993,drought,http://aims.fao.org/aos/agrovoc/c_2391
+water stress,http://aims.fao.org/aos/agrovoc/c_24993,water,http://aims.fao.org/aos/agrovoc/c_8309
+cold stress,http://aims.fao.org/aos/agrovoc/c_37531,cold,http://aims.fao.org/aos/agrovoc/c_1743
+salt stress,http://aims.fao.org/aos/agrovoc/c_35750,salts,http://aims.fao.org/aos/agrovoc/c_33129
+sodium chloride stress,http://aims.fao.org/aos/agrovoc/c_35750,sodium chloride,http://aims.fao.org/aos/agrovoc/c_7146
+osmotic shock,http://aims.fao.org/aos/agrovoc/c_35750,shock,http://aims.fao.org/aos/agrovoc/c_36490
+immune system,http://aims.fao.org/aos/agrovoc/c_27554,systems,http://aims.fao.org/aos/agrovoc/c_330985
+plant defence reactions,http://aims.fao.org/aos/agrovoc/c_36991,plants,http://aims.fao.org/aos/agrovoc/c_5993
+animal defence reactions,http://aims.fao.org/aos/agrovoc/c_36992,animals,http://aims.fao.org/aos/agrovoc/c_444
+chemical defence,http://aims.fao.org/aos/agrovoc/c_e2805193,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+multiple births,http://aims.fao.org/aos/agrovoc/c_4985,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+egg formation,http://aims.fao.org/aos/agrovoc/c_5360,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+egg laying,http://aims.fao.org/aos/agrovoc/c_5462,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+in vitro fertilization,http://aims.fao.org/aos/agrovoc/c_27558,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+in vitro embryo production,http://aims.fao.org/aos/agrovoc/c_37564,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+wind pollination,http://aims.fao.org/aos/agrovoc/c_e914806e,winds,http://aims.fao.org/aos/agrovoc/c_8401
+insect pollination,http://aims.fao.org/aos/agrovoc/c_0c9f5627,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+bird pollination,http://aims.fao.org/aos/agrovoc/c_f32d2896,birds,http://aims.fao.org/aos/agrovoc/c_935
+bat pollination,http://aims.fao.org/aos/agrovoc/c_a5a5140c,Chiroptera,http://aims.fao.org/aos/agrovoc/c_1560
+egg hatching,http://aims.fao.org/aos/agrovoc/c_3504,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+animal reproduction,http://aims.fao.org/aos/agrovoc/c_5d5904a8,animals,http://aims.fao.org/aos/agrovoc/c_444
+ram effect,http://aims.fao.org/aos/agrovoc/c_cd7b0a64,rams,http://aims.fao.org/aos/agrovoc/c_6443
+ram effect,http://aims.fao.org/aos/agrovoc/c_cd7b0a64,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+transit time,http://aims.fao.org/aos/agrovoc/c_2271,time,http://aims.fao.org/aos/agrovoc/c_7778
+digestive absorption,http://aims.fao.org/aos/agrovoc/c_2272,absorption,http://aims.fao.org/aos/agrovoc/c_27
+intestinal absorption,http://aims.fao.org/aos/agrovoc/c_2272,absorption,http://aims.fao.org/aos/agrovoc/c_27
+rumen digestion,http://aims.fao.org/aos/agrovoc/c_34333,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+rumen fermentation,http://aims.fao.org/aos/agrovoc/c_34333,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+rumen fermentation,http://aims.fao.org/aos/agrovoc/c_34333,fermentation,http://aims.fao.org/aos/agrovoc/c_2855
+blood physiology,http://aims.fao.org/aos/agrovoc/c_29138,blood,http://aims.fao.org/aos/agrovoc/c_959
+blood pressure,http://aims.fao.org/aos/agrovoc/c_967,blood,http://aims.fao.org/aos/agrovoc/c_959
+cell death,http://aims.fao.org/aos/agrovoc/c_49882,cells,http://aims.fao.org/aos/agrovoc/c_1418
+bone necrosis,http://aims.fao.org/aos/agrovoc/c_1c3ba222,bones,http://aims.fao.org/aos/agrovoc/c_1001
+disease symptoms,http://aims.fao.org/aos/agrovoc/c_7566,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+bruises of organisms,http://aims.fao.org/aos/agrovoc/c_4283,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+stinging by animals,http://aims.fao.org/aos/agrovoc/c_940,animals,http://aims.fao.org/aos/agrovoc/c_444
+insect stings,http://aims.fao.org/aos/agrovoc/c_11789,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+snake bites,http://aims.fao.org/aos/agrovoc/c_14359,snakes,http://aims.fao.org/aos/agrovoc/c_7122
+bone callus,http://aims.fao.org/aos/agrovoc/c_3075,bones,http://aims.fao.org/aos/agrovoc/c_1001
+bone callus,http://aims.fao.org/aos/agrovoc/c_3075,callus,http://aims.fao.org/aos/agrovoc/c_24576
+fruit drop,http://aims.fao.org/aos/agrovoc/c_16184,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+restriction fragment length polymorphism,http://aims.fao.org/aos/agrovoc/c_34255,restrictions,http://aims.fao.org/aos/agrovoc/c_78af9f7e
+restriction fragment length polymorphism,http://aims.fao.org/aos/agrovoc/c_34255,length,http://aims.fao.org/aos/agrovoc/c_4260
+single nucleotide polymorphisms,http://aims.fao.org/aos/agrovoc/c_0273c413,nucleotides,http://aims.fao.org/aos/agrovoc/c_5259
+enzyme polymorphism,http://aims.fao.org/aos/agrovoc/c_33258,enzymes,http://aims.fao.org/aos/agrovoc/c_2603
+yield increases,http://aims.fao.org/aos/agrovoc/c_8487,yields,http://aims.fao.org/aos/agrovoc/c_8488
+biological activity in soil,http://aims.fao.org/aos/agrovoc/c_9264,bioactive properties,http://aims.fao.org/aos/agrovoc/c_4b49522d
+nutrient availability,http://aims.fao.org/aos/agrovoc/c_5268,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+ammonium fixation,http://aims.fao.org/aos/agrovoc/c_32373,ammonium,http://aims.fao.org/aos/agrovoc/c_32634
+breed differences,http://aims.fao.org/aos/agrovoc/c_33264,breeds (animals),http://aims.fao.org/aos/agrovoc/c_1081
+species differences,http://aims.fao.org/aos/agrovoc/c_33264,species,http://aims.fao.org/aos/agrovoc/c_7280
+strain differences,http://aims.fao.org/aos/agrovoc/c_33264,strains,http://aims.fao.org/aos/agrovoc/c_ae97fbc0
+tissue distribution,http://aims.fao.org/aos/agrovoc/c_36639,tissue,http://aims.fao.org/aos/agrovoc/c_49880
+tissue distribution,http://aims.fao.org/aos/agrovoc/c_36639,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+cell cycle,http://aims.fao.org/aos/agrovoc/c_37218,cells,http://aims.fao.org/aos/agrovoc/c_1418
+cell division cycle,http://aims.fao.org/aos/agrovoc/c_37218,cell division,http://aims.fao.org/aos/agrovoc/c_1413
+root colonization,http://aims.fao.org/aos/agrovoc/c_37239,roots,http://aims.fao.org/aos/agrovoc/c_6651
+rhizosphere colonization,http://aims.fao.org/aos/agrovoc/c_37240,rhizosphere,http://aims.fao.org/aos/agrovoc/c_6569
+fungal diseases (animal),http://aims.fao.org/aos/agrovoc/c_5024,fungal diseases,http://aims.fao.org/aos/agrovoc/c_11042
+mycotic dermatitis,http://aims.fao.org/aos/agrovoc/c_2195,dermatitis,http://aims.fao.org/aos/agrovoc/c_10341
+chalk brood,http://aims.fao.org/aos/agrovoc/c_36485,limestone,http://aims.fao.org/aos/agrovoc/c_4342
+mycobacterium avium infections,http://aims.fao.org/aos/agrovoc/c_12731,infection,http://aims.fao.org/aos/agrovoc/c_3852
+mycobacterium bovis infections,http://aims.fao.org/aos/agrovoc/c_12733,infection,http://aims.fao.org/aos/agrovoc/c_3852
+Q fever,http://aims.fao.org/aos/agrovoc/c_16461,fever,http://aims.fao.org/aos/agrovoc/c_10810
+Middle East respiratory syndrome,http://aims.fao.org/aos/agrovoc/c_0abecf1c,Near East,http://aims.fao.org/aos/agrovoc/c_4817
+severe acute respiratory syndrome,http://aims.fao.org/aos/agrovoc/c_3c275990,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+Ebola virus disease,http://aims.fao.org/aos/agrovoc/c_de7349c0,viroses,http://aims.fao.org/aos/agrovoc/c_8260
+Zika virus disease,http://aims.fao.org/aos/agrovoc/c_9e4c6167,Zika virus,http://aims.fao.org/aos/agrovoc/c_14f7cb01
+Marburg virus disease,http://aims.fao.org/aos/agrovoc/c_f1f99227,viroses,http://aims.fao.org/aos/agrovoc/c_8260
+Marburg haemorrhagic fever,http://aims.fao.org/aos/agrovoc/c_f1f99227,fever,http://aims.fao.org/aos/agrovoc/c_10810
+Nipah virus disease,http://aims.fao.org/aos/agrovoc/c_9fe55e8d,Nipah henipavirus,http://aims.fao.org/aos/agrovoc/c_a5e259a2
+Nipah virus infection,http://aims.fao.org/aos/agrovoc/c_9fe55e8d,Nipah henipavirus,http://aims.fao.org/aos/agrovoc/c_a5e259a2
+Hendra virus disease,http://aims.fao.org/aos/agrovoc/c_1f065f25,Hendra henipavirus,http://aims.fao.org/aos/agrovoc/c_85560bd4
+Hendra virus infection,http://aims.fao.org/aos/agrovoc/c_1f065f25,Hendra henipavirus,http://aims.fao.org/aos/agrovoc/c_85560bd4
+footrot (plants),http://aims.fao.org/aos/agrovoc/c_16425,plants,http://aims.fao.org/aos/agrovoc/c_5993
+white rot (wood),http://aims.fao.org/aos/agrovoc/c_25100,rots,http://aims.fao.org/aos/agrovoc/c_6667
+white rot (wood),http://aims.fao.org/aos/agrovoc/c_25100,wood,http://aims.fao.org/aos/agrovoc/c_8421
+seedling death,http://aims.fao.org/aos/agrovoc/c_15961,seedlings,http://aims.fao.org/aos/agrovoc/c_6945
+seedling death,http://aims.fao.org/aos/agrovoc/c_15961,death,http://aims.fao.org/aos/agrovoc/c_2138
+Panama disease,http://aims.fao.org/aos/agrovoc/c_36133,Panama,http://aims.fao.org/aos/agrovoc/c_5524
+Fusarium wilt of banana,http://aims.fao.org/aos/agrovoc/c_36133,Fusarium wilt,http://aims.fao.org/aos/agrovoc/c_a776deb2
+black leaf streak disease,http://aims.fao.org/aos/agrovoc/c_36375,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+early blight (alternaria),http://aims.fao.org/aos/agrovoc/c_20411,blight,http://aims.fao.org/aos/agrovoc/c_957
+bean rust,http://aims.fao.org/aos/agrovoc/c_23294ef8,beans,http://aims.fao.org/aos/agrovoc/c_331566
+stem rust,http://aims.fao.org/aos/agrovoc/c_855676a8,stems,http://aims.fao.org/aos/agrovoc/c_7390
+common smut of maize,http://aims.fao.org/aos/agrovoc/c_78839e47,commons,http://aims.fao.org/aos/agrovoc/c_778a14cf
+green rot,http://aims.fao.org/aos/agrovoc/c_30897947,rots,http://aims.fao.org/aos/agrovoc/c_6667
+blue rot,http://aims.fao.org/aos/agrovoc/c_c9545219,rots,http://aims.fao.org/aos/agrovoc/c_6667
+bladder plums,http://aims.fao.org/aos/agrovoc/c_d6310763,bladder,http://aims.fao.org/aos/agrovoc/c_949
+bladder plums,http://aims.fao.org/aos/agrovoc/c_d6310763,plums,http://aims.fao.org/aos/agrovoc/c_6028
+plum pockets,http://aims.fao.org/aos/agrovoc/c_d6310763,plums,http://aims.fao.org/aos/agrovoc/c_6028
+pocket plums,http://aims.fao.org/aos/agrovoc/c_d6310763,plums,http://aims.fao.org/aos/agrovoc/c_6028
+toxic shock syndrome,http://aims.fao.org/aos/agrovoc/c_36491,shock,http://aims.fao.org/aos/agrovoc/c_36490
+toxic shock syndrome,http://aims.fao.org/aos/agrovoc/c_36491,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+gas gangrene,http://aims.fao.org/aos/agrovoc/c_16737,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gas gangrene,http://aims.fao.org/aos/agrovoc/c_16737,necrosis,http://aims.fao.org/aos/agrovoc/c_15509
+chlamydia psittaci infections,http://aims.fao.org/aos/agrovoc/c_5425,infection,http://aims.fao.org/aos/agrovoc/c_3852
+fire blight,http://aims.fao.org/aos/agrovoc/c_27523,fires,http://aims.fao.org/aos/agrovoc/c_2915
+fire blight,http://aims.fao.org/aos/agrovoc/c_27523,blight,http://aims.fao.org/aos/agrovoc/c_957
+blackleg (plants),http://aims.fao.org/aos/agrovoc/c_16392,blackleg,http://aims.fao.org/aos/agrovoc/c_16391
+blackleg (plants),http://aims.fao.org/aos/agrovoc/c_16392,plants,http://aims.fao.org/aos/agrovoc/c_5993
+swine erysipelas,http://aims.fao.org/aos/agrovoc/c_16468,swine,http://aims.fao.org/aos/agrovoc/c_7555
+mycoplasma infections,http://aims.fao.org/aos/agrovoc/c_5022,infection,http://aims.fao.org/aos/agrovoc/c_3852
+little leaf disease,http://aims.fao.org/aos/agrovoc/c_5022,plant diseases,http://aims.fao.org/aos/agrovoc/c_5962
+contagious ovine pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_5022,pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_16453
+contagious bovine pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_16706,pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_16453
+contagious caprine pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_16707,pleuropneumonia,http://aims.fao.org/aos/agrovoc/c_16453
+fowl cholera,http://aims.fao.org/aos/agrovoc/c_16427,cholera,http://aims.fao.org/aos/agrovoc/c_34154
+avian cholera,http://aims.fao.org/aos/agrovoc/c_16427,cholera,http://aims.fao.org/aos/agrovoc/c_34154
+haemorrhagic septicaemia,http://aims.fao.org/aos/agrovoc/c_16432,septicaemia,http://aims.fao.org/aos/agrovoc/c_16464
+hemorrhagic septicemia,http://aims.fao.org/aos/agrovoc/c_16432,septicaemia,http://aims.fao.org/aos/agrovoc/c_16464
+petechial fever,http://aims.fao.org/aos/agrovoc/c_16792,fever,http://aims.fao.org/aos/agrovoc/c_10810
+contagious equine metritis,http://aims.fao.org/aos/agrovoc/c_16408,endometritis,http://aims.fao.org/aos/agrovoc/c_10600
+prion diseases,http://aims.fao.org/aos/agrovoc/c_37561,prions,http://aims.fao.org/aos/agrovoc/c_36165
+mad cow disease,http://aims.fao.org/aos/agrovoc/c_33558,cows,http://aims.fao.org/aos/agrovoc/c_1939
+Creutzfeldt-Jakob syndrome,http://aims.fao.org/aos/agrovoc/c_37839,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+new variant Creutzfeldt-Jakob disease,http://aims.fao.org/aos/agrovoc/c_37839,variants,http://aims.fao.org/aos/agrovoc/c_27623
+variant Creutzfeldt-Jakob disease,http://aims.fao.org/aos/agrovoc/c_37839,variants,http://aims.fao.org/aos/agrovoc/c_27623
+virus diseases,http://aims.fao.org/aos/agrovoc/c_8260,viruses,http://aims.fao.org/aos/agrovoc/c_8262
+mink viral enteritis,http://aims.fao.org/aos/agrovoc/c_16442,minks,http://aims.fao.org/aos/agrovoc/c_4859
+mink viral enteritis,http://aims.fao.org/aos/agrovoc/c_16442,enteritis,http://aims.fao.org/aos/agrovoc/c_10625
+coconut cadang cadang,http://aims.fao.org/aos/agrovoc/c_25391,coconuts,http://aims.fao.org/aos/agrovoc/c_25470
+mystery swine disease,http://aims.fao.org/aos/agrovoc/c_35380,swine,http://aims.fao.org/aos/agrovoc/c_7555
+porcine epidemic abortion syndrome,http://aims.fao.org/aos/agrovoc/c_35380,epidemics,http://aims.fao.org/aos/agrovoc/c_2614
+porcine epidemic abortion syndrome,http://aims.fao.org/aos/agrovoc/c_35380,abortion,http://aims.fao.org/aos/agrovoc/c_22
+porcine epidemic abortion syndrome,http://aims.fao.org/aos/agrovoc/c_35380,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+porcine reproductive and respiratory syndrome,http://aims.fao.org/aos/agrovoc/c_35380,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+banana bunchy top,http://aims.fao.org/aos/agrovoc/c_36267,bananas,http://aims.fao.org/aos/agrovoc/c_806
+bunchy top of banana,http://aims.fao.org/aos/agrovoc/c_36267,bananas,http://aims.fao.org/aos/agrovoc/c_806
+African swine fever,http://aims.fao.org/aos/agrovoc/c_26754,classical swine fever,http://aims.fao.org/aos/agrovoc/c_7556
+swine fever,http://aims.fao.org/aos/agrovoc/c_7556,swine,http://aims.fao.org/aos/agrovoc/c_7555
+swine fever,http://aims.fao.org/aos/agrovoc/c_7556,fever,http://aims.fao.org/aos/agrovoc/c_10810
+hog cholera,http://aims.fao.org/aos/agrovoc/c_7556,swine,http://aims.fao.org/aos/agrovoc/c_7555
+hog cholera,http://aims.fao.org/aos/agrovoc/c_7556,cholera,http://aims.fao.org/aos/agrovoc/c_34154
+egg drop syndrome,http://aims.fao.org/aos/agrovoc/c_36719,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+egg drop syndrome,http://aims.fao.org/aos/agrovoc/c_36719,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+European brown hare syndrome,http://aims.fao.org/aos/agrovoc/c_36225,Lepus europaeus,http://aims.fao.org/aos/agrovoc/c_3df6722b
+coital exanthema,http://aims.fao.org/aos/agrovoc/c_24291,exanthema,http://aims.fao.org/aos/agrovoc/c_16730
+infectious pustular vulvovaginitis,http://aims.fao.org/aos/agrovoc/c_16766,vulvovaginitis,http://aims.fao.org/aos/agrovoc/c_15246
+pest of small ruminants,http://aims.fao.org/aos/agrovoc/c_16789,pests,http://aims.fao.org/aos/agrovoc/c_5741
+pest of small ruminants,http://aims.fao.org/aos/agrovoc/c_16789,small ruminants,http://aims.fao.org/aos/agrovoc/c_32579
+peste des petits ruminants,http://aims.fao.org/aos/agrovoc/c_16789,ruminants,http://aims.fao.org/aos/agrovoc/c_6695
+PPR (peste des petits ruminants),http://aims.fao.org/aos/agrovoc/c_16789,ruminants,http://aims.fao.org/aos/agrovoc/c_6695
+fowl pest,http://aims.fao.org/aos/agrovoc/c_5165,pests,http://aims.fao.org/aos/agrovoc/c_5741
+duck viral hepatitis,http://aims.fao.org/aos/agrovoc/c_16717,ducks,http://aims.fao.org/aos/agrovoc/c_2406
+duck viral hepatitis,http://aims.fao.org/aos/agrovoc/c_16717,hepatitis,http://aims.fao.org/aos/agrovoc/c_11527
+foot and mouth disease,http://aims.fao.org/aos/agrovoc/c_3033,feet,http://aims.fao.org/aos/agrovoc/c_2845
+foot and mouth disease,http://aims.fao.org/aos/agrovoc/c_3033,mouth diseases,http://aims.fao.org/aos/agrovoc/c_12678
+lumpy skin disease,http://aims.fao.org/aos/agrovoc/c_16775,skin diseases,http://aims.fao.org/aos/agrovoc/c_7098
+sheep pox,http://aims.fao.org/aos/agrovoc/c_24285,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+contagious pustular dermatitis,http://aims.fao.org/aos/agrovoc/c_16708,dermatitis,http://aims.fao.org/aos/agrovoc/c_10341
+African horse sickness,http://aims.fao.org/aos/agrovoc/c_34202,horses,http://aims.fao.org/aos/agrovoc/c_3668
+HIV infections,http://aims.fao.org/aos/agrovoc/c_37857,Human immunodeficiency virus,http://aims.fao.org/aos/agrovoc/c_37855
+HIV infections,http://aims.fao.org/aos/agrovoc/c_37857,infection,http://aims.fao.org/aos/agrovoc/c_3852
+human immunodeficiency virus infections,http://aims.fao.org/aos/agrovoc/c_37857,humans,http://aims.fao.org/aos/agrovoc/c_4586
+human immunodeficiency virus infections,http://aims.fao.org/aos/agrovoc/c_37857,immunodeficiency,http://aims.fao.org/aos/agrovoc/c_29618
+human immunodeficiency virus infections,http://aims.fao.org/aos/agrovoc/c_37857,viruses,http://aims.fao.org/aos/agrovoc/c_8262
+human immunodeficiency virus infections,http://aims.fao.org/aos/agrovoc/c_37857,infection,http://aims.fao.org/aos/agrovoc/c_3852
+acquired immunodeficiency syndrome,http://aims.fao.org/aos/agrovoc/c_37845,acquired immunodeficiency,http://aims.fao.org/aos/agrovoc/c_35762
+avian leukosis,http://aims.fao.org/aos/agrovoc/c_737,leukosis,http://aims.fao.org/aos/agrovoc/c_24118
+bovine leukosis,http://aims.fao.org/aos/agrovoc/c_1039,leukosis,http://aims.fao.org/aos/agrovoc/c_24118
+trout hemorrhagic septicemia,http://aims.fao.org/aos/agrovoc/c_16749,trout,http://aims.fao.org/aos/agrovoc/c_7983
+trout hemorrhagic septicemia,http://aims.fao.org/aos/agrovoc/c_16749,haemorrhagic septicaemia,http://aims.fao.org/aos/agrovoc/c_16432
+trout haemorrhagic septicaemia,http://aims.fao.org/aos/agrovoc/c_16749,trout,http://aims.fao.org/aos/agrovoc/c_7983
+trout haemorrhagic septicaemia,http://aims.fao.org/aos/agrovoc/c_16749,haemorrhagic septicaemia,http://aims.fao.org/aos/agrovoc/c_16432
+Nairobi sheep disease,http://aims.fao.org/aos/agrovoc/c_16445,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+avian infectious bursitis,http://aims.fao.org/aos/agrovoc/c_736,bursitis,http://aims.fao.org/aos/agrovoc/c_9504
+yellow fever,http://aims.fao.org/aos/agrovoc/c_24293,fever,http://aims.fao.org/aos/agrovoc/c_10810
+epizootic haemorrhagic disease,http://aims.fao.org/aos/agrovoc/c_15250f3f,epizootics,http://aims.fao.org/aos/agrovoc/c_10642
+epizootic hemorrhagic disease,http://aims.fao.org/aos/agrovoc/c_15250f3f,epizootics,http://aims.fao.org/aos/agrovoc/c_10642
+porcine epidemic diarrhoea,http://aims.fao.org/aos/agrovoc/c_d1e9d104,epidemics,http://aims.fao.org/aos/agrovoc/c_2614
+porcine epidemic diarrhoea,http://aims.fao.org/aos/agrovoc/c_d1e9d104,diarrhoea,http://aims.fao.org/aos/agrovoc/c_10363
+porcine epidemic diarrhea,http://aims.fao.org/aos/agrovoc/c_d1e9d104,epidemics,http://aims.fao.org/aos/agrovoc/c_2614
+porcine epidemic diarrhea,http://aims.fao.org/aos/agrovoc/c_d1e9d104,diarrhoea,http://aims.fao.org/aos/agrovoc/c_10363
+West Nile fever,http://aims.fao.org/aos/agrovoc/c_6b00f574,fever,http://aims.fao.org/aos/agrovoc/c_10810
+Rift Valley fever,http://aims.fao.org/aos/agrovoc/c_b08d44fd,fever,http://aims.fao.org/aos/agrovoc/c_10810
+goat pox,http://aims.fao.org/aos/agrovoc/c_5f4b2d62,goats,http://aims.fao.org/aos/agrovoc/c_3324
+swine influenza,http://aims.fao.org/aos/agrovoc/c_6214dcad,swine,http://aims.fao.org/aos/agrovoc/c_7555
+tick paralysis,http://aims.fao.org/aos/agrovoc/c_16817,Metastigmata,http://aims.fao.org/aos/agrovoc/c_7763
+protozoal infections,http://aims.fao.org/aos/agrovoc/c_6269,infection,http://aims.fao.org/aos/agrovoc/c_3852
+avian malaria,http://aims.fao.org/aos/agrovoc/c_16686,malaria,http://aims.fao.org/aos/agrovoc/c_34312
+East Coast fever,http://aims.fao.org/aos/agrovoc/c_10514,fever,http://aims.fao.org/aos/agrovoc/c_10810
+African coast fever,http://aims.fao.org/aos/agrovoc/c_10514,coasts,http://aims.fao.org/aos/agrovoc/c_1700
+African coast fever,http://aims.fao.org/aos/agrovoc/c_10514,fever,http://aims.fao.org/aos/agrovoc/c_10810
+cestode infections,http://aims.fao.org/aos/agrovoc/c_9721,tapeworms,http://aims.fao.org/aos/agrovoc/c_eac3acc9
+cestode infections,http://aims.fao.org/aos/agrovoc/c_9721,infection,http://aims.fao.org/aos/agrovoc/c_3852
+nematode infections,http://aims.fao.org/aos/agrovoc/c_5111,nematodes,http://aims.fao.org/aos/agrovoc/c_47faeccc
+nematode infections,http://aims.fao.org/aos/agrovoc/c_5111,infection,http://aims.fao.org/aos/agrovoc/c_3852
+trematode infections,http://aims.fao.org/aos/agrovoc/c_14977,flukes (helminths),http://aims.fao.org/aos/agrovoc/c_fcbdf0f7
+trematode infections,http://aims.fao.org/aos/agrovoc/c_14977,infection,http://aims.fao.org/aos/agrovoc/c_3852
+sheep scab,http://aims.fao.org/aos/agrovoc/c_a54c99cd,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+sheep scab,http://aims.fao.org/aos/agrovoc/c_a54c99cd,scabs,http://aims.fao.org/aos/agrovoc/c_6836
+fly strike,http://aims.fao.org/aos/agrovoc/c_5029,strikes,http://aims.fao.org/aos/agrovoc/c_7455
+deficiency diseases,http://aims.fao.org/aos/agrovoc/c_2154,deficiencies,http://aims.fao.org/aos/agrovoc/c_330738
+food allergies,http://aims.fao.org/aos/agrovoc/c_3013,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food hypersensitivity,http://aims.fao.org/aos/agrovoc/c_3013,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food anaphylaxis,http://aims.fao.org/aos/agrovoc/c_3013,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food anaphylaxis,http://aims.fao.org/aos/agrovoc/c_3013,anaphylactic reactions,http://aims.fao.org/aos/agrovoc/c_387
+cell mediated hypersensitivity,http://aims.fao.org/aos/agrovoc/c_29597,cells,http://aims.fao.org/aos/agrovoc/c_1418
+tuberculin reaction,http://aims.fao.org/aos/agrovoc/c_29597,tuberculin,http://aims.fao.org/aos/agrovoc/c_7996
+anaphylactic shock,http://aims.fao.org/aos/agrovoc/c_387,shock,http://aims.fao.org/aos/agrovoc/c_36490
+drug allergies,http://aims.fao.org/aos/agrovoc/c_29599,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+drug hypersensitivity,http://aims.fao.org/aos/agrovoc/c_29599,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+immune complex diseases,http://aims.fao.org/aos/agrovoc/c_29608,immune complexes,http://aims.fao.org/aos/agrovoc/c_29622
+immune deficiency,http://aims.fao.org/aos/agrovoc/c_29618,deficiencies,http://aims.fao.org/aos/agrovoc/c_330738
+immunological deficiency,http://aims.fao.org/aos/agrovoc/c_29618,deficiencies,http://aims.fao.org/aos/agrovoc/c_330738
+animal tumours,http://aims.fao.org/aos/agrovoc/c_5122,animals,http://aims.fao.org/aos/agrovoc/c_444
+digestive system diseases,http://aims.fao.org/aos/agrovoc/c_2276,digestive system,http://aims.fao.org/aos/agrovoc/c_2275
+swine dysentery,http://aims.fao.org/aos/agrovoc/c_16467,swine,http://aims.fao.org/aos/agrovoc/c_7555
+coeliac syndrome,http://aims.fao.org/aos/agrovoc/c_36701,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+mouth diseases,http://aims.fao.org/aos/agrovoc/c_12678,mouth,http://aims.fao.org/aos/agrovoc/c_4960
+tongue diseases,http://aims.fao.org/aos/agrovoc/c_14921,tongue,http://aims.fao.org/aos/agrovoc/c_7809
+salivary gland diseases,http://aims.fao.org/aos/agrovoc/c_14036,salivary glands,http://aims.fao.org/aos/agrovoc/c_6753
+stomach diseases,http://aims.fao.org/aos/agrovoc/c_14610,stomach,http://aims.fao.org/aos/agrovoc/c_7422
+food intolerance,http://aims.fao.org/aos/agrovoc/c_be849b13,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food sensitivity,http://aims.fao.org/aos/agrovoc/c_be849b13,foods,http://aims.fao.org/aos/agrovoc/c_3032
+lactose intolerance,http://aims.fao.org/aos/agrovoc/c_bba38c94,lactose,http://aims.fao.org/aos/agrovoc/c_4146
+liver diseases,http://aims.fao.org/aos/agrovoc/c_4396,liver,http://aims.fao.org/aos/agrovoc/c_4395
+hepatic encephalopathy,http://aims.fao.org/aos/agrovoc/c_35100,Marchantiophyta,http://aims.fao.org/aos/agrovoc/c_330300
+tooth diseases,http://aims.fao.org/aos/agrovoc/c_7810,teeth,http://aims.fao.org/aos/agrovoc/c_7650
+teeth caries,http://aims.fao.org/aos/agrovoc/c_16410,teeth,http://aims.fao.org/aos/agrovoc/c_7650
+ear diseases,http://aims.fao.org/aos/agrovoc/c_2433,ears,http://aims.fao.org/aos/agrovoc/c_2436
+hormone deficiency,http://aims.fao.org/aos/agrovoc/c_2558,hormones,http://aims.fao.org/aos/agrovoc/c_3663
+hormone deficiency,http://aims.fao.org/aos/agrovoc/c_2558,deficiencies,http://aims.fao.org/aos/agrovoc/c_330738
+adrenal gland diseases,http://aims.fao.org/aos/agrovoc/c_8625,adrenal glands,http://aims.fao.org/aos/agrovoc/c_135
+Cushing's syndrome,http://aims.fao.org/aos/agrovoc/c_36152,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+eye diseases,http://aims.fao.org/aos/agrovoc/c_2770,eyes,http://aims.fao.org/aos/agrovoc/c_2771
+foot diseases,http://aims.fao.org/aos/agrovoc/c_3035,feet,http://aims.fao.org/aos/agrovoc/c_2845
+claw diseases,http://aims.fao.org/aos/agrovoc/c_9893,claws,http://aims.fao.org/aos/agrovoc/c_1658
+foot rot,http://aims.fao.org/aos/agrovoc/c_16424,feet,http://aims.fao.org/aos/agrovoc/c_2845
+foot rot,http://aims.fao.org/aos/agrovoc/c_16424,rots,http://aims.fao.org/aos/agrovoc/c_6667
+footrot (animals),http://aims.fao.org/aos/agrovoc/c_16424,animals,http://aims.fao.org/aos/agrovoc/c_444
+female genital diseases,http://aims.fao.org/aos/agrovoc/c_2849,females,http://aims.fao.org/aos/agrovoc/c_15969
+salpingitis of oviducts,http://aims.fao.org/aos/agrovoc/c_14054,oviducts,http://aims.fao.org/aos/agrovoc/c_5461
+male genital diseases,http://aims.fao.org/aos/agrovoc/c_4535,males,http://aims.fao.org/aos/agrovoc/c_15995
+mammary gland diseases,http://aims.fao.org/aos/agrovoc/c_4561,mammary glands,http://aims.fao.org/aos/agrovoc/c_4562
+mammary oedema,http://aims.fao.org/aos/agrovoc/c_12360,oedema,http://aims.fao.org/aos/agrovoc/c_5316
+teat diseases,http://aims.fao.org/aos/agrovoc/c_14812,teats,http://aims.fao.org/aos/agrovoc/c_14813
+nervous system diseases,http://aims.fao.org/aos/agrovoc/c_5139,nervous system,http://aims.fao.org/aos/agrovoc/c_5138
+brain diseases,http://aims.fao.org/aos/agrovoc/c_9390,brain,http://aims.fao.org/aos/agrovoc/c_1053
+spinal cord diseases,http://aims.fao.org/aos/agrovoc/c_14512,spinal cord,http://aims.fao.org/aos/agrovoc/c_7305
+neuromuscular disorders,http://aims.fao.org/aos/agrovoc/c_24424,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+cerebrocortical necrosis,http://aims.fao.org/aos/agrovoc/c_33528,necrosis,http://aims.fao.org/aos/agrovoc/c_15509
+autonomic dysfunction,http://aims.fao.org/aos/agrovoc/c_35088,functional disorders,http://aims.fao.org/aos/agrovoc/c_3144
+grass sickness,http://aims.fao.org/aos/agrovoc/c_35090,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+Key-Gaskell syndrome,http://aims.fao.org/aos/agrovoc/c_35091,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+equine leukoencephalomalacia,http://aims.fao.org/aos/agrovoc/c_35099,leukoencephalomalacia,http://aims.fao.org/aos/agrovoc/c_35098
+lung diseases,http://aims.fao.org/aos/agrovoc/c_13667,lungs,http://aims.fao.org/aos/agrovoc/c_4462
+farmer's lung,http://aims.fao.org/aos/agrovoc/c_33486,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+farmer's lung,http://aims.fao.org/aos/agrovoc/c_33486,lungs,http://aims.fao.org/aos/agrovoc/c_4462
+urinary tract diseases,http://aims.fao.org/aos/agrovoc/c_8100,urinary tract,http://aims.fao.org/aos/agrovoc/c_8099
+bladder diseases,http://aims.fao.org/aos/agrovoc/c_8100,bladder,http://aims.fao.org/aos/agrovoc/c_949
+kidney diseases,http://aims.fao.org/aos/agrovoc/c_11973,kidneys,http://aims.fao.org/aos/agrovoc/c_4099
+bone diseases,http://aims.fao.org/aos/agrovoc/c_996,bones,http://aims.fao.org/aos/agrovoc/c_1001
+intervertebral disk diseases,http://aims.fao.org/aos/agrovoc/c_35161,intervertebral disks,http://aims.fao.org/aos/agrovoc/c_11814
+intervertebral disc prolapse,http://aims.fao.org/aos/agrovoc/c_35162,cultivators,http://aims.fao.org/aos/agrovoc/c_2019
+white muscle disease,http://aims.fao.org/aos/agrovoc/c_16413,muscles,http://aims.fao.org/aos/agrovoc/c_5003
+circulatory disorders,http://aims.fao.org/aos/agrovoc/c_34231,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+cardiovascular disorders,http://aims.fao.org/aos/agrovoc/c_34231,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+heart diseases,http://aims.fao.org/aos/agrovoc/c_3517,heart,http://aims.fao.org/aos/agrovoc/c_3516
+blood vessel diseases,http://aims.fao.org/aos/agrovoc/c_8160,blood vessels,http://aims.fao.org/aos/agrovoc/c_971
+gas embolisms,http://aims.fao.org/aos/agrovoc/c_7a9ce284,gases,http://aims.fao.org/aos/agrovoc/c_3197
+air embolism,http://aims.fao.org/aos/agrovoc/c_7a9ce284,air,http://aims.fao.org/aos/agrovoc/c_224
+cerebrovascular disorders,http://aims.fao.org/aos/agrovoc/c_9712,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+skin diseases,http://aims.fao.org/aos/agrovoc/c_7098,skin,http://aims.fao.org/aos/agrovoc/c_7097
+human diseases,http://aims.fao.org/aos/agrovoc/c_29198,humans,http://aims.fao.org/aos/agrovoc/c_4586
+animal diseases,http://aims.fao.org/aos/agrovoc/c_426,animals,http://aims.fao.org/aos/agrovoc/c_444
+fish diseases,http://aims.fao.org/aos/agrovoc/c_2920,fish,http://aims.fao.org/aos/agrovoc/c_15903
+gas bubble disease,http://aims.fao.org/aos/agrovoc/c_ee563f1e,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gill disease,http://aims.fao.org/aos/agrovoc/c_4518f47f,gills,http://aims.fao.org/aos/agrovoc/c_3262
+cold water diseases,http://aims.fao.org/aos/agrovoc/c_c066e72d,cold,http://aims.fao.org/aos/agrovoc/c_1743
+cold water diseases,http://aims.fao.org/aos/agrovoc/c_c066e72d,water,http://aims.fao.org/aos/agrovoc/c_8309
+ulcerative dermal necrosis,http://aims.fao.org/aos/agrovoc/c_db2ad07d,necrosis,http://aims.fao.org/aos/agrovoc/c_15509
+infectious salmon anaemia,http://aims.fao.org/aos/agrovoc/c_015df0a5,salmon,http://aims.fao.org/aos/agrovoc/c_6756
+infectious salmon anaemia,http://aims.fao.org/aos/agrovoc/c_015df0a5,anaemia,http://aims.fao.org/aos/agrovoc/c_380
+white spot disease,http://aims.fao.org/aos/agrovoc/c_ce29e3e7,spots,http://aims.fao.org/aos/agrovoc/c_7329
+bird diseases,http://aims.fao.org/aos/agrovoc/c_9274,birds,http://aims.fao.org/aos/agrovoc/c_935
+insect diseases,http://aims.fao.org/aos/agrovoc/c_3886,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+plant diseases,http://aims.fao.org/aos/agrovoc/c_5962,plants,http://aims.fao.org/aos/agrovoc/c_5993
+leaf diseases,http://aims.fao.org/aos/agrovoc/c_5962,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+Fusarium wilt,http://aims.fao.org/aos/agrovoc/c_a776deb2,Fusarium,http://aims.fao.org/aos/agrovoc/c_3156
+Verticillium wilt,http://aims.fao.org/aos/agrovoc/c_c40a9299,Verticillium,http://aims.fao.org/aos/agrovoc/c_8198
+Banana Xanthomonas wilt,http://aims.fao.org/aos/agrovoc/c_b5e2a738,Xanthomonas,http://aims.fao.org/aos/agrovoc/c_8455
+banana bacterial wilt,http://aims.fao.org/aos/agrovoc/c_b5e2a738,bananas,http://aims.fao.org/aos/agrovoc/c_806
+Ascochyta leaf blight,http://aims.fao.org/aos/agrovoc/c_cc941c96,Ascochyta,http://aims.fao.org/aos/agrovoc/c_660
+Ascochyta leaf blight,http://aims.fao.org/aos/agrovoc/c_cc941c96,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+lentil antrachnose,http://aims.fao.org/aos/agrovoc/c_cc941c96,lentils,http://aims.fao.org/aos/agrovoc/c_12140
+lentil blight,http://aims.fao.org/aos/agrovoc/c_cc941c96,lentils,http://aims.fao.org/aos/agrovoc/c_12140
+chickpea blight,http://aims.fao.org/aos/agrovoc/c_4eecc350,chickpeas,http://aims.fao.org/aos/agrovoc/c_9785
+chickpea ascochyta blight,http://aims.fao.org/aos/agrovoc/c_4eecc350,chickpeas,http://aims.fao.org/aos/agrovoc/c_9785
+Ascochyta blight on peas,http://aims.fao.org/aos/agrovoc/c_00cfeede,Ascochyta,http://aims.fao.org/aos/agrovoc/c_660
+leaf blotch,http://aims.fao.org/aos/agrovoc/c_973,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+iron deficiency chlorosis,http://aims.fao.org/aos/agrovoc/c_267b91f5,iron,http://aims.fao.org/aos/agrovoc/c_3950
+iron deficiency chlorosis,http://aims.fao.org/aos/agrovoc/c_267b91f5,deficiencies,http://aims.fao.org/aos/agrovoc/c_330738
+leaf curls,http://aims.fao.org/aos/agrovoc/c_4237,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+root rots,http://aims.fao.org/aos/agrovoc/c_16033,roots,http://aims.fao.org/aos/agrovoc/c_6651
+Fusarium root rot of beans,http://aims.fao.org/aos/agrovoc/c_7fa8236b,Fusarium,http://aims.fao.org/aos/agrovoc/c_3156
+maize stalk rot,http://aims.fao.org/aos/agrovoc/c_dbbef4b8,maize,http://aims.fao.org/aos/agrovoc/c_12332
+maize bacterial stalk and head rot,http://aims.fao.org/aos/agrovoc/c_c3c4a64b,maize,http://aims.fao.org/aos/agrovoc/c_12332
+maize bacterial stalk and head rot,http://aims.fao.org/aos/agrovoc/c_c3c4a64b,head,http://aims.fao.org/aos/agrovoc/c_3509
+Fusarium root and stalk rot,http://aims.fao.org/aos/agrovoc/c_ec597711,Fusarium,http://aims.fao.org/aos/agrovoc/c_3156
+Fusarium root and stalk rot,http://aims.fao.org/aos/agrovoc/c_ec597711,roots,http://aims.fao.org/aos/agrovoc/c_6651
+leaf spots,http://aims.fao.org/aos/agrovoc/c_12119,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+bitter pit,http://aims.fao.org/aos/agrovoc/c_24822,pits,http://aims.fao.org/aos/agrovoc/c_5938
+fruit cracking,http://aims.fao.org/aos/agrovoc/c_32457,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+root tumours,http://aims.fao.org/aos/agrovoc/c_36836,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root tumors,http://aims.fao.org/aos/agrovoc/c_36836,roots,http://aims.fao.org/aos/agrovoc/c_6651
+crown gall,http://aims.fao.org/aos/agrovoc/c_37530,crown,http://aims.fao.org/aos/agrovoc/c_16172
+grapevine crown gall,http://aims.fao.org/aos/agrovoc/c_35757e6d,grapevines,http://aims.fao.org/aos/agrovoc/c_3360
+Rugose wood complex,http://aims.fao.org/aos/agrovoc/c_3662dccf,wood,http://aims.fao.org/aos/agrovoc/c_8421
+rupestris stem pitting,http://aims.fao.org/aos/agrovoc/c_31240b29,stems,http://aims.fao.org/aos/agrovoc/c_7390
+corky bark,http://aims.fao.org/aos/agrovoc/c_ff72adc0,bark,http://aims.fao.org/aos/agrovoc/c_820
+Kober stem grooving,http://aims.fao.org/aos/agrovoc/c_e79d436f,stems,http://aims.fao.org/aos/agrovoc/c_7390
+LN 33 stem grooving,http://aims.fao.org/aos/agrovoc/c_cd0d3da9,stems,http://aims.fao.org/aos/agrovoc/c_7390
+grapevine leafroll disease,http://aims.fao.org/aos/agrovoc/c_533648ea,grapevines,http://aims.fao.org/aos/agrovoc/c_3360
+bean anthracnose,http://aims.fao.org/aos/agrovoc/c_d10e6e74,beans,http://aims.fao.org/aos/agrovoc/c_331566
+southern leaf blight of maize,http://aims.fao.org/aos/agrovoc/c_fd817c5d,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+southern leaf blight of maize,http://aims.fao.org/aos/agrovoc/c_fd817c5d,blight,http://aims.fao.org/aos/agrovoc/c_957
+southern leaf blight of maize,http://aims.fao.org/aos/agrovoc/c_fd817c5d,maize,http://aims.fao.org/aos/agrovoc/c_12332
+southern corn leaf blight,http://aims.fao.org/aos/agrovoc/c_fd817c5d,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+southern corn leaf blight,http://aims.fao.org/aos/agrovoc/c_fd817c5d,blight,http://aims.fao.org/aos/agrovoc/c_957
+rice blast disease,http://aims.fao.org/aos/agrovoc/c_152ac092,rice,http://aims.fao.org/aos/agrovoc/c_6599
+citrus greening,http://aims.fao.org/aos/agrovoc/c_23dde4ae,virescence,http://aims.fao.org/aos/agrovoc/c_32470
+paralytic shellfish poisoning,http://aims.fao.org/aos/agrovoc/c_36618,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+paralytic shellfish poisoning,http://aims.fao.org/aos/agrovoc/c_36618,poisoning,http://aims.fao.org/aos/agrovoc/c_6051
+tickborne infections,http://aims.fao.org/aos/agrovoc/c_24908,infection,http://aims.fao.org/aos/agrovoc/c_3852
+Crimean-Congo haemorrhagic fever,http://aims.fao.org/aos/agrovoc/c_ac826b92,fever,http://aims.fao.org/aos/agrovoc/c_10810
+desiccation (physiology),http://aims.fao.org/aos/agrovoc/c_2162,physiology,http://aims.fao.org/aos/agrovoc/c_49881
+abnormal water loss,http://aims.fao.org/aos/agrovoc/c_2162,evaporation,http://aims.fao.org/aos/agrovoc/c_2739
+eating disorders,http://aims.fao.org/aos/agrovoc/c_8879,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+appetite disorders,http://aims.fao.org/aos/agrovoc/c_8879,appetite,http://aims.fao.org/aos/agrovoc/c_540
+depraved appetite,http://aims.fao.org/aos/agrovoc/c_33980,appetite,http://aims.fao.org/aos/agrovoc/c_540
+genetic disorders,http://aims.fao.org/aos/agrovoc/c_3217,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+hereditary diseases,http://aims.fao.org/aos/agrovoc/c_3217,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+genetic defects,http://aims.fao.org/aos/agrovoc/c_3217,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+genetic defects,http://aims.fao.org/aos/agrovoc/c_3217,defects,http://aims.fao.org/aos/agrovoc/c_24158
+genetic abnormalities,http://aims.fao.org/aos/agrovoc/c_3217,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+blood disorders,http://aims.fao.org/aos/agrovoc/c_964,blood,http://aims.fao.org/aos/agrovoc/c_959
+blood coagulation disorders,http://aims.fao.org/aos/agrovoc/c_964,blood coagulation,http://aims.fao.org/aos/agrovoc/c_962
+haemolytic disease,http://aims.fao.org/aos/agrovoc/c_16742,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+hemolytic disease,http://aims.fao.org/aos/agrovoc/c_16742,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+blood protein disorders,http://aims.fao.org/aos/agrovoc/c_969,blood proteins,http://aims.fao.org/aos/agrovoc/c_970
+metabolic diseases,http://aims.fao.org/aos/agrovoc/c_4767,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+grass tetany,http://aims.fao.org/aos/agrovoc/c_3772,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+protein metabolism disorders,http://aims.fao.org/aos/agrovoc/c_6255,protein metabolism,http://aims.fao.org/aos/agrovoc/c_6254
+yellow fat disease,http://aims.fao.org/aos/agrovoc/c_26780,yellow fat,http://aims.fao.org/aos/agrovoc/c_24268
+animal disorders,http://aims.fao.org/aos/agrovoc/c_37451,animals,http://aims.fao.org/aos/agrovoc/c_444
+abnormal function (physiology),http://aims.fao.org/aos/agrovoc/c_3144,physiology,http://aims.fao.org/aos/agrovoc/c_49881
+retention of body fluids,http://aims.fao.org/aos/agrovoc/c_13897,body fluids,http://aims.fao.org/aos/agrovoc/c_979
+spastic paresis,http://aims.fao.org/aos/agrovoc/c_16465,paralysis,http://aims.fao.org/aos/agrovoc/c_13106
+nutrient excesses,http://aims.fao.org/aos/agrovoc/c_34870,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+wasting disease (nutritional disorder),http://aims.fao.org/aos/agrovoc/c_36721,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+child wasting,http://aims.fao.org/aos/agrovoc/c_eda16ce7,children,http://aims.fao.org/aos/agrovoc/c_1547
+movement disorders,http://aims.fao.org/aos/agrovoc/c_4962,movement,http://aims.fao.org/aos/agrovoc/c_4961
+locomotion disorders,http://aims.fao.org/aos/agrovoc/c_12230,locomotion,http://aims.fao.org/aos/agrovoc/c_4413
+pregnancy complications,http://aims.fao.org/aos/agrovoc/c_6167,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+foetal death,http://aims.fao.org/aos/agrovoc/c_3005,death,http://aims.fao.org/aos/agrovoc/c_2138
+fetal death,http://aims.fao.org/aos/agrovoc/c_3005,death,http://aims.fao.org/aos/agrovoc/c_2138
+parturition complications,http://aims.fao.org/aos/agrovoc/c_5605,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+parturient paresis,http://aims.fao.org/aos/agrovoc/c_5603,paralysis,http://aims.fao.org/aos/agrovoc/c_13106
+milk fever,http://aims.fao.org/aos/agrovoc/c_5603,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk fever,http://aims.fao.org/aos/agrovoc/c_5603,fever,http://aims.fao.org/aos/agrovoc/c_10810
+downer syndrome,http://aims.fao.org/aos/agrovoc/c_5603,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+retained placenta,http://aims.fao.org/aos/agrovoc/c_5945,placenta,http://aims.fao.org/aos/agrovoc/c_5944
+mastitis metritis agalactia syndrome,http://aims.fao.org/aos/agrovoc/c_16777,mastitis,http://aims.fao.org/aos/agrovoc/c_4644
+mastitis metritis agalactia syndrome,http://aims.fao.org/aos/agrovoc/c_16777,endometritis,http://aims.fao.org/aos/agrovoc/c_10600
+mastitis metritis agalactia syndrome,http://aims.fao.org/aos/agrovoc/c_16777,agalactia,http://aims.fao.org/aos/agrovoc/c_8655
+mastitis metritis agalactia syndrome,http://aims.fao.org/aos/agrovoc/c_16777,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+sex differentiation disorders,http://aims.fao.org/aos/agrovoc/c_7012,sex differentiation,http://aims.fao.org/aos/agrovoc/c_26822
+female infertility,http://aims.fao.org/aos/agrovoc/c_2851,females,http://aims.fao.org/aos/agrovoc/c_15969
+false pregnancy,http://aims.fao.org/aos/agrovoc/c_6309,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+male infertility,http://aims.fao.org/aos/agrovoc/c_4537,males,http://aims.fao.org/aos/agrovoc/c_15995
+male sterility,http://aims.fao.org/aos/agrovoc/c_4537,males,http://aims.fao.org/aos/agrovoc/c_15995
+copulation failure,http://aims.fao.org/aos/agrovoc/c_3816,copulation,http://aims.fao.org/aos/agrovoc/c_1876
+mating failure,http://aims.fao.org/aos/agrovoc/c_3816,copulation,http://aims.fao.org/aos/agrovoc/c_1876
+lactation disorders,http://aims.fao.org/aos/agrovoc/c_4141,lactation,http://aims.fao.org/aos/agrovoc/c_4140
+milk incontinence,http://aims.fao.org/aos/agrovoc/c_12555,milk,http://aims.fao.org/aos/agrovoc/c_4826
+leg weakness,http://aims.fao.org/aos/agrovoc/c_26797,legs,http://aims.fao.org/aos/agrovoc/c_12129
+bone marrow disorders,http://aims.fao.org/aos/agrovoc/c_999,bone marrow,http://aims.fao.org/aos/agrovoc/c_998
+haematopoiesis disorders,http://aims.fao.org/aos/agrovoc/c_999,haematopoiesis,http://aims.fao.org/aos/agrovoc/c_3461
+hematopoiesis disorders,http://aims.fao.org/aos/agrovoc/c_331065,haematopoiesis,http://aims.fao.org/aos/agrovoc/c_3461
+defective intestinal absorption,http://aims.fao.org/aos/agrovoc/c_12341,digestive absorption,http://aims.fao.org/aos/agrovoc/c_2272
+rumen atony,http://aims.fao.org/aos/agrovoc/c_13990,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+growth disorders,http://aims.fao.org/aos/agrovoc/c_3396,growth,http://aims.fao.org/aos/agrovoc/c_3394
+development disorders,http://aims.fao.org/aos/agrovoc/c_3396,development,http://aims.fao.org/aos/agrovoc/c_331049
+child stunting,http://aims.fao.org/aos/agrovoc/c_98822596,children,http://aims.fao.org/aos/agrovoc/c_1547
+pigmentation disorders,http://aims.fao.org/aos/agrovoc/c_5874,pigmentation,http://aims.fao.org/aos/agrovoc/c_5873
+carbon dioxide poisoning,http://aims.fao.org/aos/agrovoc/c_56dc3a23,carbon dioxide,http://aims.fao.org/aos/agrovoc/c_1302
+vision disorders,http://aims.fao.org/aos/agrovoc/c_8267,vision,http://aims.fao.org/aos/agrovoc/c_8266
+night blindness,http://aims.fao.org/aos/agrovoc/c_ca786a84,night-time,http://aims.fao.org/aos/agrovoc/c_af80ab2b
+night blindness,http://aims.fao.org/aos/agrovoc/c_ca786a84,blindness,http://aims.fao.org/aos/agrovoc/c_958
+equilibrium disorders,http://aims.fao.org/aos/agrovoc/c_2629,equilibrium,http://aims.fao.org/aos/agrovoc/c_5364a9a1
+balance disorders,http://aims.fao.org/aos/agrovoc/c_2629,balances,http://aims.fao.org/aos/agrovoc/c_9062
+urination disorders,http://aims.fao.org/aos/agrovoc/c_8102,urination,http://aims.fao.org/aos/agrovoc/c_8101
+porcine stress syndrome,http://aims.fao.org/aos/agrovoc/c_32519,stress,http://aims.fao.org/aos/agrovoc/c_7452
+porcine stress syndrome,http://aims.fao.org/aos/agrovoc/c_32519,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+malignant hyperthermia syndrome,http://aims.fao.org/aos/agrovoc/c_32519,hyperthermia,http://aims.fao.org/aos/agrovoc/c_3764
+malignant hyperthermia syndrome,http://aims.fao.org/aos/agrovoc/c_32519,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+mhs (malignant hyperthermia syndro),http://aims.fao.org/aos/agrovoc/c_32519,hyperthermia,http://aims.fao.org/aos/agrovoc/c_3764
+plant disorders,http://aims.fao.org/aos/agrovoc/c_33112,plants,http://aims.fao.org/aos/agrovoc/c_5993
+forest decline,http://aims.fao.org/aos/agrovoc/c_29300,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forest dieback,http://aims.fao.org/aos/agrovoc/c_32455,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forest dieback,http://aims.fao.org/aos/agrovoc/c_32455,dieback,http://aims.fao.org/aos/agrovoc/c_24017
+tissue proliferation,http://aims.fao.org/aos/agrovoc/c_37411,tissue,http://aims.fao.org/aos/agrovoc/c_49880
+food poisoning,http://aims.fao.org/aos/agrovoc/c_10963,foods,http://aims.fao.org/aos/agrovoc/c_3032
+diarrhetic shellfish poisoning,http://aims.fao.org/aos/agrovoc/c_18b12be6,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+diarrhoeic shellfish poisoning,http://aims.fao.org/aos/agrovoc/c_18b12be6,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+shellfish poisoning (diarrhetic),http://aims.fao.org/aos/agrovoc/c_18b12be6,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+mushroom poisoning,http://aims.fao.org/aos/agrovoc/c_37588,edible fungi,http://aims.fao.org/aos/agrovoc/c_2487
+colony collapse disorder,http://aims.fao.org/aos/agrovoc/c_19f1f6c3,colonies,http://aims.fao.org/aos/agrovoc/c_b3e7e4e4
+colony collapse disorder,http://aims.fao.org/aos/agrovoc/c_19f1f6c3,collapse,http://aims.fao.org/aos/agrovoc/c_10004
+coral bleaching,http://aims.fao.org/aos/agrovoc/c_fcf474bc,corals,http://aims.fao.org/aos/agrovoc/c_1882
+coral bleaching,http://aims.fao.org/aos/agrovoc/c_fcf474bc,bleaching,http://aims.fao.org/aos/agrovoc/c_953
+bleaching (coral),http://aims.fao.org/aos/agrovoc/c_fcf474bc,bleaching,http://aims.fao.org/aos/agrovoc/c_953
+bleaching (coral),http://aims.fao.org/aos/agrovoc/c_fcf474bc,corals,http://aims.fao.org/aos/agrovoc/c_1882
+coral reef bleaching,http://aims.fao.org/aos/agrovoc/c_fcf474bc,coral reefs,http://aims.fao.org/aos/agrovoc/c_1880
+biological interaction,http://aims.fao.org/aos/agrovoc/c_49896,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+plant competition,http://aims.fao.org/aos/agrovoc/c_35264,plants,http://aims.fao.org/aos/agrovoc/c_5993
+crop weed competition,http://aims.fao.org/aos/agrovoc/c_35265,crops,http://aims.fao.org/aos/agrovoc/c_1972
+crop weed competition,http://aims.fao.org/aos/agrovoc/c_35265,weed competition,http://aims.fao.org/aos/agrovoc/c_35266
+weed competition,http://aims.fao.org/aos/agrovoc/c_35266,weeds,http://aims.fao.org/aos/agrovoc/c_8347
+pollen competition,http://aims.fao.org/aos/agrovoc/c_35267,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+animal competition,http://aims.fao.org/aos/agrovoc/c_35268,animals,http://aims.fao.org/aos/agrovoc/c_444
+pest infestation,http://aims.fao.org/aos/agrovoc/c_3855,pests,http://aims.fao.org/aos/agrovoc/c_5741
+host preferences,http://aims.fao.org/aos/agrovoc/c_680d28ce,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host suitability,http://aims.fao.org/aos/agrovoc/c_680d28ce,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host range,http://aims.fao.org/aos/agrovoc/c_facd9fd6,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host parasite relations,http://aims.fao.org/aos/agrovoc/c_11620,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+root nodulation,http://aims.fao.org/aos/agrovoc/c_6643,roots,http://aims.fao.org/aos/agrovoc/c_6651
+mycorrhizal infection,http://aims.fao.org/aos/agrovoc/c_36163,infection,http://aims.fao.org/aos/agrovoc/c_3852
+host pathogen relations,http://aims.fao.org/aos/agrovoc/c_34017,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host pathogen relations,http://aims.fao.org/aos/agrovoc/c_34017,pathogens,http://aims.fao.org/aos/agrovoc/c_5630
+host pathogen interaction,http://aims.fao.org/aos/agrovoc/c_34017,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host pathogen interaction,http://aims.fao.org/aos/agrovoc/c_34017,pathogens,http://aims.fao.org/aos/agrovoc/c_5630
+host pathogen interaction,http://aims.fao.org/aos/agrovoc/c_34017,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+host pathogen systems,http://aims.fao.org/aos/agrovoc/c_34017,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host pathogen systems,http://aims.fao.org/aos/agrovoc/c_34017,pathogens,http://aims.fao.org/aos/agrovoc/c_5630
+host pathogen systems,http://aims.fao.org/aos/agrovoc/c_34017,systems,http://aims.fao.org/aos/agrovoc/c_330985
+plant damage,http://aims.fao.org/aos/agrovoc/c_49898,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant damage,http://aims.fao.org/aos/agrovoc/c_49898,damage,http://aims.fao.org/aos/agrovoc/c_26768
+leaf removal,http://aims.fao.org/aos/agrovoc/c_15579,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+leaf removal,http://aims.fao.org/aos/agrovoc/c_15579,removal,http://aims.fao.org/aos/agrovoc/c_2042f69b
+root lodging,http://aims.fao.org/aos/agrovoc/c_e4baeacb,roots,http://aims.fao.org/aos/agrovoc/c_6651
+nutrient interactions,http://aims.fao.org/aos/agrovoc/c_330720,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nutrient interactions,http://aims.fao.org/aos/agrovoc/c_330720,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+genetic phenomena,http://aims.fao.org/aos/agrovoc/c_330734,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+inbreeding depression,http://aims.fao.org/aos/agrovoc/c_34858,inbreeding,http://aims.fao.org/aos/agrovoc/c_3817
+genotype-environment interaction,http://aims.fao.org/aos/agrovoc/c_24577,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+hybrid vigour,http://aims.fao.org/aos/agrovoc/c_3705,hybrids,http://aims.fao.org/aos/agrovoc/c_3707
+hybrid vigour,http://aims.fao.org/aos/agrovoc/c_3705,vigour,http://aims.fao.org/aos/agrovoc/c_37512
+combining ability,http://aims.fao.org/aos/agrovoc/c_15954,ability,http://aims.fao.org/aos/agrovoc/c_49830
+parent combining ability,http://aims.fao.org/aos/agrovoc/c_15954,parents,http://aims.fao.org/aos/agrovoc/c_5585
+phenotypic plasticity,http://aims.fao.org/aos/agrovoc/c_12386358,plasticity,http://aims.fao.org/aos/agrovoc/c_28498
+coefficient of parentage,http://aims.fao.org/aos/agrovoc/c_d3c5a238,ancestry,http://aims.fao.org/aos/agrovoc/c_394
+nucleotide sequence,http://aims.fao.org/aos/agrovoc/c_27583,nucleotides,http://aims.fao.org/aos/agrovoc/c_5259
+DNA sequences,http://aims.fao.org/aos/agrovoc/c_27812,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+replication origin,http://aims.fao.org/aos/agrovoc/c_35807,replication,http://aims.fao.org/aos/agrovoc/c_17857
+replication origin,http://aims.fao.org/aos/agrovoc/c_35807,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+genetic markers,http://aims.fao.org/aos/agrovoc/c_24030,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+sequence-tagged sites,http://aims.fao.org/aos/agrovoc/c_a1e6f274,site,http://aims.fao.org/aos/agrovoc/c_331000
+RNA sequence,http://aims.fao.org/aos/agrovoc/c_27813,RNA,http://aims.fao.org/aos/agrovoc/c_6618
+gene regulatory networks,http://aims.fao.org/aos/agrovoc/c_2c7598a6,genes,http://aims.fao.org/aos/agrovoc/c_3214
+gene regulatory networks,http://aims.fao.org/aos/agrovoc/c_2c7598a6,networks,http://aims.fao.org/aos/agrovoc/c_50266
+genetic regulatory networks,http://aims.fao.org/aos/agrovoc/c_2c7598a6,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+genetic regulatory networks,http://aims.fao.org/aos/agrovoc/c_2c7598a6,networks,http://aims.fao.org/aos/agrovoc/c_50266
+nitrogen fixation genes,http://aims.fao.org/aos/agrovoc/c_331014,nitrogen fixation,http://aims.fao.org/aos/agrovoc/c_5196
+nif genes,http://aims.fao.org/aos/agrovoc/c_331014,nitrogen fixation,http://aims.fao.org/aos/agrovoc/c_5196
+MHC system,http://aims.fao.org/aos/agrovoc/c_27568,systems,http://aims.fao.org/aos/agrovoc/c_330985
+linkage groups,http://aims.fao.org/aos/agrovoc/c_005b54e4,groups,http://aims.fao.org/aos/agrovoc/c_50227
+selection signatures,http://aims.fao.org/aos/agrovoc/c_f56517b0,selection,http://aims.fao.org/aos/agrovoc/c_6951
+signatures of selection,http://aims.fao.org/aos/agrovoc/c_f56517b0,selection,http://aims.fao.org/aos/agrovoc/c_6951
+genomic features,http://aims.fao.org/aos/agrovoc/c_331060,genomics,http://aims.fao.org/aos/agrovoc/c_92382
+genomic features,http://aims.fao.org/aos/agrovoc/c_331060,features,http://aims.fao.org/aos/agrovoc/c_331061
+genetic maps,http://aims.fao.org/aos/agrovoc/c_24002,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+genetic maps,http://aims.fao.org/aos/agrovoc/c_24002,maps,http://aims.fao.org/aos/agrovoc/c_b43d8acf
+chromosome maps,http://aims.fao.org/aos/agrovoc/c_24002,chromosomes,http://aims.fao.org/aos/agrovoc/c_1598
+chromosome maps,http://aims.fao.org/aos/agrovoc/c_24002,maps,http://aims.fao.org/aos/agrovoc/c_b43d8acf
+gene dosage,http://aims.fao.org/aos/agrovoc/c_36909,genes,http://aims.fao.org/aos/agrovoc/c_3214
+gene dosage,http://aims.fao.org/aos/agrovoc/c_36909,dosage,http://aims.fao.org/aos/agrovoc/c_36906
+gene dose,http://aims.fao.org/aos/agrovoc/c_36909,genes,http://aims.fao.org/aos/agrovoc/c_3214
+haploid genotypes,http://aims.fao.org/aos/agrovoc/c_063fb635,haploidy,http://aims.fao.org/aos/agrovoc/c_3490
+blood groups,http://aims.fao.org/aos/agrovoc/c_965,blood,http://aims.fao.org/aos/agrovoc/c_959
+blood groups,http://aims.fao.org/aos/agrovoc/c_965,groups,http://aims.fao.org/aos/agrovoc/c_50227
+colour sidedness,http://aims.fao.org/aos/agrovoc/c_301c7c39,colour,http://aims.fao.org/aos/agrovoc/c_1773
+allele frequency,http://aims.fao.org/aos/agrovoc/c_331020,alleles,http://aims.fao.org/aos/agrovoc/c_8724
+maternal effects,http://aims.fao.org/aos/agrovoc/c_8af76570,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+paternal effects,http://aims.fao.org/aos/agrovoc/c_9d60234f,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+additive effect,http://aims.fao.org/aos/agrovoc/c_331319,additives,http://aims.fao.org/aos/agrovoc/c_118
+additive effect,http://aims.fao.org/aos/agrovoc/c_331319,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+rest (quiescence),http://aims.fao.org/aos/agrovoc/c_2369,rest,http://aims.fao.org/aos/agrovoc/c_6534
+rest (dormancy),http://aims.fao.org/aos/agrovoc/c_2369,rest,http://aims.fao.org/aos/agrovoc/c_6534
+natural overwintering,http://aims.fao.org/aos/agrovoc/c_3592,overwintering,http://aims.fao.org/aos/agrovoc/c_5460
+seed dormancy,http://aims.fao.org/aos/agrovoc/c_14168,seed,http://aims.fao.org/aos/agrovoc/c_6927
+bud dormancy,http://aims.fao.org/aos/agrovoc/c_15763,buds,http://aims.fao.org/aos/agrovoc/c_1135
+breeding seasons,http://aims.fao.org/aos/agrovoc/c_1080,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+breeding seasons,http://aims.fao.org/aos/agrovoc/c_1080,seasons,http://aims.fao.org/aos/agrovoc/c_6911
+biological clock,http://aims.fao.org/aos/agrovoc/c_9865,chronometers,http://aims.fao.org/aos/agrovoc/c_a62487da
+body clock,http://aims.fao.org/aos/agrovoc/c_9865,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body clock,http://aims.fao.org/aos/agrovoc/c_9865,chronometers,http://aims.fao.org/aos/agrovoc/c_a62487da
+sexual heat,http://aims.fao.org/aos/agrovoc/c_5322,heat,http://aims.fao.org/aos/agrovoc/c_3519
+induced spawning,http://aims.fao.org/aos/agrovoc/c_27934,spawning,http://aims.fao.org/aos/agrovoc/c_14490
+stripping of fish eggs,http://aims.fao.org/aos/agrovoc/c_27934,fish eggs,http://aims.fao.org/aos/agrovoc/c_47f25b73
+spawning seasons,http://aims.fao.org/aos/agrovoc/c_fc2d9b85,spawning,http://aims.fao.org/aos/agrovoc/c_14490
+spawning seasons,http://aims.fao.org/aos/agrovoc/c_fc2d9b85,seasons,http://aims.fao.org/aos/agrovoc/c_6911
+chromosome aberrations,http://aims.fao.org/aos/agrovoc/c_27484,chromosomes,http://aims.fao.org/aos/agrovoc/c_1598
+organelle mutation,http://aims.fao.org/aos/agrovoc/c_37587,cytoplasmic organelles,http://aims.fao.org/aos/agrovoc/c_2095
+point mutation,http://aims.fao.org/aos/agrovoc/c_f8783bf1,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+cell mediated immunity,http://aims.fao.org/aos/agrovoc/c_9692,cells,http://aims.fao.org/aos/agrovoc/c_1418
+lymphocyte proliferation,http://aims.fao.org/aos/agrovoc/c_29651,lymphocytes,http://aims.fao.org/aos/agrovoc/c_4484
+lymphocyte transformation,http://aims.fao.org/aos/agrovoc/c_29651,lymphocytes,http://aims.fao.org/aos/agrovoc/c_4484
+lymphocyte transformation,http://aims.fao.org/aos/agrovoc/c_29651,transformation,http://aims.fao.org/aos/agrovoc/c_331037
+lymphocyte activation,http://aims.fao.org/aos/agrovoc/c_29651,lymphocytes,http://aims.fao.org/aos/agrovoc/c_4484
+blastogenesis (lymphocytes),http://aims.fao.org/aos/agrovoc/c_29651,lymphocytes,http://aims.fao.org/aos/agrovoc/c_4484
+antibody formation,http://aims.fao.org/aos/agrovoc/c_8850,antibodies,http://aims.fao.org/aos/agrovoc/c_493
+immune tolerance,http://aims.fao.org/aos/agrovoc/c_29610,tolerance,http://aims.fao.org/aos/agrovoc/c_37740
+antigen antibody reactions,http://aims.fao.org/aos/agrovoc/c_503,antigens,http://aims.fao.org/aos/agrovoc/c_504
+antigen antibody reactions,http://aims.fao.org/aos/agrovoc/c_503,antibodies,http://aims.fao.org/aos/agrovoc/c_493
+cross reaction (antigen antibody),http://aims.fao.org/aos/agrovoc/c_503,antigens,http://aims.fao.org/aos/agrovoc/c_504
+cross reaction (antigen antibody),http://aims.fao.org/aos/agrovoc/c_503,antibodies,http://aims.fao.org/aos/agrovoc/c_493
+virus neutralization,http://aims.fao.org/aos/agrovoc/c_503,viruses,http://aims.fao.org/aos/agrovoc/c_8262
+virus neutralization,http://aims.fao.org/aos/agrovoc/c_503,neutralization,http://aims.fao.org/aos/agrovoc/c_5151
+herd immunity,http://aims.fao.org/aos/agrovoc/c_a0a6167e,herds,http://aims.fao.org/aos/agrovoc/c_3569
+community immunity,http://aims.fao.org/aos/agrovoc/c_a0a6167e,communities,http://aims.fao.org/aos/agrovoc/c_50182
+selection responses,http://aims.fao.org/aos/agrovoc/c_34099,selection,http://aims.fao.org/aos/agrovoc/c_6951
+correlated responses to selection,http://aims.fao.org/aos/agrovoc/c_34099,toes,http://aims.fao.org/aos/agrovoc/c_14912
+correlated responses to selection,http://aims.fao.org/aos/agrovoc/c_34099,selection,http://aims.fao.org/aos/agrovoc/c_6951
+biological development,http://aims.fao.org/aos/agrovoc/c_921,development,http://aims.fao.org/aos/agrovoc/c_331049
+seed aging,http://aims.fao.org/aos/agrovoc/c_3d8dc048,seed,http://aims.fao.org/aos/agrovoc/c_6927
+plant senescence,http://aims.fao.org/aos/agrovoc/c_14200,plants,http://aims.fao.org/aos/agrovoc/c_5993
+cell differentiation,http://aims.fao.org/aos/agrovoc/c_2265,cells,http://aims.fao.org/aos/agrovoc/c_1418
+tissue differentiation,http://aims.fao.org/aos/agrovoc/c_2265,tissue,http://aims.fao.org/aos/agrovoc/c_49880
+wood formation,http://aims.fao.org/aos/agrovoc/c_4328,wood,http://aims.fao.org/aos/agrovoc/c_8421
+sex differentiation,http://aims.fao.org/aos/agrovoc/c_26822,sex,http://aims.fao.org/aos/agrovoc/c_7010
+natural embryo implantation,http://aims.fao.org/aos/agrovoc/c_5180,implantation,http://aims.fao.org/aos/agrovoc/c_3811
+ovule implantation,http://aims.fao.org/aos/agrovoc/c_5180,implantation,http://aims.fao.org/aos/agrovoc/c_3811
+aging of products,http://aims.fao.org/aos/agrovoc/c_13933,ageing,http://aims.fao.org/aos/agrovoc/c_192
+aging of products,http://aims.fao.org/aos/agrovoc/c_13933,products,http://aims.fao.org/aos/agrovoc/c_6211
+maturation of products,http://aims.fao.org/aos/agrovoc/c_13933,maturation,http://aims.fao.org/aos/agrovoc/c_4655
+maturation of products,http://aims.fao.org/aos/agrovoc/c_13933,products,http://aims.fao.org/aos/agrovoc/c_6211
+cheese ripening,http://aims.fao.org/aos/agrovoc/c_12dd365e,cheese,http://aims.fao.org/aos/agrovoc/c_1507
+skeletal age,http://aims.fao.org/aos/agrovoc/c_27949,age,http://aims.fao.org/aos/agrovoc/c_186
+bone formation,http://aims.fao.org/aos/agrovoc/c_997,bones,http://aims.fao.org/aos/agrovoc/c_1001
+calcification (skeleton),http://aims.fao.org/aos/agrovoc/c_997,bones,http://aims.fao.org/aos/agrovoc/c_1001
+bone mineralization,http://aims.fao.org/aos/agrovoc/c_997,bones,http://aims.fao.org/aos/agrovoc/c_1001
+bone mineralization,http://aims.fao.org/aos/agrovoc/c_997,mineralization,http://aims.fao.org/aos/agrovoc/c_15999
+natural increase of an organism,http://aims.fao.org/aos/agrovoc/c_3394,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+diameter increment,http://aims.fao.org/aos/agrovoc/c_34812,diameter,http://aims.fao.org/aos/agrovoc/c_16072
+cell elongation,http://aims.fao.org/aos/agrovoc/c_35044,cells,http://aims.fao.org/aos/agrovoc/c_1418
+pollen elongation,http://aims.fao.org/aos/agrovoc/c_35045,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+regeneration (biological),http://aims.fao.org/aos/agrovoc/c_27c1f242,regeneration,http://aims.fao.org/aos/agrovoc/c_6486
+plant growth,http://aims.fao.org/aos/agrovoc/c_08842b17,plants,http://aims.fao.org/aos/agrovoc/c_5993
+child growth,http://aims.fao.org/aos/agrovoc/c_9dd0586f,children,http://aims.fao.org/aos/agrovoc/c_1547
+dormancy breaking,http://aims.fao.org/aos/agrovoc/c_26865,dormancy,http://aims.fao.org/aos/agrovoc/c_2369
+disease course,http://aims.fao.org/aos/agrovoc/c_24881,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+wound healing,http://aims.fao.org/aos/agrovoc/c_15982,wounds,http://aims.fao.org/aos/agrovoc/c_15414
+acute disease,http://aims.fao.org/aos/agrovoc/c_29247,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+chronic diseases,http://aims.fao.org/aos/agrovoc/c_29248,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+disease transmission,http://aims.fao.org/aos/agrovoc/c_2329,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+disease transmission,http://aims.fao.org/aos/agrovoc/c_2329,transmissions,http://aims.fao.org/aos/agrovoc/c_7870
+subclinical stages of disease,http://aims.fao.org/aos/agrovoc/c_16440,stages,http://aims.fao.org/aos/agrovoc/c_330995
+subclinical stages of disease,http://aims.fao.org/aos/agrovoc/c_16440,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+weight gain,http://aims.fao.org/aos/agrovoc/c_8350,weight,http://aims.fao.org/aos/agrovoc/c_8349
+liveweight gain,http://aims.fao.org/aos/agrovoc/c_8350,live weight,http://aims.fao.org/aos/agrovoc/c_14040d39
+plant animal relations,http://aims.fao.org/aos/agrovoc/c_32513,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant animal relations,http://aims.fao.org/aos/agrovoc/c_32513,animals,http://aims.fao.org/aos/agrovoc/c_444
+mortality causes,http://aims.fao.org/aos/agrovoc/c_5420914a,mortality,http://aims.fao.org/aos/agrovoc/c_4945
+plankton entrainment,http://aims.fao.org/aos/agrovoc/c_69afeecf,plankton,http://aims.fao.org/aos/agrovoc/c_5950
+power plant entrainment,http://aims.fao.org/aos/agrovoc/c_69afeecf,power plants,http://aims.fao.org/aos/agrovoc/c_17b251b2
+settlement (larvae),http://aims.fao.org/aos/agrovoc/c_12f3d2b6,larvae,http://aims.fao.org/aos/agrovoc/c_4204
+mammal entanglement,http://aims.fao.org/aos/agrovoc/c_355f5728,mammals,http://aims.fao.org/aos/agrovoc/c_4560
+turtle entanglement,http://aims.fao.org/aos/agrovoc/c_4e158b83,turtles,http://aims.fao.org/aos/agrovoc/c_8023
+fish entanglement,http://aims.fao.org/aos/agrovoc/c_570868be,fish,http://aims.fao.org/aos/agrovoc/c_15903
+bird entanglement,http://aims.fao.org/aos/agrovoc/c_d42e3e94,birds,http://aims.fao.org/aos/agrovoc/c_935
+parasite attachment,http://aims.fao.org/aos/agrovoc/c_370c48d6,parasites,http://aims.fao.org/aos/agrovoc/c_5574
+attachment (parasites),http://aims.fao.org/aos/agrovoc/c_370c48d6,parasites,http://aims.fao.org/aos/agrovoc/c_5574
+lamprey attachment,http://aims.fao.org/aos/agrovoc/c_d9003842,lampreys,http://aims.fao.org/aos/agrovoc/c_4169
+attachment (lampreys),http://aims.fao.org/aos/agrovoc/c_d9003842,lampreys,http://aims.fao.org/aos/agrovoc/c_4169
+plankton blooms,http://aims.fao.org/aos/agrovoc/c_32365,plankton,http://aims.fao.org/aos/agrovoc/c_5950
+phytoplankton blooms,http://aims.fao.org/aos/agrovoc/c_32365,phytoplankton,http://aims.fao.org/aos/agrovoc/c_13344
+water blooms,http://aims.fao.org/aos/agrovoc/c_32365,water,http://aims.fao.org/aos/agrovoc/c_8309
+red tide,http://aims.fao.org/aos/agrovoc/c_32531,tides,http://aims.fao.org/aos/agrovoc/c_7764
+fish impingement,http://aims.fao.org/aos/agrovoc/c_6aa8bd01,fish,http://aims.fao.org/aos/agrovoc/c_15903
+power plant impingement,http://aims.fao.org/aos/agrovoc/c_6aa8bd01,power plants,http://aims.fao.org/aos/agrovoc/c_17b251b2
+reef formation,http://aims.fao.org/aos/agrovoc/c_272677a7,reefs,http://aims.fao.org/aos/agrovoc/c_92343
+whale stranding,http://aims.fao.org/aos/agrovoc/c_98eb88ff,whales,http://aims.fao.org/aos/agrovoc/c_8372
+domestication syndrome,http://aims.fao.org/aos/agrovoc/c_88b06706,domestication,http://aims.fao.org/aos/agrovoc/c_2360
+domestication syndrome,http://aims.fao.org/aos/agrovoc/c_88b06706,symptoms,http://aims.fao.org/aos/agrovoc/c_7566
+chemical phenomena,http://aims.fao.org/aos/agrovoc/c_330706,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+chemical contamination,http://aims.fao.org/aos/agrovoc/c_28319,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+biochemical oxidation,http://aims.fao.org/aos/agrovoc/c_9257,oxidation,http://aims.fao.org/aos/agrovoc/c_5472
+protein synthesis,http://aims.fao.org/aos/agrovoc/c_6258,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+protein biosynthesis,http://aims.fao.org/aos/agrovoc/c_6258,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+synergistic effect,http://aims.fao.org/aos/agrovoc/c_16149,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+chemical degradation,http://aims.fao.org/aos/agrovoc/c_37525,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+cellulose digestion,http://aims.fao.org/aos/agrovoc/c_27481,cellulose,http://aims.fao.org/aos/agrovoc/c_1423
+cellulose digestion,http://aims.fao.org/aos/agrovoc/c_27481,digestion,http://aims.fao.org/aos/agrovoc/c_2271
+enzymatic hydrolysis,http://aims.fao.org/aos/agrovoc/c_27512,hydrolysis,http://aims.fao.org/aos/agrovoc/c_24940
+material fatigue,http://aims.fao.org/aos/agrovoc/c_b4064dae,materials,http://aims.fao.org/aos/agrovoc/c_92337
+metal fatigue,http://aims.fao.org/aos/agrovoc/c_3d7c6e30,metals,http://aims.fao.org/aos/agrovoc/c_29036
+lipid peroxidation,http://aims.fao.org/aos/agrovoc/c_34043,lipids,http://aims.fao.org/aos/agrovoc/c_4362
+browning reaction,http://aims.fao.org/aos/agrovoc/c_15994,browning,http://aims.fao.org/aos/agrovoc/c_28268
+nonenzymic browning,http://aims.fao.org/aos/agrovoc/c_15994,browning,http://aims.fao.org/aos/agrovoc/c_28268
+nitrogen mineralization,http://aims.fao.org/aos/agrovoc/c_36243,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+carbon mineralization,http://aims.fao.org/aos/agrovoc/c_36244,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+carbon substitution,http://aims.fao.org/aos/agrovoc/c_9000014,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+oxidation reduction reactions,http://aims.fao.org/aos/agrovoc/c_27587,oxidation,http://aims.fao.org/aos/agrovoc/c_5472
+oxidation reduction reactions,http://aims.fao.org/aos/agrovoc/c_27587,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+ionic balance,http://aims.fao.org/aos/agrovoc/c_3933,balances,http://aims.fao.org/aos/agrovoc/c_9062
+structure activity relationships,http://aims.fao.org/aos/agrovoc/c_37258,structures,http://aims.fao.org/aos/agrovoc/c_330905
+structure activity relationships,http://aims.fao.org/aos/agrovoc/c_37258,activities,http://aims.fao.org/aos/agrovoc/c_330834
+food fraud,http://aims.fao.org/aos/agrovoc/c_e89c7744,foods,http://aims.fao.org/aos/agrovoc/c_3032
+human trafficking,http://aims.fao.org/aos/agrovoc/c_3c5c2502,humans,http://aims.fao.org/aos/agrovoc/c_4586
+town and country,http://aims.fao.org/aos/agrovoc/c_6709,towns,http://aims.fao.org/aos/agrovoc/c_7823
+town and country,http://aims.fao.org/aos/agrovoc/c_6709,countries,http://aims.fao.org/aos/agrovoc/c_330904
+conflict of interest,http://aims.fao.org/aos/agrovoc/c_854e9e62,conflicts,http://aims.fao.org/aos/agrovoc/c_73599179
+public perception,http://aims.fao.org/aos/agrovoc/c_33530,senses,http://aims.fao.org/aos/agrovoc/c_27922
+land conflicts,http://aims.fao.org/aos/agrovoc/c_e236b2b1,land,http://aims.fao.org/aos/agrovoc/c_4172
+land dispute,http://aims.fao.org/aos/agrovoc/c_1ada969a,land,http://aims.fao.org/aos/agrovoc/c_4172
+fishery disputes,http://aims.fao.org/aos/agrovoc/c_5f592810,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fish wars,http://aims.fao.org/aos/agrovoc/c_5f592810,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish wars,http://aims.fao.org/aos/agrovoc/c_5f592810,war,http://aims.fao.org/aos/agrovoc/c_37946
+fishery conflicts,http://aims.fao.org/aos/agrovoc/c_5f592810,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishery litigation,http://aims.fao.org/aos/agrovoc/c_5f592810,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+trade disputes,http://aims.fao.org/aos/agrovoc/c_0b9680ad,trade,http://aims.fao.org/aos/agrovoc/c_7848
+weather hazards,http://aims.fao.org/aos/agrovoc/c_29581,weather,http://aims.fao.org/aos/agrovoc/c_15292
+health hazards,http://aims.fao.org/aos/agrovoc/c_34013,health,http://aims.fao.org/aos/agrovoc/c_3511
+health risks,http://aims.fao.org/aos/agrovoc/c_34013,health,http://aims.fao.org/aos/agrovoc/c_3511
+health risks,http://aims.fao.org/aos/agrovoc/c_34013,risk,http://aims.fao.org/aos/agrovoc/c_6612
+occupational disorders,http://aims.fao.org/aos/agrovoc/c_24057,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+occupational health hazards,http://aims.fao.org/aos/agrovoc/c_24057,occupational health,http://aims.fao.org/aos/agrovoc/c_35236
+occupational accidents,http://aims.fao.org/aos/agrovoc/c_24057,accidents,http://aims.fao.org/aos/agrovoc/c_4121d8d0
+occupational diseases,http://aims.fao.org/aos/agrovoc/c_24057,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+work strain,http://aims.fao.org/aos/agrovoc/c_24057,strains,http://aims.fao.org/aos/agrovoc/c_ae97fbc0
+work related stress factors,http://aims.fao.org/aos/agrovoc/c_24057,stress,http://aims.fao.org/aos/agrovoc/c_7452
+work related stress factors,http://aims.fao.org/aos/agrovoc/c_24057,factors,http://aims.fao.org/aos/agrovoc/c_331093
+pesticide exposure,http://aims.fao.org/aos/agrovoc/c_d8d92acf,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+diving accidents,http://aims.fao.org/aos/agrovoc/c_64adad0f,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+chemical spills,http://aims.fao.org/aos/agrovoc/c_1ff10561,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+gas well blowouts,http://aims.fao.org/aos/agrovoc/c_c0dedc80,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gas well blowouts,http://aims.fao.org/aos/agrovoc/c_c0dedc80,wells,http://aims.fao.org/aos/agrovoc/c_8354
+oil well blowouts,http://aims.fao.org/aos/agrovoc/c_c0dedc80,oils,http://aims.fao.org/aos/agrovoc/c_5334
+oil well blowouts,http://aims.fao.org/aos/agrovoc/c_c0dedc80,wells,http://aims.fao.org/aos/agrovoc/c_8354
+diving hazards,http://aims.fao.org/aos/agrovoc/c_03281b5e,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+shark attacks,http://aims.fao.org/aos/agrovoc/c_7fc79af3,sharks,http://aims.fao.org/aos/agrovoc/c_7028
+radiation hazards,http://aims.fao.org/aos/agrovoc/c_1df75340,radiation,http://aims.fao.org/aos/agrovoc/c_6422
+fire hazards,http://aims.fao.org/aos/agrovoc/c_ffaa1eb4,fires,http://aims.fao.org/aos/agrovoc/c_2915
+mineral deficiencies,http://aims.fao.org/aos/agrovoc/c_4849,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+trace element deficiencies,http://aims.fao.org/aos/agrovoc/c_7833,trace elements,http://aims.fao.org/aos/agrovoc/c_7834
+soil deficiencies,http://aims.fao.org/aos/agrovoc/c_7166,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil nutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_7166,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil nutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_7166,nutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_34868
+soil mineral deficiencies,http://aims.fao.org/aos/agrovoc/c_7166,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil mineral deficiencies,http://aims.fao.org/aos/agrovoc/c_7166,mineral deficiencies,http://aims.fao.org/aos/agrovoc/c_4849
+nutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_34868,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+protein deficiencies,http://aims.fao.org/aos/agrovoc/c_6252,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+protein malnutrition,http://aims.fao.org/aos/agrovoc/c_6252,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+protein malnutrition,http://aims.fao.org/aos/agrovoc/c_6252,malnutrition,http://aims.fao.org/aos/agrovoc/c_4543
+vitamin deficiencies,http://aims.fao.org/aos/agrovoc/c_8272,vitamins,http://aims.fao.org/aos/agrovoc/c_8274
+micronutrient deficiencies,http://aims.fao.org/aos/agrovoc/c_92b51561,trace elements,http://aims.fao.org/aos/agrovoc/c_7834
+water availability,http://aims.fao.org/aos/agrovoc/c_8310,water,http://aims.fao.org/aos/agrovoc/c_8309
+water availability,http://aims.fao.org/aos/agrovoc/c_8310,availability,http://aims.fao.org/aos/agrovoc/c_bc301662
+greenhouse effect,http://aims.fao.org/aos/agrovoc/c_15585,greenhouses,http://aims.fao.org/aos/agrovoc/c_3379
+greenhouse effect,http://aims.fao.org/aos/agrovoc/c_15585,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+soil movement,http://aims.fao.org/aos/agrovoc/c_7180,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil movement,http://aims.fao.org/aos/agrovoc/c_7180,movement,http://aims.fao.org/aos/agrovoc/c_4961
+mud flows,http://aims.fao.org/aos/agrovoc/c_f3c459ea,mud,http://aims.fao.org/aos/agrovoc/c_4973
+mass movement,http://aims.fao.org/aos/agrovoc/c_46829edb,mass,http://aims.fao.org/aos/agrovoc/c_4639
+frost heave,http://aims.fao.org/aos/agrovoc/c_8cbca199,frost,http://aims.fao.org/aos/agrovoc/c_3113
+frost heave,http://aims.fao.org/aos/agrovoc/c_8cbca199,heaving,http://aims.fao.org/aos/agrovoc/c_d14ad892
+frost heaving,http://aims.fao.org/aos/agrovoc/c_8cbca199,frost,http://aims.fao.org/aos/agrovoc/c_3113
+frost heaving,http://aims.fao.org/aos/agrovoc/c_8cbca199,heaving,http://aims.fao.org/aos/agrovoc/c_d14ad892
+gas turbation,http://aims.fao.org/aos/agrovoc/c_b09277cb,gases,http://aims.fao.org/aos/agrovoc/c_3197
+fire causes,http://aims.fao.org/aos/agrovoc/c_2907,fires,http://aims.fao.org/aos/agrovoc/c_2915
+heat radiation,http://aims.fao.org/aos/agrovoc/c_7719,heat,http://aims.fao.org/aos/agrovoc/c_3519
+delta rays,http://aims.fao.org/aos/agrovoc/c_2168,deltas,http://aims.fao.org/aos/agrovoc/c_2170
+laser radiation,http://aims.fao.org/aos/agrovoc/c_4207,lasers,http://aims.fao.org/aos/agrovoc/c_26026
+sunlight exposure,http://aims.fao.org/aos/agrovoc/c_3892,daylight,http://aims.fao.org/aos/agrovoc/c_2135
+UV light,http://aims.fao.org/aos/agrovoc/c_8046,light,http://aims.fao.org/aos/agrovoc/c_4322
+laser beams,http://aims.fao.org/aos/agrovoc/c_37628,lasers,http://aims.fao.org/aos/agrovoc/c_26026
+long wave radiation,http://aims.fao.org/aos/agrovoc/c_fb534308,shallow water waves,http://aims.fao.org/aos/agrovoc/c_77d7fbac
+upward long wave radiation,http://aims.fao.org/aos/agrovoc/c_382869a1,shallow water waves,http://aims.fao.org/aos/agrovoc/c_77d7fbac
+downward long wave radiation,http://aims.fao.org/aos/agrovoc/c_e516c17b,shallow water waves,http://aims.fao.org/aos/agrovoc/c_77d7fbac
+radio waves,http://aims.fao.org/aos/agrovoc/c_a064da1e,radio,http://aims.fao.org/aos/agrovoc/c_6424
+species extinction,http://aims.fao.org/aos/agrovoc/c_17744,species,http://aims.fao.org/aos/agrovoc/c_7280
+mass extinctions,http://aims.fao.org/aos/agrovoc/c_175163eb,mass,http://aims.fao.org/aos/agrovoc/c_4639
+air masses,http://aims.fao.org/aos/agrovoc/c_226,air,http://aims.fao.org/aos/agrovoc/c_224
+air masses,http://aims.fao.org/aos/agrovoc/c_226,mass,http://aims.fao.org/aos/agrovoc/c_4639
+air front,http://aims.fao.org/aos/agrovoc/c_226,air,http://aims.fao.org/aos/agrovoc/c_224
+cold front,http://aims.fao.org/aos/agrovoc/c_9992,cold,http://aims.fao.org/aos/agrovoc/c_1743
+temperature inversion,http://aims.fao.org/aos/agrovoc/c_7658,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+atmospheric disturbances,http://aims.fao.org/aos/agrovoc/c_691,disturbance,http://aims.fao.org/aos/agrovoc/c_cbe171b4
+dust storms,http://aims.fao.org/aos/agrovoc/c_912310e8,dust,http://aims.fao.org/aos/agrovoc/c_24127
+dust devils,http://aims.fao.org/aos/agrovoc/c_10492,dust,http://aims.fao.org/aos/agrovoc/c_24127
+climatic effects,http://aims.fao.org/aos/agrovoc/c_1665,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+mountain climate,http://aims.fao.org/aos/agrovoc/c_4958,mountains,http://aims.fao.org/aos/agrovoc/c_12676
+desert climate,http://aims.fao.org/aos/agrovoc/c_611,deserts,http://aims.fao.org/aos/agrovoc/c_2205
+crop climate,http://aims.fao.org/aos/agrovoc/c_4802,crops,http://aims.fao.org/aos/agrovoc/c_1972
+evapotranspiration zone,http://aims.fao.org/aos/agrovoc/c_25346,evapotranspiration,http://aims.fao.org/aos/agrovoc/c_2741
+monsoon climate,http://aims.fao.org/aos/agrovoc/c_4922,monsoons,http://aims.fao.org/aos/agrovoc/c_68e36bf6
+extreme weather events,http://aims.fao.org/aos/agrovoc/c_c0860ce1,extreme values,http://aims.fao.org/aos/agrovoc/c_8e611af8
+fire weather,http://aims.fao.org/aos/agrovoc/c_7540d0c3,fires,http://aims.fao.org/aos/agrovoc/c_2915
+dry subhumid climate,http://aims.fao.org/aos/agrovoc/c_330763,subhumid climate,http://aims.fao.org/aos/agrovoc/c_29576
+moist subhumid climate,http://aims.fao.org/aos/agrovoc/c_330816,subhumid climate,http://aims.fao.org/aos/agrovoc/c_29576
+climate change,http://aims.fao.org/aos/agrovoc/c_1666,climate,http://aims.fao.org/aos/agrovoc/c_1665
+ozone depletion,http://aims.fao.org/aos/agrovoc/c_35249,ozone,http://aims.fao.org/aos/agrovoc/c_5485
+ozone hole,http://aims.fao.org/aos/agrovoc/c_35249,ozone,http://aims.fao.org/aos/agrovoc/c_5485
+ozone layer depletion,http://aims.fao.org/aos/agrovoc/c_35249,ozone layer,http://aims.fao.org/aos/agrovoc/c_35252
+water cycle (global),http://aims.fao.org/aos/agrovoc/c_11670,water,http://aims.fao.org/aos/agrovoc/c_8309
+carbon sequestration,http://aims.fao.org/aos/agrovoc/c_331583,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+carbon cycle,http://aims.fao.org/aos/agrovoc/c_17299,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+nutrient cycles,http://aims.fao.org/aos/agrovoc/c_12869,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nutrient cycling,http://aims.fao.org/aos/agrovoc/c_12869,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nitrogen cycle,http://aims.fao.org/aos/agrovoc/c_27938,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+silicon cycle,http://aims.fao.org/aos/agrovoc/c_e5921356,silicon,http://aims.fao.org/aos/agrovoc/c_7061
+phosphorus cycle,http://aims.fao.org/aos/agrovoc/c_64a01d32,phosphorus,http://aims.fao.org/aos/agrovoc/c_5804
+phosphate cycle,http://aims.fao.org/aos/agrovoc/c_64a01d32,phosphates,http://aims.fao.org/aos/agrovoc/c_35986
+water circulation,http://aims.fao.org/aos/agrovoc/c_8314,water,http://aims.fao.org/aos/agrovoc/c_8309
+boundary currents,http://aims.fao.org/aos/agrovoc/c_3754c9ec,boundaries,http://aims.fao.org/aos/agrovoc/c_15686
+tidal stream,http://aims.fao.org/aos/agrovoc/c_645a7426,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+wind drift (current),http://aims.fao.org/aos/agrovoc/c_8a244c32,winds,http://aims.fao.org/aos/agrovoc/c_8401
+lake currents,http://aims.fao.org/aos/agrovoc/c_ebfb6d33,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+coastal currents (littoral),http://aims.fao.org/aos/agrovoc/c_72f45664,coastal currents,http://aims.fao.org/aos/agrovoc/c_4cd37058
+western boundary undercurrents,http://aims.fao.org/aos/agrovoc/c_48989cd0,boundaries,http://aims.fao.org/aos/agrovoc/c_15686
+gradient currents,http://aims.fao.org/aos/agrovoc/c_8acca287,slope,http://aims.fao.org/aos/agrovoc/c_fa256eab
+slope currents,http://aims.fao.org/aos/agrovoc/c_c3dc252a,slope,http://aims.fao.org/aos/agrovoc/c_fa256eab
+turbidity currents,http://aims.fao.org/aos/agrovoc/c_c19cbe85,turbidity,http://aims.fao.org/aos/agrovoc/c_15043
+river currents,http://aims.fao.org/aos/agrovoc/c_345e4942,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+groundwater flow,http://aims.fao.org/aos/agrovoc/c_32472,groundwater,http://aims.fao.org/aos/agrovoc/c_3391
+groundwater recharge,http://aims.fao.org/aos/agrovoc/c_24035,groundwater,http://aims.fao.org/aos/agrovoc/c_3391
+groundwater replenishment,http://aims.fao.org/aos/agrovoc/c_24035,groundwater,http://aims.fao.org/aos/agrovoc/c_3391
+shallow water tides,http://aims.fao.org/aos/agrovoc/c_677429c9,shallow water,http://aims.fao.org/aos/agrovoc/c_f3c3b355
+earth tides,http://aims.fao.org/aos/agrovoc/c_9a3d4654,earth,http://aims.fao.org/aos/agrovoc/c_2437
+low water (tides),http://aims.fao.org/aos/agrovoc/c_33595674,low water,http://aims.fao.org/aos/agrovoc/c_29687
+high water (tides),http://aims.fao.org/aos/agrovoc/c_b640f93b,high water,http://aims.fao.org/aos/agrovoc/c_29686
+pole tides,http://aims.fao.org/aos/agrovoc/c_bc88c930,poles,http://aims.fao.org/aos/agrovoc/c_6061
+spring tides,http://aims.fao.org/aos/agrovoc/c_c499ffbe,spring,http://aims.fao.org/aos/agrovoc/c_7336
+lake dynamics,http://aims.fao.org/aos/agrovoc/c_e1c66bc3,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+lake dynamics,http://aims.fao.org/aos/agrovoc/c_e1c66bc3,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+lake circulation,http://aims.fao.org/aos/agrovoc/c_e1c66bc3,lakes,http://aims.fao.org/aos/agrovoc/c_4160
+reservoir dynamics,http://aims.fao.org/aos/agrovoc/c_e1c66bc3,water reservoirs,http://aims.fao.org/aos/agrovoc/c_8324
+reservoir dynamics,http://aims.fao.org/aos/agrovoc/c_e1c66bc3,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+plant succession,http://aims.fao.org/aos/agrovoc/c_36348,plants,http://aims.fao.org/aos/agrovoc/c_5993
+environmental degradation,http://aims.fao.org/aos/agrovoc/c_34821,degradation,http://aims.fao.org/aos/agrovoc/c_2159
+environmental deterioration,http://aims.fao.org/aos/agrovoc/c_34821,deterioration,http://aims.fao.org/aos/agrovoc/c_10350
+land degradation,http://aims.fao.org/aos/agrovoc/c_34823,land,http://aims.fao.org/aos/agrovoc/c_4172
+rangeland degradation,http://aims.fao.org/aos/agrovoc/c_838aed8c,rangelands,http://aims.fao.org/aos/agrovoc/c_6448
+forest degradation,http://aims.fao.org/aos/agrovoc/c_331593,forests,http://aims.fao.org/aos/agrovoc/c_3062
+soil degradation,http://aims.fao.org/aos/agrovoc/c_7168,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil deterioration,http://aims.fao.org/aos/agrovoc/c_7168,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil deterioration,http://aims.fao.org/aos/agrovoc/c_7168,deterioration,http://aims.fao.org/aos/agrovoc/c_10350
+wind erosion,http://aims.fao.org/aos/agrovoc/c_8393,winds,http://aims.fao.org/aos/agrovoc/c_8401
+beach erosion,http://aims.fao.org/aos/agrovoc/c_f1a870c8,beaches,http://aims.fao.org/aos/agrovoc/c_850
+water erosion,http://aims.fao.org/aos/agrovoc/c_8318,water,http://aims.fao.org/aos/agrovoc/c_8309
+rain erosion,http://aims.fao.org/aos/agrovoc/c_8318,rain,http://aims.fao.org/aos/agrovoc/c_6435
+stream erosion,http://aims.fao.org/aos/agrovoc/c_1d93d7d6,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+bank erosion,http://aims.fao.org/aos/agrovoc/c_2bd4427d,banks,http://aims.fao.org/aos/agrovoc/c_812
+river bank erosion,http://aims.fao.org/aos/agrovoc/c_2bd4427d,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+riverbed erosion,http://aims.fao.org/aos/agrovoc/c_82852448,riverbeds,http://aims.fao.org/aos/agrovoc/c_7bd7ab19
+tillage erosion,http://aims.fao.org/aos/agrovoc/c_924f2195,tillage,http://aims.fao.org/aos/agrovoc/c_7771
+wind abrasion,http://aims.fao.org/aos/agrovoc/c_00f11054,winds,http://aims.fao.org/aos/agrovoc/c_8401
+hydrodynamic scour,http://aims.fao.org/aos/agrovoc/c_aa2f353f,hydrodynamics,http://aims.fao.org/aos/agrovoc/c_3723
+hydrodynamic scour,http://aims.fao.org/aos/agrovoc/c_aa2f353f,digestive disorders,http://aims.fao.org/aos/agrovoc/c_2273
+tidal scour,http://aims.fao.org/aos/agrovoc/c_6ef8d296,digestive disorders,http://aims.fao.org/aos/agrovoc/c_2273
+iceberg scouring,http://aims.fao.org/aos/agrovoc/c_51a34cfc,icebergs,http://aims.fao.org/aos/agrovoc/c_500c2ea6
+ice scouring,http://aims.fao.org/aos/agrovoc/c_51a34cfc,ice,http://aims.fao.org/aos/agrovoc/c_3782
+submarine erosion,http://aims.fao.org/aos/agrovoc/c_35687419,submarines,http://aims.fao.org/aos/agrovoc/c_5e5ad342
+habitat fragmentation,http://aims.fao.org/aos/agrovoc/c_6e94107d,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+habitat loss,http://aims.fao.org/aos/agrovoc/c_353cbc9f,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+habitat loss,http://aims.fao.org/aos/agrovoc/c_353cbc9f,losses,http://aims.fao.org/aos/agrovoc/c_4438
+habitat reduction,http://aims.fao.org/aos/agrovoc/c_353cbc9f,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+habitat reduction,http://aims.fao.org/aos/agrovoc/c_353cbc9f,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+habitat destruction,http://aims.fao.org/aos/agrovoc/c_353cbc9f,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+resource depletion,http://aims.fao.org/aos/agrovoc/c_28017,resources,http://aims.fao.org/aos/agrovoc/c_9001017
+water depletion,http://aims.fao.org/aos/agrovoc/c_25334,water,http://aims.fao.org/aos/agrovoc/c_8309
+drying off (water),http://aims.fao.org/aos/agrovoc/c_25334,drying,http://aims.fao.org/aos/agrovoc/c_2402
+drying off (water),http://aims.fao.org/aos/agrovoc/c_25334,water,http://aims.fao.org/aos/agrovoc/c_8309
+nutrient depletion,http://aims.fao.org/aos/agrovoc/c_3a9953a5,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+geological processes,http://aims.fao.org/aos/agrovoc/c_49893,processes,http://aims.fao.org/aos/agrovoc/c_13586
+land subsidence,http://aims.fao.org/aos/agrovoc/c_14650,land,http://aims.fao.org/aos/agrovoc/c_4172
+land cover change,http://aims.fao.org/aos/agrovoc/c_9000093,land cover,http://aims.fao.org/aos/agrovoc/c_37897
+forest fragmentation,http://aims.fao.org/aos/agrovoc/c_1374841462157,forests,http://aims.fao.org/aos/agrovoc/c_3062
+ice melting,http://aims.fao.org/aos/agrovoc/c_708e1c5f,ice,http://aims.fao.org/aos/agrovoc/c_3782
+environmental impact,http://aims.fao.org/aos/agrovoc/c_24420,impact,http://aims.fao.org/aos/agrovoc/c_7b2f7e21
+environmental effects,http://aims.fao.org/aos/agrovoc/c_24420,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+water footprint,http://aims.fao.org/aos/agrovoc/c_66d531bb,water,http://aims.fao.org/aos/agrovoc/c_8309
+carbon footprint,http://aims.fao.org/aos/agrovoc/c_19b43ce1,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+soil transport processes,http://aims.fao.org/aos/agrovoc/c_7202,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil transport processes,http://aims.fao.org/aos/agrovoc/c_7202,transport,http://aims.fao.org/aos/agrovoc/c_7874
+soil transport processes,http://aims.fao.org/aos/agrovoc/c_7202,processes,http://aims.fao.org/aos/agrovoc/c_13586
+solute movement in soil,http://aims.fao.org/aos/agrovoc/c_7202,solutes,http://aims.fao.org/aos/agrovoc/c_24133
+solute movement in soil,http://aims.fao.org/aos/agrovoc/c_7202,movement,http://aims.fao.org/aos/agrovoc/c_4961
+solute movement in soil,http://aims.fao.org/aos/agrovoc/c_7202,soil,http://aims.fao.org/aos/agrovoc/c_7156
+solute transport in soil,http://aims.fao.org/aos/agrovoc/c_7202,solutes,http://aims.fao.org/aos/agrovoc/c_24133
+solute transport in soil,http://aims.fao.org/aos/agrovoc/c_7202,transport,http://aims.fao.org/aos/agrovoc/c_7874
+solute transport in soil,http://aims.fao.org/aos/agrovoc/c_7202,soil,http://aims.fao.org/aos/agrovoc/c_7156
+mass transfer in soil,http://aims.fao.org/aos/agrovoc/c_7202,mass transfer,http://aims.fao.org/aos/agrovoc/c_28601
+ion transport in soil,http://aims.fao.org/aos/agrovoc/c_25019,ions,http://aims.fao.org/aos/agrovoc/c_16162
+soil water movement,http://aims.fao.org/aos/agrovoc/c_7209,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil water percolation,http://aims.fao.org/aos/agrovoc/c_7209,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+water transfer (in soil),http://aims.fao.org/aos/agrovoc/c_7209,water,http://aims.fao.org/aos/agrovoc/c_8309
+soil genesis,http://aims.fao.org/aos/agrovoc/c_7173,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil formation,http://aims.fao.org/aos/agrovoc/c_7173,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil functions,http://aims.fao.org/aos/agrovoc/c_e5629cbd,soil,http://aims.fao.org/aos/agrovoc/c_7156
+saltwater intrusion,http://aims.fao.org/aos/agrovoc/c_506b635e,saline water,http://aims.fao.org/aos/agrovoc/c_16376
+induced rain,http://aims.fao.org/aos/agrovoc/c_640,rain,http://aims.fao.org/aos/agrovoc/c_6435
+manmade rain,http://aims.fao.org/aos/agrovoc/c_640,rain,http://aims.fao.org/aos/agrovoc/c_6435
+liquid precipitation,http://aims.fao.org/aos/agrovoc/c_6435,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+acid rain,http://aims.fao.org/aos/agrovoc/c_15933,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid precipitation,http://aims.fao.org/aos/agrovoc/c_15933,acids,http://aims.fao.org/aos/agrovoc/c_92
+sediment sorting,http://aims.fao.org/aos/agrovoc/c_080e6446,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+sediment sorting,http://aims.fao.org/aos/agrovoc/c_080e6446,grading,http://aims.fao.org/aos/agrovoc/c_3341
+water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f,water,http://aims.fao.org/aos/agrovoc/c_8309
+waves (water),http://aims.fao.org/aos/agrovoc/c_30fbb94f,water,http://aims.fao.org/aos/agrovoc/c_8309
+surface water waves,http://aims.fao.org/aos/agrovoc/c_81b63176,surface water,http://aims.fao.org/aos/agrovoc/c_25317
+wind waves,http://aims.fao.org/aos/agrovoc/c_11bf57b2,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind generated waves,http://aims.fao.org/aos/agrovoc/c_11bf57b2,winds,http://aims.fao.org/aos/agrovoc/c_8401
+surface tension waves,http://aims.fao.org/aos/agrovoc/c_5fe1e1bd,surface tension,http://aims.fao.org/aos/agrovoc/c_7531
+water ripples,http://aims.fao.org/aos/agrovoc/c_ba46b8e6,water,http://aims.fao.org/aos/agrovoc/c_8309
+ripples (water),http://aims.fao.org/aos/agrovoc/c_ba46b8e6,water,http://aims.fao.org/aos/agrovoc/c_8309
+surges (seiches),http://aims.fao.org/aos/agrovoc/c_79e73266,surges,http://aims.fao.org/aos/agrovoc/c_7de5ecbc
+harbour oscillations,http://aims.fao.org/aos/agrovoc/c_dff2a247,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+surface gravity waves,http://aims.fao.org/aos/agrovoc/c_bc09e172,gravity waves,http://aims.fao.org/aos/agrovoc/c_42e9ee37
+design wave,http://aims.fao.org/aos/agrovoc/c_13280765,design,http://aims.fao.org/aos/agrovoc/c_2208
+extreme waves,http://aims.fao.org/aos/agrovoc/c_4bcc584f,extreme values,http://aims.fao.org/aos/agrovoc/c_8e611af8
+waves on beaches,http://aims.fao.org/aos/agrovoc/c_3233758b,beaches,http://aims.fao.org/aos/agrovoc/c_850
+wave-shore interaction,http://aims.fao.org/aos/agrovoc/c_3233758b,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+internal gravity waves,http://aims.fao.org/aos/agrovoc/c_d19aab3a,gravity waves,http://aims.fao.org/aos/agrovoc/c_42e9ee37
+internal tides,http://aims.fao.org/aos/agrovoc/c_69f94cf7,tides,http://aims.fao.org/aos/agrovoc/c_7764
+baroclinic tides,http://aims.fao.org/aos/agrovoc/c_69f94cf7,tides,http://aims.fao.org/aos/agrovoc/c_7764
+shallow water waves,http://aims.fao.org/aos/agrovoc/c_77d7fbac,shallow water,http://aims.fao.org/aos/agrovoc/c_f3c3b355
+long gravity waves,http://aims.fao.org/aos/agrovoc/c_77d7fbac,gravity waves,http://aims.fao.org/aos/agrovoc/c_42e9ee37
+surf beats,http://aims.fao.org/aos/agrovoc/c_e012026d,surf,http://aims.fao.org/aos/agrovoc/c_8b5a09b6
+gravity waves,http://aims.fao.org/aos/agrovoc/c_42e9ee37,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+finite amplitude waves,http://aims.fao.org/aos/agrovoc/c_43112e2b,amplitude,http://aims.fao.org/aos/agrovoc/c_2c3f53e0
+lava flows,http://aims.fao.org/aos/agrovoc/c_0177d2d2,lava,http://aims.fao.org/aos/agrovoc/c_3df1cb51
+seismic activity,http://aims.fao.org/aos/agrovoc/c_2c378e9a,activities,http://aims.fao.org/aos/agrovoc/c_330834
+seismic effects,http://aims.fao.org/aos/agrovoc/c_2c378e9a,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+density layer,http://aims.fao.org/aos/agrovoc/c_36a235ae,density,http://aims.fao.org/aos/agrovoc/c_2186
+scattering layers,http://aims.fao.org/aos/agrovoc/c_c9c02f17,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+sound scattering layers,http://aims.fao.org/aos/agrovoc/c_c9c02f17,sound scattering,http://aims.fao.org/aos/agrovoc/c_014f4d29
+boundary layers,http://aims.fao.org/aos/agrovoc/c_083bd76b,boundaries,http://aims.fao.org/aos/agrovoc/c_15686
+core layers (water),http://aims.fao.org/aos/agrovoc/c_b4456993,cores,http://aims.fao.org/aos/agrovoc/c_26353107
+salinity maximum layer,http://aims.fao.org/aos/agrovoc/c_44eab4c7,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+salinity minimum layer,http://aims.fao.org/aos/agrovoc/c_697e4400,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+oxygen maximum layer,http://aims.fao.org/aos/agrovoc/c_467bb9a5,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+temperature minimum layer,http://aims.fao.org/aos/agrovoc/c_8a6894bb,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+temperature maximum layer,http://aims.fao.org/aos/agrovoc/c_903458ea,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+oxygen minimum layer,http://aims.fao.org/aos/agrovoc/c_ffd407e3,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+water column,http://aims.fao.org/aos/agrovoc/c_475626a4,water,http://aims.fao.org/aos/agrovoc/c_8309
+vertical structure (water bodies),http://aims.fao.org/aos/agrovoc/c_475626a4,structures,http://aims.fao.org/aos/agrovoc/c_330905
+vertical structure (water bodies),http://aims.fao.org/aos/agrovoc/c_475626a4,water,http://aims.fao.org/aos/agrovoc/c_8309
+vertical structure (water bodies),http://aims.fao.org/aos/agrovoc/c_475626a4,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+surface mixed layer,http://aims.fao.org/aos/agrovoc/c_5da3d7d1,mixed layer,http://aims.fao.org/aos/agrovoc/c_fc09941b
+storm surges,http://aims.fao.org/aos/agrovoc/c_8938d8d5,storms,http://aims.fao.org/aos/agrovoc/c_7436
+storm tides,http://aims.fao.org/aos/agrovoc/c_8938d8d5,storms,http://aims.fao.org/aos/agrovoc/c_7436
+storm tides,http://aims.fao.org/aos/agrovoc/c_8938d8d5,tides,http://aims.fao.org/aos/agrovoc/c_7764
+hurricane surges,http://aims.fao.org/aos/agrovoc/c_d60c22e9,hurricanes,http://aims.fao.org/aos/agrovoc/c_11650
+hurricane waves,http://aims.fao.org/aos/agrovoc/c_d60c22e9,hurricanes,http://aims.fao.org/aos/agrovoc/c_11650
+hurricane tides,http://aims.fao.org/aos/agrovoc/c_d60c22e9,hurricanes,http://aims.fao.org/aos/agrovoc/c_11650
+hurricane tides,http://aims.fao.org/aos/agrovoc/c_d60c22e9,tides,http://aims.fao.org/aos/agrovoc/c_7764
+salt fingers,http://aims.fao.org/aos/agrovoc/c_d07892d5,salts,http://aims.fao.org/aos/agrovoc/c_33129
+ecosystem disturbance,http://aims.fao.org/aos/agrovoc/c_4549f84e,ecosystems,http://aims.fao.org/aos/agrovoc/c_2482
+ecosystem disturbance,http://aims.fao.org/aos/agrovoc/c_4549f84e,disturbance,http://aims.fao.org/aos/agrovoc/c_cbe171b4
+disturbance (ecosystem),http://aims.fao.org/aos/agrovoc/c_4549f84e,disturbance,http://aims.fao.org/aos/agrovoc/c_cbe171b4
+disturbance (ecosystem),http://aims.fao.org/aos/agrovoc/c_4549f84e,ecosystems,http://aims.fao.org/aos/agrovoc/c_2482
+atmospheric forcing,http://aims.fao.org/aos/agrovoc/c_2eaf1796,forcing,http://aims.fao.org/aos/agrovoc/c_3039
+meteorological forcing,http://aims.fao.org/aos/agrovoc/c_2eaf1796,forcing,http://aims.fao.org/aos/agrovoc/c_3039
+ice calving,http://aims.fao.org/aos/agrovoc/c_ccd68d3c,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice calving,http://aims.fao.org/aos/agrovoc/c_ccd68d3c,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+salt wedges,http://aims.fao.org/aos/agrovoc/c_64c910c0,salts,http://aims.fao.org/aos/agrovoc/c_33129
+salt water wedges,http://aims.fao.org/aos/agrovoc/c_64c910c0,saline water,http://aims.fao.org/aos/agrovoc/c_16376
+hydrothermal activity,http://aims.fao.org/aos/agrovoc/c_749404d7,activities,http://aims.fao.org/aos/agrovoc/c_330834
+hydrothermal processes,http://aims.fao.org/aos/agrovoc/c_749404d7,processes,http://aims.fao.org/aos/agrovoc/c_13586
+hydrothermal systems,http://aims.fao.org/aos/agrovoc/c_749404d7,systems,http://aims.fao.org/aos/agrovoc/c_330985
+basalt-seawater interaction,http://aims.fao.org/aos/agrovoc/c_c7f8b7b9,interactions,http://aims.fao.org/aos/agrovoc/c_59dfea52
+air exposure,http://aims.fao.org/aos/agrovoc/c_4f3ac5cd,air,http://aims.fao.org/aos/agrovoc/c_224
+exposure to air,http://aims.fao.org/aos/agrovoc/c_4f3ac5cd,toes,http://aims.fao.org/aos/agrovoc/c_14912
+exposure to air,http://aims.fao.org/aos/agrovoc/c_4f3ac5cd,air,http://aims.fao.org/aos/agrovoc/c_224
+wind fields,http://aims.fao.org/aos/agrovoc/c_4ffde3c4,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind fields,http://aims.fao.org/aos/agrovoc/c_4ffde3c4,fields,http://aims.fao.org/aos/agrovoc/c_2894
+oil seepages,http://aims.fao.org/aos/agrovoc/c_f43f9ffd,oils,http://aims.fao.org/aos/agrovoc/c_5334
+gas seepages,http://aims.fao.org/aos/agrovoc/c_ba369e4e,gases,http://aims.fao.org/aos/agrovoc/c_3197
+carbon sinks,http://aims.fao.org/aos/agrovoc/c_f980db68,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+climate variability,http://aims.fao.org/aos/agrovoc/c_45796fbf,climate,http://aims.fao.org/aos/agrovoc/c_1665
+density stratification,http://aims.fao.org/aos/agrovoc/c_5eb4922f,density,http://aims.fao.org/aos/agrovoc/c_2186
+salinity stratification,http://aims.fao.org/aos/agrovoc/c_32106c8c,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+water stratification,http://aims.fao.org/aos/agrovoc/c_29a979b0,water,http://aims.fao.org/aos/agrovoc/c_8309
+precipitation regime,http://aims.fao.org/aos/agrovoc/c_d47b221f,precipitation,http://aims.fao.org/aos/agrovoc/c_6161
+rainfall patterns,http://aims.fao.org/aos/agrovoc/c_34890,rainfall,http://aims.fao.org/aos/agrovoc/c_a060993c
+sediment transport,http://aims.fao.org/aos/agrovoc/c_d1a88f2d,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+sediment transport,http://aims.fao.org/aos/agrovoc/c_d1a88f2d,transport,http://aims.fao.org/aos/agrovoc/c_7874
+economic phenomena,http://aims.fao.org/aos/agrovoc/c_331027,economics,http://aims.fao.org/aos/agrovoc/c_2481
+trade cycles,http://aims.fao.org/aos/agrovoc/c_7852,trade,http://aims.fao.org/aos/agrovoc/c_7848
+business cycles,http://aims.fao.org/aos/agrovoc/c_7852,enterprises,http://aims.fao.org/aos/agrovoc/c_10626
+economic stabilization,http://aims.fao.org/aos/agrovoc/c_7353,economics,http://aims.fao.org/aos/agrovoc/c_2481
+price stabilization,http://aims.fao.org/aos/agrovoc/c_28746,prices,http://aims.fao.org/aos/agrovoc/c_6178
+market stabilization,http://aims.fao.org/aos/agrovoc/c_4619,markets,http://aims.fao.org/aos/agrovoc/c_4626
+economic recovery,http://aims.fao.org/aos/agrovoc/c_28673,economics,http://aims.fao.org/aos/agrovoc/c_2481
+economic recovery,http://aims.fao.org/aos/agrovoc/c_28673,recuperation,http://aims.fao.org/aos/agrovoc/c_aafbf0c8
+economic trends,http://aims.fao.org/aos/agrovoc/c_28676,economics,http://aims.fao.org/aos/agrovoc/c_2481
+economic trends,http://aims.fao.org/aos/agrovoc/c_28676,trends,http://aims.fao.org/aos/agrovoc/c_24911
+competitive marketing,http://aims.fao.org/aos/agrovoc/c_4614,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+market competition,http://aims.fao.org/aos/agrovoc/c_4614,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market structure,http://aims.fao.org/aos/agrovoc/c_12405,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market structure,http://aims.fao.org/aos/agrovoc/c_12405,structures,http://aims.fao.org/aos/agrovoc/c_330905
+market form,http://aims.fao.org/aos/agrovoc/c_12405,markets,http://aims.fao.org/aos/agrovoc/c_4626
+production possibilities,http://aims.fao.org/aos/agrovoc/c_6207,production,http://aims.fao.org/aos/agrovoc/c_6200
+production potential,http://aims.fao.org/aos/agrovoc/c_6207,production,http://aims.fao.org/aos/agrovoc/c_6200
+production capacity,http://aims.fao.org/aos/agrovoc/c_6207,production,http://aims.fao.org/aos/agrovoc/c_6200
+bargaining power,http://aims.fao.org/aos/agrovoc/c_28838,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+land development (urbanization),http://aims.fao.org/aos/agrovoc/c_4174,land,http://aims.fao.org/aos/agrovoc/c_4172
+knowledge organization system development,http://aims.fao.org/aos/agrovoc/c_49836,knowledge,http://aims.fao.org/aos/agrovoc/c_105df063
+knowledge organization system development,http://aims.fao.org/aos/agrovoc/c_49836,organization,http://aims.fao.org/aos/agrovoc/c_330894
+knowledge organization system development,http://aims.fao.org/aos/agrovoc/c_49836,systems,http://aims.fao.org/aos/agrovoc/c_330985
+thesaurus building,http://aims.fao.org/aos/agrovoc/c_49837,thesaurus,http://aims.fao.org/aos/agrovoc/c_49842
+thesaurus building,http://aims.fao.org/aos/agrovoc/c_49837,buildings,http://aims.fao.org/aos/agrovoc/c_1142
+ontology engineering,http://aims.fao.org/aos/agrovoc/c_49857,ontologies,http://aims.fao.org/aos/agrovoc/c_49845
+ontology engineering,http://aims.fao.org/aos/agrovoc/c_49857,engineering,http://aims.fao.org/aos/agrovoc/c_2571
+leadership development,http://aims.fao.org/aos/agrovoc/c_9000104,leadership,http://aims.fao.org/aos/agrovoc/c_4236
+community-based forest enterprise development,http://aims.fao.org/aos/agrovoc/c_1372070913802,forests,http://aims.fao.org/aos/agrovoc/c_3062
+community-based forest enterprise development,http://aims.fao.org/aos/agrovoc/c_1372070913802,enterprises,http://aims.fao.org/aos/agrovoc/c_10626
+socioeconomic development,http://aims.fao.org/aos/agrovoc/c_29966,socioeconomics,http://aims.fao.org/aos/agrovoc/c_2c482ac4
+women's empowerment,http://aims.fao.org/aos/agrovoc/c_f1c72537,women,http://aims.fao.org/aos/agrovoc/c_8420
+capacity building,http://aims.fao.org/aos/agrovoc/c_37836,buildings,http://aims.fao.org/aos/agrovoc/c_1142
+livelihood diversification,http://aims.fao.org/aos/agrovoc/c_1374484761278,livelihoods,http://aims.fao.org/aos/agrovoc/c_1374498089962
+livelihood diversification,http://aims.fao.org/aos/agrovoc/c_1374484761278,diversification,http://aims.fao.org/aos/agrovoc/c_2344
+production increase,http://aims.fao.org/aos/agrovoc/c_29978,production,http://aims.fao.org/aos/agrovoc/c_6200
+product diversification,http://aims.fao.org/aos/agrovoc/c_2344,products,http://aims.fao.org/aos/agrovoc/c_6211
+production diversification,http://aims.fao.org/aos/agrovoc/c_2344,production,http://aims.fao.org/aos/agrovoc/c_6200
+crop diversification,http://aims.fao.org/aos/agrovoc/c_2344,crops,http://aims.fao.org/aos/agrovoc/c_1972
+economic diversification,http://aims.fao.org/aos/agrovoc/c_ee2962b7,economics,http://aims.fao.org/aos/agrovoc/c_2481
+small enterprise development,http://aims.fao.org/aos/agrovoc/c_9000151,small enterprises,http://aims.fao.org/aos/agrovoc/c_15519
+fisheries development,http://aims.fao.org/aos/agrovoc/c_2935,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+forestry development,http://aims.fao.org/aos/agrovoc/c_3057,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+aquaculture development,http://aims.fao.org/aos/agrovoc/c_15d43fe3,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+livestock revolution,http://aims.fao.org/aos/agrovoc/c_248583b3,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+agricultural transformation,http://aims.fao.org/aos/agrovoc/c_06df2240,transformation,http://aims.fao.org/aos/agrovoc/c_331037
+socioeconomic impact,http://aims.fao.org/aos/agrovoc/c_d157b145,socioeconomics,http://aims.fao.org/aos/agrovoc/c_2c482ac4
+socioeconomic impact,http://aims.fao.org/aos/agrovoc/c_d157b145,impact,http://aims.fao.org/aos/agrovoc/c_7b2f7e21
+community development,http://aims.fao.org/aos/agrovoc/c_1789,communities,http://aims.fao.org/aos/agrovoc/c_50182
+rural transformation,http://aims.fao.org/aos/agrovoc/c_bc3a0838,transformation,http://aims.fao.org/aos/agrovoc/c_331037
+child development,http://aims.fao.org/aos/agrovoc/c_37837,children,http://aims.fao.org/aos/agrovoc/c_1547
+harvesting losses,http://aims.fao.org/aos/agrovoc/c_3501,harvesting,http://aims.fao.org/aos/agrovoc/c_3500
+processing losses,http://aims.fao.org/aos/agrovoc/c_6196,processing,http://aims.fao.org/aos/agrovoc/c_6195
+cooking losses,http://aims.fao.org/aos/agrovoc/c_36088,cooking,http://aims.fao.org/aos/agrovoc/c_1851
+weight losses,http://aims.fao.org/aos/agrovoc/c_8351,weight,http://aims.fao.org/aos/agrovoc/c_8349
+economic losses,http://aims.fao.org/aos/agrovoc/c_28805,economics,http://aims.fao.org/aos/agrovoc/c_2481
+handling losses,http://aims.fao.org/aos/agrovoc/c_3486,handling,http://aims.fao.org/aos/agrovoc/c_3485
+storage losses,http://aims.fao.org/aos/agrovoc/c_7429,storage,http://aims.fao.org/aos/agrovoc/c_7427
+energy losses,http://aims.fao.org/aos/agrovoc/c_25309,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy dissipation,http://aims.fao.org/aos/agrovoc/c_25309,energy,http://aims.fao.org/aos/agrovoc/c_2565
+waste heat,http://aims.fao.org/aos/agrovoc/c_24100,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+waste heat,http://aims.fao.org/aos/agrovoc/c_24100,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat loss during processing,http://aims.fao.org/aos/agrovoc/c_24100,heat,http://aims.fao.org/aos/agrovoc/c_3519
+crop losses,http://aims.fao.org/aos/agrovoc/c_1969,crops,http://aims.fao.org/aos/agrovoc/c_1972
+crop damage,http://aims.fao.org/aos/agrovoc/c_1969,crops,http://aims.fao.org/aos/agrovoc/c_1972
+crop damage,http://aims.fao.org/aos/agrovoc/c_1969,damage,http://aims.fao.org/aos/agrovoc/c_26768
+yield losses,http://aims.fao.org/aos/agrovoc/c_330605,yields,http://aims.fao.org/aos/agrovoc/c_8488
+soil loss,http://aims.fao.org/aos/agrovoc/c_8dab65bc,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil denudation,http://aims.fao.org/aos/agrovoc/c_8dab65bc,soil,http://aims.fao.org/aos/agrovoc/c_7156
+food losses,http://aims.fao.org/aos/agrovoc/c_d51558f0,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food waste,http://aims.fao.org/aos/agrovoc/c_d328aa54,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food waste,http://aims.fao.org/aos/agrovoc/c_d328aa54,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+food spoilage,http://aims.fao.org/aos/agrovoc/c_10970,foods,http://aims.fao.org/aos/agrovoc/c_3032
+fish spoilage,http://aims.fao.org/aos/agrovoc/c_24059668,fish,http://aims.fao.org/aos/agrovoc/c_15903
+stress corrosion,http://aims.fao.org/aos/agrovoc/c_e5d09dff,stress,http://aims.fao.org/aos/agrovoc/c_7452
+abrasive wear,http://aims.fao.org/aos/agrovoc/c_0686781d,abrasives,http://aims.fao.org/aos/agrovoc/c_cd2ad32c
+wood decay,http://aims.fao.org/aos/agrovoc/c_24919,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood rot,http://aims.fao.org/aos/agrovoc/c_24919,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood rot,http://aims.fao.org/aos/agrovoc/c_24919,rots,http://aims.fao.org/aos/agrovoc/c_6667
+storage decay,http://aims.fao.org/aos/agrovoc/c_36841,storage,http://aims.fao.org/aos/agrovoc/c_7427
+storage diseases,http://aims.fao.org/aos/agrovoc/c_36841,storage,http://aims.fao.org/aos/agrovoc/c_7427
+storage diseases,http://aims.fao.org/aos/agrovoc/c_36841,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+storage disorders,http://aims.fao.org/aos/agrovoc/c_36841,storage,http://aims.fao.org/aos/agrovoc/c_7427
+storage disorders,http://aims.fao.org/aos/agrovoc/c_36841,disorders,http://aims.fao.org/aos/agrovoc/c_15584
+population dynamics,http://aims.fao.org/aos/agrovoc/c_6111,population,http://aims.fao.org/aos/agrovoc/c_330887
+population dynamics,http://aims.fao.org/aos/agrovoc/c_6111,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+population change,http://aims.fao.org/aos/agrovoc/c_6111,population,http://aims.fao.org/aos/agrovoc/c_330887
+life tables,http://aims.fao.org/aos/agrovoc/c_33510,tables,http://aims.fao.org/aos/agrovoc/c_85d670e1
+demographic explosion,http://aims.fao.org/aos/agrovoc/c_35779,explosions,http://aims.fao.org/aos/agrovoc/c_24937
+sound diffraction,http://aims.fao.org/aos/agrovoc/c_9ad6db40,sound,http://aims.fao.org/aos/agrovoc/c_7251
+acoustic wave diffraction,http://aims.fao.org/aos/agrovoc/c_9ad6db40,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic wave diffraction,http://aims.fao.org/aos/agrovoc/c_9ad6db40,wave diffraction,http://aims.fao.org/aos/agrovoc/c_ab1c44a0
+light diffraction,http://aims.fao.org/aos/agrovoc/c_1fd4346c,light,http://aims.fao.org/aos/agrovoc/c_4322
+water loss,http://aims.fao.org/aos/agrovoc/c_2739,water,http://aims.fao.org/aos/agrovoc/c_8309
+water loss,http://aims.fao.org/aos/agrovoc/c_2739,losses,http://aims.fao.org/aos/agrovoc/c_4438
+stray voltage effects,http://aims.fao.org/aos/agrovoc/c_35323,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+animal power,http://aims.fao.org/aos/agrovoc/c_436,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal power,http://aims.fao.org/aos/agrovoc/c_436,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+animal traction,http://aims.fao.org/aos/agrovoc/c_436,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal traction,http://aims.fao.org/aos/agrovoc/c_436,traction,http://aims.fao.org/aos/agrovoc/c_199305af
+solar activity,http://aims.fao.org/aos/agrovoc/c_7222,activities,http://aims.fao.org/aos/agrovoc/c_330834
+water power,http://aims.fao.org/aos/agrovoc/c_8322,water,http://aims.fao.org/aos/agrovoc/c_8309
+water power,http://aims.fao.org/aos/agrovoc/c_8322,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+hydroelectric power,http://aims.fao.org/aos/agrovoc/c_25612,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wave power,http://aims.fao.org/aos/agrovoc/c_4eb75191,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wind power,http://aims.fao.org/aos/agrovoc/c_8394,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind power,http://aims.fao.org/aos/agrovoc/c_8394,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wind energy,http://aims.fao.org/aos/agrovoc/c_8394,winds,http://aims.fao.org/aos/agrovoc/c_8401
+biomass fuels,http://aims.fao.org/aos/agrovoc/c_27465,biomass,http://aims.fao.org/aos/agrovoc/c_926
+wood pellets,http://aims.fao.org/aos/agrovoc/c_a83d5bac,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood pellets,http://aims.fao.org/aos/agrovoc/c_a83d5bac,pellets,http://aims.fao.org/aos/agrovoc/c_5664
+wood energy,http://aims.fao.org/aos/agrovoc/c_37916,wood,http://aims.fao.org/aos/agrovoc/c_8421
+forest energy,http://aims.fao.org/aos/agrovoc/c_37916,forests,http://aims.fao.org/aos/agrovoc/c_3062
+sensible heat,http://aims.fao.org/aos/agrovoc/c_09108406,heat,http://aims.fao.org/aos/agrovoc/c_3519
+thalassothermal power,http://aims.fao.org/aos/agrovoc/c_7ee45279,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+electric power,http://aims.fao.org/aos/agrovoc/c_28005,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+kinetic energy,http://aims.fao.org/aos/agrovoc/c_81097060,kinetics,http://aims.fao.org/aos/agrovoc/c_6ede19b4
+eddy kinetic energy,http://aims.fao.org/aos/agrovoc/c_84b9f8a3,eddies,http://aims.fao.org/aos/agrovoc/c_7893d9db
+energy expenditure,http://aims.fao.org/aos/agrovoc/c_37629,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy expenditure,http://aims.fao.org/aos/agrovoc/c_37629,expenditure,http://aims.fao.org/aos/agrovoc/c_2757
+energy exchange,http://aims.fao.org/aos/agrovoc/c_2568,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy flow,http://aims.fao.org/aos/agrovoc/c_2568,energy,http://aims.fao.org/aos/agrovoc/c_2565
+transfer of energy,http://aims.fao.org/aos/agrovoc/c_2568,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy balance,http://aims.fao.org/aos/agrovoc/c_2566,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy balance,http://aims.fao.org/aos/agrovoc/c_2566,balances,http://aims.fao.org/aos/agrovoc/c_9062
+energy budget,http://aims.fao.org/aos/agrovoc/c_2566,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy budget,http://aims.fao.org/aos/agrovoc/c_2566,budgets,http://aims.fao.org/aos/agrovoc/c_1134
+radiation balance,http://aims.fao.org/aos/agrovoc/c_6420,radiation,http://aims.fao.org/aos/agrovoc/c_6422
+heat budget (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat budget (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,budgets,http://aims.fao.org/aos/agrovoc/c_1134
+heat budget (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,water,http://aims.fao.org/aos/agrovoc/c_8309
+heat budget (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+heat gain (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat gain (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,water,http://aims.fao.org/aos/agrovoc/c_8309
+heat gain (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+heat loss (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat loss (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,losses,http://aims.fao.org/aos/agrovoc/c_4438
+heat loss (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,water,http://aims.fao.org/aos/agrovoc/c_8309
+heat loss (water bodies),http://aims.fao.org/aos/agrovoc/c_dafbb2ba,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+heat transfer,http://aims.fao.org/aos/agrovoc/c_3521,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat exchange,http://aims.fao.org/aos/agrovoc/c_3521,heat,http://aims.fao.org/aos/agrovoc/c_3519
+thermal diffusion,http://aims.fao.org/aos/agrovoc/c_3521,diffusion,http://aims.fao.org/aos/agrovoc/c_24936
+waste heat utilization,http://aims.fao.org/aos/agrovoc/c_24399,waste heat,http://aims.fao.org/aos/agrovoc/c_24100
+density interfaces,http://aims.fao.org/aos/agrovoc/c_1436cd0b,density,http://aims.fao.org/aos/agrovoc/c_2186
+sediment deposition,http://aims.fao.org/aos/agrovoc/c_6926,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+geological stratification,http://aims.fao.org/aos/agrovoc/c_6926,stratification,http://aims.fao.org/aos/agrovoc/c_2d2ea4aa
+seed dispersal,http://aims.fao.org/aos/agrovoc/c_6932,seed,http://aims.fao.org/aos/agrovoc/c_6927
+energy conversion,http://aims.fao.org/aos/agrovoc/c_10608,energy,http://aims.fao.org/aos/agrovoc/c_2565
+spray drift,http://aims.fao.org/aos/agrovoc/c_24087,sprays,http://aims.fao.org/aos/agrovoc/c_7335
+energy generation,http://aims.fao.org/aos/agrovoc/c_24836,energy,http://aims.fao.org/aos/agrovoc/c_2565
+power generation,http://aims.fao.org/aos/agrovoc/c_24836,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+energy production,http://aims.fao.org/aos/agrovoc/c_24836,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy production,http://aims.fao.org/aos/agrovoc/c_24836,production,http://aims.fao.org/aos/agrovoc/c_6200
+hydroelectric power generation,http://aims.fao.org/aos/agrovoc/c_afe50d81,hydroelectric power,http://aims.fao.org/aos/agrovoc/c_25612
+hydropower generation,http://aims.fao.org/aos/agrovoc/c_afe50d81,water power,http://aims.fao.org/aos/agrovoc/c_8322
+mass transfer,http://aims.fao.org/aos/agrovoc/c_28601,mass,http://aims.fao.org/aos/agrovoc/c_4639
+st elmo's fire,http://aims.fao.org/aos/agrovoc/c_09de33e2,fires,http://aims.fao.org/aos/agrovoc/c_2915
+earth currents,http://aims.fao.org/aos/agrovoc/c_195cd260,earth,http://aims.fao.org/aos/agrovoc/c_2437
+food contamination,http://aims.fao.org/aos/agrovoc/c_10962,foods,http://aims.fao.org/aos/agrovoc/c_3032
+feed contamination,http://aims.fao.org/aos/agrovoc/c_11a7f1d9,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+sample contamination,http://aims.fao.org/aos/agrovoc/c_2ac099d1,samples,http://aims.fao.org/aos/agrovoc/c_875b7e95
+sediment pollution,http://aims.fao.org/aos/agrovoc/c_6924,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+soil pollution,http://aims.fao.org/aos/agrovoc/c_7183,soil,http://aims.fao.org/aos/agrovoc/c_7156
+water pollution,http://aims.fao.org/aos/agrovoc/c_8321,water,http://aims.fao.org/aos/agrovoc/c_8309
+groundwater pollution,http://aims.fao.org/aos/agrovoc/c_36556,groundwater,http://aims.fao.org/aos/agrovoc/c_3391
+freshwater pollution,http://aims.fao.org/aos/agrovoc/c_cd8dac8f,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+acid deposition,http://aims.fao.org/aos/agrovoc/c_34981,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid fog,http://aims.fao.org/aos/agrovoc/c_34981,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid fog,http://aims.fao.org/aos/agrovoc/c_34981,fog,http://aims.fao.org/aos/agrovoc/c_3007
+acid mist,http://aims.fao.org/aos/agrovoc/c_34981,acids,http://aims.fao.org/aos/agrovoc/c_92
+gas emissions,http://aims.fao.org/aos/agrovoc/c_0d4560a5,gases,http://aims.fao.org/aos/agrovoc/c_3197
+greenhouse gas emissions,http://aims.fao.org/aos/agrovoc/c_36198c2c,greenhouse gases,http://aims.fao.org/aos/agrovoc/c_34841
+methane emission,http://aims.fao.org/aos/agrovoc/c_331378,methane,http://aims.fao.org/aos/agrovoc/c_4784
+acoustic emission,http://aims.fao.org/aos/agrovoc/c_00ee2c01,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+air pollution,http://aims.fao.org/aos/agrovoc/c_228,air,http://aims.fao.org/aos/agrovoc/c_224
+oil pollution,http://aims.fao.org/aos/agrovoc/c_d11624c5,oils,http://aims.fao.org/aos/agrovoc/c_5334
+faecal contamination,http://aims.fao.org/aos/agrovoc/c_0ae1b34f,contamination,http://aims.fao.org/aos/agrovoc/c_28317
+fecal contamination,http://aims.fao.org/aos/agrovoc/c_0ae1b34f,contamination,http://aims.fao.org/aos/agrovoc/c_28317
+drug pollution,http://aims.fao.org/aos/agrovoc/c_5e0fe008,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+microplastic pollution,http://aims.fao.org/aos/agrovoc/c_e5b1cf1a,microplastics,http://aims.fao.org/aos/agrovoc/c_ccc97cab
+microplastic waste,http://aims.fao.org/aos/agrovoc/c_e5b1cf1a,microplastics,http://aims.fao.org/aos/agrovoc/c_ccc97cab
+microplastic waste,http://aims.fao.org/aos/agrovoc/c_e5b1cf1a,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+point pollution,http://aims.fao.org/aos/agrovoc/c_f3ca26d8,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+point sources,http://aims.fao.org/aos/agrovoc/c_f3ca26d8,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+noise pollution,http://aims.fao.org/aos/agrovoc/c_e98a1912,noise,http://aims.fao.org/aos/agrovoc/c_5205
+acoustic pollution,http://aims.fao.org/aos/agrovoc/c_e98a1912,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+electromagnetic field,http://aims.fao.org/aos/agrovoc/c_34267,fields,http://aims.fao.org/aos/agrovoc/c_2894
+magnetic field,http://aims.fao.org/aos/agrovoc/c_33982,fields,http://aims.fao.org/aos/agrovoc/c_2894
+earth magnetic field,http://aims.fao.org/aos/agrovoc/c_db2b4249,earth,http://aims.fao.org/aos/agrovoc/c_2437
+geomagnetic coast effect,http://aims.fao.org/aos/agrovoc/c_0e785b4e,coasts,http://aims.fao.org/aos/agrovoc/c_1700
+geomagnetic coast effect,http://aims.fao.org/aos/agrovoc/c_0e785b4e,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+light dispersion,http://aims.fao.org/aos/agrovoc/c_29013,light,http://aims.fao.org/aos/agrovoc/c_4322
+light dispersion,http://aims.fao.org/aos/agrovoc/c_29013,dispersions,http://aims.fao.org/aos/agrovoc/c_2333
+fluid flow,http://aims.fao.org/aos/agrovoc/c_25441,fluids,http://aims.fao.org/aos/agrovoc/c_2994
+air flow,http://aims.fao.org/aos/agrovoc/c_32808,air,http://aims.fao.org/aos/agrovoc/c_224
+channel flow,http://aims.fao.org/aos/agrovoc/c_c4da6be7,channels,http://aims.fao.org/aos/agrovoc/c_01a53647
+flow in channels,http://aims.fao.org/aos/agrovoc/c_c4da6be7,channels,http://aims.fao.org/aos/agrovoc/c_01a53647
+acoustic cavitation,http://aims.fao.org/aos/agrovoc/c_f4c4853e,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+river plumes,http://aims.fao.org/aos/agrovoc/c_0b014aab,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+chemical plumes,http://aims.fao.org/aos/agrovoc/c_40752121,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+air flow over land,http://aims.fao.org/aos/agrovoc/c_4969f686,air flow,http://aims.fao.org/aos/agrovoc/c_32808
+air flow over water,http://aims.fao.org/aos/agrovoc/c_39900e1b,air flow,http://aims.fao.org/aos/agrovoc/c_32808
+flow over water surface,http://aims.fao.org/aos/agrovoc/c_39900e1b,water,http://aims.fao.org/aos/agrovoc/c_8309
+flow around objects,http://aims.fao.org/aos/agrovoc/c_420453d2,objects,http://aims.fao.org/aos/agrovoc/c_330919
+flow around immersed structure,http://aims.fao.org/aos/agrovoc/c_420453d2,structures,http://aims.fao.org/aos/agrovoc/c_330905
+density flow,http://aims.fao.org/aos/agrovoc/c_7aadf348,density,http://aims.fao.org/aos/agrovoc/c_2186
+density currents,http://aims.fao.org/aos/agrovoc/c_7aadf348,density,http://aims.fao.org/aos/agrovoc/c_2186
+gravity induced flow,http://aims.fao.org/aos/agrovoc/c_7aadf348,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+shear flow,http://aims.fao.org/aos/agrovoc/c_6469b453,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+water flow,http://aims.fao.org/aos/agrovoc/c_ea3a854d,water,http://aims.fao.org/aos/agrovoc/c_8309
+sound absorption,http://aims.fao.org/aos/agrovoc/c_97e28f93,sound,http://aims.fao.org/aos/agrovoc/c_7251
+acoustic wave absorption,http://aims.fao.org/aos/agrovoc/c_97e28f93,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+variations (space),http://aims.fao.org/aos/agrovoc/c_8b21f297,space,http://aims.fao.org/aos/agrovoc/c_330769
+velocity microstructure,http://aims.fao.org/aos/agrovoc/c_87887adf,velocity,http://aims.fao.org/aos/agrovoc/c_24098
+salinity microstructure,http://aims.fao.org/aos/agrovoc/c_2e7b41f5,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+fine structure (ocean),http://aims.fao.org/aos/agrovoc/c_d4a1b1f4,structures,http://aims.fao.org/aos/agrovoc/c_330905
+ship motion,http://aims.fao.org/aos/agrovoc/c_8339f8a1,ships,http://aims.fao.org/aos/agrovoc/c_7040
+ship behaviour,http://aims.fao.org/aos/agrovoc/c_8339f8a1,ships,http://aims.fao.org/aos/agrovoc/c_7040
+ship behaviour,http://aims.fao.org/aos/agrovoc/c_8339f8a1,behaviour,http://aims.fao.org/aos/agrovoc/c_868
+rolling (ship motion),http://aims.fao.org/aos/agrovoc/c_fcc0a5e4,rolling,http://aims.fao.org/aos/agrovoc/c_25797
+sound scattering,http://aims.fao.org/aos/agrovoc/c_014f4d29,sound,http://aims.fao.org/aos/agrovoc/c_7251
+sound scattering,http://aims.fao.org/aos/agrovoc/c_014f4d29,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+acoustic wave scattering,http://aims.fao.org/aos/agrovoc/c_014f4d29,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic wave scattering,http://aims.fao.org/aos/agrovoc/c_014f4d29,wave scattering,http://aims.fao.org/aos/agrovoc/c_9bba2c13
+scattering (sound),http://aims.fao.org/aos/agrovoc/c_014f4d29,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+scattering (sound),http://aims.fao.org/aos/agrovoc/c_014f4d29,sound,http://aims.fao.org/aos/agrovoc/c_7251
+forward scattering,http://aims.fao.org/aos/agrovoc/c_f9674809,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+bottom scattering,http://aims.fao.org/aos/agrovoc/c_5ec67640,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+energy spectra,http://aims.fao.org/aos/agrovoc/c_02300498,energy,http://aims.fao.org/aos/agrovoc/c_2565
+power spectra,http://aims.fao.org/aos/agrovoc/c_02300498,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+directional wave spectra,http://aims.fao.org/aos/agrovoc/c_dd43ad65,wave spectra,http://aims.fao.org/aos/agrovoc/c_25a3ceab
+wave energy spectra,http://aims.fao.org/aos/agrovoc/c_25a3ceab,wave energy,http://aims.fao.org/aos/agrovoc/c_eff42846
+wave power spectra,http://aims.fao.org/aos/agrovoc/c_25a3ceab,wave power,http://aims.fao.org/aos/agrovoc/c_4eb75191
+absorption spectra,http://aims.fao.org/aos/agrovoc/c_59abf715,absorption,http://aims.fao.org/aos/agrovoc/c_27
+sound spectra,http://aims.fao.org/aos/agrovoc/c_6853762a,sound,http://aims.fao.org/aos/agrovoc/c_7251
+acoustic spectra,http://aims.fao.org/aos/agrovoc/c_6853762a,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+inertial forces,http://aims.fao.org/aos/agrovoc/c_79634dfa,forces,http://aims.fao.org/aos/agrovoc/c_b75b64aa
+wave trains,http://aims.fao.org/aos/agrovoc/c_0717c6b7,trains,http://aims.fao.org/aos/agrovoc/c_cbfe1309
+wave groups,http://aims.fao.org/aos/agrovoc/c_311a0b69,groups,http://aims.fao.org/aos/agrovoc/c_50227
+Ekman transport,http://aims.fao.org/aos/agrovoc/c_598e1a27,transport,http://aims.fao.org/aos/agrovoc/c_7874
+wave trapping,http://aims.fao.org/aos/agrovoc/c_873480b7,trapping,http://aims.fao.org/aos/agrovoc/c_7878
+nonlinear wave interactions,http://aims.fao.org/aos/agrovoc/c_bd829183,nonlinear waves,http://aims.fao.org/aos/agrovoc/c_eda5674d
+wave scattering,http://aims.fao.org/aos/agrovoc/c_9bba2c13,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+scattering (water waves),http://aims.fao.org/aos/agrovoc/c_9bba2c13,broadcasting,http://aims.fao.org/aos/agrovoc/c_1101
+scattering (water waves),http://aims.fao.org/aos/agrovoc/c_9bba2c13,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+generation (water waves),http://aims.fao.org/aos/agrovoc/c_6ee5241f,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+wave formation (water waves),http://aims.fao.org/aos/agrovoc/c_6ee5241f,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+wave growth (water waves),http://aims.fao.org/aos/agrovoc/c_6ee5241f,growth,http://aims.fao.org/aos/agrovoc/c_3394
+wave growth (water waves),http://aims.fao.org/aos/agrovoc/c_6ee5241f,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+wind wave generation,http://aims.fao.org/aos/agrovoc/c_a9d15589,wind waves,http://aims.fao.org/aos/agrovoc/c_11bf57b2
+internal wave generation,http://aims.fao.org/aos/agrovoc/c_38b2c0f5,internal waves,http://aims.fao.org/aos/agrovoc/c_d19aab3a
+storm surge generation,http://aims.fao.org/aos/agrovoc/c_4fcfab16,storm surges,http://aims.fao.org/aos/agrovoc/c_8938d8d5
+tsunami generation,http://aims.fao.org/aos/agrovoc/c_4aa648ac,tsunamis,http://aims.fao.org/aos/agrovoc/c_92355
+propagation (water waves),http://aims.fao.org/aos/agrovoc/c_b6a9ee41,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+transmission (water waves),http://aims.fao.org/aos/agrovoc/c_b6a9ee41,transmissions,http://aims.fao.org/aos/agrovoc/c_7870
+transmission (water waves),http://aims.fao.org/aos/agrovoc/c_b6a9ee41,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+water wave propagation,http://aims.fao.org/aos/agrovoc/c_b6a9ee41,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+wave transmission,http://aims.fao.org/aos/agrovoc/c_b6a9ee41,transmissions,http://aims.fao.org/aos/agrovoc/c_7870
+pressure waves,http://aims.fao.org/aos/agrovoc/c_b232f5ca,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+earth waves,http://aims.fao.org/aos/agrovoc/c_1fde981b,earth,http://aims.fao.org/aos/agrovoc/c_2437
+earthquake waves,http://aims.fao.org/aos/agrovoc/c_1fde981b,earthquakes,http://aims.fao.org/aos/agrovoc/c_2440
+body waves,http://aims.fao.org/aos/agrovoc/c_2a6357c8,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+shear waves,http://aims.fao.org/aos/agrovoc/c_d482f64b,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+seismic wave propagation,http://aims.fao.org/aos/agrovoc/c_b5ab6d32,seismic waves,http://aims.fao.org/aos/agrovoc/c_1fde981b
+fields (physics),http://aims.fao.org/aos/agrovoc/c_537f4b89,fields,http://aims.fao.org/aos/agrovoc/c_2894
+density field,http://aims.fao.org/aos/agrovoc/c_2ba89157,density,http://aims.fao.org/aos/agrovoc/c_2186
+wind shear,http://aims.fao.org/aos/agrovoc/c_36279fd7,winds,http://aims.fao.org/aos/agrovoc/c_8401
+acoustic impedance,http://aims.fao.org/aos/agrovoc/c_80020c7a,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+Doppler effect,http://aims.fao.org/aos/agrovoc/c_5b857c3d,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+bed friction,http://aims.fao.org/aos/agrovoc/c_18b8ffff,bycatch excluder devices,http://aims.fao.org/aos/agrovoc/c_fe6a0492
+earth magnetism,http://aims.fao.org/aos/agrovoc/c_0a661123,earth,http://aims.fao.org/aos/agrovoc/c_2437
+stress (mechanics),http://aims.fao.org/aos/agrovoc/c_24fa495a,stress,http://aims.fao.org/aos/agrovoc/c_7452
+stress (mechanics),http://aims.fao.org/aos/agrovoc/c_24fa495a,mechanics,http://aims.fao.org/aos/agrovoc/c_35220
+wind stress,http://aims.fao.org/aos/agrovoc/c_96e537e9,winds,http://aims.fao.org/aos/agrovoc/c_8401
+shear stress,http://aims.fao.org/aos/agrovoc/c_8b629ee6,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+shearing stress,http://aims.fao.org/aos/agrovoc/c_8b629ee6,shearing,http://aims.fao.org/aos/agrovoc/c_2971
+ice accretion,http://aims.fao.org/aos/agrovoc/c_8929b24a,ice,http://aims.fao.org/aos/agrovoc/c_3782
+beach accretion,http://aims.fao.org/aos/agrovoc/c_c91f415e,beaches,http://aims.fao.org/aos/agrovoc/c_850
+fire behaviour,http://aims.fao.org/aos/agrovoc/c_c12e86a3,fires,http://aims.fao.org/aos/agrovoc/c_2915
+fire behaviour,http://aims.fao.org/aos/agrovoc/c_c12e86a3,behaviour,http://aims.fao.org/aos/agrovoc/c_868
+plant soil relations,http://aims.fao.org/aos/agrovoc/c_16146,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant soil relations,http://aims.fao.org/aos/agrovoc/c_16146,soil,http://aims.fao.org/aos/agrovoc/c_7156
+geographical distribution,http://aims.fao.org/aos/agrovoc/c_5083,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+natural distribution,http://aims.fao.org/aos/agrovoc/c_5083,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+geographic distribution,http://aims.fao.org/aos/agrovoc/c_5083,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+gravity anomalies,http://aims.fao.org/aos/agrovoc/c_05813567,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+free air anomalies,http://aims.fao.org/aos/agrovoc/c_27697274,air,http://aims.fao.org/aos/agrovoc/c_224
+dynamic height anomaly,http://aims.fao.org/aos/agrovoc/c_54fd7d54,dynamic height,http://aims.fao.org/aos/agrovoc/c_05e91eaa
+geopotential anomaly,http://aims.fao.org/aos/agrovoc/c_54fd7d54,dynamic height,http://aims.fao.org/aos/agrovoc/c_05e91eaa
+specific volume anomalies,http://aims.fao.org/aos/agrovoc/c_1b6293fb,volume,http://aims.fao.org/aos/agrovoc/c_8288
+temperature anomalies,http://aims.fao.org/aos/agrovoc/c_ebc9e0c7,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+dosage effects,http://aims.fao.org/aos/agrovoc/c_36907,dosage,http://aims.fao.org/aos/agrovoc/c_36906
+after-effects (of residues),http://aims.fao.org/aos/agrovoc/c_24408,residues,http://aims.fao.org/aos/agrovoc/c_6518
+temperature effects,http://aims.fao.org/aos/agrovoc/c_340b1b20,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+pH effects,http://aims.fao.org/aos/agrovoc/c_c1b27fb1,pH,http://aims.fao.org/aos/agrovoc/c_5753
+market disruptions,http://aims.fao.org/aos/agrovoc/c_fc6939f7,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market disturbances,http://aims.fao.org/aos/agrovoc/c_fc6939f7,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market disturbances,http://aims.fao.org/aos/agrovoc/c_fc6939f7,disturbance,http://aims.fao.org/aos/agrovoc/c_cbe171b4
+supply chain disruptions,http://aims.fao.org/aos/agrovoc/c_bde4b788,supply chains,http://aims.fao.org/aos/agrovoc/c_9fbe9719
+mass balances,http://aims.fao.org/aos/agrovoc/c_17a4c25d,mass,http://aims.fao.org/aos/agrovoc/c_4639
+mass balances,http://aims.fao.org/aos/agrovoc/c_17a4c25d,balances,http://aims.fao.org/aos/agrovoc/c_9062
+material balances,http://aims.fao.org/aos/agrovoc/c_17a4c25d,materials,http://aims.fao.org/aos/agrovoc/c_92337
+material balances,http://aims.fao.org/aos/agrovoc/c_17a4c25d,balances,http://aims.fao.org/aos/agrovoc/c_9062
+water balance,http://aims.fao.org/aos/agrovoc/c_8311,water,http://aims.fao.org/aos/agrovoc/c_8309
+water budget,http://aims.fao.org/aos/agrovoc/c_8311,water,http://aims.fao.org/aos/agrovoc/c_8309
+water budget,http://aims.fao.org/aos/agrovoc/c_8311,budgets,http://aims.fao.org/aos/agrovoc/c_1134
+evaporative demand,http://aims.fao.org/aos/agrovoc/c_8311,demand,http://aims.fao.org/aos/agrovoc/c_2171
+water saturation,http://aims.fao.org/aos/agrovoc/c_8311,water,http://aims.fao.org/aos/agrovoc/c_8309
+water saturation,http://aims.fao.org/aos/agrovoc/c_8311,saturation,http://aims.fao.org/aos/agrovoc/c_29dfb0fb
+soil water balance,http://aims.fao.org/aos/agrovoc/c_7206,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil water content,http://aims.fao.org/aos/agrovoc/c_7208,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil moisture deficit,http://aims.fao.org/aos/agrovoc/c_25307,soil water content,http://aims.fao.org/aos/agrovoc/c_7208
+precipitation deficit,http://aims.fao.org/aos/agrovoc/c_25308,precipitation,http://aims.fao.org/aos/agrovoc/c_6161
+nutrient balance,http://aims.fao.org/aos/agrovoc/c_12868,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nitrogen balance,http://aims.fao.org/aos/agrovoc/c_eb390701,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192

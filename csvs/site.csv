@@ -1,0 +1,22 @@
+nome,uriVella,NovoElemento,uriNiovo
+child nurseries,http://aims.fao.org/aos/agrovoc/c_12861,children,http://aims.fao.org/aos/agrovoc/c_1547
+animal hospitals,http://aims.fao.org/aos/agrovoc/c_16384,animals,http://aims.fao.org/aos/agrovoc/c_444
+timber storage sites,http://aims.fao.org/aos/agrovoc/c_28623,wood,http://aims.fao.org/aos/agrovoc/c_8421
+timber storage sites,http://aims.fao.org/aos/agrovoc/c_28623,storage,http://aims.fao.org/aos/agrovoc/c_7427
+log yards,http://aims.fao.org/aos/agrovoc/c_28623,logs,http://aims.fao.org/aos/agrovoc/c_4420
+industrial timber worksites,http://aims.fao.org/aos/agrovoc/c_28623,wood,http://aims.fao.org/aos/agrovoc/c_8421
+waste landfills,http://aims.fao.org/aos/agrovoc/c_35165,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+plant nurseries,http://aims.fao.org/aos/agrovoc/c_5973,plants,http://aims.fao.org/aos/agrovoc/c_5993
+ornamental tree nurseries,http://aims.fao.org/aos/agrovoc/c_14969,ornamental woody plants,http://aims.fao.org/aos/agrovoc/c_34067
+fruit tree nurseries,http://aims.fao.org/aos/agrovoc/c_34832,fruit trees,http://aims.fao.org/aos/agrovoc/c_3128
+forest nurseries,http://aims.fao.org/aos/agrovoc/c_34830,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forest tree nurseries,http://aims.fao.org/aos/agrovoc/c_34830,forest trees,http://aims.fao.org/aos/agrovoc/c_3052
+weather stations,http://aims.fao.org/aos/agrovoc/c_4781,weather,http://aims.fao.org/aos/agrovoc/c_15292
+meteorological networks,http://aims.fao.org/aos/agrovoc/c_4781,networks,http://aims.fao.org/aos/agrovoc/c_50266
+research facilities,http://aims.fao.org/aos/agrovoc/c_e3cfa9f6,research,http://aims.fao.org/aos/agrovoc/c_6513
+shore stations,http://aims.fao.org/aos/agrovoc/c_a2949789,coasts,http://aims.fao.org/aos/agrovoc/c_1700
+ocean weather stations,http://aims.fao.org/aos/agrovoc/c_2616000b,meteorological stations,http://aims.fao.org/aos/agrovoc/c_4781
+cruise stations,http://aims.fao.org/aos/agrovoc/c_be5a9d8a,cruises,http://aims.fao.org/aos/agrovoc/c_81b3c7af
+anchor stations,http://aims.fao.org/aos/agrovoc/c_be5a9d8a,anchors,http://aims.fao.org/aos/agrovoc/c_c3b1822b
+expedition stations,http://aims.fao.org/aos/agrovoc/c_be5a9d8a,expeditions,http://aims.fao.org/aos/agrovoc/c_2e39cd37
+whaling stations,http://aims.fao.org/aos/agrovoc/c_945c3321,whaling,http://aims.fao.org/aos/agrovoc/c_24267

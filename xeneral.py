@@ -1,22 +1,254 @@
-from sparqlQueries import busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva,busquedaRelacionados,busquedaNomeAlternativo,busquedaTodosPais
-from nltkFuncions import dividirTexto,aplicarStemming,aplicarStemmingIndividual,aplicarPlural,estaEnIngles
+from sparqlQueries import busquedaWikidataIDAgrovoc,comprobarXerarquia,busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva,busquedaRelacionados,busquedaNomeAlternativo,busquedaTodosPais
+from nltkFuncions import devolverConceptosWikidata,getSingular,aplicarPluralFrase,extraerKeywords,dividirTexto,aplicarStemming,aplicarStemmingIndividual,aplicarPlural,estaEnIngles,combinacionParaBusqueda,aplicarStemmingLista,lexemaLista,lexemaConcepto,lexemaTermo
 from parseCSV import escribir
 from pprint import pprint
 from anytree import Node, RenderTree
 from anytree.exporter import DotExporter
-from grafosDB import crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion
+from grafosDB import devolverContaFillos,crearClasificación,devolverArtigo,crearArtigo,devolverNodoPoloNome,contidoNosConceptosSimilares,StringContenLexConcepto,buscarLexContidoConcepto,devolverLex,buscarTermoContidoConcepto,buscarConceptoContido,contidosNosFillos,crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion,busquedaPaisGrafo,paisContidosNosFillos,fixarAlcume,fixarAlcumeLexSte,fixarNomeLexSte,comprobarExistenciaNome
 import os
 
 d = {}
+def anotarWikidataAgrovoc(texto):
+
+    entities = (devolverConceptosWikidata(texto))
+    for entity in entities:
+        print(entity)
+        print(busquedaWikidataIDAgrovoc('Q'+str(entity.identifier)))
+anotarWikidataAgrovoc("The raspberry pi is a microcomputer used to AI and IOT")
+def lexemaEstemma(nome:str,lista:list):
+    fixarNomeLexSte(nome,lexemaConcepto(nome),aplicarStemming(nome))
+    if(len(lista)>0):
+        fixarAlcumeLexSte(nome,lexemaLista(lista),aplicarStemmingLista(lista))
+def facerBusquedaDoConcepto(nome:str):
+    lista = []
+    listaPais = []
+    listaResultado = []
+    if(comprobarExistenciaNome(nome)==False):
+        for palabra in combinacionParaBusqueda(nome):
+            if(comprobarExistenciaNome(palabra)==True):
+                lista.append(palabra)
+    else:
+        lista.append(nome)
+        return lista
+    #print(lista)
+    if(len(lista)>2):
+        #print('entra aqui')
+        size=0
+        guardar=None
+        for l in lista:
+            if len(l.split())>size and lista[-1] not in l:
+                size=len(l.split())
+                guardar=l
+        lista=[]
+        if guardar is not None:
+            lista.append(guardar)
+        for d in dividirTexto(nome):
+            guardar=d
+        if guardar is not None:
+            lista.append(guardar)
+    #print(lista)
+    i=0
+
+    if(len(lista)>1):
+        listaPais.append(lista[0])
+        listaPais+=busquedaPaisGrafo(lista[0])
+        
+        #print(listaPais)
+    resultado=None
+    contador=1000
+    if(len(lista)==2):
+        #print("entra aqui")
+        for lp in listaPais:
+            #print("concepto analizado: "+lp +"\t concepto a cotexar "+lista[1])
+            resultadoParcial=[]
+            resultadoParcial=buscarConceptoContido(lp,lista[1])
+            #print(resultadoParcial)
+            if(len(resultadoParcial)==0):
+                resultadoParcial=buscarTermoContidoConcepto(lp,lista[1])
+            if len(resultadoParcial)!=0:
+                #listaNova=contidosNosFillos(lp)
+                #pprint(listaNova)
+                #print(resultadoParcial)
+                contadorParcial=devolverContaFillos(lp)
+                if(contadorParcial<contador):
+                    contador=contadorParcial
+                    resultado=resultadoParcial
+    if resultado is not None:
+        for i in resultado:
+            if lista[-1] in i.split() :
+                guardar=i
+                resultado=[]
+                resultado.append(i)
+    #print(resultado)
+    return resultado
+
+#pprint(facerBusquedaDoConcepto('forage sorghum production'))
+#print(combinacionParaBusqueda('calves housing'))
+def sortFunc(e):
+  return e[3]
+def ConceptosAgrovocNoTexto(nome:str):
+    listaResultado = []
+    listaRepetida=[]
+    romper=False
+    lista = []
+    Listastem=[]
+    listaAux2=[]
+    listaCont=[]
+    keywords = extraerKeywords(nome)
+    #pprint(keywords)
+    for n in keywords:
+        romper=False
+        auxiliar = aplicarStemmingLista(n.split())
+        for a in auxiliar:
+            Listastem.append(a[0])
+        devolto=devolverNodoPoloNome(n)
+        if(len(devolto)!=0):
+            listaAuxiliar=[]
+            listaAuxiliar.append(devolto)
+            #print(listaAuxiliar)
+            romper=True
+            #print(listaAuxiliar)
+        else:
+            listaAuxiliar = StringContenLexConcepto(n)
+            if(len(listaAuxiliar)==0):
+                listaAuxiliar = StringContenLexConcepto(aplicarPluralFrase(n))
+
+            #print(n)
+            #print(listaAuxiliar)
+            if len(listaAuxiliar)==2 and listaAuxiliar[0][0] not in listaAuxiliar[1][0] and listaAuxiliar[1][0] not in listaAuxiliar[0][0]:
+                
+                listaAux2=facerBusquedaDoConcepto(n)
+                if(listaAux2 is not None):
+                    #print(listaAux2)
+                    if(len(listaAux2)>1):
+                        listaAux2=[]
+                        listaAux2.append(listaAuxiliar[0][0])
+                    print(listaAuxiliar[0][0])
+                    print(listaAuxiliar[1][0])
+                    listaAuxiliar=[]
+                    listaAuxiliar.append(devolverNodoPoloNome(listaAux2[0]))
+                    print(listaAuxiliar)
+                    romper=True
+                else:
+                    
+                    listaAux2=contidoNosConceptosSimilares(listaAuxiliar[0][0],listaAuxiliar[1][0])
+                    #pprint(listaAux2)
+                    if(len(listaAux2)!=0):
+                        listaAuxiliar=[]
+                        listaAuxiliar=(listaAux2)
+                        romper=True
+                    else:
+                        listaAux2=contidoNosConceptosSimilares(listaAuxiliar[1][0],listaAuxiliar[0][0])
+                        #pprint(listaAux2)
+                        if(len(listaAux2)!=0):
+                            romper=True
+                            listaAuxiliar=[]
+                            listaAuxiliar=(listaAux2)
+        for l in listaAuxiliar:
+            if romper:
+                if l not in lista:
+                    #print("PRODUCESE NO DE ROMPER: "+l[0])
+                    lista.append(l)
+                    if l not in listaResultado:
+                        listaResultado.append(l)
+                break
+            if (len(l[0].split()) == 1):
+                if (l[1]) is None:
+                        if aplicarStemmingIndividual(l[0]) in Listastem:
+                            if l not in lista:
+                                #print(l)
+                                lista.append(l)
+                                contador=nome.count(lexemaTermo(l[0]))
+                                l.append(contador)
+                                if contador>1 and l not in listaRepetida:
+                                    listaRepetida.append(l)
+
+                else:
+                    if (len(l[1].split()) == 1):
+                        if aplicarStemmingIndividual(l[1]) in Listastem:
+                            if l not in lista:
+                                #print(l)
+                                lista.append(l)
+                                contador=nome.count(lexemaTermo(l[0]))
+                                aux=nome.count(lexemaTermo(l[1]))
+                                if(aux>contador):
+                                    contador=aux
+                                l.append(contador)
+                                if contador>1 and l not in listaRepetida:
+                                    listaRepetida.append(l)
+                    else:
+                        if aplicarStemmingIndividual(l[0]) in Listastem:
+                            if l not in lista:
+                                #print(l)
+                                lista.append(l)
+                                contador=nome.count(lexemaTermo(l[0]))
+                                aux=nome.count(lexemaTermo(l[1]))
+                                if(aux>contador):
+                                    contador=aux
+                                l.append(contador)
+                                if contador>1 and l not in listaRepetida:
+                                    listaRepetida.append(l)
+            else:
+                if l not in lista:
+                    #print(l)
+                    lista.append(l)
+                    contador=nome.count(lexemaTermo(l[0]))
+                    if(l[1] is not None):
+                        aux=nome.count(lexemaTermo(l[1]))
+                        if(aux>contador):
+                            contador=aux
+                    l.append(contador)
+                    if contador>1 and l not in listaRepetida:
+                        listaRepetida.append(l)
+    
+    limite=10
+    contador=len(listaResultado)
+    if contador >=5:
+        limite=contador+5
+    listaRepetida.sort(reverse=True,key=sortFunc)
+    #print(listaRepetida)
+    for i in listaRepetida:
+       #print(i)
+       if(i[3]<3):
+           break
+       i.pop(3)
+       romper=False
+       for l in listaResultado:
+            if comprobarExistenciaRelacion(l[2],i[2],'Broader*')==True:
+                romper=True
+                print(i)
+                break
+            else:
+                continue
+        
+       if i not in listaResultado and romper==False and contador<limite:
+            listaResultado.append(i)
+            contador+=1
+    return listaResultado
+def TratarTextoCientifico(titulo:str,resumo:str,uri:str):
+    lista=ConceptosAgrovocNoTexto(titulo+'\n '+resumo)
+    if devolverArtigo(uri) is None:
+        crearArtigo(titulo,resumo,uri)
+        for l in lista:
+            crearClasificación(uri,l[2])
+    return lista
+
 def procesar_relacionados(nome:str,uri:str):
     relacionados =busquedaRelacionados(uri)
+    #print(relacionados)
     for result in relacionados:
-        if(comprobarExistencia(result[0])==False):
+        if(comprobarExistencia(result[1])==False):
             crearNodo(result[0],result[1])
-        if(comprobarExistenciaRelacion(nome,result[0],"Relacionado")==None):
-            crearRelacion(nome,result[0],"Relacionado")
-        
-
+            procesar_alternativos(result[0],result[1])
+        if(comprobarExistenciaRelacion(uri,result[1],"Relacionado")==None):
+            crearRelacion(uri,result[1],"Relacionado")
+def procesar_alternativos(nome:str,uri:str):
+    #print("entra no proceso de alternativos")
+    listaAlternativos = busquedaNomeAlternativo(uri)
+    #print(listaAlternativos)
+    if(len(listaAlternativos)>0):
+        fixarAlcume(nome,listaAlternativos)
+    lexemaEstemma(nome,listaAlternativos)
 def explorar(nome: str):
     lista: list[str]= []
     nome,uri = busquedaNome(nome)
@@ -48,162 +280,193 @@ def explorar(nome: str):
         print("%s%s" % (pre, node.name))
     imaxe= "imxs/"+nome+".png"
     DotExporter(A).to_picture(imaxe)
+
 #esta función
 #a variable latin serve para diferenciar as chamadas dende o resto dos TOP concepts de organismos, que debido a ter termos en latin ten que filtralos
-def ConceptosPalabras(texto: str,latin:bool):
-    ingles:bool = False
+def TratamentoConcepto(nome,uri,pais,paiNome):
+    listaParcial= []
+    analizar=dividirTexto(nome.replace("'", ""))    
+    tamano = len(analizar)
+    if(tamano>1):
+        #nome,uri = busquedaNome(f[0])
+        ij=0
+        for a in analizar:
+            ij+=1
+            if(ij<0):#se aumentamos o i artificialmente xa saimos que xa conseguimos a palabra
+                break
+            if(tamano>2 and ij<(tamano)):#se hai polo menos 2 palabras antes da palabra final tentamos probar se hai un concepto de duas palabras contido
+                a=analizar[ij-1] + ' ' + aplicarPlural(analizar[ij])
+                if(busquedaNome(a) is not None):
+                    #print('entra aqui?')
+                    ij=-2  
+                else:
+                    a=analizar[ij-1] + ' ' + (analizar[ij])
+                    if(busquedaNome(a) is not None):
+                        #print('entra aqui?')
+                        ij=-2
+                    else:
+                        #print('non entra aqui e ten este nome: '+analizar[ij-1])
+                        a=analizar[ij-1]
+            if(busquedaNome(a) is None):
+                #print('entrou: '+a)
+                a=aplicarPlural(a)
+            if(busquedaNome(a) is not None):
+                #print('entrou2: '+a)
+                nomeA,uriNome = busquedaNome(a) 
+                #paiNome,pai=busquedaPai(uri)
+                #print(nomeA)
+                stem_nome=aplicarStemmingIndividual(nomeA)
+                parar=False
+                if stem_nome in paiNome:
+                    break
+                for p in pais:
+                    if stem_nome==aplicarStemmingIndividual(p[0]):
+                        parar=True
+                        break
+                if parar==True:
+                    break
+                if(comprobarXerarquia(uriNome,uri)==True):
+                    break
+                if(comprobarXerarquia(uri,uriNome)==True ):
+                    break
+                if(uriNome==uri):
+                    break
+                print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA}")
+                if(comprobarExistencia(uriNome)==False):
+                    crearNodo(nomeA,uriNome)
+                    procesar_alternativos(nomeA,uriNome)
+                    procesar_relacionados(nomeA,uriNome)
+                
+                if(comprobarExistenciaRelacion(uriNome,uri,"Contido_en")==None):
+                    crearRelacion(uriNome,uri,"Contido_en")
+
+                auxiliar=[nome,uri,nomeA,uriNome]
+                listaParcial.append(auxiliar) 
+        return listaParcial
+    else:
+        return None
+def TratamentoFillo(f):
+    lista: list[str]= []
+    if(comprobarExistencia(f[1])==False):
+        #print(f[0])
+        crearNodo(f[0],f[1])
+        procesar_alternativos(f[0],f[1])
+    procesar_relacionados(f[0],f[1])
+    nome,uri = busquedaNome(f[0])
+    
+    paiNome,pai=busquedaPai(uri)
+    listaPais = busquedaTodosPais(uri)
+    if len(listaPais)>1:
+        for fi in listaPais:
+            if(comprobarExistencia(fi[1])==False):
+                crearNodo(fi[0],fi[1])
+                procesar_alternativos(fi[0],fi[1])
+            if(comprobarExistenciaRelacion(f[1],fi[1],"Broader")==None):
+                crearRelacion(f[1],fi[1],"Broader")
+            if(comprobarExistenciaRelacion(fi[1],f[1],"Narrower")==None):
+                crearRelacion(fi[1],f[1],"Narrower")
+    
+    pais=busquedaPaiExhaustiva(uri)
+    #print(pais)
+    #print("este e o concepto: "+f[0]+"e este é o pai: "+paiNome)
+    if(comprobarExistenciaRelacion(f[1],pai,"Broader")==None):
+        crearRelacion(f[1],pai,"Broader")
+    if(comprobarExistenciaRelacion(pai,f[1],"Narrower")==None):
+        crearRelacion(pai,f[1],"Narrower")
+    lista = TratamentoConcepto(f[0],uri,pais,paiNome)
+    alt = busquedaNomeAlternativo(uri)
+    if(len(alt)>0):
+        #print(alt)
+        for a in alt:
+            listaOcasional = TratamentoConcepto(a,uri,pais,paiNome)
+            #print(listaOcasional)
+            if listaOcasional is not None:
+                #print(lista)
+                if lista is None:
+                    lista = listaOcasional
+                else:
+                    lista += listaOcasional
+                #print(lista)
+                
+    return lista
+    
+def ConceptosPalabras(texto: str):
     listaNomes: list[str]= []
     nome,uri = busquedaNome(texto)
-    if(comprobarExistencia(nome)==False):
+    if(comprobarExistencia(uri)==False):
+        #print(nome)
         crearNodo(nome,uri)
-    
+        procesar_alternativos(nome,uri)
+        procesar_relacionados(nome,uri)
     
     fillos = busquedaExhaustiva(uri)
     print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
-        print("analizamos o seguinte concepto: "+f[0])
-        if latin == True:
-            ingles = False #serve para logo ver se facemos as relacions contido_en no caso de que sexa un termo que conten moitos conceptos en latin
-            if(estaEnIngles(f[0])):
-                ingles=True
-            else:
-                for alternativo in busquedaNomeAlternativo(f[1]):
-                    if(estaEnIngles(alternativo)):
-                        f[0]=alternativo
-                        ingles=True
-        analizar=dividirTexto(f[0].replace("'", ""))
-        if(comprobarExistencia(f[0])==False):
-            crearNodo(f[0],f[1])
-        procesar_relacionados(f[0],f[1])
-        nome,uri = busquedaNome(f[0])
-        paiNome,pai=busquedaPai(uri)
-        listaPais = busquedaTodosPais(uri)
-        if len(listaPais)>1:
-            for fi in listaPais:
-                print("ENTRAMOS AQUI "+fi[0])
-                if(comprobarExistencia(fi[0])==False):
-                    crearNodo(fi[0],fi[1])
-                if(comprobarExistenciaRelacion(f[0],fi[0],"Broader")==None):
-                    crearRelacion(f[0],fi[0],"Broader")
-                if(comprobarExistenciaRelacion(fi[0],f[0],"Narrower")==None):
-                    crearRelacion(fi[0],f[0],"Narrower")
-        
-        pais=busquedaPaiExhaustiva(uri)
-        #print("este e o concepto: "+f[0]+"e este é o pai: "+paiNome)
-        if(comprobarExistenciaRelacion(f[0],paiNome,"Broader")==None):
-            crearRelacion(f[0],paiNome,"Broader")
-        if(comprobarExistenciaRelacion(paiNome,f[0],"Narrower")==None):
-            crearRelacion(paiNome,f[0],"Narrower")
-        tamano = len(analizar)
-        if(tamano>1):
-            #nome,uri = busquedaNome(f[0])
-            ij=0
-            for a in analizar:
-                ij+=1
-                if(ij<0):#se aumentamos o i artificialmente xa saimos que xa conseguimos a palabra
-                    break
-                if(tamano>2 and ij<(tamano)):#se hai polo menos 2 palabras antes da palabra final tentamos probar se hai un concepto de duas palabras contido
-                    a=analizar[ij-1] + ' ' + aplicarPlural(analizar[ij])
-                    if(busquedaNome(a) is not None):
-                        #print('entra aqui?')
-                        ij=-2  
-                    else:
-                        a=analizar[ij-1] + ' ' + (analizar[ij])
-                        if(busquedaNome(a) is not None):
-                            #print('entra aqui?')
-                            ij=-2
-                        else:
-                            #print('non entra aqui e ten este nome: '+analizar[ij-1])
-                            a=analizar[ij-1]
-                if(busquedaNome(a) is None):
-                    #print('entrou: '+a)
-                    a=aplicarPlural(a)
-                if(busquedaNome(a) is not None):
-                    #print('entrou2: '+a)
-                    nomeA,uriNome = busquedaNome(a) 
-                    #paiNome,pai=busquedaPai(uri)
-                    if(aplicarStemmingIndividual(nomeA) in aplicarStemming(paiNome)):
-                        break
-                    if(nomeA in dividirTexto(paiNome)): #se o nome do noso elemento A buscado a partir do string sacado de f[0] por medio dun tokenizer coincide co pai do elemento f[0].
-                        break
-                    ###este é o código para que todos os descendentes dunha palabra(housing) que a conteñan (cattle housing) non sexan contados,incluso ainda que o seu pai non a teña
-                    romper=False
-                    for p in pais:
-                        ancestroNome=p[0]
-                        if(nomeA in dividirTexto(ancestroNome)):
-                            romper=True
-                            break
-                    if(romper==True):
-                        break
-
-                    
-                    print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA} indice: {i}")
-                    if(comprobarExistencia(nomeA)==False):
-                        crearNodo(nomeA,uriNome)
-                    procesar_relacionados(nomeA,uriNome)
-                    if(latin==True and ingles==True):
-                        if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
-                            crearRelacion(nomeA,nome,"Contido_en")
-                    elif(latin!=True):
-                        if(comprobarExistenciaRelacion(nomeA,nome,"Contido_en")==None):
-                            crearRelacion(nomeA,nome,"Contido_en")
-                    else: 
-                        break
-                    auxiliar=[nome,uri,nomeA,uriNome]
-                    listaNomes.append(auxiliar)  
+        print("analizamos o seguinte concepto: "+f[0]+" que se está executando no número: "+str(i)+" da orde total")
+        auxiliar=TratamentoFillo(f)
+        if auxiliar is not None:
+            listaNomes+=auxiliar
                       
     return listaNomes
 
-
-
-#print("¿Cómo se llama?")
-#nome = input()
-#explorar(nome)
 def gardarConsultaAccesos(nome: str):
-    listaEscribir=ConceptosPalabras(nome,False)
+    listaEscribir=ConceptosPalabras(nome)
     gardar= "csvs/"+nome + ".csv"
     #print(listaEscribir)
     cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
     escribir(gardar,listaEscribir,cabeceira)
+#pprint(facerBusquedaDoConcepto('chicken production'))
 
-
+def gardarConceptoAmplioProximo(ascendente:str,nomeAconcatear: str):
+    listaAuxiliar: list[str]= []
+    listaNomes: list[str]= []
+    nome,uri = busquedaNome(ascendente)
+    if(comprobarExistencia(uri)==False):
+        print("non se atopou o concepto para facer a busqueda")
+    
+    fillos = busquedaExhaustiva(uri)
+    print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
+    for i,f in enumerate(fillos):
+        buscado=f[0]+' '+nomeAconcatear
+        print("analizamos o seguinte concepto: "+buscado+" que se está executando no número: "+str(i)+" da orde total")
+        auxiliar=facerBusquedaDoConcepto(buscado)
+        listaAuxiliar.append(buscado)
+        if auxiliar is not None:
+            if len(auxiliar)>0:
+                listaAuxiliar.append(auxiliar[0])
+            else:
+                listaAuxiliar.append(' ')
+        else:
+            listaAuxiliar.append(' ')
+        listaNomes.append(listaAuxiliar)
+        #print(listaNomes)
+        listaAuxiliar=[]
+    gardar= "csvs/buscado"+ascendente+"_"+nomeAconcatear+".csv"
+    #pprint(listaNomes)
+    cabeceira=['buscado','resultado']
+    escribir(gardar,listaNomes,cabeceira)
+#gardarConceptoAmplioProximo('useful animals','housing')
 def gardadoXeralConsultaAccesos():
-    mandar:bool = False
     listaEscribir: list[str]= []
-    listaParcial: list[str]= []
     listaInicial=busquedaOrfos()
     cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
     
     for l in listaInicial:
-        mandar=False
-        if(comprobarExistencia(l[0])==False):
-            crearNodo(l[0],l[1])
-        procesar_relacionados(l[0],l[1])
         listaEscribir=[]
         gardar="csvs/"+l[0] + ".csv"
         print(f"\n IMOS EXPLORAR AGORA ESTE CONCEPTO INICIAL: {l[0]} \n")
         if l[0] == 'organisms': 
-            mandar=True    # continue here
+            if os.path.exists("csvs/woody plants.csv") :
+                continue
+            else:
+                gardarConsultaAccesos("useful animals")
+                gardarConsultaAccesos("plants")
+                gardarConsultaAccesos("pests")
+                continue
         if os.path.exists(gardar) :
             continue
-        listaFillos=busqueda(l[1])
-        
-        for i in listaFillos:    
-            listaParcial=[]
-            print("iste é un dos fillos: "+i[0]+"dos fillos dun concepto top, que é: "+l[0])
-            if(i[0] is not None):
-                if(comprobarExistencia(i[0])==False):
-                    crearNodo(i[0],i[1])
-                if(comprobarExistenciaRelacion(i[0],l[0],"Broader")==None):    
-                    crearRelacion(i[0],l[0],"Broader")
-                if(comprobarExistenciaRelacion(l[0],i[0],"Narrower")==None):
-                    crearRelacion(l[0],i[0],"Narrower")
-                procesar_relacionados(i[0],i[1])
-                listaParcial+=ConceptosPalabras(i[0],mandar)
-            
-            #pprint(listaParcial)
-            listaEscribir+=listaParcial
-            #pprint(listaEscribir)
+        listaEscribir=ConceptosPalabras(l[0])
+       
         escribir(gardar,listaEscribir,cabeceira)
         
     gardar= "csvs/xeral.csv"

@@ -1,0 +1,162 @@
+nome,uriVella,NovoElemento,uriNiovo
+water plants,http://aims.fao.org/aos/agrovoc/c_559,water,http://aims.fao.org/aos/agrovoc/c_8309
+aquatic ornamental plants,http://aims.fao.org/aos/agrovoc/c_558,ornamental plants,http://aims.fao.org/aos/agrovoc/c_5417
+water lilies,http://aims.fao.org/aos/agrovoc/c_8319,water,http://aims.fao.org/aos/agrovoc/c_8309
+water lilies,http://aims.fao.org/aos/agrovoc/c_8319,lilies,http://aims.fao.org/aos/agrovoc/c_12174
+sea grasses,http://aims.fao.org/aos/agrovoc/c_8c5836a6,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+freshwater plants,http://aims.fao.org/aos/agrovoc/c_c1e5f477,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+grass weeds,http://aims.fao.org/aos/agrovoc/c_330644,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+lowland grass weeds,http://aims.fao.org/aos/agrovoc/c_330647,lowland,http://aims.fao.org/aos/agrovoc/c_4453
+broad leaf weeds,http://aims.fao.org/aos/agrovoc/c_330650,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+upland broad leaf weeds,http://aims.fao.org/aos/agrovoc/c_330689,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+irrigated broad leaf weed,http://aims.fao.org/aos/agrovoc/c_330791,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+irrigated area weeds,http://aims.fao.org/aos/agrovoc/c_330789,area,http://aims.fao.org/aos/agrovoc/c_330588
+sedge weed,http://aims.fao.org/aos/agrovoc/c_330793,Cyperaceae,http://aims.fao.org/aos/agrovoc/c_2072
+lawn grasses,http://aims.fao.org/aos/agrovoc/c_4230,turf,http://aims.fao.org/aos/agrovoc/c_8011
+turf grasses,http://aims.fao.org/aos/agrovoc/c_4230,turf,http://aims.fao.org/aos/agrovoc/c_8011
+ornamental woody plants,http://aims.fao.org/aos/agrovoc/c_34067,woody plants,http://aims.fao.org/aos/agrovoc/c_26837
+ornamental shrubs,http://aims.fao.org/aos/agrovoc/c_34067,shrubs,http://aims.fao.org/aos/agrovoc/c_26823
+ornamental trees,http://aims.fao.org/aos/agrovoc/c_34067,trees,http://aims.fao.org/aos/agrovoc/c_7887
+flowering shrubs,http://aims.fao.org/aos/agrovoc/c_34067,flowering,http://aims.fao.org/aos/agrovoc/c_2992
+flowering shrubs,http://aims.fao.org/aos/agrovoc/c_34067,shrubs,http://aims.fao.org/aos/agrovoc/c_26823
+flowering trees,http://aims.fao.org/aos/agrovoc/c_34067,flowering,http://aims.fao.org/aos/agrovoc/c_2992
+flowering trees,http://aims.fao.org/aos/agrovoc/c_34067,trees,http://aims.fao.org/aos/agrovoc/c_7887
+ornamental foliage plants,http://aims.fao.org/aos/agrovoc/c_5414,foliage,http://aims.fao.org/aos/agrovoc/c_36752
+ornamental bulbs,http://aims.fao.org/aos/agrovoc/c_5411,bulbs,http://aims.fao.org/aos/agrovoc/c_1144
+flowering bulbs,http://aims.fao.org/aos/agrovoc/c_5411,flowering,http://aims.fao.org/aos/agrovoc/c_2992
+flowering bulbs,http://aims.fao.org/aos/agrovoc/c_5411,bulbs,http://aims.fao.org/aos/agrovoc/c_1144
+bedding plants,http://aims.fao.org/aos/agrovoc/c_855,litter for animals,http://aims.fao.org/aos/agrovoc/c_434
+ornamental orchids,http://aims.fao.org/aos/agrovoc/c_5416,Orchidaceae,http://aims.fao.org/aos/agrovoc/c_5380
+rock garden plants,http://aims.fao.org/aos/agrovoc/c_6629,rock,http://aims.fao.org/aos/agrovoc/c_6628
+rock garden plants,http://aims.fao.org/aos/agrovoc/c_6629,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+alpine garden plants,http://aims.fao.org/aos/agrovoc/c_6629,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+garden biennials,http://aims.fao.org/aos/agrovoc/c_11085,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+garden annuals,http://aims.fao.org/aos/agrovoc/c_11083,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+landscape plants,http://aims.fao.org/aos/agrovoc/c_15858,landscape,http://aims.fao.org/aos/agrovoc/c_4185
+virus free plants,http://aims.fao.org/aos/agrovoc/c_24925,viruses,http://aims.fao.org/aos/agrovoc/c_8262
+land plants,http://aims.fao.org/aos/agrovoc/c_330289,land,http://aims.fao.org/aos/agrovoc/c_4172
+economic plants,http://aims.fao.org/aos/agrovoc/c_1972,economics,http://aims.fao.org/aos/agrovoc/c_2481
+fodder legumes,http://aims.fao.org/aos/agrovoc/c_2834,forage,http://aims.fao.org/aos/agrovoc/c_36108
+forage legumes,http://aims.fao.org/aos/agrovoc/c_2834,forage,http://aims.fao.org/aos/agrovoc/c_36108
+grain legumes,http://aims.fao.org/aos/agrovoc/c_3351,grain,http://aims.fao.org/aos/agrovoc/c_3346
+broad beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+faba beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+tick beans,http://aims.fao.org/aos/agrovoc/c_10722,Metastigmata,http://aims.fao.org/aos/agrovoc/c_7763
+tick beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+fava beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+field bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,fields,http://aims.fao.org/aos/agrovoc/c_2894
+field bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+horse bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,horses,http://aims.fao.org/aos/agrovoc/c_3668
+horse bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+lima beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+burma beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+butter beans,http://aims.fao.org/aos/agrovoc/c_12180,butter,http://aims.fao.org/aos/agrovoc/c_1162
+butter beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+civet beans,http://aims.fao.org/aos/agrovoc/c_12180,civets,http://aims.fao.org/aos/agrovoc/c_15671
+civet beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+curry beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+Madagascar beans,http://aims.fao.org/aos/agrovoc/c_12180,Madagascar,http://aims.fao.org/aos/agrovoc/c_4510
+Madagascar beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+sieva beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356,pigeons,http://aims.fao.org/aos/agrovoc/c_5870
+pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
+congo beans,http://aims.fao.org/aos/agrovoc/c_13356,beans,http://aims.fao.org/aos/agrovoc/c_331566
+congo pea,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
+noneye pea,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
+vegetable legumes,http://aims.fao.org/aos/agrovoc/c_8169,vegetables,http://aims.fao.org/aos/agrovoc/c_8174
+grain crops,http://aims.fao.org/aos/agrovoc/c_3348,grain,http://aims.fao.org/aos/agrovoc/c_3346
+cereal crops,http://aims.fao.org/aos/agrovoc/c_25512,cereals,http://aims.fao.org/aos/agrovoc/c_1474
+stimulant crops,http://aims.fao.org/aos/agrovoc/c_7413,stimulants,http://aims.fao.org/aos/agrovoc/c_7414
+shade plants,http://aims.fao.org/aos/agrovoc/c_7019,shade,http://aims.fao.org/aos/agrovoc/c_14232
+spice crops,http://aims.fao.org/aos/agrovoc/c_7299,spices,http://aims.fao.org/aos/agrovoc/c_15685
+flavouring crops (spices),http://aims.fao.org/aos/agrovoc/c_7299,flavouring,http://aims.fao.org/aos/agrovoc/c_2967
+honey plants,http://aims.fao.org/aos/agrovoc/c_860,honey,http://aims.fao.org/aos/agrovoc/c_3652
+nectar plants,http://aims.fao.org/aos/agrovoc/c_860,nectar,http://aims.fao.org/aos/agrovoc/c_5098
+erosion control plants,http://aims.fao.org/aos/agrovoc/c_2653,erosion control,http://aims.fao.org/aos/agrovoc/c_2652
+soil stabilizing plants,http://aims.fao.org/aos/agrovoc/c_2653,soil,http://aims.fao.org/aos/agrovoc/c_7156
+root crops,http://aims.fao.org/aos/agrovoc/c_6641,roots,http://aims.fao.org/aos/agrovoc/c_6651
+food crops,http://aims.fao.org/aos/agrovoc/c_3017,foods,http://aims.fao.org/aos/agrovoc/c_3032
+fruit crops,http://aims.fao.org/aos/agrovoc/c_3120,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+orchard crops,http://aims.fao.org/aos/agrovoc/c_3120,orchards,http://aims.fao.org/aos/agrovoc/c_5379
+grape vines,http://aims.fao.org/aos/agrovoc/c_3360,grapes,http://aims.fao.org/aos/agrovoc/c_3359
+sugar crops,http://aims.fao.org/aos/agrovoc/c_7503,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+beverage crops,http://aims.fao.org/aos/agrovoc/c_894,beverages,http://aims.fao.org/aos/agrovoc/c_896
+vegetable crops,http://aims.fao.org/aos/agrovoc/c_8165,vegetables,http://aims.fao.org/aos/agrovoc/c_8174
+pole beans,http://aims.fao.org/aos/agrovoc/c_cd551774,poles,http://aims.fao.org/aos/agrovoc/c_6061
+pole beans,http://aims.fao.org/aos/agrovoc/c_cd551774,beans,http://aims.fao.org/aos/agrovoc/c_331566
+bush beans,http://aims.fao.org/aos/agrovoc/c_168dbe5b,beans,http://aims.fao.org/aos/agrovoc/c_331566
+oil crops,http://aims.fao.org/aos/agrovoc/c_5328,oils,http://aims.fao.org/aos/agrovoc/c_5334
+oil plants,http://aims.fao.org/aos/agrovoc/c_5328,oils,http://aims.fao.org/aos/agrovoc/c_5334
+oilseed crops,http://aims.fao.org/aos/agrovoc/c_5328,oilseeds,http://aims.fao.org/aos/agrovoc/c_25490
+dye plants,http://aims.fao.org/aos/agrovoc/c_2422,dyes,http://aims.fao.org/aos/agrovoc/c_2425
+fibre crops,http://aims.fao.org/aos/agrovoc/c_2876,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+fibre plants,http://aims.fao.org/aos/agrovoc/c_2876,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+textile crops,http://aims.fao.org/aos/agrovoc/c_2876,textiles,http://aims.fao.org/aos/agrovoc/c_7697
+fiber crops,http://aims.fao.org/aos/agrovoc/c_2876,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+wax plants,http://aims.fao.org/aos/agrovoc/c_8335,waxes,http://aims.fao.org/aos/agrovoc/c_8336
+fuel crops,http://aims.fao.org/aos/agrovoc/c_15583,fuels,http://aims.fao.org/aos/agrovoc/c_3136
+firewood crops,http://aims.fao.org/aos/agrovoc/c_15583,fuelwood,http://aims.fao.org/aos/agrovoc/c_3137
+energy crops,http://aims.fao.org/aos/agrovoc/c_15583,energy,http://aims.fao.org/aos/agrovoc/c_2565
+pesticide crops,http://aims.fao.org/aos/agrovoc/c_5733,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+insecticide crops,http://aims.fao.org/aos/agrovoc/c_5733,insecticides,http://aims.fao.org/aos/agrovoc/c_3887
+essential oil crops,http://aims.fao.org/aos/agrovoc/c_2668,essential oils,http://aims.fao.org/aos/agrovoc/c_2669
+flavouring crops (essential oils),http://aims.fao.org/aos/agrovoc/c_2668,flavouring,http://aims.fao.org/aos/agrovoc/c_2967
+essential oil plants,http://aims.fao.org/aos/agrovoc/c_2668,essential oils,http://aims.fao.org/aos/agrovoc/c_2669
+drug plants,http://aims.fao.org/aos/agrovoc/c_2393,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+gum plants,http://aims.fao.org/aos/agrovoc/c_3439,gums,http://aims.fao.org/aos/agrovoc/c_3441
+resin plants,http://aims.fao.org/aos/agrovoc/c_3439,resins,http://aims.fao.org/aos/agrovoc/c_6519
+rubber crops,http://aims.fao.org/aos/agrovoc/c_6679,rubber,http://aims.fao.org/aos/agrovoc/c_6678
+latex plants,http://aims.fao.org/aos/agrovoc/c_6679,latex,http://aims.fao.org/aos/agrovoc/c_4214
+bioenergy crops,http://aims.fao.org/aos/agrovoc/c_d51704f9,bioenergy,http://aims.fao.org/aos/agrovoc/c_16526
+revegetation plants,http://aims.fao.org/aos/agrovoc/c_6545,revegetation,http://aims.fao.org/aos/agrovoc/c_26815
+rootstock crops,http://aims.fao.org/aos/agrovoc/c_6652,rootstocks,http://aims.fao.org/aos/agrovoc/c_6653
+salad crops,http://aims.fao.org/aos/agrovoc/c_6742,salads,http://aims.fao.org/aos/agrovoc/c_11358
+seed crops,http://aims.fao.org/aos/agrovoc/c_6931,seed,http://aims.fao.org/aos/agrovoc/c_6927
+soil reclamation plants,http://aims.fao.org/aos/agrovoc/c_7185,reclamation,http://aims.fao.org/aos/agrovoc/c_6474
+forage trees,http://aims.fao.org/aos/agrovoc/c_9458,forage,http://aims.fao.org/aos/agrovoc/c_36108
+forage trees,http://aims.fao.org/aos/agrovoc/c_9458,trees,http://aims.fao.org/aos/agrovoc/c_7887
+forage shrubs,http://aims.fao.org/aos/agrovoc/c_9458,forage,http://aims.fao.org/aos/agrovoc/c_36108
+forage shrubs,http://aims.fao.org/aos/agrovoc/c_9458,shrubs,http://aims.fao.org/aos/agrovoc/c_26823
+field crops,http://aims.fao.org/aos/agrovoc/c_10836,fields,http://aims.fao.org/aos/agrovoc/c_2894
+plantation crops,http://aims.fao.org/aos/agrovoc/c_13443,plantations,http://aims.fao.org/aos/agrovoc/c_5990
+winter crops,http://aims.fao.org/aos/agrovoc/c_24917,winter,http://aims.fao.org/aos/agrovoc/c_8410
+spring crops,http://aims.fao.org/aos/agrovoc/c_24918,spring,http://aims.fao.org/aos/agrovoc/c_7336
+grass clover,http://aims.fao.org/aos/agrovoc/c_cdb03095,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+grass clover,http://aims.fao.org/aos/agrovoc/c_cdb03095,Trifolium,http://aims.fao.org/aos/agrovoc/c_7910
+lucerne grass,http://aims.fao.org/aos/agrovoc/c_b3de330b,Medicago sativa,http://aims.fao.org/aos/agrovoc/c_4693
+lucerne grass,http://aims.fao.org/aos/agrovoc/c_b3de330b,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+alfalfa grass,http://aims.fao.org/aos/agrovoc/c_b3de330b,Medicago sativa,http://aims.fao.org/aos/agrovoc/c_4693
+alfalfa grass,http://aims.fao.org/aos/agrovoc/c_b3de330b,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+catch crops,http://aims.fao.org/aos/agrovoc/c_29684,catches,http://aims.fao.org/aos/agrovoc/c_9665
+stubble crops,http://aims.fao.org/aos/agrovoc/c_29684,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+summer catch crops,http://aims.fao.org/aos/agrovoc/c_ba2fe879,summer,http://aims.fao.org/aos/agrovoc/c_7519
+winter catch crops,http://aims.fao.org/aos/agrovoc/c_106fa584,winter,http://aims.fao.org/aos/agrovoc/c_8410
+tree crops,http://aims.fao.org/aos/agrovoc/c_34134,trees,http://aims.fao.org/aos/agrovoc/c_7887
+mother plants,http://aims.fao.org/aos/agrovoc/c_34315,mothers,http://aims.fao.org/aos/agrovoc/c_4952
+feed crops,http://aims.fao.org/aos/agrovoc/c_2829,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+fodder crops,http://aims.fao.org/aos/agrovoc/c_2829,forage,http://aims.fao.org/aos/agrovoc/c_36108
+forage crops,http://aims.fao.org/aos/agrovoc/c_2829,forage,http://aims.fao.org/aos/agrovoc/c_36108
+pasture plants,http://aims.fao.org/aos/agrovoc/c_2829,pastures,http://aims.fao.org/aos/agrovoc/c_5626
+animal feed crops,http://aims.fao.org/aos/agrovoc/c_2829,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+great millet,http://aims.fao.org/aos/agrovoc/c_435824c5,millets,http://aims.fao.org/aos/agrovoc/c_4838
+sweet sorghum,http://aims.fao.org/aos/agrovoc/c_92e4fd40,sugar confectionery,http://aims.fao.org/aos/agrovoc/c_7502
+sugar sorghum,http://aims.fao.org/aos/agrovoc/c_92e4fd40,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+grain sorghum,http://aims.fao.org/aos/agrovoc/c_86edaf66,grain,http://aims.fao.org/aos/agrovoc/c_3346
+forage sorghum,http://aims.fao.org/aos/agrovoc/c_28b13ecf,forage,http://aims.fao.org/aos/agrovoc/c_36108
+fodder sorghum,http://aims.fao.org/aos/agrovoc/c_28b13ecf,forage,http://aims.fao.org/aos/agrovoc/c_36108
+grass sorghum,http://aims.fao.org/aos/agrovoc/c_28b13ecf,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+trap crops,http://aims.fao.org/aos/agrovoc/c_24910,traps,http://aims.fao.org/aos/agrovoc/c_7879
+protein plants,http://aims.fao.org/aos/agrovoc/c_32690,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+greenhouse crops,http://aims.fao.org/aos/agrovoc/c_3377,greenhouses,http://aims.fao.org/aos/agrovoc/c_3379
+pot plants,http://aims.fao.org/aos/agrovoc/c_6136,pots,http://aims.fao.org/aos/agrovoc/c_37405
+container plants,http://aims.fao.org/aos/agrovoc/c_6136,containers,http://aims.fao.org/aos/agrovoc/c_1831
+house plants,http://aims.fao.org/aos/agrovoc/c_6136,houses,http://aims.fao.org/aos/agrovoc/c_11629
+starch crops,http://aims.fao.org/aos/agrovoc/c_7370,starch,http://aims.fao.org/aos/agrovoc/c_7369
+nut crops,http://aims.fao.org/aos/agrovoc/c_5266,nuts,http://aims.fao.org/aos/agrovoc/c_12873
+windbreak trees,http://aims.fao.org/aos/agrovoc/c_8397,windbreaks,http://aims.fao.org/aos/agrovoc/c_8398
+city trees,http://aims.fao.org/aos/agrovoc/c_35324,towns,http://aims.fao.org/aos/agrovoc/c_7823
+forest trees,http://aims.fao.org/aos/agrovoc/c_3052,forests,http://aims.fao.org/aos/agrovoc/c_3062
+seed trees,http://aims.fao.org/aos/agrovoc/c_6941,seed,http://aims.fao.org/aos/agrovoc/c_6927
+multiple use trees,http://aims.fao.org/aos/agrovoc/c_33512,multiple use,http://aims.fao.org/aos/agrovoc/c_34052
+nitrogen fixing trees,http://aims.fao.org/aos/agrovoc/c_35228,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+timber trees,http://aims.fao.org/aos/agrovoc/c_7776,wood,http://aims.fao.org/aos/agrovoc/c_8421

@@ -1,0 +1,58 @@
+nome,uriVella,NovoElemento,uriNiovo
+life history,http://aims.fao.org/aos/agrovoc/c_4317,history,http://aims.fao.org/aos/agrovoc/c_3635
+growth stages,http://aims.fao.org/aos/agrovoc/c_2230,growth,http://aims.fao.org/aos/agrovoc/c_3394
+animal developmental stages,http://aims.fao.org/aos/agrovoc/c_425,animals,http://aims.fao.org/aos/agrovoc/c_444
+natural egg incubation,http://aims.fao.org/aos/agrovoc/c_9445,egg incubation,http://aims.fao.org/aos/agrovoc/c_2497
+insect growth forms,http://aims.fao.org/aos/agrovoc/c_330669,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+insect growth forms,http://aims.fao.org/aos/agrovoc/c_330669,plant habit,http://aims.fao.org/aos/agrovoc/c_5969
+lactation stage,http://aims.fao.org/aos/agrovoc/c_331392,lactation,http://aims.fao.org/aos/agrovoc/c_4140
+gestation period,http://aims.fao.org/aos/agrovoc/c_3252,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+gestation length,http://aims.fao.org/aos/agrovoc/c_3252,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+gestation length,http://aims.fao.org/aos/agrovoc/c_3252,length,http://aims.fao.org/aos/agrovoc/c_4260
+pregnancy duration,http://aims.fao.org/aos/agrovoc/c_3252,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+pregnancy duration,http://aims.fao.org/aos/agrovoc/c_3252,duration,http://aims.fao.org/aos/agrovoc/c_2412
+drying off (lactation),http://aims.fao.org/aos/agrovoc/c_24020,drying,http://aims.fao.org/aos/agrovoc/c_2402
+drying off (lactation),http://aims.fao.org/aos/agrovoc/c_24020,lactation,http://aims.fao.org/aos/agrovoc/c_4140
+fish larvae,http://aims.fao.org/aos/agrovoc/c_2924,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish fry,http://aims.fao.org/aos/agrovoc/c_2924,fish,http://aims.fao.org/aos/agrovoc/c_15903
+invertebrate larvae,http://aims.fao.org/aos/agrovoc/c_9081a121,invertebrates,http://aims.fao.org/aos/agrovoc/c_3929
+insect larvae,http://aims.fao.org/aos/agrovoc/c_174dbcf1,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+crustacean larvae,http://aims.fao.org/aos/agrovoc/c_791a300c,crustaceans,http://aims.fao.org/aos/agrovoc/c_eaa20250
+plant developmental stages,http://aims.fao.org/aos/agrovoc/c_5959,plants,http://aims.fao.org/aos/agrovoc/c_5993
+seed filling,http://aims.fao.org/aos/agrovoc/c_26785,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed filling,http://aims.fao.org/aos/agrovoc/c_26785,filling,http://aims.fao.org/aos/agrovoc/c_28541
+pod filling,http://aims.fao.org/aos/agrovoc/c_26785,pods,http://aims.fao.org/aos/agrovoc/c_13475
+pod filling,http://aims.fao.org/aos/agrovoc/c_26785,filling,http://aims.fao.org/aos/agrovoc/c_28541
+grain filling,http://aims.fao.org/aos/agrovoc/c_26785,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain filling,http://aims.fao.org/aos/agrovoc/c_26785,filling,http://aims.fao.org/aos/agrovoc/c_28541
+flushing (plant),http://aims.fao.org/aos/agrovoc/c_15923,flushing,http://aims.fao.org/aos/agrovoc/c_35112
+bud burst,http://aims.fao.org/aos/agrovoc/c_15923,buds,http://aims.fao.org/aos/agrovoc/c_1135
+running to seed,http://aims.fao.org/aos/agrovoc/c_16116,toes,http://aims.fao.org/aos/agrovoc/c_14912
+running to seed,http://aims.fao.org/aos/agrovoc/c_16116,seed,http://aims.fao.org/aos/agrovoc/c_6927
+stem elongation,http://aims.fao.org/aos/agrovoc/c_7387,stems,http://aims.fao.org/aos/agrovoc/c_7390
+bud initiation,http://aims.fao.org/aos/agrovoc/c_15948,buds,http://aims.fao.org/aos/agrovoc/c_1135
+seed set,http://aims.fao.org/aos/agrovoc/c_36747,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed set,http://aims.fao.org/aos/agrovoc/c_36747,sets,http://aims.fao.org/aos/agrovoc/c_7004
+juvenile forms in plants,http://aims.fao.org/aos/agrovoc/c_34034,juveniles,http://aims.fao.org/aos/agrovoc/c_25393
+bud formation,http://aims.fao.org/aos/agrovoc/c_37520,buds,http://aims.fao.org/aos/agrovoc/c_1135
+panicle initiation stage,http://aims.fao.org/aos/agrovoc/c_330848,panicles,http://aims.fao.org/aos/agrovoc/c_24557
+seedling emergence,http://aims.fao.org/aos/agrovoc/c_2547,seedlings,http://aims.fao.org/aos/agrovoc/c_6945
+pollen germination,http://aims.fao.org/aos/agrovoc/c_35046,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+preharvest sprouting,http://aims.fao.org/aos/agrovoc/c_35274,sprouting,http://aims.fao.org/aos/agrovoc/c_15923
+sprouting in the ear,http://aims.fao.org/aos/agrovoc/c_35274,sprouting,http://aims.fao.org/aos/agrovoc/c_15923
+sprouting in the ear,http://aims.fao.org/aos/agrovoc/c_35274,ears,http://aims.fao.org/aos/agrovoc/c_2436
+seed germination,http://aims.fao.org/aos/agrovoc/c_36513,seed,http://aims.fao.org/aos/agrovoc/c_6927
+spore germination,http://aims.fao.org/aos/agrovoc/c_36514,spores,http://aims.fao.org/aos/agrovoc/c_7324
+seed development,http://aims.fao.org/aos/agrovoc/c_40869149,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed dispersal,http://aims.fao.org/aos/agrovoc/c_6932,seed,http://aims.fao.org/aos/agrovoc/c_6927
+leaf development,http://aims.fao.org/aos/agrovoc/c_1af7de35,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+leaf emergence,http://aims.fao.org/aos/agrovoc/c_cc8dc9cc,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+leaf emergence,http://aims.fao.org/aos/agrovoc/c_cc8dc9cc,seedling emergence,http://aims.fao.org/aos/agrovoc/c_2547
+transplanting stage,http://aims.fao.org/aos/agrovoc/c_330685,transplanting,http://aims.fao.org/aos/agrovoc/c_7873
+seedling stage,http://aims.fao.org/aos/agrovoc/c_330777,seedlings,http://aims.fao.org/aos/agrovoc/c_6945
+juvenile stage,http://aims.fao.org/aos/agrovoc/c_330660,juveniles,http://aims.fao.org/aos/agrovoc/c_25393
+zygote stage,http://aims.fao.org/aos/agrovoc/c_330662,zygotes,http://aims.fao.org/aos/agrovoc/c_8542
+ripening stage,http://aims.fao.org/aos/agrovoc/c_330756,ripening,http://aims.fao.org/aos/agrovoc/c_13933
+human developmental stages,http://aims.fao.org/aos/agrovoc/c_330996,humans,http://aims.fao.org/aos/agrovoc/c_4586
+growth period,http://aims.fao.org/aos/agrovoc/c_15981,growth,http://aims.fao.org/aos/agrovoc/c_3394
+policy coherence,http://aims.fao.org/aos/agrovoc/c_095d612d,policies,http://aims.fao.org/aos/agrovoc/c_6062

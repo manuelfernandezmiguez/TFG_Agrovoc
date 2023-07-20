@@ -1,0 +1,1121 @@
+nome,uriVella,NovoElemento,uriNiovo
+plant fossils,http://aims.fao.org/aos/agrovoc/c_ec319441,plants,http://aims.fao.org/aos/agrovoc/c_5993
+animal fossils,http://aims.fao.org/aos/agrovoc/c_21ae02ab,animals,http://aims.fao.org/aos/agrovoc/c_444
+fishing licences,http://aims.fao.org/aos/agrovoc/c_d6c2ab56,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fishing permits,http://aims.fao.org/aos/agrovoc/c_d6c2ab56,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+hunting licenses,http://aims.fao.org/aos/agrovoc/c_a490f611,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+hunting permits,http://aims.fao.org/aos/agrovoc/c_a490f611,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+fishing authorizations,http://aims.fao.org/aos/agrovoc/c_826cc1cd,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+aquaculture licenses,http://aims.fao.org/aos/agrovoc/c_55ef98b8,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+fishery policies,http://aims.fao.org/aos/agrovoc/c_2939,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+forestry policies,http://aims.fao.org/aos/agrovoc/c_3060,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+forest policies,http://aims.fao.org/aos/agrovoc/c_3060,forests,http://aims.fao.org/aos/agrovoc/c_3062
+logging bans,http://aims.fao.org/aos/agrovoc/c_1373988178180,logging,http://aims.fao.org/aos/agrovoc/c_7775
+climate change adaptation,http://aims.fao.org/aos/agrovoc/c_1374567058134,climate change,http://aims.fao.org/aos/agrovoc/c_1666
+climate change mitigation,http://aims.fao.org/aos/agrovoc/c_1374571087594,climate change,http://aims.fao.org/aos/agrovoc/c_1666
+emissions trading,http://aims.fao.org/aos/agrovoc/c_1b1e0e70,emission,http://aims.fao.org/aos/agrovoc/c_331377
+water charges,http://aims.fao.org/aos/agrovoc/c_7724fa15,water,http://aims.fao.org/aos/agrovoc/c_8309
+water rates,http://aims.fao.org/aos/agrovoc/c_7724fa15,water,http://aims.fao.org/aos/agrovoc/c_8309
+nature-based solutions,http://aims.fao.org/aos/agrovoc/c_0fafbb81,solutions,http://aims.fao.org/aos/agrovoc/c_28563
+food security,http://aims.fao.org/aos/agrovoc/c_10967,foods,http://aims.fao.org/aos/agrovoc/c_3032
+household food security,http://aims.fao.org/aos/agrovoc/c_9000078,households,http://aims.fao.org/aos/agrovoc/c_3676
+land policies,http://aims.fao.org/aos/agrovoc/c_195,land,http://aims.fao.org/aos/agrovoc/c_4172
+agrarian reform,http://aims.fao.org/aos/agrovoc/c_196,reforms,http://aims.fao.org/aos/agrovoc/c_bb4738d4
+seed insecurity,http://aims.fao.org/aos/agrovoc/c_1415267986335,seed,http://aims.fao.org/aos/agrovoc/c_6927
+nutrition security,http://aims.fao.org/aos/agrovoc/c_57ba042c,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+development policies,http://aims.fao.org/aos/agrovoc/c_2228,development,http://aims.fao.org/aos/agrovoc/c_331049
+development strategy,http://aims.fao.org/aos/agrovoc/c_2228,development,http://aims.fao.org/aos/agrovoc/c_331049
+development strategy,http://aims.fao.org/aos/agrovoc/c_2228,strategies,http://aims.fao.org/aos/agrovoc/c_330991
+educational reforms,http://aims.fao.org/aos/agrovoc/c_28678,reforms,http://aims.fao.org/aos/agrovoc/c_bb4738d4
+poverty alleviation,http://aims.fao.org/aos/agrovoc/c_1f9c4c7d,poverty,http://aims.fao.org/aos/agrovoc/c_6151
+poverty reduction,http://aims.fao.org/aos/agrovoc/c_813845e2,poverty,http://aims.fao.org/aos/agrovoc/c_6151
+poverty reduction,http://aims.fao.org/aos/agrovoc/c_813845e2,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+economic policies,http://aims.fao.org/aos/agrovoc/c_28672,economics,http://aims.fao.org/aos/agrovoc/c_2481
+support measures,http://aims.fao.org/aos/agrovoc/c_7526,measure,http://aims.fao.org/aos/agrovoc/c_330493
+improvement grants,http://aims.fao.org/aos/agrovoc/c_7484,improvement,http://aims.fao.org/aos/agrovoc/c_330895
+improvement grants,http://aims.fao.org/aos/agrovoc/c_7484,grants,http://aims.fao.org/aos/agrovoc/c_11257
+research subsidies,http://aims.fao.org/aos/agrovoc/c_32536,research,http://aims.fao.org/aos/agrovoc/c_6513
+trade policies,http://aims.fao.org/aos/agrovoc/c_7854,trade,http://aims.fao.org/aos/agrovoc/c_7848
+import controls,http://aims.fao.org/aos/agrovoc/c_3813,imports,http://aims.fao.org/aos/agrovoc/c_3815
+export controls,http://aims.fao.org/aos/agrovoc/c_28682,exports,http://aims.fao.org/aos/agrovoc/c_2761
+export restrictions,http://aims.fao.org/aos/agrovoc/c_28682,exports,http://aims.fao.org/aos/agrovoc/c_2761
+export restrictions,http://aims.fao.org/aos/agrovoc/c_28682,restrictions,http://aims.fao.org/aos/agrovoc/c_78af9f7e
+import levies,http://aims.fao.org/aos/agrovoc/c_28701,imports,http://aims.fao.org/aos/agrovoc/c_3815
+import levies,http://aims.fao.org/aos/agrovoc/c_28701,levies,http://aims.fao.org/aos/agrovoc/c_4301
+import substitution,http://aims.fao.org/aos/agrovoc/c_26788,imports,http://aims.fao.org/aos/agrovoc/c_3815
+market liberalization,http://aims.fao.org/aos/agrovoc/c_7853,markets,http://aims.fao.org/aos/agrovoc/c_4626
+preferential tariffs,http://aims.fao.org/aos/agrovoc/c_7855,tariffs,http://aims.fao.org/aos/agrovoc/c_7616
+export policies,http://aims.fao.org/aos/agrovoc/c_28685,exports,http://aims.fao.org/aos/agrovoc/c_2761
+export insurance,http://aims.fao.org/aos/agrovoc/c_28684,exports,http://aims.fao.org/aos/agrovoc/c_2761
+export guarantees,http://aims.fao.org/aos/agrovoc/c_28684,exports,http://aims.fao.org/aos/agrovoc/c_2761
+international trade policies,http://aims.fao.org/aos/agrovoc/c_31908,international trade,http://aims.fao.org/aos/agrovoc/c_3919
+market access,http://aims.fao.org/aos/agrovoc/c_1312459073954,markets,http://aims.fao.org/aos/agrovoc/c_4626
+access to markets,http://aims.fao.org/aos/agrovoc/c_1312459073954,toes,http://aims.fao.org/aos/agrovoc/c_14912
+access to markets,http://aims.fao.org/aos/agrovoc/c_1312459073954,markets,http://aims.fao.org/aos/agrovoc/c_4626
+credit policies,http://aims.fao.org/aos/agrovoc/c_28658,credit,http://aims.fao.org/aos/agrovoc/c_1954
+marketing policies,http://aims.fao.org/aos/agrovoc/c_4624,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+price policies,http://aims.fao.org/aos/agrovoc/c_6179,prices,http://aims.fao.org/aos/agrovoc/c_6178
+pricing policies,http://aims.fao.org/aos/agrovoc/c_6179,price fixing,http://aims.fao.org/aos/agrovoc/c_13570
+agricultural price policies,http://aims.fao.org/aos/agrovoc/c_330592,agricultural prices,http://aims.fao.org/aos/agrovoc/c_8677
+production policies,http://aims.fao.org/aos/agrovoc/c_6206,production,http://aims.fao.org/aos/agrovoc/c_6200
+land diversion,http://aims.fao.org/aos/agrovoc/c_28716,land,http://aims.fao.org/aos/agrovoc/c_4172
+set aside of land,http://aims.fao.org/aos/agrovoc/c_28716,sets,http://aims.fao.org/aos/agrovoc/c_7004
+set aside of land,http://aims.fao.org/aos/agrovoc/c_28716,land,http://aims.fao.org/aos/agrovoc/c_4172
+set aside programme of land,http://aims.fao.org/aos/agrovoc/c_34120,sets,http://aims.fao.org/aos/agrovoc/c_7004
+set aside programme of land,http://aims.fao.org/aos/agrovoc/c_34120,programmes,http://aims.fao.org/aos/agrovoc/c_50291
+set aside scheme of land,http://aims.fao.org/aos/agrovoc/c_34121,sets,http://aims.fao.org/aos/agrovoc/c_7004
+investment policies,http://aims.fao.org/aos/agrovoc/c_28707,investment,http://aims.fao.org/aos/agrovoc/c_3930
+land tax,http://aims.fao.org/aos/agrovoc/c_4180,land,http://aims.fao.org/aos/agrovoc/c_4172
+capital taxation,http://aims.fao.org/aos/agrovoc/c_1274,capital,http://aims.fao.org/aos/agrovoc/c_1271
+capital gains tax,http://aims.fao.org/aos/agrovoc/c_1274,capital,http://aims.fao.org/aos/agrovoc/c_1271
+capital transfers tax,http://aims.fao.org/aos/agrovoc/c_1274,capital,http://aims.fao.org/aos/agrovoc/c_1271
+forest taxation,http://aims.fao.org/aos/agrovoc/c_1374843647715,forests,http://aims.fao.org/aos/agrovoc/c_3062
+income tax,http://aims.fao.org/aos/agrovoc/c_11722,income,http://aims.fao.org/aos/agrovoc/c_3820
+fishing licence fees,http://aims.fao.org/aos/agrovoc/c_376b9904,fishing licences,http://aims.fao.org/aos/agrovoc/c_d6c2ab56
+fishing permit fees,http://aims.fao.org/aos/agrovoc/c_376b9904,fishing licences,http://aims.fao.org/aos/agrovoc/c_d6c2ab56
+hunting permit fees,http://aims.fao.org/aos/agrovoc/c_8ef61dfe,hunting licenses,http://aims.fao.org/aos/agrovoc/c_a490f611
+food policies,http://aims.fao.org/aos/agrovoc/c_3023,foods,http://aims.fao.org/aos/agrovoc/c_3032
+research policies,http://aims.fao.org/aos/agrovoc/c_6515,research,http://aims.fao.org/aos/agrovoc/c_6513
+Common agricultural policy (EU),http://aims.fao.org/aos/agrovoc/c_1266,agricultural policies,http://aims.fao.org/aos/agrovoc/c_201
+energy policies,http://aims.fao.org/aos/agrovoc/c_16181,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy security,http://aims.fao.org/aos/agrovoc/c_a731bb99,energy,http://aims.fao.org/aos/agrovoc/c_2565
+state intervention,http://aims.fao.org/aos/agrovoc/c_24951,state,http://aims.fao.org/aos/agrovoc/c_330998
+government intervention,http://aims.fao.org/aos/agrovoc/c_24951,government,http://aims.fao.org/aos/agrovoc/c_11230
+government control,http://aims.fao.org/aos/agrovoc/c_24951,government,http://aims.fao.org/aos/agrovoc/c_11230
+water policies,http://aims.fao.org/aos/agrovoc/c_1385374640988,water,http://aims.fao.org/aos/agrovoc/c_8309
+water policy,http://aims.fao.org/aos/agrovoc/c_1385374640988,water,http://aims.fao.org/aos/agrovoc/c_8309
+law reform,http://aims.fao.org/aos/agrovoc/c_19e8c912,law,http://aims.fao.org/aos/agrovoc/c_12106
+health policies,http://aims.fao.org/aos/agrovoc/c_32496,health,http://aims.fao.org/aos/agrovoc/c_3511
+nutrition policies,http://aims.fao.org/aos/agrovoc/c_32497,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+innovation policies,http://aims.fao.org/aos/agrovoc/c_29bd5896,innovation,http://aims.fao.org/aos/agrovoc/c_27560
+extension policies,http://aims.fao.org/aos/agrovoc/c_386a763c,extension,http://aims.fao.org/aos/agrovoc/c_2762
+Torrens system,http://aims.fao.org/aos/agrovoc/c_7017dc39,systems,http://aims.fao.org/aos/agrovoc/c_330985
+homes (family),http://aims.fao.org/aos/agrovoc/c_3676,families,http://aims.fao.org/aos/agrovoc/c_2785
+dietary history assessment,http://aims.fao.org/aos/agrovoc/c_2261,history,http://aims.fao.org/aos/agrovoc/c_3635
+dietary history assessment,http://aims.fao.org/aos/agrovoc/c_2261,assessment,http://aims.fao.org/aos/agrovoc/c_330990
+nutritional assessment of diet,http://aims.fao.org/aos/agrovoc/c_2261,assessment,http://aims.fao.org/aos/agrovoc/c_330990
+health diets,http://aims.fao.org/aos/agrovoc/c_7714,health,http://aims.fao.org/aos/agrovoc/c_3511
+hospital diets,http://aims.fao.org/aos/agrovoc/c_7714,hospitals,http://aims.fao.org/aos/agrovoc/c_24183
+rehabilitation diet,http://aims.fao.org/aos/agrovoc/c_7714,rehabilitation,http://aims.fao.org/aos/agrovoc/c_330897
+clinical nutrition,http://aims.fao.org/aos/agrovoc/c_7714,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+nutritional rehabilitation,http://aims.fao.org/aos/agrovoc/c_7714,rehabilitation,http://aims.fao.org/aos/agrovoc/c_330897
+therapeutic nutrition,http://aims.fao.org/aos/agrovoc/c_7714,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+weight reduction diets,http://aims.fao.org/aos/agrovoc/c_17057,weight reduction,http://aims.fao.org/aos/agrovoc/c_15301
+weight loss diet,http://aims.fao.org/aos/agrovoc/c_17057,weight losses,http://aims.fao.org/aos/agrovoc/c_8351
+fat restricted diets,http://aims.fao.org/aos/agrovoc/c_35103,fats,http://aims.fao.org/aos/agrovoc/c_2816
+low fat diets,http://aims.fao.org/aos/agrovoc/c_35103,fats,http://aims.fao.org/aos/agrovoc/c_2816
+reduced fat diets,http://aims.fao.org/aos/agrovoc/c_35103,fats,http://aims.fao.org/aos/agrovoc/c_2816
+energy restricted diets,http://aims.fao.org/aos/agrovoc/c_36785,energy,http://aims.fao.org/aos/agrovoc/c_2565
+calorie restricted diets,http://aims.fao.org/aos/agrovoc/c_36785,calories,http://aims.fao.org/aos/agrovoc/c_7a64c5e2
+protein restricted diets,http://aims.fao.org/aos/agrovoc/c_35279,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+low protein diets,http://aims.fao.org/aos/agrovoc/c_35279,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+land markets,http://aims.fao.org/aos/agrovoc/c_4175,land,http://aims.fao.org/aos/agrovoc/c_4172
+commodity markets,http://aims.fao.org/aos/agrovoc/c_1781,commodities,http://aims.fao.org/aos/agrovoc/c_37be8c04
+product markets,http://aims.fao.org/aos/agrovoc/c_1781,products,http://aims.fao.org/aos/agrovoc/c_6211
+commodity exchanges,http://aims.fao.org/aos/agrovoc/c_1781,commodities,http://aims.fao.org/aos/agrovoc/c_37be8c04
+world markets,http://aims.fao.org/aos/agrovoc/c_8450,world,http://aims.fao.org/aos/agrovoc/c_24920
+capital market,http://aims.fao.org/aos/agrovoc/c_28645,capital,http://aims.fao.org/aos/agrovoc/c_1271
+stock exchange,http://aims.fao.org/aos/agrovoc/c_28645,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+stock market,http://aims.fao.org/aos/agrovoc/c_28645,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+labour market,http://aims.fao.org/aos/agrovoc/c_28713,labour,http://aims.fao.org/aos/agrovoc/c_4128
+retail markets,http://aims.fao.org/aos/agrovoc/c_8e616888,retail marketing,http://aims.fao.org/aos/agrovoc/c_6536
+water markets,http://aims.fao.org/aos/agrovoc/c_148d3162,water,http://aims.fao.org/aos/agrovoc/c_8309
+family budget,http://aims.fao.org/aos/agrovoc/c_28690,families,http://aims.fao.org/aos/agrovoc/c_2785
+household budget,http://aims.fao.org/aos/agrovoc/c_28690,households,http://aims.fao.org/aos/agrovoc/c_3676
+farm budgets,http://aims.fao.org/aos/agrovoc/c_28875,farms,http://aims.fao.org/aos/agrovoc/c_2809
+research grants,http://aims.fao.org/aos/agrovoc/c_32535,research,http://aims.fao.org/aos/agrovoc/c_6513
+trade marks,http://aims.fao.org/aos/agrovoc/c_6228,trade,http://aims.fao.org/aos/agrovoc/c_7848
+trade names,http://aims.fao.org/aos/agrovoc/c_6228,trade,http://aims.fao.org/aos/agrovoc/c_7848
+balance of payments,http://aims.fao.org/aos/agrovoc/c_789,balances,http://aims.fao.org/aos/agrovoc/c_9062
+liquid assets,http://aims.fao.org/aos/agrovoc/c_4370,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+owner's equity,http://aims.fao.org/aos/agrovoc/c_1271,equity,http://aims.fao.org/aos/agrovoc/c_44532808
+fixed assets,http://aims.fao.org/aos/agrovoc/c_2957,assets,http://aims.fao.org/aos/agrovoc/c_677
+farm capital,http://aims.fao.org/aos/agrovoc/c_3eb0cb04,farms,http://aims.fao.org/aos/agrovoc/c_2809
+balance sheets,http://aims.fao.org/aos/agrovoc/c_355c4931,balances,http://aims.fao.org/aos/agrovoc/c_9062
+human capital,http://aims.fao.org/aos/agrovoc/c_71735c3f,humans,http://aims.fao.org/aos/agrovoc/c_4586
+cooperative finance,http://aims.fao.org/aos/agrovoc/c_9000023,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+cooperative credit,http://aims.fao.org/aos/agrovoc/c_1858,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+export credits,http://aims.fao.org/aos/agrovoc/c_28683,exports,http://aims.fao.org/aos/agrovoc/c_2761
+national income,http://aims.fao.org/aos/agrovoc/c_5078,income,http://aims.fao.org/aos/agrovoc/c_3820
+gross national product,http://aims.fao.org/aos/agrovoc/c_11364,products,http://aims.fao.org/aos/agrovoc/c_6211
+gross domestic product,http://aims.fao.org/aos/agrovoc/c_11364,products,http://aims.fao.org/aos/agrovoc/c_6211
+gross agricultural product,http://aims.fao.org/aos/agrovoc/c_28696,agricultural products,http://aims.fao.org/aos/agrovoc/c_8678
+national budgets,http://aims.fao.org/aos/agrovoc/c_28735,budgets,http://aims.fao.org/aos/agrovoc/c_1134
+public budget,http://aims.fao.org/aos/agrovoc/c_28735,budgets,http://aims.fao.org/aos/agrovoc/c_1134
+old age benefits,http://aims.fao.org/aos/agrovoc/c_5680,elderly,http://aims.fao.org/aos/agrovoc/c_28629
+farm income,http://aims.fao.org/aos/agrovoc/c_10746,farms,http://aims.fao.org/aos/agrovoc/c_2809
+farmer income,http://aims.fao.org/aos/agrovoc/c_10746,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+forest returns,http://aims.fao.org/aos/agrovoc/c_28077,forests,http://aims.fao.org/aos/agrovoc/c_3062
+time wages,http://aims.fao.org/aos/agrovoc/c_6499,time,http://aims.fao.org/aos/agrovoc/c_7778
+household income,http://aims.fao.org/aos/agrovoc/c_742cce5e,households,http://aims.fao.org/aos/agrovoc/c_3676
+food standards,http://aims.fao.org/aos/agrovoc/c_10971,foods,http://aims.fao.org/aos/agrovoc/c_3032
+metadata standards,http://aims.fao.org/aos/agrovoc/c_49827,metadata,http://aims.fao.org/aos/agrovoc/c_49829
+certification schemes,http://aims.fao.org/aos/agrovoc/c_06049ef3,certification,http://aims.fao.org/aos/agrovoc/c_35702
+water quality standards,http://aims.fao.org/aos/agrovoc/c_097985de,water quality,http://aims.fao.org/aos/agrovoc/c_16061
+production structure,http://aims.fao.org/aos/agrovoc/c_6209,production,http://aims.fao.org/aos/agrovoc/c_6200
+production structure,http://aims.fao.org/aos/agrovoc/c_6209,structures,http://aims.fao.org/aos/agrovoc/c_330905
+soil sequences,http://aims.fao.org/aos/agrovoc/c_7191,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil types,http://aims.fao.org/aos/agrovoc/c_7204,soil,http://aims.fao.org/aos/agrovoc/c_7156
+paddy soils,http://aims.fao.org/aos/agrovoc/c_5498,rice,http://aims.fao.org/aos/agrovoc/c_6599
+rice soils,http://aims.fao.org/aos/agrovoc/c_5498,rice,http://aims.fao.org/aos/agrovoc/c_6599
+polder soils,http://aims.fao.org/aos/agrovoc/c_6059,reclaimed land,http://aims.fao.org/aos/agrovoc/c_6472
+greenhouse soils,http://aims.fao.org/aos/agrovoc/c_3378,greenhouses,http://aims.fao.org/aos/agrovoc/c_3379
+orchard soils,http://aims.fao.org/aos/agrovoc/c_5378,orchards,http://aims.fao.org/aos/agrovoc/c_5379
+meadow soils,http://aims.fao.org/aos/agrovoc/c_16569,meadows,http://aims.fao.org/aos/agrovoc/c_12447
+chemical soil types,http://aims.fao.org/aos/agrovoc/c_1519,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+acid soils,http://aims.fao.org/aos/agrovoc/c_89,acids,http://aims.fao.org/aos/agrovoc/c_92
+peat soils,http://aims.fao.org/aos/agrovoc/c_5648,peat,http://aims.fao.org/aos/agrovoc/c_5647
+saline sodic soils,http://aims.fao.org/aos/agrovoc/c_6750,sodic soils,http://aims.fao.org/aos/agrovoc/c_7144
+saline alkali soils,http://aims.fao.org/aos/agrovoc/c_6750,sodic soils,http://aims.fao.org/aos/agrovoc/c_7144
+acid sulphate soils,http://aims.fao.org/aos/agrovoc/c_36929,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid sulphate soils,http://aims.fao.org/aos/agrovoc/c_36929,sulphates,http://aims.fao.org/aos/agrovoc/c_7510
+acid sulfate soils,http://aims.fao.org/aos/agrovoc/c_36929,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid sulfate soils,http://aims.fao.org/aos/agrovoc/c_36929,sulphates,http://aims.fao.org/aos/agrovoc/c_7510
+mineral soils,http://aims.fao.org/aos/agrovoc/c_4853,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+desert soils,http://aims.fao.org/aos/agrovoc/c_2203,deserts,http://aims.fao.org/aos/agrovoc/c_2205
+bog soils,http://aims.fao.org/aos/agrovoc/c_986,bogs,http://aims.fao.org/aos/agrovoc/c_987
+grassland soils,http://aims.fao.org/aos/agrovoc/c_3365,grasslands,http://aims.fao.org/aos/agrovoc/c_3366
+pasture soils,http://aims.fao.org/aos/agrovoc/c_3365,pastures,http://aims.fao.org/aos/agrovoc/c_5626
+heathland soils,http://aims.fao.org/aos/agrovoc/c_3523,moors,http://aims.fao.org/aos/agrovoc/c_4931
+rangeland soils,http://aims.fao.org/aos/agrovoc/c_6447,rangelands,http://aims.fao.org/aos/agrovoc/c_6448
+scrubland soils,http://aims.fao.org/aos/agrovoc/c_6886,scrublands,http://aims.fao.org/aos/agrovoc/c_6887
+swamp soils,http://aims.fao.org/aos/agrovoc/c_7543,swamps,http://aims.fao.org/aos/agrovoc/c_7544
+wetland soils,http://aims.fao.org/aos/agrovoc/c_8370,wetlands,http://aims.fao.org/aos/agrovoc/c_8371
+prairie soils,http://aims.fao.org/aos/agrovoc/c_37707,prairies,http://aims.fao.org/aos/agrovoc/c_6154
+forest soils,http://aims.fao.org/aos/agrovoc/c_3051,forests,http://aims.fao.org/aos/agrovoc/c_3062
+woodland soils,http://aims.fao.org/aos/agrovoc/c_3051,woodlands,http://aims.fao.org/aos/agrovoc/c_8433
+chalk soils,http://aims.fao.org/aos/agrovoc/c_1493,limestone,http://aims.fao.org/aos/agrovoc/c_4342
+boulder clay soils,http://aims.fao.org/aos/agrovoc/c_1036,clay soils,http://aims.fao.org/aos/agrovoc/c_1659
+clay soils,http://aims.fao.org/aos/agrovoc/c_1659,clay,http://aims.fao.org/aos/agrovoc/c_15619
+granite soils,http://aims.fao.org/aos/agrovoc/c_3356,granite,http://aims.fao.org/aos/agrovoc/c_32468
+igneous rock soils,http://aims.fao.org/aos/agrovoc/c_3792,igneous rocks,http://aims.fao.org/aos/agrovoc/c_4264f3ca
+loess soils,http://aims.fao.org/aos/agrovoc/c_4418,loess,http://aims.fao.org/aos/agrovoc/c_5031d900
+light soils,http://aims.fao.org/aos/agrovoc/c_6781,light,http://aims.fao.org/aos/agrovoc/c_4322
+shale soils,http://aims.fao.org/aos/agrovoc/c_7021,shale,http://aims.fao.org/aos/agrovoc/c_0d422b06
+pumice soils,http://aims.fao.org/aos/agrovoc/c_8287,pumice,http://aims.fao.org/aos/agrovoc/c_36851
+volcanic ash soils,http://aims.fao.org/aos/agrovoc/c_8287,ashes,http://aims.fao.org/aos/agrovoc/c_15728
+delta soils,http://aims.fao.org/aos/agrovoc/c_2169,deltas,http://aims.fao.org/aos/agrovoc/c_2170
+dune soils,http://aims.fao.org/aos/agrovoc/c_2409,dunes,http://aims.fao.org/aos/agrovoc/c_2410
+hill soils,http://aims.fao.org/aos/agrovoc/c_3615,highlands,http://aims.fao.org/aos/agrovoc/c_3614
+mountain soils,http://aims.fao.org/aos/agrovoc/c_4959,mountains,http://aims.fao.org/aos/agrovoc/c_12676
+river terrace soils,http://aims.fao.org/aos/agrovoc/c_6616,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+river terrace soils,http://aims.fao.org/aos/agrovoc/c_6616,terraces,http://aims.fao.org/aos/agrovoc/c_28166
+karst soils,http://aims.fao.org/aos/agrovoc/c_34036,karst,http://aims.fao.org/aos/agrovoc/c_33509
+genetic soil types,http://aims.fao.org/aos/agrovoc/c_3219,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+World Reference Base for Soil Resources groups,http://aims.fao.org/aos/agrovoc/c_89f35c33,groups,http://aims.fao.org/aos/agrovoc/c_50227
+temperature profiles,http://aims.fao.org/aos/agrovoc/c_7659,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+temperature profiles,http://aims.fao.org/aos/agrovoc/c_7659,profiles,http://aims.fao.org/aos/agrovoc/c_c4457c2d
+consumer cooperatives,http://aims.fao.org/aos/agrovoc/c_1822,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+fishery cooperatives,http://aims.fao.org/aos/agrovoc/c_50341,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+machinery cooperatives,http://aims.fao.org/aos/agrovoc/c_4496,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+machinery pools,http://aims.fao.org/aos/agrovoc/c_4496,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+machinery syndicates,http://aims.fao.org/aos/agrovoc/c_4496,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+marketing cooperatives,http://aims.fao.org/aos/agrovoc/c_12408,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+farming cooperatives,http://aims.fao.org/aos/agrovoc/c_8669,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+dairy cooperatives,http://aims.fao.org/aos/agrovoc/c_10270,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+housing cooperatives,http://aims.fao.org/aos/agrovoc/c_11630,housing,http://aims.fao.org/aos/agrovoc/c_3678
+purchasing cooperatives,http://aims.fao.org/aos/agrovoc/c_13679,purchasing,http://aims.fao.org/aos/agrovoc/c_6375
+supply cooperatives,http://aims.fao.org/aos/agrovoc/c_14699,supply,http://aims.fao.org/aos/agrovoc/c_7523
+viticulture cooperatives,http://aims.fao.org/aos/agrovoc/c_37730,viticulture,http://aims.fao.org/aos/agrovoc/c_8277
+forestry cooperatives,http://aims.fao.org/aos/agrovoc/c_1373987254655,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+fish farms,http://aims.fao.org/aos/agrovoc/c_36678,fish,http://aims.fao.org/aos/agrovoc/c_15903
+market gardens,http://aims.fao.org/aos/agrovoc/c_4616,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market gardens,http://aims.fao.org/aos/agrovoc/c_4616,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+family farms,http://aims.fao.org/aos/agrovoc/c_2787,families,http://aims.fao.org/aos/agrovoc/c_2785
+state farms,http://aims.fao.org/aos/agrovoc/c_7376,state,http://aims.fao.org/aos/agrovoc/c_330998
+livestock farms,http://aims.fao.org/aos/agrovoc/c_25247,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+medium size farms,http://aims.fao.org/aos/agrovoc/c_28732,size,http://aims.fao.org/aos/agrovoc/c_7093
+dairy farms,http://aims.fao.org/aos/agrovoc/c_34762,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+model farms,http://aims.fao.org/aos/agrovoc/c_5879,models,http://aims.fao.org/aos/agrovoc/c_4881
+home production,http://aims.fao.org/aos/agrovoc/c_1924,production,http://aims.fao.org/aos/agrovoc/c_6200
+on-farm sale,http://aims.fao.org/aos/agrovoc/c_2323,sales,http://aims.fao.org/aos/agrovoc/c_25816
+farm holidays,http://aims.fao.org/aos/agrovoc/c_2797,farms,http://aims.fao.org/aos/agrovoc/c_2809
+state enterprises,http://aims.fao.org/aos/agrovoc/c_28736,state,http://aims.fao.org/aos/agrovoc/c_330998
+farm shops,http://aims.fao.org/aos/agrovoc/c_10750,farms,http://aims.fao.org/aos/agrovoc/c_2809
+agro-industrial associations,http://aims.fao.org/aos/agrovoc/c_28639,associations,http://aims.fao.org/aos/agrovoc/c_37955
+investment clubs,http://aims.fao.org/aos/agrovoc/c_50246,investment,http://aims.fao.org/aos/agrovoc/c_3930
+mixed-ownership companies,http://aims.fao.org/aos/agrovoc/c_50258,companies,http://aims.fao.org/aos/agrovoc/c_10045
+aquaculture enterprises,http://aims.fao.org/aos/agrovoc/c_146814f5,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+aquaculture industries,http://aims.fao.org/aos/agrovoc/c_146814f5,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+aquaculture industries,http://aims.fao.org/aos/agrovoc/c_146814f5,industry,http://aims.fao.org/aos/agrovoc/c_3848
+development agencies,http://aims.fao.org/aos/agrovoc/c_2224,development,http://aims.fao.org/aos/agrovoc/c_331049
+aid institutions,http://aims.fao.org/aos/agrovoc/c_2224,institutions,http://aims.fao.org/aos/agrovoc/c_50242
+voluntary services,http://aims.fao.org/aos/agrovoc/c_28786,services,http://aims.fao.org/aos/agrovoc/c_6989
+government agencies,http://aims.fao.org/aos/agrovoc/c_50221,government,http://aims.fao.org/aos/agrovoc/c_11230
+clearing houses,http://aims.fao.org/aos/agrovoc/c_50178,houses,http://aims.fao.org/aos/agrovoc/c_11629
+irrigation schemes,http://aims.fao.org/aos/agrovoc/c_25428,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+irrigation programmes,http://aims.fao.org/aos/agrovoc/c_25428,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+irrigation programmes,http://aims.fao.org/aos/agrovoc/c_25428,programmes,http://aims.fao.org/aos/agrovoc/c_50291
+disaster recovery,http://aims.fao.org/aos/agrovoc/c_1375451385073,disasters,http://aims.fao.org/aos/agrovoc/c_5082
+disaster recovery,http://aims.fao.org/aos/agrovoc/c_1375451385073,recuperation,http://aims.fao.org/aos/agrovoc/c_aafbf0c8
+disaster relief,http://aims.fao.org/aos/agrovoc/c_92327,disasters,http://aims.fao.org/aos/agrovoc/c_5082
+disaster relief,http://aims.fao.org/aos/agrovoc/c_92327,relief,http://aims.fao.org/aos/agrovoc/c_0a8b4e1e
+development aid,http://aims.fao.org/aos/agrovoc/c_2225,development,http://aims.fao.org/aos/agrovoc/c_331049
+economic aid,http://aims.fao.org/aos/agrovoc/c_2225,economics,http://aims.fao.org/aos/agrovoc/c_2481
+emergency relief,http://aims.fao.org/aos/agrovoc/c_29770,emergencies,http://aims.fao.org/aos/agrovoc/c_1361784825156
+emergency relief,http://aims.fao.org/aos/agrovoc/c_29770,relief,http://aims.fao.org/aos/agrovoc/c_0a8b4e1e
+food aid,http://aims.fao.org/aos/agrovoc/c_3012,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food relief,http://aims.fao.org/aos/agrovoc/c_3012,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food relief,http://aims.fao.org/aos/agrovoc/c_3012,relief,http://aims.fao.org/aos/agrovoc/c_0a8b4e1e
+fishery aid,http://aims.fao.org/aos/agrovoc/c_8e95fd4f,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+research programmes,http://aims.fao.org/aos/agrovoc/c_330987,research,http://aims.fao.org/aos/agrovoc/c_6513
+population programme,http://aims.fao.org/aos/agrovoc/c_9000127,population,http://aims.fao.org/aos/agrovoc/c_330887
+training programmes,http://aims.fao.org/aos/agrovoc/c_24094,training,http://aims.fao.org/aos/agrovoc/c_7861
+development programmes,http://aims.fao.org/aos/agrovoc/c_428bec51,development,http://aims.fao.org/aos/agrovoc/c_331049
+breeding programmes,http://aims.fao.org/aos/agrovoc/c_1d441805,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+breeding schemes,http://aims.fao.org/aos/agrovoc/c_1d441805,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+community based breeding programmes,http://aims.fao.org/aos/agrovoc/c_0c345404,communities,http://aims.fao.org/aos/agrovoc/c_50182
+village based breeding programmes,http://aims.fao.org/aos/agrovoc/c_0c345404,villages,http://aims.fao.org/aos/agrovoc/c_8252
+fishery data,http://aims.fao.org/aos/agrovoc/c_29788,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fisheries data,http://aims.fao.org/aos/agrovoc/c_29788,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+production data,http://aims.fao.org/aos/agrovoc/c_32548,production,http://aims.fao.org/aos/agrovoc/c_6200
+economic statistics,http://aims.fao.org/aos/agrovoc/c_1336139478799,economics,http://aims.fao.org/aos/agrovoc/c_2481
+production statistics,http://aims.fao.org/aos/agrovoc/c_1336141339262,production,http://aims.fao.org/aos/agrovoc/c_6200
+fishery statistics,http://aims.fao.org/aos/agrovoc/c_331451,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+catch statistics,http://aims.fao.org/aos/agrovoc/c_384449f5,catches,http://aims.fao.org/aos/agrovoc/c_9665
+whaling statistics,http://aims.fao.org/aos/agrovoc/c_4c5866b2,whaling,http://aims.fao.org/aos/agrovoc/c_24267
+fish catch statistics,http://aims.fao.org/aos/agrovoc/c_37172613,fish,http://aims.fao.org/aos/agrovoc/c_15903
+shellfish catch statistics,http://aims.fao.org/aos/agrovoc/c_f5efa8e7,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+hunting statistics,http://aims.fao.org/aos/agrovoc/c_33446427,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+landing statistics,http://aims.fao.org/aos/agrovoc/c_55ecd720,landing,http://aims.fao.org/aos/agrovoc/c_203913f1
+sport fishing statistics,http://aims.fao.org/aos/agrovoc/c_768afd51,sport fishing,http://aims.fao.org/aos/agrovoc/c_34093
+creel census,http://aims.fao.org/aos/agrovoc/c_768afd51,censuses,http://aims.fao.org/aos/agrovoc/c_1430
+fishery products statistics,http://aims.fao.org/aos/agrovoc/c_3e9d18e8,fishery products,http://aims.fao.org/aos/agrovoc/c_2941
+fishing vessels statistics,http://aims.fao.org/aos/agrovoc/c_5aa8d713,fishing vessels,http://aims.fao.org/aos/agrovoc/c_2954
+food statistics,http://aims.fao.org/aos/agrovoc/c_1c8700c9,foods,http://aims.fao.org/aos/agrovoc/c_3032
+forestry statistics,http://aims.fao.org/aos/agrovoc/c_1336142720153,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+trade statistics,http://aims.fao.org/aos/agrovoc/c_1336378649175,trade,http://aims.fao.org/aos/agrovoc/c_7848
+aquaculture statistics,http://aims.fao.org/aos/agrovoc/c_331452,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+seaweed statistics,http://aims.fao.org/aos/agrovoc/c_7d5c52d4,seaweeds,http://aims.fao.org/aos/agrovoc/c_14154
+water statistics,http://aims.fao.org/aos/agrovoc/c_0e6710c3,water,http://aims.fao.org/aos/agrovoc/c_8309
+labour statistics,http://aims.fao.org/aos/agrovoc/c_838e7634,labour,http://aims.fao.org/aos/agrovoc/c_4128
+gender statistics,http://aims.fao.org/aos/agrovoc/c_14edf45a,gender,http://aims.fao.org/aos/agrovoc/c_34835
+life tables,http://aims.fao.org/aos/agrovoc/c_33510,tables,http://aims.fao.org/aos/agrovoc/c_85d670e1
+birth rate,http://aims.fao.org/aos/agrovoc/c_936,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+disease occurrence,http://aims.fao.org/aos/agrovoc/c_4936,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+disease prevalence,http://aims.fao.org/aos/agrovoc/c_4936,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+disease incidence,http://aims.fao.org/aos/agrovoc/c_4936,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+water wave statistics,http://aims.fao.org/aos/agrovoc/c_42c6b450,water waves,http://aims.fao.org/aos/agrovoc/c_30fbb94f
+health statistics,http://aims.fao.org/aos/agrovoc/c_dd23071d,health,http://aims.fao.org/aos/agrovoc/c_3511
+nutrition statistics,http://aims.fao.org/aos/agrovoc/c_20a0a618,nutrition,http://aims.fao.org/aos/agrovoc/c_49892
+food consumption statistics,http://aims.fao.org/aos/agrovoc/c_845e556a,food consumption,http://aims.fao.org/aos/agrovoc/c_3016
+climate data,http://aims.fao.org/aos/agrovoc/c_29553,climate,http://aims.fao.org/aos/agrovoc/c_1665
+climate observations,http://aims.fao.org/aos/agrovoc/c_29553,climate,http://aims.fao.org/aos/agrovoc/c_1665
+climate observations,http://aims.fao.org/aos/agrovoc/c_29553,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+weather data,http://aims.fao.org/aos/agrovoc/c_29564,weather,http://aims.fao.org/aos/agrovoc/c_15292
+meteorological observations (data),http://aims.fao.org/aos/agrovoc/c_29564,meteorological observations,http://aims.fao.org/aos/agrovoc/c_4780
+wind data,http://aims.fao.org/aos/agrovoc/c_ace34ca2,winds,http://aims.fao.org/aos/agrovoc/c_8401
+gravity data,http://aims.fao.org/aos/agrovoc/c_ffe6cd58,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+ocean observations,http://aims.fao.org/aos/agrovoc/c_9000117,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+temperature data,http://aims.fao.org/aos/agrovoc/c_457bfd87,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+water temperature data,http://aims.fao.org/aos/agrovoc/c_1ff20c3e,water temperature,http://aims.fao.org/aos/agrovoc/c_16063
+CTD observations,http://aims.fao.org/aos/agrovoc/c_329a104a,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+conductivity-temperature-depth observations,http://aims.fao.org/aos/agrovoc/c_329a104a,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+CTD measurements,http://aims.fao.org/aos/agrovoc/c_329a104a,measurement,http://aims.fao.org/aos/agrovoc/c_4668
+water current data,http://aims.fao.org/aos/agrovoc/c_dcb5db7e,water currents,http://aims.fao.org/aos/agrovoc/c_8316
+current meter data,http://aims.fao.org/aos/agrovoc/c_fcb840a1,current meters,http://aims.fao.org/aos/agrovoc/c_513ef113
+salinity data,http://aims.fao.org/aos/agrovoc/c_c6469776,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+wave records,http://aims.fao.org/aos/agrovoc/c_fbc1a0eb,records,http://aims.fao.org/aos/agrovoc/c_41a23976
+pollution data,http://aims.fao.org/aos/agrovoc/c_5cbeca5e,pollution,http://aims.fao.org/aos/agrovoc/c_6077
+acoustic data,http://aims.fao.org/aos/agrovoc/c_54b338c3,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+farm data,http://aims.fao.org/aos/agrovoc/c_5d55e146,farms,http://aims.fao.org/aos/agrovoc/c_2809
+research data,http://aims.fao.org/aos/agrovoc/c_49f4a895,research,http://aims.fao.org/aos/agrovoc/c_6513
+wage agreements,http://aims.fao.org/aos/agrovoc/c_28981,remuneration,http://aims.fao.org/aos/agrovoc/c_6499
+protocols (treaties),http://aims.fao.org/aos/agrovoc/c_50319,protocols,http://aims.fao.org/aos/agrovoc/c_c6f4f99b
+tenancy agreements,http://aims.fao.org/aos/agrovoc/c_4240,tenancy,http://aims.fao.org/aos/agrovoc/c_7661
+farm leases,http://aims.fao.org/aos/agrovoc/c_10747,farms,http://aims.fao.org/aos/agrovoc/c_2809
+land leases,http://aims.fao.org/aos/agrovoc/c_331068,land,http://aims.fao.org/aos/agrovoc/c_4172
+land leasing,http://aims.fao.org/aos/agrovoc/c_331068,land,http://aims.fao.org/aos/agrovoc/c_4172
+labour contracts,http://aims.fao.org/aos/agrovoc/c_28711,labour,http://aims.fao.org/aos/agrovoc/c_4128
+land contracts,http://aims.fao.org/aos/agrovoc/c_15d674ca,land,http://aims.fao.org/aos/agrovoc/c_4172
+grazing contracts,http://aims.fao.org/aos/agrovoc/c_bac66d94,grazing,http://aims.fao.org/aos/agrovoc/c_25243
+economic agreements,http://aims.fao.org/aos/agrovoc/c_29979,economics,http://aims.fao.org/aos/agrovoc/c_2481
+trade agreements,http://aims.fao.org/aos/agrovoc/c_7849,trade,http://aims.fao.org/aos/agrovoc/c_7848
+commercial treaties,http://aims.fao.org/aos/agrovoc/c_7849,treaties,http://aims.fao.org/aos/agrovoc/c_50319
+trade negotiations,http://aims.fao.org/aos/agrovoc/c_7849,trade,http://aims.fao.org/aos/agrovoc/c_7848
+trade negotiations,http://aims.fao.org/aos/agrovoc/c_7849,negotiation,http://aims.fao.org/aos/agrovoc/c_9e278097
+commodity agreements,http://aims.fao.org/aos/agrovoc/c_28652,commodities,http://aims.fao.org/aos/agrovoc/c_37be8c04
+free trade agreements,http://aims.fao.org/aos/agrovoc/c_3ffda84e,trade liberalization,http://aims.fao.org/aos/agrovoc/c_7853
+payments for ecosystem services,http://aims.fao.org/aos/agrovoc/c_2dff8ae7,ecosystem services,http://aims.fao.org/aos/agrovoc/c_1348040570280
+tariff agreements,http://aims.fao.org/aos/agrovoc/c_31907,tariffs,http://aims.fao.org/aos/agrovoc/c_7616
+international division of labour,http://aims.fao.org/aos/agrovoc/c_31884,divisions,http://aims.fao.org/aos/agrovoc/c_50200
+international division of labour,http://aims.fao.org/aos/agrovoc/c_31884,labour,http://aims.fao.org/aos/agrovoc/c_4128
+international division of work,http://aims.fao.org/aos/agrovoc/c_31884,divisions,http://aims.fao.org/aos/agrovoc/c_50200
+international division of labor,http://aims.fao.org/aos/agrovoc/c_31884,divisions,http://aims.fao.org/aos/agrovoc/c_50200
+international division of labor,http://aims.fao.org/aos/agrovoc/c_31884,labour,http://aims.fao.org/aos/agrovoc/c_4128
+fishery agreements,http://aims.fao.org/aos/agrovoc/c_9fce3db2,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishing agreements,http://aims.fao.org/aos/agrovoc/c_9fce3db2,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+code of conduct for recreational fisheries,http://aims.fao.org/aos/agrovoc/c_331466,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+boards (organizations),http://aims.fao.org/aos/agrovoc/c_50163,organizations,http://aims.fao.org/aos/agrovoc/c_37968
+research institutions,http://aims.fao.org/aos/agrovoc/c_6514,research,http://aims.fao.org/aos/agrovoc/c_6513
+research centres,http://aims.fao.org/aos/agrovoc/c_6514,research,http://aims.fao.org/aos/agrovoc/c_6513
+research centres,http://aims.fao.org/aos/agrovoc/c_6514,centres,http://aims.fao.org/aos/agrovoc/c_50169
+fishery institutions,http://aims.fao.org/aos/agrovoc/c_b2ef2ba3,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fisheries institutions,http://aims.fao.org/aos/agrovoc/c_b2ef2ba3,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishery research institutions,http://aims.fao.org/aos/agrovoc/c_b2ef2ba3,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+training centres,http://aims.fao.org/aos/agrovoc/c_28781,training,http://aims.fao.org/aos/agrovoc/c_7861
+extension centres,http://aims.fao.org/aos/agrovoc/c_9000059,extension,http://aims.fao.org/aos/agrovoc/c_2762
+electronic libraries,http://aims.fao.org/aos/agrovoc/c_1331797840744,electronics,http://aims.fao.org/aos/agrovoc/c_2522
+farmer field schools,http://aims.fao.org/aos/agrovoc/c_331069,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+farmer field schools,http://aims.fao.org/aos/agrovoc/c_331069,fields,http://aims.fao.org/aos/agrovoc/c_2894
+investment banks,http://aims.fao.org/aos/agrovoc/c_28898,investment,http://aims.fao.org/aos/agrovoc/c_3930
+savings banks,http://aims.fao.org/aos/agrovoc/c_28954,savings,http://aims.fao.org/aos/agrovoc/c_6826
+cooperative banks,http://aims.fao.org/aos/agrovoc/c_1857,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+credit cooperatives,http://aims.fao.org/aos/agrovoc/c_1857,credit,http://aims.fao.org/aos/agrovoc/c_1954
+credit cooperatives,http://aims.fao.org/aos/agrovoc/c_1857,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+financial cooperatives,http://aims.fao.org/aos/agrovoc/c_1857,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+river basin institutions,http://aims.fao.org/aos/agrovoc/c_f6a0c09f,river basins,http://aims.fao.org/aos/agrovoc/c_f6fc00b1
+branches (enterprises),http://aims.fao.org/aos/agrovoc/c_50259,branches,http://aims.fao.org/aos/agrovoc/c_23995
+branches (enterprises),http://aims.fao.org/aos/agrovoc/c_50259,enterprises,http://aims.fao.org/aos/agrovoc/c_10626
+research networks,http://aims.fao.org/aos/agrovoc/c_33538,research,http://aims.fao.org/aos/agrovoc/c_6513
+terrestrial observation networks,http://aims.fao.org/aos/agrovoc/c_9000164,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+development plans,http://aims.fao.org/aos/agrovoc/c_2227,development,http://aims.fao.org/aos/agrovoc/c_331049
+pilot plants,http://aims.fao.org/aos/agrovoc/c_36828,plants,http://aims.fao.org/aos/agrovoc/c_5993
+research projects,http://aims.fao.org/aos/agrovoc/c_24891,research,http://aims.fao.org/aos/agrovoc/c_6513
+development projects,http://aims.fao.org/aos/agrovoc/c_2229,development,http://aims.fao.org/aos/agrovoc/c_331049
+OECD countries,http://aims.fao.org/aos/agrovoc/c_36736,OECD,http://aims.fao.org/aos/agrovoc/c_5315
+European Union countries,http://aims.fao.org/aos/agrovoc/c_36735,European Union,http://aims.fao.org/aos/agrovoc/c_34779
+EU Member States,http://aims.fao.org/aos/agrovoc/c_36735,European Union,http://aims.fao.org/aos/agrovoc/c_34779
+EU countries,http://aims.fao.org/aos/agrovoc/c_36735,European Union,http://aims.fao.org/aos/agrovoc/c_34779
+EC countries,http://aims.fao.org/aos/agrovoc/c_36735,European Commission,http://aims.fao.org/aos/agrovoc/c_49916
+ESCAP countries,http://aims.fao.org/aos/agrovoc/c_37861,United Nations Economic and Social Commission for Asia and the Pacific,http://aims.fao.org/aos/agrovoc/c_331056
+Less developed countries,http://aims.fao.org/aos/agrovoc/c_2222,developed countries,http://aims.fao.org/aos/agrovoc/c_2221
+Third world,http://aims.fao.org/aos/agrovoc/c_2222,world,http://aims.fao.org/aos/agrovoc/c_24920
+least developed countries,http://aims.fao.org/aos/agrovoc/c_ee8c209a,developed countries,http://aims.fao.org/aos/agrovoc/c_2221
+LDC (least developed countries),http://aims.fao.org/aos/agrovoc/c_ee8c209a,developed countries,http://aims.fao.org/aos/agrovoc/c_2221
+land locked developing countries,http://aims.fao.org/aos/agrovoc/c_3d8a6bf0,land,http://aims.fao.org/aos/agrovoc/c_4172
+landlocked states,http://aims.fao.org/aos/agrovoc/c_0ee9da4b,state,http://aims.fao.org/aos/agrovoc/c_330998
+coastal states,http://aims.fao.org/aos/agrovoc/c_ea9300c2,state,http://aims.fao.org/aos/agrovoc/c_330998
+littoral states,http://aims.fao.org/aos/agrovoc/c_ea9300c2,state,http://aims.fao.org/aos/agrovoc/c_330998
+sea states (countries),http://aims.fao.org/aos/agrovoc/c_ea9300c2,sea state,http://aims.fao.org/aos/agrovoc/c_84bed513
+riparian states,http://aims.fao.org/aos/agrovoc/c_ea9300c2,state,http://aims.fao.org/aos/agrovoc/c_330998
+hormone receptors,http://aims.fao.org/aos/agrovoc/c_26875,hormones,http://aims.fao.org/aos/agrovoc/c_3663
+government departments,http://aims.fao.org/aos/agrovoc/c_50223,government,http://aims.fao.org/aos/agrovoc/c_11230
+government departments,http://aims.fao.org/aos/agrovoc/c_50223,departments,http://aims.fao.org/aos/agrovoc/c_50198
+field offices,http://aims.fao.org/aos/agrovoc/c_92325,fields,http://aims.fao.org/aos/agrovoc/c_2894
+field offices,http://aims.fao.org/aos/agrovoc/c_92325,office,http://aims.fao.org/aos/agrovoc/c_50272
+artificial islands,http://aims.fao.org/aos/agrovoc/c_24cbaafb,islands,http://aims.fao.org/aos/agrovoc/c_3962
+tension leg platforms,http://aims.fao.org/aos/agrovoc/c_0e71cde7,legs,http://aims.fao.org/aos/agrovoc/c_12129
+gravity platforms,http://aims.fao.org/aos/agrovoc/c_2fc6e70d,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+water mills,http://aims.fao.org/aos/agrovoc/c_16150,water,http://aims.fao.org/aos/agrovoc/c_8309
+mobile units,http://aims.fao.org/aos/agrovoc/c_34314,units,http://aims.fao.org/aos/agrovoc/c_50324
+farm buildings,http://aims.fao.org/aos/agrovoc/c_10743,farms,http://aims.fao.org/aos/agrovoc/c_2809
+milking parlours,http://aims.fao.org/aos/agrovoc/c_4837,milking,http://aims.fao.org/aos/agrovoc/c_4835
+mushroom houses,http://aims.fao.org/aos/agrovoc/c_5006,edible fungi,http://aims.fao.org/aos/agrovoc/c_2487
+mushroom houses,http://aims.fao.org/aos/agrovoc/c_5006,houses,http://aims.fao.org/aos/agrovoc/c_11629
+repair shops,http://aims.fao.org/aos/agrovoc/c_26838,repairing,http://aims.fao.org/aos/agrovoc/c_6505
+repair shops,http://aims.fao.org/aos/agrovoc/c_26838,shops,http://aims.fao.org/aos/agrovoc/c_7044
+solid floors,http://aims.fao.org/aos/agrovoc/c_fba72211,solids,http://aims.fao.org/aos/agrovoc/c_7229
+partially slatted floors,http://aims.fao.org/aos/agrovoc/c_88e7a6f8,slatted floors,http://aims.fao.org/aos/agrovoc/c_25685
+joints (timber),http://aims.fao.org/aos/agrovoc/c_26795,wood,http://aims.fao.org/aos/agrovoc/c_8421
+slurry channels,http://aims.fao.org/aos/agrovoc/c_0f23da75,slurry,http://aims.fao.org/aos/agrovoc/c_16602
+slurry channels,http://aims.fao.org/aos/agrovoc/c_0f23da75,channels,http://aims.fao.org/aos/agrovoc/c_01a53647
+processing plants,http://aims.fao.org/aos/agrovoc/c_25201,processing,http://aims.fao.org/aos/agrovoc/c_6195
+processing plants,http://aims.fao.org/aos/agrovoc/c_25201,plants,http://aims.fao.org/aos/agrovoc/c_5993
+meat processing plants,http://aims.fao.org/aos/agrovoc/c_28609,meat,http://aims.fao.org/aos/agrovoc/c_4669
+fish factories,http://aims.fao.org/aos/agrovoc/c_28608,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fishery industry plants,http://aims.fao.org/aos/agrovoc/c_28608,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishery industry plants,http://aims.fao.org/aos/agrovoc/c_28608,industry,http://aims.fao.org/aos/agrovoc/c_3848
+fishery industry plants,http://aims.fao.org/aos/agrovoc/c_28608,plants,http://aims.fao.org/aos/agrovoc/c_5993
+smoke houses,http://aims.fao.org/aos/agrovoc/c_25268,smokes,http://aims.fao.org/aos/agrovoc/c_7117
+smoke houses,http://aims.fao.org/aos/agrovoc/c_25268,houses,http://aims.fao.org/aos/agrovoc/c_11629
+storage structures,http://aims.fao.org/aos/agrovoc/c_7431,storage,http://aims.fao.org/aos/agrovoc/c_7427
+cold stores,http://aims.fao.org/aos/agrovoc/c_1744,cold,http://aims.fao.org/aos/agrovoc/c_1743
+metal bin,http://aims.fao.org/aos/agrovoc/c_330806,metals,http://aims.fao.org/aos/agrovoc/c_29036
+plastic bin,http://aims.fao.org/aos/agrovoc/c_330853,plastics,http://aims.fao.org/aos/agrovoc/c_5998
+trench silos,http://aims.fao.org/aos/agrovoc/c_25806,trenches,http://aims.fao.org/aos/agrovoc/c_25218e56
+evaporation tanks,http://aims.fao.org/aos/agrovoc/c_10702,evaporation,http://aims.fao.org/aos/agrovoc/c_2739
+ballast tanks,http://aims.fao.org/aos/agrovoc/c_34e59169,ballast,http://aims.fao.org/aos/agrovoc/c_b87ee2a1
+storage tanks,http://aims.fao.org/aos/agrovoc/c_13a1d161,storage,http://aims.fao.org/aos/agrovoc/c_7427
+milk tanks,http://aims.fao.org/aos/agrovoc/c_25810,milk,http://aims.fao.org/aos/agrovoc/c_4826
+water tanks,http://aims.fao.org/aos/agrovoc/c_25812,water,http://aims.fao.org/aos/agrovoc/c_8309
+oil tanks,http://aims.fao.org/aos/agrovoc/c_21d469d9,oils,http://aims.fao.org/aos/agrovoc/c_5334
+root cellars,http://aims.fao.org/aos/agrovoc/c_1416,roots,http://aims.fao.org/aos/agrovoc/c_6651
+homes (buildings),http://aims.fao.org/aos/agrovoc/c_3678,buildings,http://aims.fao.org/aos/agrovoc/c_1142
+animal housing,http://aims.fao.org/aos/agrovoc/c_432,animals,http://aims.fao.org/aos/agrovoc/c_444
+bird cages,http://aims.fao.org/aos/agrovoc/c_32382,birds,http://aims.fao.org/aos/agrovoc/c_935
+fish cages,http://aims.fao.org/aos/agrovoc/c_29786,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish pens,http://aims.fao.org/aos/agrovoc/c_29786,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish hatcheries,http://aims.fao.org/aos/agrovoc/c_36679,fish,http://aims.fao.org/aos/agrovoc/c_15903
+poultry housing,http://aims.fao.org/aos/agrovoc/c_6146,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+brooder houses,http://aims.fao.org/aos/agrovoc/c_6146,brooders,http://aims.fao.org/aos/agrovoc/c_25718
+livestock boxes,http://aims.fao.org/aos/agrovoc/c_9384,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+livestock housing,http://aims.fao.org/aos/agrovoc/c_12214,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+horse stables,http://aims.fao.org/aos/agrovoc/c_7356,horses,http://aims.fao.org/aos/agrovoc/c_3668
+cattle sheds,http://aims.fao.org/aos/agrovoc/c_1392,cattle,http://aims.fao.org/aos/agrovoc/c_1391
+cattle sheds,http://aims.fao.org/aos/agrovoc/c_1392,sheds,http://aims.fao.org/aos/agrovoc/c_25732
+cattle housing,http://aims.fao.org/aos/agrovoc/c_1392,cattle,http://aims.fao.org/aos/agrovoc/c_1391
+cow sheds,http://aims.fao.org/aos/agrovoc/c_1392,cows,http://aims.fao.org/aos/agrovoc/c_1939
+cow sheds,http://aims.fao.org/aos/agrovoc/c_1392,sheds,http://aims.fao.org/aos/agrovoc/c_25732
+calf housing,http://aims.fao.org/aos/agrovoc/c_d27a296f,calves,http://aims.fao.org/aos/agrovoc/c_1219
+calf houses,http://aims.fao.org/aos/agrovoc/c_d27a296f,calves,http://aims.fao.org/aos/agrovoc/c_1219
+swine housing,http://aims.fao.org/aos/agrovoc/c_5871,swine,http://aims.fao.org/aos/agrovoc/c_7555
+pig housing,http://aims.fao.org/aos/agrovoc/c_5871,swine,http://aims.fao.org/aos/agrovoc/c_7555
+swine stables,http://aims.fao.org/aos/agrovoc/c_5871,swine,http://aims.fao.org/aos/agrovoc/c_7555
+swine stables,http://aims.fao.org/aos/agrovoc/c_5871,stables,http://aims.fao.org/aos/agrovoc/c_7356
+goat houses,http://aims.fao.org/aos/agrovoc/c_11199,goats,http://aims.fao.org/aos/agrovoc/c_3324
+sheep housing,http://aims.fao.org/aos/agrovoc/c_16600,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+open climate housing,http://aims.fao.org/aos/agrovoc/c_12944,climate,http://aims.fao.org/aos/agrovoc/c_1665
+nest boxes,http://aims.fao.org/aos/agrovoc/c_32760,nests,http://aims.fao.org/aos/agrovoc/c_788116c4
+bat boxes,http://aims.fao.org/aos/agrovoc/c_464e8ec9,Chiroptera,http://aims.fao.org/aos/agrovoc/c_1560
+bee nests,http://aims.fao.org/aos/agrovoc/c_3656,nests,http://aims.fao.org/aos/agrovoc/c_788116c4
+bird nests,http://aims.fao.org/aos/agrovoc/c_c165b9c3,birds,http://aims.fao.org/aos/agrovoc/c_935
+farrowing pens,http://aims.fao.org/aos/agrovoc/c_2812,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+farrowing crates,http://aims.fao.org/aos/agrovoc/c_b201c549,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+gestation crates,http://aims.fao.org/aos/agrovoc/c_b201c549,pregnancy,http://aims.fao.org/aos/agrovoc/c_6166
+farm dwellings,http://aims.fao.org/aos/agrovoc/c_6703,farms,http://aims.fao.org/aos/agrovoc/c_2809
+storm surge barriers,http://aims.fao.org/aos/agrovoc/c_d402a5f2,storm surges,http://aims.fao.org/aos/agrovoc/c_8938d8d5
+ice barriers,http://aims.fao.org/aos/agrovoc/c_94511649,ice,http://aims.fao.org/aos/agrovoc/c_3782
+oil booms,http://aims.fao.org/aos/agrovoc/c_112d4d36,oils,http://aims.fao.org/aos/agrovoc/c_5334
+fishing barriers,http://aims.fao.org/aos/agrovoc/c_58c53871,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+bubble breakwaters,http://aims.fao.org/aos/agrovoc/c_5e58d9f0,breakwaters,http://aims.fao.org/aos/agrovoc/c_1074
+air bubble curtain,http://aims.fao.org/aos/agrovoc/c_5e58d9f0,air,http://aims.fao.org/aos/agrovoc/c_224
+power plants,http://aims.fao.org/aos/agrovoc/c_17b251b2,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+power plants,http://aims.fao.org/aos/agrovoc/c_17b251b2,plants,http://aims.fao.org/aos/agrovoc/c_5993
+electric power plants,http://aims.fao.org/aos/agrovoc/c_17b251b2,electrical energy,http://aims.fao.org/aos/agrovoc/c_28005
+power stations,http://aims.fao.org/aos/agrovoc/c_17b251b2,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wind farms,http://aims.fao.org/aos/agrovoc/c_b1f7a77f,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind farms,http://aims.fao.org/aos/agrovoc/c_b1f7a77f,farms,http://aims.fao.org/aos/agrovoc/c_2809
+hydroelectric power plants,http://aims.fao.org/aos/agrovoc/c_6c320f35,hydroelectric power,http://aims.fao.org/aos/agrovoc/c_25612
+fossil fueled power plants,http://aims.fao.org/aos/agrovoc/c_e08d63cf,fossils,http://aims.fao.org/aos/agrovoc/c_10989
+concrete structures,http://aims.fao.org/aos/agrovoc/c_425097f1,concrete,http://aims.fao.org/aos/agrovoc/c_1804
+concrete platforms,http://aims.fao.org/aos/agrovoc/c_425097f1,concrete,http://aims.fao.org/aos/agrovoc/c_1804
+steel structures,http://aims.fao.org/aos/agrovoc/c_c3fa9867,steel,http://aims.fao.org/aos/agrovoc/c_7384
+steel platforms,http://aims.fao.org/aos/agrovoc/c_c3fa9867,steel,http://aims.fao.org/aos/agrovoc/c_7384
+growth forms,http://aims.fao.org/aos/agrovoc/c_330666,growth,http://aims.fao.org/aos/agrovoc/c_3394
+plant growth forms,http://aims.fao.org/aos/agrovoc/c_330667,plant growth,http://aims.fao.org/aos/agrovoc/c_08842b17
+animal growth forms,http://aims.fao.org/aos/agrovoc/c_330668,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal growth forms,http://aims.fao.org/aos/agrovoc/c_330668,plant habit,http://aims.fao.org/aos/agrovoc/c_5969
+fruiting bodies (fungi),http://aims.fao.org/aos/agrovoc/c_7326,fruiting,http://aims.fao.org/aos/agrovoc/c_15971
+fruiting bodies (fungi),http://aims.fao.org/aos/agrovoc/c_7326,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+fat globules,http://aims.fao.org/aos/agrovoc/c_24025,fats,http://aims.fao.org/aos/agrovoc/c_2816
+milk fat globules,http://aims.fao.org/aos/agrovoc/c_9511,milk fat,http://aims.fao.org/aos/agrovoc/c_4828
+plant tissues,http://aims.fao.org/aos/agrovoc/c_27990,plants,http://aims.fao.org/aos/agrovoc/c_5993
+cork cambium,http://aims.fao.org/aos/agrovoc/c_13297,cork,http://aims.fao.org/aos/agrovoc/c_1895
+cork cambium,http://aims.fao.org/aos/agrovoc/c_13297,cambium,http://aims.fao.org/aos/agrovoc/c_1225
+plant hairs,http://aims.fao.org/aos/agrovoc/c_5970,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant hairs,http://aims.fao.org/aos/agrovoc/c_5970,hair,http://aims.fao.org/aos/agrovoc/c_3471
+leaf hairs,http://aims.fao.org/aos/agrovoc/c_36883,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+plant cuticle,http://aims.fao.org/aos/agrovoc/c_27982,plants,http://aims.fao.org/aos/agrovoc/c_5993
+aleurone layer,http://aims.fao.org/aos/agrovoc/c_33935,aleurone,http://aims.fao.org/aos/agrovoc/c_33937
+aleurone layer,http://aims.fao.org/aos/agrovoc/c_33935,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
+animal tissues,http://aims.fao.org/aos/agrovoc/c_27963,animals,http://aims.fao.org/aos/agrovoc/c_444
+mucous membrane,http://aims.fao.org/aos/agrovoc/c_4967,membranes,http://aims.fao.org/aos/agrovoc/c_28457
+parenchyma of invertebrates,http://aims.fao.org/aos/agrovoc/c_10076,parenchyma,http://aims.fao.org/aos/agrovoc/c_5582
+parenchyma of invertebrates,http://aims.fao.org/aos/agrovoc/c_10076,invertebrates,http://aims.fao.org/aos/agrovoc/c_3929
+body fat,http://aims.fao.org/aos/agrovoc/c_129,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body fat,http://aims.fao.org/aos/agrovoc/c_129,fats,http://aims.fao.org/aos/agrovoc/c_2816
+depot fat,http://aims.fao.org/aos/agrovoc/c_129,fats,http://aims.fao.org/aos/agrovoc/c_2816
+abdominal fat,http://aims.fao.org/aos/agrovoc/c_33269,fats,http://aims.fao.org/aos/agrovoc/c_2816
+brown fat,http://aims.fao.org/aos/agrovoc/c_9455,fats,http://aims.fao.org/aos/agrovoc/c_2816
+intramuscular fat,http://aims.fao.org/aos/agrovoc/c_331321,fats,http://aims.fao.org/aos/agrovoc/c_2816
+yellow fat,http://aims.fao.org/aos/agrovoc/c_24268,fats,http://aims.fao.org/aos/agrovoc/c_2816
+nerve tissues,http://aims.fao.org/aos/agrovoc/c_89dd45ef,nerves,http://aims.fao.org/aos/agrovoc/c_5137
+plant parts,http://aims.fao.org/aos/agrovoc/c_330912,plants,http://aims.fao.org/aos/agrovoc/c_5993
+root nodules,http://aims.fao.org/aos/agrovoc/c_27601,roots,http://aims.fao.org/aos/agrovoc/c_6651
+intercellular canals,http://aims.fao.org/aos/agrovoc/c_28100,canals,http://aims.fao.org/aos/agrovoc/c_26763
+resin canals,http://aims.fao.org/aos/agrovoc/c_28101,resins,http://aims.fao.org/aos/agrovoc/c_6519
+resin ducts,http://aims.fao.org/aos/agrovoc/c_28101,resins,http://aims.fao.org/aos/agrovoc/c_6519
+gum ducts,http://aims.fao.org/aos/agrovoc/c_28103,gums,http://aims.fao.org/aos/agrovoc/c_3441
+storage organs,http://aims.fao.org/aos/agrovoc/c_7430,storage,http://aims.fao.org/aos/agrovoc/c_7427
+leaf primordia,http://aims.fao.org/aos/agrovoc/c_37327,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+root systems,http://aims.fao.org/aos/agrovoc/c_16034,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root systems,http://aims.fao.org/aos/agrovoc/c_16034,systems,http://aims.fao.org/aos/agrovoc/c_330985
+seed leaves,http://aims.fao.org/aos/agrovoc/c_1930,seed,http://aims.fao.org/aos/agrovoc/c_6927
+conifer needles,http://aims.fao.org/aos/agrovoc/c_aa96bd16,Pinophyta,http://aims.fao.org/aos/agrovoc/c_330325
+tree trunks,http://aims.fao.org/aos/agrovoc/c_15017,trees,http://aims.fao.org/aos/agrovoc/c_7887
+graft unions,http://aims.fao.org/aos/agrovoc/c_3343,unions,http://aims.fao.org/aos/agrovoc/c_50323
+leaf veins,http://aims.fao.org/aos/agrovoc/c_8181,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+eyes (buds),http://aims.fao.org/aos/agrovoc/c_1135,eyes,http://aims.fao.org/aos/agrovoc/c_2771
+leaf buds,http://aims.fao.org/aos/agrovoc/c_58e0cad9,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+flower buds,http://aims.fao.org/aos/agrovoc/c_46075316,flowers,http://aims.fao.org/aos/agrovoc/c_2993
+plant ovaries,http://aims.fao.org/aos/agrovoc/c_27985,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant ovaries,http://aims.fao.org/aos/agrovoc/c_27985,ovaries,http://aims.fao.org/aos/agrovoc/c_5456
+ovules (plant),http://aims.fao.org/aos/agrovoc/c_35980,plants,http://aims.fao.org/aos/agrovoc/c_5993
+fruits (botanical),http://aims.fao.org/aos/agrovoc/c_3119,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+grain albumins,http://aims.fao.org/aos/agrovoc/c_2561,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain albumins,http://aims.fao.org/aos/agrovoc/c_2561,albumins,http://aims.fao.org/aos/agrovoc/c_247
+albumen of seeds,http://aims.fao.org/aos/agrovoc/c_2561,albumins,http://aims.fao.org/aos/agrovoc/c_247
+cell components,http://aims.fao.org/aos/agrovoc/c_331009,cells,http://aims.fao.org/aos/agrovoc/c_1418
+cell components,http://aims.fao.org/aos/agrovoc/c_331009,components,http://aims.fao.org/aos/agrovoc/c_331055
+sex chromosomes,http://aims.fao.org/aos/agrovoc/c_14225,sex,http://aims.fao.org/aos/agrovoc/c_7010
+cellular pits,http://aims.fao.org/aos/agrovoc/c_13420,pits,http://aims.fao.org/aos/agrovoc/c_5938
+extrachromosomal DNA,http://aims.fao.org/aos/agrovoc/c_16014,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+endoplasmic reticulum,http://aims.fao.org/aos/agrovoc/c_2560,reticulum,http://aims.fao.org/aos/agrovoc/c_6538
+golgi bodies,http://aims.fao.org/aos/agrovoc/c_3327,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+muscle fibres,http://aims.fao.org/aos/agrovoc/c_31867,muscles,http://aims.fao.org/aos/agrovoc/c_5003
+muscle fibres,http://aims.fao.org/aos/agrovoc/c_31867,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+aleurone cells,http://aims.fao.org/aos/agrovoc/c_33938,aleurone,http://aims.fao.org/aos/agrovoc/c_33937
+fish seed,http://aims.fao.org/aos/agrovoc/c_87b2f749,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish seed,http://aims.fao.org/aos/agrovoc/c_87b2f749,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed (aquaculture),http://aims.fao.org/aos/agrovoc/c_87b2f749,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed (aquaculture),http://aims.fao.org/aos/agrovoc/c_87b2f749,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+insect eggs,http://aims.fao.org/aos/agrovoc/c_eddac6ff,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+insect eggs,http://aims.fao.org/aos/agrovoc/c_eddac6ff,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+resting eggs,http://aims.fao.org/aos/agrovoc/c_2754d64d,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+winter eggs,http://aims.fao.org/aos/agrovoc/c_2754d64d,winter,http://aims.fao.org/aos/agrovoc/c_8410
+winter eggs,http://aims.fao.org/aos/agrovoc/c_2754d64d,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+fish eggs,http://aims.fao.org/aos/agrovoc/c_47f25b73,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish eggs,http://aims.fao.org/aos/agrovoc/c_47f25b73,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+brine shrimp eggs,http://aims.fao.org/aos/agrovoc/c_b3a98bd7,brines,http://aims.fao.org/aos/agrovoc/c_1091
+brine shrimp eggs,http://aims.fao.org/aos/agrovoc/c_b3a98bd7,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+spawn (eggs),http://aims.fao.org/aos/agrovoc/c_50c16124,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+satellite cells,http://aims.fao.org/aos/agrovoc/c_5d808f32,satellites,http://aims.fao.org/aos/agrovoc/c_14093
+body parts,http://aims.fao.org/aos/agrovoc/c_981,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body cavities,http://aims.fao.org/aos/agrovoc/c_978,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body fluids,http://aims.fao.org/aos/agrovoc/c_979,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body fluids,http://aims.fao.org/aos/agrovoc/c_979,fluids,http://aims.fao.org/aos/agrovoc/c_2994
+camel milk,http://aims.fao.org/aos/agrovoc/c_16077,camels,http://aims.fao.org/aos/agrovoc/c_1228
+cow milk,http://aims.fao.org/aos/agrovoc/c_16080,cows,http://aims.fao.org/aos/agrovoc/c_1939
+cattle milk,http://aims.fao.org/aos/agrovoc/c_16080,cattle,http://aims.fao.org/aos/agrovoc/c_1391
+ewe milk,http://aims.fao.org/aos/agrovoc/c_16081,ewes,http://aims.fao.org/aos/agrovoc/c_2746
+sheep milk,http://aims.fao.org/aos/agrovoc/c_16081,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+goat milk,http://aims.fao.org/aos/agrovoc/c_16083,goats,http://aims.fao.org/aos/agrovoc/c_3324
+human milk,http://aims.fao.org/aos/agrovoc/c_16085,humans,http://aims.fao.org/aos/agrovoc/c_4586
+mare milk,http://aims.fao.org/aos/agrovoc/c_16087,mares,http://aims.fao.org/aos/agrovoc/c_4600
+body water,http://aims.fao.org/aos/agrovoc/c_4768,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body water,http://aims.fao.org/aos/agrovoc/c_4768,water,http://aims.fao.org/aos/agrovoc/c_8309
+pregnant mare serum,http://aims.fao.org/aos/agrovoc/c_16586,mares,http://aims.fao.org/aos/agrovoc/c_4600
+metabolic water,http://aims.fao.org/aos/agrovoc/c_32925,water,http://aims.fao.org/aos/agrovoc/c_8309
+gastric acid,http://aims.fao.org/aos/agrovoc/c_33498,acids,http://aims.fao.org/aos/agrovoc/c_92
+stomach juice,http://aims.fao.org/aos/agrovoc/c_33498,stomach,http://aims.fao.org/aos/agrovoc/c_7422
+rumen fluid,http://aims.fao.org/aos/agrovoc/c_34895,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+rumen fluid,http://aims.fao.org/aos/agrovoc/c_34895,fluids,http://aims.fao.org/aos/agrovoc/c_2994
+rumen liquor,http://aims.fao.org/aos/agrovoc/c_34895,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+body regions,http://aims.fao.org/aos/agrovoc/c_982,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+cardiovascular system,http://aims.fao.org/aos/agrovoc/c_1317,systems,http://aims.fao.org/aos/agrovoc/c_330985
+animal vascular system,http://aims.fao.org/aos/agrovoc/c_1317,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal vascular system,http://aims.fao.org/aos/agrovoc/c_1317,systems,http://aims.fao.org/aos/agrovoc/c_330985
+circulatory system,http://aims.fao.org/aos/agrovoc/c_1317,systems,http://aims.fao.org/aos/agrovoc/c_330985
+bone marrow,http://aims.fao.org/aos/agrovoc/c_998,bones,http://aims.fao.org/aos/agrovoc/c_1001
+bone marrow,http://aims.fao.org/aos/agrovoc/c_998,marrows,http://aims.fao.org/aos/agrovoc/c_12414
+lymphatic vessels,http://aims.fao.org/aos/agrovoc/c_12290,surface craft,http://aims.fao.org/aos/agrovoc/c_70a2892b
+bursa fabricii,http://aims.fao.org/aos/agrovoc/c_1157,serous bursa,http://aims.fao.org/aos/agrovoc/c_6985
+bursa cloacae,http://aims.fao.org/aos/agrovoc/c_1157,serous bursa,http://aims.fao.org/aos/agrovoc/c_6985
+fabrician bursa,http://aims.fao.org/aos/agrovoc/c_1157,serous bursa,http://aims.fao.org/aos/agrovoc/c_6985
+blood vessels,http://aims.fao.org/aos/agrovoc/c_971,blood,http://aims.fao.org/aos/agrovoc/c_959
+blood vessels,http://aims.fao.org/aos/agrovoc/c_971,surface craft,http://aims.fao.org/aos/agrovoc/c_70a2892b
+respiratory system,http://aims.fao.org/aos/agrovoc/c_6531,systems,http://aims.fao.org/aos/agrovoc/c_330985
+air sacs,http://aims.fao.org/aos/agrovoc/c_229,air,http://aims.fao.org/aos/agrovoc/c_224
+vocal cords,http://aims.fao.org/aos/agrovoc/c_15236,ropes,http://aims.fao.org/aos/agrovoc/c_26816
+swim bladder,http://aims.fao.org/aos/agrovoc/c_15924,bladder,http://aims.fao.org/aos/agrovoc/c_949
+fish air bladder,http://aims.fao.org/aos/agrovoc/c_15924,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish air bladder,http://aims.fao.org/aos/agrovoc/c_15924,air,http://aims.fao.org/aos/agrovoc/c_224
+fish air bladder,http://aims.fao.org/aos/agrovoc/c_15924,bladder,http://aims.fao.org/aos/agrovoc/c_949
+sense organs,http://aims.fao.org/aos/agrovoc/c_6971,senses,http://aims.fao.org/aos/agrovoc/c_27922
+nictitating membrane,http://aims.fao.org/aos/agrovoc/c_12826,membranes,http://aims.fao.org/aos/agrovoc/c_28457
+pupil (eye),http://aims.fao.org/aos/agrovoc/c_13676,students,http://aims.fao.org/aos/agrovoc/c_7473
+balance organs,http://aims.fao.org/aos/agrovoc/c_756c730b,balances,http://aims.fao.org/aos/agrovoc/c_9062
+sensory tentacles,http://aims.fao.org/aos/agrovoc/c_308e5721,tentacles,http://aims.fao.org/aos/agrovoc/c_2106db8e
+urogenital system,http://aims.fao.org/aos/agrovoc/c_8107,systems,http://aims.fao.org/aos/agrovoc/c_330985
+genitourinary system,http://aims.fao.org/aos/agrovoc/c_8107,systems,http://aims.fao.org/aos/agrovoc/c_330985
+renal pelvis,http://aims.fao.org/aos/agrovoc/c_13807,pelvis,http://aims.fao.org/aos/agrovoc/c_5666
+animal sexual organs,http://aims.fao.org/aos/agrovoc/c_27961,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal sex organs,http://aims.fao.org/aos/agrovoc/c_27961,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal sex organs,http://aims.fao.org/aos/agrovoc/c_27961,sex,http://aims.fao.org/aos/agrovoc/c_7010
+animal reproductive organs,http://aims.fao.org/aos/agrovoc/c_27961,animals,http://aims.fao.org/aos/agrovoc/c_444
+female genital system,http://aims.fao.org/aos/agrovoc/c_2850,females,http://aims.fao.org/aos/agrovoc/c_15969
+male genital system,http://aims.fao.org/aos/agrovoc/c_4536,males,http://aims.fao.org/aos/agrovoc/c_15995
+spermatic cord,http://aims.fao.org/aos/agrovoc/c_7284,ropes,http://aims.fao.org/aos/agrovoc/c_26816
+reproductive organs (animal),http://aims.fao.org/aos/agrovoc/c_34291,animals,http://aims.fao.org/aos/agrovoc/c_444
+egg shell,http://aims.fao.org/aos/agrovoc/c_2500,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+egg shell,http://aims.fao.org/aos/agrovoc/c_2500,shells,http://aims.fao.org/aos/agrovoc/c_7032
+animal embryos,http://aims.fao.org/aos/agrovoc/c_25388,animals,http://aims.fao.org/aos/agrovoc/c_444
+embryos (animal),http://aims.fao.org/aos/agrovoc/c_25388,animals,http://aims.fao.org/aos/agrovoc/c_444
+digestive system,http://aims.fao.org/aos/agrovoc/c_2275,systems,http://aims.fao.org/aos/agrovoc/c_330985
+gastrointestinal system,http://aims.fao.org/aos/agrovoc/c_2275,systems,http://aims.fao.org/aos/agrovoc/c_330985
+alimentary canal,http://aims.fao.org/aos/agrovoc/c_2275,canals,http://aims.fao.org/aos/agrovoc/c_26763
+bile ducts,http://aims.fao.org/aos/agrovoc/c_904,bile,http://aims.fao.org/aos/agrovoc/c_902
+gall bladder,http://aims.fao.org/aos/agrovoc/c_3173,bladder,http://aims.fao.org/aos/agrovoc/c_949
+calf abomasum,http://aims.fao.org/aos/agrovoc/c_d8c2d252,calves,http://aims.fao.org/aos/agrovoc/c_1219
+crop (bird),http://aims.fao.org/aos/agrovoc/c_35827,crops,http://aims.fao.org/aos/agrovoc/c_1972
+crop (bird),http://aims.fao.org/aos/agrovoc/c_35827,birds,http://aims.fao.org/aos/agrovoc/c_935
+nervous system,http://aims.fao.org/aos/agrovoc/c_5138,systems,http://aims.fao.org/aos/agrovoc/c_330985
+pia mater,http://aims.fao.org/aos/agrovoc/c_13348,Tacca leontopetaloides,http://aims.fao.org/aos/agrovoc/c_7585
+spinal cord,http://aims.fao.org/aos/agrovoc/c_7305,ropes,http://aims.fao.org/aos/agrovoc/c_26816
+myelin sheath,http://aims.fao.org/aos/agrovoc/c_50135,myelin,http://aims.fao.org/aos/agrovoc/c_50136
+animal glands,http://aims.fao.org/aos/agrovoc/c_27958,animals,http://aims.fao.org/aos/agrovoc/c_444
+skin glands,http://aims.fao.org/aos/agrovoc/c_7099,skin,http://aims.fao.org/aos/agrovoc/c_7097
+scent glands,http://aims.fao.org/aos/agrovoc/c_14116,odour,http://aims.fao.org/aos/agrovoc/c_14344
+sweat glands,http://aims.fao.org/aos/agrovoc/c_14720,sweat,http://aims.fao.org/aos/agrovoc/c_7548
+silk glands,http://aims.fao.org/aos/agrovoc/c_34337,silk,http://aims.fao.org/aos/agrovoc/c_7063
+pineal body,http://aims.fao.org/aos/agrovoc/c_5888,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+adrenal cortex,http://aims.fao.org/aos/agrovoc/c_10121,cortex,http://aims.fao.org/aos/agrovoc/c_1908
+musculoskeletal system,http://aims.fao.org/aos/agrovoc/c_5005,systems,http://aims.fao.org/aos/agrovoc/c_330985
+limb bones,http://aims.fao.org/aos/agrovoc/c_4336,limbs,http://aims.fao.org/aos/agrovoc/c_4338
+shoulder blade,http://aims.fao.org/aos/agrovoc/c_14111,shoulders,http://aims.fao.org/aos/agrovoc/c_7047
+intervertebral disks,http://aims.fao.org/aos/agrovoc/c_11814,cultivators,http://aims.fao.org/aos/agrovoc/c_2019
+integumentary system,http://aims.fao.org/aos/agrovoc/c_64834736,systems,http://aims.fao.org/aos/agrovoc/c_330985
+animal epidermis,http://aims.fao.org/aos/agrovoc/c_7097,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal epidermis,http://aims.fao.org/aos/agrovoc/c_7097,epidermis,http://aims.fao.org/aos/agrovoc/c_2617
+callus (animal skin),http://aims.fao.org/aos/agrovoc/c_7097,callus,http://aims.fao.org/aos/agrovoc/c_24576
+callus (animal skin),http://aims.fao.org/aos/agrovoc/c_7097,animals,http://aims.fao.org/aos/agrovoc/c_444
+fish skin,http://aims.fao.org/aos/agrovoc/c_fb57f018,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish scales,http://aims.fao.org/aos/agrovoc/c_6838,fish,http://aims.fao.org/aos/agrovoc/c_15903
+animal cuticle,http://aims.fao.org/aos/agrovoc/c_27957,animals,http://aims.fao.org/aos/agrovoc/c_444
+light organs,http://aims.fao.org/aos/agrovoc/c_e74ff4f2,light,http://aims.fao.org/aos/agrovoc/c_4322
+animal appendages,http://aims.fao.org/aos/agrovoc/c_bc427f93,animals,http://aims.fao.org/aos/agrovoc/c_444
+venom apparatus,http://aims.fao.org/aos/agrovoc/c_4c26a754,venoms,http://aims.fao.org/aos/agrovoc/c_8187
+filter membranes,http://aims.fao.org/aos/agrovoc/c_25034,filters,http://aims.fao.org/aos/agrovoc/c_24839
+mineral membranes,http://aims.fao.org/aos/agrovoc/c_27067,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+artificial protein membranes,http://aims.fao.org/aos/agrovoc/c_27452,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+enzyme membranes,http://aims.fao.org/aos/agrovoc/c_27514,enzymes,http://aims.fao.org/aos/agrovoc/c_2603
+egg membranes,http://aims.fao.org/aos/agrovoc/c_15964,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+egg shell membranes,http://aims.fao.org/aos/agrovoc/c_16601,egg shell,http://aims.fao.org/aos/agrovoc/c_2500
+microstructure (morphology),http://aims.fao.org/aos/agrovoc/c_8045,oceanic microstructure,http://aims.fao.org/aos/agrovoc/c_33963bc3
+microstructure (morphology),http://aims.fao.org/aos/agrovoc/c_8045,morphology,http://aims.fao.org/aos/agrovoc/c_49903
+cell ultrastructure,http://aims.fao.org/aos/agrovoc/c_29060,cells,http://aims.fao.org/aos/agrovoc/c_1418
+irrigation canals,http://aims.fao.org/aos/agrovoc/c_25340,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+drainage canals,http://aims.fao.org/aos/agrovoc/c_25339,drainage,http://aims.fao.org/aos/agrovoc/c_2372
+earth dams,http://aims.fao.org/aos/agrovoc/c_32435,earth,http://aims.fao.org/aos/agrovoc/c_2437
+hill dams,http://aims.fao.org/aos/agrovoc/c_866cba6a,highlands,http://aims.fao.org/aos/agrovoc/c_3614
+fish passes,http://aims.fao.org/aos/agrovoc/c_2955,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish ladders,http://aims.fao.org/aos/agrovoc/c_2955,fish,http://aims.fao.org/aos/agrovoc/c_15903
+hydraulic rams,http://aims.fao.org/aos/agrovoc/c_25566,rams,http://aims.fao.org/aos/agrovoc/c_6443
+hydraulic pumps,http://aims.fao.org/aos/agrovoc/c_25566,pumps,http://aims.fao.org/aos/agrovoc/c_6370
+irrigation sources,http://aims.fao.org/aos/agrovoc/c_330794,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+water reservoirs,http://aims.fao.org/aos/agrovoc/c_8324,water,http://aims.fao.org/aos/agrovoc/c_8309
+livestock flood refuge mounds,http://aims.fao.org/aos/agrovoc/c_06781094,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+spur dykes,http://aims.fao.org/aos/agrovoc/c_bc7023f8,spurs,http://aims.fao.org/aos/agrovoc/c_32599
+spur dykes,http://aims.fao.org/aos/agrovoc/c_bc7023f8,embankments,http://aims.fao.org/aos/agrovoc/c_32438
+sewage outfalls,http://aims.fao.org/aos/agrovoc/c_b04dbaf8,sewage,http://aims.fao.org/aos/agrovoc/c_7007
+market transparency,http://aims.fao.org/aos/agrovoc/c_12406,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market intelligence,http://aims.fao.org/aos/agrovoc/c_4617,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market intelligence,http://aims.fao.org/aos/agrovoc/c_4617,intelligence,http://aims.fao.org/aos/agrovoc/c_11805
+market knowledge,http://aims.fao.org/aos/agrovoc/c_4617,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market knowledge,http://aims.fao.org/aos/agrovoc/c_4617,knowledge,http://aims.fao.org/aos/agrovoc/c_105df063
+weather reports,http://aims.fao.org/aos/agrovoc/c_8341,weather,http://aims.fao.org/aos/agrovoc/c_15292
+data reports,http://aims.fao.org/aos/agrovoc/c_dc44d445,data,http://aims.fao.org/aos/agrovoc/c_49816
+expedition reports,http://aims.fao.org/aos/agrovoc/c_89d84351,expeditions,http://aims.fao.org/aos/agrovoc/c_2e39cd37
+cruise reports,http://aims.fao.org/aos/agrovoc/c_d3e3fd4f,cruises,http://aims.fao.org/aos/agrovoc/c_81b3c7af
+annual reports,http://aims.fao.org/aos/agrovoc/c_67a786a2,annuals,http://aims.fao.org/aos/agrovoc/c_28997
+soil maps,http://aims.fao.org/aos/agrovoc/c_e6171c3e,soil,http://aims.fao.org/aos/agrovoc/c_7156
+gravity charts,http://aims.fao.org/aos/agrovoc/c_e61eae08,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+gravity anomaly charts,http://aims.fao.org/aos/agrovoc/c_e61eae08,gravity anomalies,http://aims.fao.org/aos/agrovoc/c_05813567
+free air gravity charts,http://aims.fao.org/aos/agrovoc/c_f99ec47d,air,http://aims.fao.org/aos/agrovoc/c_224
+magnetic anomaly charts,http://aims.fao.org/aos/agrovoc/c_98d91e69,magnetic anomalies,http://aims.fao.org/aos/agrovoc/c_d3d4050c
+salinity charts,http://aims.fao.org/aos/agrovoc/c_f7049911,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+tidal current charts,http://aims.fao.org/aos/agrovoc/c_21f00ef4,tidal currents,http://aims.fao.org/aos/agrovoc/c_645a7426
+density charts,http://aims.fao.org/aos/agrovoc/c_ec5df3f2,density,http://aims.fao.org/aos/agrovoc/c_2186
+ice charts,http://aims.fao.org/aos/agrovoc/c_60aaeccc,ice,http://aims.fao.org/aos/agrovoc/c_3782
+weather maps,http://aims.fao.org/aos/agrovoc/c_f53ac60a,weather,http://aims.fao.org/aos/agrovoc/c_15292
+fishery charts,http://aims.fao.org/aos/agrovoc/c_1f26e4ec,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+track charts,http://aims.fao.org/aos/agrovoc/c_ed04a1df,tracks,http://aims.fao.org/aos/agrovoc/c_7845
+pollution maps,http://aims.fao.org/aos/agrovoc/c_7e615a66,pollution,http://aims.fao.org/aos/agrovoc/c_6077
+pollution charts,http://aims.fao.org/aos/agrovoc/c_7e615a66,pollution,http://aims.fao.org/aos/agrovoc/c_6077
+literature reviews,http://aims.fao.org/aos/agrovoc/c_05ceb781,literature,http://aims.fao.org/aos/agrovoc/c_330835
+literature surveys,http://aims.fao.org/aos/agrovoc/c_05ceb781,literature,http://aims.fao.org/aos/agrovoc/c_330835
+literature surveys,http://aims.fao.org/aos/agrovoc/c_05ceb781,surveys,http://aims.fao.org/aos/agrovoc/c_7537
+reviews (literature),http://aims.fao.org/aos/agrovoc/c_05ceb781,literature,http://aims.fao.org/aos/agrovoc/c_330835
+equipment catalogues,http://aims.fao.org/aos/agrovoc/c_05dc6685,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+distribution records,http://aims.fao.org/aos/agrovoc/c_05ba5b54,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+analogue data records,http://aims.fao.org/aos/agrovoc/c_2fae0b05,data,http://aims.fao.org/aos/agrovoc/c_49816
+echosounder profiles,http://aims.fao.org/aos/agrovoc/c_403312f0,echosounders,http://aims.fao.org/aos/agrovoc/c_e58eb09c
+echosounder profiles,http://aims.fao.org/aos/agrovoc/c_403312f0,profiles,http://aims.fao.org/aos/agrovoc/c_c4457c2d
+digital data records,http://aims.fao.org/aos/agrovoc/c_c3b62f14,data,http://aims.fao.org/aos/agrovoc/c_49816
+species checklists,http://aims.fao.org/aos/agrovoc/c_0df158a7,species,http://aims.fao.org/aos/agrovoc/c_7280
+checklists (taxonomy),http://aims.fao.org/aos/agrovoc/c_0df158a7,taxonomy,http://aims.fao.org/aos/agrovoc/c_7631
+tide tables,http://aims.fao.org/aos/agrovoc/c_dbe005df,tides,http://aims.fao.org/aos/agrovoc/c_7764
+tidal current tables,http://aims.fao.org/aos/agrovoc/c_dbe005df,tidal currents,http://aims.fao.org/aos/agrovoc/c_645a7426
+conversion tables (meteorology),http://aims.fao.org/aos/agrovoc/c_95fe8225,conversion tables,http://aims.fao.org/aos/agrovoc/c_7c856e4b
+salinity tables,http://aims.fao.org/aos/agrovoc/c_84d06d34,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+instrument handbooks,http://aims.fao.org/aos/agrovoc/c_f376fb22,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+ships logbooks,http://aims.fao.org/aos/agrovoc/c_fc69079d,ships,http://aims.fao.org/aos/agrovoc/c_7040
+collected papers,http://aims.fao.org/aos/agrovoc/c_640a98c3,paper,http://aims.fao.org/aos/agrovoc/c_5548
+honour volumes,http://aims.fao.org/aos/agrovoc/c_640a98c3,volume,http://aims.fao.org/aos/agrovoc/c_8288
+research proposals,http://aims.fao.org/aos/agrovoc/c_c8def782,research,http://aims.fao.org/aos/agrovoc/c_6513
+proposed research,http://aims.fao.org/aos/agrovoc/c_c8def782,research,http://aims.fao.org/aos/agrovoc/c_6513
+land documentation,http://aims.fao.org/aos/agrovoc/c_dca4b380,land,http://aims.fao.org/aos/agrovoc/c_4172
+policy briefs,http://aims.fao.org/aos/agrovoc/c_4ceffa55,policies,http://aims.fao.org/aos/agrovoc/c_6062
+data papers,http://aims.fao.org/aos/agrovoc/c_737a8726,data,http://aims.fao.org/aos/agrovoc/c_49816
+data papers,http://aims.fao.org/aos/agrovoc/c_737a8726,paper,http://aims.fao.org/aos/agrovoc/c_5548
+audiovisual materials,http://aims.fao.org/aos/agrovoc/c_8f5ace29,materials,http://aims.fao.org/aos/agrovoc/c_92337
+data presentation (graphics),http://aims.fao.org/aos/agrovoc/c_5d8907a5,data,http://aims.fao.org/aos/agrovoc/c_49816
+map graphics,http://aims.fao.org/aos/agrovoc/c_19b23483,maps,http://aims.fao.org/aos/agrovoc/c_b43d8acf
+current roses,http://aims.fao.org/aos/agrovoc/c_c0aefb71,roses,http://aims.fao.org/aos/agrovoc/c_13964
+wind roses,http://aims.fao.org/aos/agrovoc/c_9ac2a249,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind roses,http://aims.fao.org/aos/agrovoc/c_9ac2a249,roses,http://aims.fao.org/aos/agrovoc/c_13964
+engineering drawings,http://aims.fao.org/aos/agrovoc/c_ace85772,engineering,http://aims.fao.org/aos/agrovoc/c_2571
+engineering drawings,http://aims.fao.org/aos/agrovoc/c_ace85772,illustrations,http://aims.fao.org/aos/agrovoc/c_56c00cc3
+technical drawings,http://aims.fao.org/aos/agrovoc/c_ace85772,illustrations,http://aims.fao.org/aos/agrovoc/c_56c00cc3
+sound recordings,http://aims.fao.org/aos/agrovoc/c_be63e1ca,sound,http://aims.fao.org/aos/agrovoc/c_7251
+tape recordings (sound),http://aims.fao.org/aos/agrovoc/c_be63e1ca,sound,http://aims.fao.org/aos/agrovoc/c_7251
+acoustic images,http://aims.fao.org/aos/agrovoc/c_e1f41bcb,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+seabed photographs,http://aims.fao.org/aos/agrovoc/c_63f29d49,ocean floor,http://aims.fao.org/aos/agrovoc/c_5a2c4eda
+identification keys,http://aims.fao.org/aos/agrovoc/c_c4a19486,identification,http://aims.fao.org/aos/agrovoc/c_3791
+basic services,http://aims.fao.org/aos/agrovoc/c_836,services,http://aims.fao.org/aos/agrovoc/c_6989
+housing needs,http://aims.fao.org/aos/agrovoc/c_28999,housing,http://aims.fao.org/aos/agrovoc/c_3678
+information needs,http://aims.fao.org/aos/agrovoc/c_3861,information,http://aims.fao.org/aos/agrovoc/c_330966
+animal needs,http://aims.fao.org/aos/agrovoc/c_25445,animals,http://aims.fao.org/aos/agrovoc/c_444
+light requirements,http://aims.fao.org/aos/agrovoc/c_25196,light,http://aims.fao.org/aos/agrovoc/c_4322
+oxygen requirement,http://aims.fao.org/aos/agrovoc/c_26804,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+oxygen demand (of organisms),http://aims.fao.org/aos/agrovoc/c_26804,oxygen,http://aims.fao.org/aos/agrovoc/c_5477
+oxygen demand (of organisms),http://aims.fao.org/aos/agrovoc/c_26804,demand,http://aims.fao.org/aos/agrovoc/c_2171
+oxygen demand (of organisms),http://aims.fao.org/aos/agrovoc/c_26804,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+water requirements,http://aims.fao.org/aos/agrovoc/c_8323,water,http://aims.fao.org/aos/agrovoc/c_8309
+nutrient requirements,http://aims.fao.org/aos/agrovoc/c_5277,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+salt requirements,http://aims.fao.org/aos/agrovoc/c_14058,salts,http://aims.fao.org/aos/agrovoc/c_33129
+food requirements,http://aims.fao.org/aos/agrovoc/c_17209,foods,http://aims.fao.org/aos/agrovoc/c_3032
+feed requirements,http://aims.fao.org/aos/agrovoc/c_27930,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+protein requirements,http://aims.fao.org/aos/agrovoc/c_13618,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+temperature preferences,http://aims.fao.org/aos/agrovoc/c_19e2ceb8,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+preferred temperature,http://aims.fao.org/aos/agrovoc/c_19e2ceb8,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+energy requirements,http://aims.fao.org/aos/agrovoc/c_00da291f,energy,http://aims.fao.org/aos/agrovoc/c_2565
+investment requirements,http://aims.fao.org/aos/agrovoc/c_28708,investment,http://aims.fao.org/aos/agrovoc/c_3930
+plant requirements,http://aims.fao.org/aos/agrovoc/c_25444,plants,http://aims.fao.org/aos/agrovoc/c_5993
+soil requirements,http://aims.fao.org/aos/agrovoc/c_25444,soil,http://aims.fao.org/aos/agrovoc/c_7156
+labour requirements,http://aims.fao.org/aos/agrovoc/c_28715,labour,http://aims.fao.org/aos/agrovoc/c_4128
+manpower needs,http://aims.fao.org/aos/agrovoc/c_28715,workforce,http://aims.fao.org/aos/agrovoc/c_4590
+manpower needs,http://aims.fao.org/aos/agrovoc/c_28715,needs,http://aims.fao.org/aos/agrovoc/c_331039
+equipment parts,http://aims.fao.org/aos/agrovoc/c_25717,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+equipment components,http://aims.fao.org/aos/agrovoc/c_25717,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+plow shares,http://aims.fao.org/aos/agrovoc/c_6023,ploughs,http://aims.fao.org/aos/agrovoc/c_6022
+spray booms,http://aims.fao.org/aos/agrovoc/c_7332,sprays,http://aims.fao.org/aos/agrovoc/c_7335
+spray booms,http://aims.fao.org/aos/agrovoc/c_7332,floating barriers,http://aims.fao.org/aos/agrovoc/c_112d4d36
+shock absorbers,http://aims.fao.org/aos/agrovoc/c_14260,shock,http://aims.fao.org/aos/agrovoc/c_36490
+cutter bars,http://aims.fao.org/aos/agrovoc/c_25681,nearshore bars,http://aims.fao.org/aos/agrovoc/c_1f8d33b3
+bolts and nuts,http://aims.fao.org/aos/agrovoc/c_25790,nuts,http://aims.fao.org/aos/agrovoc/c_12873
+current meter vanes,http://aims.fao.org/aos/agrovoc/c_24fbafb6,current meters,http://aims.fao.org/aos/agrovoc/c_513ef113
+wind vanes,http://aims.fao.org/aos/agrovoc/c_24fbafb6,winds,http://aims.fao.org/aos/agrovoc/c_8401
+marketing channels,http://aims.fao.org/aos/agrovoc/c_4622,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+marketing channels,http://aims.fao.org/aos/agrovoc/c_4622,channels,http://aims.fao.org/aos/agrovoc/c_01a53647
+marketing structure,http://aims.fao.org/aos/agrovoc/c_4622,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+marketing structure,http://aims.fao.org/aos/agrovoc/c_4622,structures,http://aims.fao.org/aos/agrovoc/c_330905
+distribution networks,http://aims.fao.org/aos/agrovoc/c_4622,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+distribution networks,http://aims.fao.org/aos/agrovoc/c_4622,networks,http://aims.fao.org/aos/agrovoc/c_50266
+cash income,http://aims.fao.org/aos/agrovoc/c_1360,income,http://aims.fao.org/aos/agrovoc/c_3820
+marketing margins,http://aims.fao.org/aos/agrovoc/c_4623,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+margins (marketing),http://aims.fao.org/aos/agrovoc/c_4623,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+marketing spreads,http://aims.fao.org/aos/agrovoc/c_4623,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+price spreads,http://aims.fao.org/aos/agrovoc/c_4623,prices,http://aims.fao.org/aos/agrovoc/c_6178
+fishery boundaries,http://aims.fao.org/aos/agrovoc/c_9a886983,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+bank deposits,http://aims.fao.org/aos/agrovoc/c_29130,banks,http://aims.fao.org/aos/agrovoc/c_812
+good laboratory practices,http://aims.fao.org/aos/agrovoc/c_d79597fb,laboratories,http://aims.fao.org/aos/agrovoc/c_15988
+good manufacturing practices,http://aims.fao.org/aos/agrovoc/c_cd848dc0,manufacturing,http://aims.fao.org/aos/agrovoc/c_92365
+recommended nutrient intake,http://aims.fao.org/aos/agrovoc/c_34090,nutrient intake,http://aims.fao.org/aos/agrovoc/c_34064
+standard operating procedures,http://aims.fao.org/aos/agrovoc/c_b92b8d63,standards,http://aims.fao.org/aos/agrovoc/c_7367
+standard operating procedures,http://aims.fao.org/aos/agrovoc/c_b92b8d63,procedures,http://aims.fao.org/aos/agrovoc/c_6526cb9e
+sanitation standard operating procedures,http://aims.fao.org/aos/agrovoc/c_ae141fe0,hygiene,http://aims.fao.org/aos/agrovoc/c_3739
+soil survey guidelines,http://aims.fao.org/aos/agrovoc/c_7cedf142,soil surveys,http://aims.fao.org/aos/agrovoc/c_16551
+soil mapping guidelines,http://aims.fao.org/aos/agrovoc/c_7cedf142,soil surveys,http://aims.fao.org/aos/agrovoc/c_16551
+pastoral community,http://aims.fao.org/aos/agrovoc/c_28741,communities,http://aims.fao.org/aos/agrovoc/c_50182
+quality labels,http://aims.fao.org/aos/agrovoc/c_26864,quality,http://aims.fao.org/aos/agrovoc/c_6400
+designation of origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+protected designation of origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+controlled designation of origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+appellation of controlled origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+registered designation of origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+origin denomination,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+certified brand of origin,http://aims.fao.org/aos/agrovoc/c_34241,trade marks,http://aims.fao.org/aos/agrovoc/c_6228
+certified brand of origin,http://aims.fao.org/aos/agrovoc/c_34241,provenance,http://aims.fao.org/aos/agrovoc/c_16022
+dynamic models,http://aims.fao.org/aos/agrovoc/c_28670,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+additive models,http://aims.fao.org/aos/agrovoc/c_34041,additives,http://aims.fao.org/aos/agrovoc/c_118
+econometric models,http://aims.fao.org/aos/agrovoc/c_10531,econometrics,http://aims.fao.org/aos/agrovoc/c_2468
+bioeconomic models,http://aims.fao.org/aos/agrovoc/c_fd616063,bioeconomics,http://aims.fao.org/aos/agrovoc/c_331352
+international trade models,http://aims.fao.org/aos/agrovoc/c_2315140f,international trade,http://aims.fao.org/aos/agrovoc/c_3919
+simulation models,http://aims.fao.org/aos/agrovoc/c_24242,simulation,http://aims.fao.org/aos/agrovoc/c_5209
+simulation analysis,http://aims.fao.org/aos/agrovoc/c_24242,simulation,http://aims.fao.org/aos/agrovoc/c_5209
+simulation analysis,http://aims.fao.org/aos/agrovoc/c_24242,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+management games,http://aims.fao.org/aos/agrovoc/c_28908,management,http://aims.fao.org/aos/agrovoc/c_16086
+management games,http://aims.fao.org/aos/agrovoc/c_28908,game,http://aims.fao.org/aos/agrovoc/c_3179
+computable general equilibrium models,http://aims.fao.org/aos/agrovoc/c_624f6db9,equilibrium,http://aims.fao.org/aos/agrovoc/c_5364a9a1
+farm models,http://aims.fao.org/aos/agrovoc/c_10749,farms,http://aims.fao.org/aos/agrovoc/c_2809
+soil erosion models,http://aims.fao.org/aos/agrovoc/c_331058,erosion,http://aims.fao.org/aos/agrovoc/c_2651
+growth models,http://aims.fao.org/aos/agrovoc/c_1374844914634,growth,http://aims.fao.org/aos/agrovoc/c_3394
+forest vegetation simulator,http://aims.fao.org/aos/agrovoc/c_75ee5182,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forest vegetation simulator,http://aims.fao.org/aos/agrovoc/c_75ee5182,vegetation,http://aims.fao.org/aos/agrovoc/c_8176
+plant models,http://aims.fao.org/aos/agrovoc/c_36583,plants,http://aims.fao.org/aos/agrovoc/c_5993
+animal models,http://aims.fao.org/aos/agrovoc/c_34782,animals,http://aims.fao.org/aos/agrovoc/c_444
+digital elevation models,http://aims.fao.org/aos/agrovoc/c_2f808dbb,altitude,http://aims.fao.org/aos/agrovoc/c_316
+digital land models,http://aims.fao.org/aos/agrovoc/c_2f808dbb,land,http://aims.fao.org/aos/agrovoc/c_4172
+digital landscape models,http://aims.fao.org/aos/agrovoc/c_5a7eed15,landscape,http://aims.fao.org/aos/agrovoc/c_4185
+electronic models,http://aims.fao.org/aos/agrovoc/c_166c4530,electronics,http://aims.fao.org/aos/agrovoc/c_2522
+acoustic models,http://aims.fao.org/aos/agrovoc/c_69a2db47,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic analogs,http://aims.fao.org/aos/agrovoc/c_69a2db47,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+scale models,http://aims.fao.org/aos/agrovoc/c_c154b38b,scale,http://aims.fao.org/aos/agrovoc/c_128d5eb6
+laboratory models,http://aims.fao.org/aos/agrovoc/c_c154b38b,laboratories,http://aims.fao.org/aos/agrovoc/c_15988
+ship models,http://aims.fao.org/aos/agrovoc/c_abbd6b1c,ships,http://aims.fao.org/aos/agrovoc/c_7040
+harbour models,http://aims.fao.org/aos/agrovoc/c_0b0f588a,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+harbor models,http://aims.fao.org/aos/agrovoc/c_0b0f588a,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+business models,http://aims.fao.org/aos/agrovoc/c_3aa7a7d6,enterprises,http://aims.fao.org/aos/agrovoc/c_10626
+climate models,http://aims.fao.org/aos/agrovoc/c_e9c3962b,climate,http://aims.fao.org/aos/agrovoc/c_1665
+light stimuli,http://aims.fao.org/aos/agrovoc/c_6140e7f0,light,http://aims.fao.org/aos/agrovoc/c_4322
+chemical stimuli,http://aims.fao.org/aos/agrovoc/c_a7f90223,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+egg yield,http://aims.fao.org/aos/agrovoc/c_26941,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+crop yield,http://aims.fao.org/aos/agrovoc/c_10176,crops,http://aims.fao.org/aos/agrovoc/c_1972
+forage yield,http://aims.fao.org/aos/agrovoc/c_15adb263,forage,http://aims.fao.org/aos/agrovoc/c_36108
+milk yield,http://aims.fao.org/aos/agrovoc/c_15998,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk protein yield,http://aims.fao.org/aos/agrovoc/c_331327,milk protein,http://aims.fao.org/aos/agrovoc/c_4831
+milk fat yield,http://aims.fao.org/aos/agrovoc/c_331328,milk fat,http://aims.fao.org/aos/agrovoc/c_4828
+meat yield,http://aims.fao.org/aos/agrovoc/c_15996,meat,http://aims.fao.org/aos/agrovoc/c_4669
+sediment yield,http://aims.fao.org/aos/agrovoc/c_972594a4,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+economic infrastructure,http://aims.fao.org/aos/agrovoc/c_29768,economics,http://aims.fao.org/aos/agrovoc/c_2481
+transport infrastructure,http://aims.fao.org/aos/agrovoc/c_31891,transport,http://aims.fao.org/aos/agrovoc/c_7874
+forest roads,http://aims.fao.org/aos/agrovoc/c_10983,forests,http://aims.fao.org/aos/agrovoc/c_3062
+road bridges,http://aims.fao.org/aos/agrovoc/c_e6afe244,roads,http://aims.fao.org/aos/agrovoc/c_6621
+information infrastructure,http://aims.fao.org/aos/agrovoc/c_9000084,information,http://aims.fao.org/aos/agrovoc/c_330966
+oil terminals,http://aims.fao.org/aos/agrovoc/c_08da821f,oils,http://aims.fao.org/aos/agrovoc/c_5334
+terminals (oil),http://aims.fao.org/aos/agrovoc/c_08da821f,oils,http://aims.fao.org/aos/agrovoc/c_5334
+gas terminals,http://aims.fao.org/aos/agrovoc/c_cab730f5,gases,http://aims.fao.org/aos/agrovoc/c_3197
+ferry terminals,http://aims.fao.org/aos/agrovoc/c_7d0d81a5,passenger ships,http://aims.fao.org/aos/agrovoc/c_70f12455
+fishing harbours,http://aims.fao.org/aos/agrovoc/c_4ee61c54,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+container ports,http://aims.fao.org/aos/agrovoc/c_cc42a28a,containers,http://aims.fao.org/aos/agrovoc/c_1831
+utility networks,http://aims.fao.org/aos/agrovoc/c_c24a986b,networks,http://aims.fao.org/aos/agrovoc/c_50266
+economic structure,http://aims.fao.org/aos/agrovoc/c_29769,economics,http://aims.fao.org/aos/agrovoc/c_2481
+economic structure,http://aims.fao.org/aos/agrovoc/c_29769,structures,http://aims.fao.org/aos/agrovoc/c_330905
+farm structure,http://aims.fao.org/aos/agrovoc/c_2804,farms,http://aims.fao.org/aos/agrovoc/c_2809
+field size,http://aims.fao.org/aos/agrovoc/c_2893,fields,http://aims.fao.org/aos/agrovoc/c_2894
+field size,http://aims.fao.org/aos/agrovoc/c_2893,size,http://aims.fao.org/aos/agrovoc/c_7093
+plot size,http://aims.fao.org/aos/agrovoc/c_2893,parcels,http://aims.fao.org/aos/agrovoc/c_fdfbb37f
+plot size,http://aims.fao.org/aos/agrovoc/c_2893,size,http://aims.fao.org/aos/agrovoc/c_7093
+parcel size,http://aims.fao.org/aos/agrovoc/c_2893,parcels,http://aims.fao.org/aos/agrovoc/c_fdfbb37f
+parcel size,http://aims.fao.org/aos/agrovoc/c_2893,size,http://aims.fao.org/aos/agrovoc/c_7093
+field shape,http://aims.fao.org/aos/agrovoc/c_26783,fields,http://aims.fao.org/aos/agrovoc/c_2894
+field shape,http://aims.fao.org/aos/agrovoc/c_26783,shape,http://aims.fao.org/aos/agrovoc/c_94b6d49a
+agrarian systems,http://aims.fao.org/aos/agrovoc/c_7193,systems,http://aims.fao.org/aos/agrovoc/c_330985
+climate change,http://aims.fao.org/aos/agrovoc/c_1666,climate,http://aims.fao.org/aos/agrovoc/c_1665
+economic environment,http://aims.fao.org/aos/agrovoc/c_24949,economics,http://aims.fao.org/aos/agrovoc/c_2481
+inland water environment,http://aims.fao.org/aos/agrovoc/c_3875,inland waters,http://aims.fao.org/aos/agrovoc/c_3876
+compensation depth,http://aims.fao.org/aos/agrovoc/c_92c7b15c,compensation,http://aims.fao.org/aos/agrovoc/c_1791
+compensation depth,http://aims.fao.org/aos/agrovoc/c_92c7b15c,depth,http://aims.fao.org/aos/agrovoc/c_2190
+compensation level,http://aims.fao.org/aos/agrovoc/c_92c7b15c,compensation,http://aims.fao.org/aos/agrovoc/c_1791
+compensation level,http://aims.fao.org/aos/agrovoc/c_92c7b15c,levels,http://aims.fao.org/aos/agrovoc/c_976a1ab6
+carbonate compensation depth,http://aims.fao.org/aos/agrovoc/c_38dc5fb4,carbonates,http://aims.fao.org/aos/agrovoc/c_1306
+calcite compensation depth,http://aims.fao.org/aos/agrovoc/c_38dc5fb4,calcite,http://aims.fao.org/aos/agrovoc/c_32396
+land environment,http://aims.fao.org/aos/agrovoc/c_7ffc9d69,land,http://aims.fao.org/aos/agrovoc/c_4172
+socioeconomic environment,http://aims.fao.org/aos/agrovoc/c_26824,socioeconomics,http://aims.fao.org/aos/agrovoc/c_2c482ac4
+soil conservation legislation,http://aims.fao.org/aos/agrovoc/c_0a2f9038,soil conservation,http://aims.fao.org/aos/agrovoc/c_7165
+fertilizer legislation,http://aims.fao.org/aos/agrovoc/c_229de4d7,fertilizers,http://aims.fao.org/aos/agrovoc/c_2867
+pesticide legislation,http://aims.fao.org/aos/agrovoc/c_5a5d4e2c,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+polluter pays principle,http://aims.fao.org/aos/agrovoc/c_8b725050,remuneration,http://aims.fao.org/aos/agrovoc/c_6499
+pollution legislation,http://aims.fao.org/aos/agrovoc/c_f9858981,pollution,http://aims.fao.org/aos/agrovoc/c_6077
+pollution control legislation,http://aims.fao.org/aos/agrovoc/c_f9858981,pollution control,http://aims.fao.org/aos/agrovoc/c_6078
+agrarian law,http://aims.fao.org/aos/agrovoc/c_28633,law,http://aims.fao.org/aos/agrovoc/c_12106
+agricultural and rural law,http://aims.fao.org/aos/agrovoc/c_28633,law,http://aims.fao.org/aos/agrovoc/c_12106
+agricultural law,http://aims.fao.org/aos/agrovoc/c_28633,law,http://aims.fao.org/aos/agrovoc/c_12106
+food legislation,http://aims.fao.org/aos/agrovoc/c_28695,foods,http://aims.fao.org/aos/agrovoc/c_3032
+labour legislation,http://aims.fao.org/aos/agrovoc/c_28712,labour,http://aims.fao.org/aos/agrovoc/c_4128
+public health legislation,http://aims.fao.org/aos/agrovoc/c_28754,public health,http://aims.fao.org/aos/agrovoc/c_6349
+contract legislation,http://aims.fao.org/aos/agrovoc/c_28849,contracts,http://aims.fao.org/aos/agrovoc/c_1840
+land law,http://aims.fao.org/aos/agrovoc/c_573abb9f,land,http://aims.fao.org/aos/agrovoc/c_4172
+land law,http://aims.fao.org/aos/agrovoc/c_573abb9f,law,http://aims.fao.org/aos/agrovoc/c_12106
+forest regulations,http://aims.fao.org/aos/agrovoc/c_28079,forests,http://aims.fao.org/aos/agrovoc/c_3062
+market regulations,http://aims.fao.org/aos/agrovoc/c_28729,markets,http://aims.fao.org/aos/agrovoc/c_4626
+biosafety regulations,http://aims.fao.org/aos/agrovoc/c_9000011,biosafety,http://aims.fao.org/aos/agrovoc/c_35030
+safety regulations,http://aims.fao.org/aos/agrovoc/c_bb5ce0f0,safety,http://aims.fao.org/aos/agrovoc/c_6732
+diving regulations,http://aims.fao.org/aos/agrovoc/c_50249fd9,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+catch limit,http://aims.fao.org/aos/agrovoc/c_644dabeb,catches,http://aims.fao.org/aos/agrovoc/c_9665
+catch quota,http://aims.fao.org/aos/agrovoc/c_644dabeb,catches,http://aims.fao.org/aos/agrovoc/c_9665
+individual transferable quotas,http://aims.fao.org/aos/agrovoc/c_5d18ca3d,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+individual fishing quotas,http://aims.fao.org/aos/agrovoc/c_5d18ca3d,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+individual fishing quotas,http://aims.fao.org/aos/agrovoc/c_5d18ca3d,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+water quotas,http://aims.fao.org/aos/agrovoc/c_cd9ef4c2,water,http://aims.fao.org/aos/agrovoc/c_8309
+fishery regulations,http://aims.fao.org/aos/agrovoc/c_89fec3f8,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fisheries regulations,http://aims.fao.org/aos/agrovoc/c_89fec3f8,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+whaling regulations,http://aims.fao.org/aos/agrovoc/c_a493b3c4,whaling,http://aims.fao.org/aos/agrovoc/c_24267
+fish inspection regulations,http://aims.fao.org/aos/agrovoc/c_2ccc5999,fish inspection,http://aims.fao.org/aos/agrovoc/c_10877
+mesh regulations,http://aims.fao.org/aos/agrovoc/c_5310198e,mesh,http://aims.fao.org/aos/agrovoc/c_995b2fe7
+aquaculture regulations,http://aims.fao.org/aos/agrovoc/c_b8dfc93d,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+aquaculture law,http://aims.fao.org/aos/agrovoc/c_b8dfc93d,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+aquaculture law,http://aims.fao.org/aos/agrovoc/c_b8dfc93d,law,http://aims.fao.org/aos/agrovoc/c_12106
+quarantine regulations,http://aims.fao.org/aos/agrovoc/c_1b59d108,quarantine,http://aims.fao.org/aos/agrovoc/c_6402
+navigation regulations,http://aims.fao.org/aos/agrovoc/c_8e094d16,navigation,http://aims.fao.org/aos/agrovoc/c_15908
+shipping rules,http://aims.fao.org/aos/agrovoc/c_8e094d16,rules,http://aims.fao.org/aos/agrovoc/c_13988
+harbour regulations,http://aims.fao.org/aos/agrovoc/c_778dd097,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+harbor regulations,http://aims.fao.org/aos/agrovoc/c_778dd097,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+water use regulations,http://aims.fao.org/aos/agrovoc/c_8fc1df3b,water use,http://aims.fao.org/aos/agrovoc/c_16065
+oil and gas legislation,http://aims.fao.org/aos/agrovoc/c_cc6b3be4,oils,http://aims.fao.org/aos/agrovoc/c_5334
+oil and gas legislation,http://aims.fao.org/aos/agrovoc/c_cc6b3be4,gases,http://aims.fao.org/aos/agrovoc/c_3197
+mining legislation,http://aims.fao.org/aos/agrovoc/c_9c415346,mining,http://aims.fao.org/aos/agrovoc/c_49983
+computer software,http://aims.fao.org/aos/agrovoc/c_24008,computers,http://aims.fao.org/aos/agrovoc/c_1799
+computer systems (software),http://aims.fao.org/aos/agrovoc/c_24008,computers,http://aims.fao.org/aos/agrovoc/c_1799
+computer systems (software),http://aims.fao.org/aos/agrovoc/c_24008,systems,http://aims.fao.org/aos/agrovoc/c_330985
+computer programs,http://aims.fao.org/aos/agrovoc/c_24008,computers,http://aims.fao.org/aos/agrovoc/c_1799
+neural networks,http://aims.fao.org/aos/agrovoc/c_37467,networks,http://aims.fao.org/aos/agrovoc/c_50266
+neuronal networks,http://aims.fao.org/aos/agrovoc/c_37467,networks,http://aims.fao.org/aos/agrovoc/c_50266
+multi-agent systems,http://aims.fao.org/aos/agrovoc/c_f3d14e4f,systems,http://aims.fao.org/aos/agrovoc/c_330985
+farm corporations,http://aims.fao.org/aos/agrovoc/c_50208,farms,http://aims.fao.org/aos/agrovoc/c_2809
+research organizations,http://aims.fao.org/aos/agrovoc/c_50299,research,http://aims.fao.org/aos/agrovoc/c_6513
+marketing boards,http://aims.fao.org/aos/agrovoc/c_4621,marketing,http://aims.fao.org/aos/agrovoc/c_4620
+parastatal organizations,http://aims.fao.org/aos/agrovoc/c_13102,parastatals,http://aims.fao.org/aos/agrovoc/c_50279
+private sector organizations,http://aims.fao.org/aos/agrovoc/c_24208,private sector,http://aims.fao.org/aos/agrovoc/c_32525
+farmers organizations,http://aims.fao.org/aos/agrovoc/c_37175,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+business associations,http://aims.fao.org/aos/agrovoc/c_50167,enterprises,http://aims.fao.org/aos/agrovoc/c_10626
+farmers associations,http://aims.fao.org/aos/agrovoc/c_2806,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+trade associations,http://aims.fao.org/aos/agrovoc/c_7850,trade,http://aims.fao.org/aos/agrovoc/c_7848
+agricultural societies,http://aims.fao.org/aos/agrovoc/c_32362,society,http://aims.fao.org/aos/agrovoc/c_50309
+bar associations,http://aims.fao.org/aos/agrovoc/c_50159,nearshore bars,http://aims.fao.org/aos/agrovoc/c_1f8d33b3
+beekeepers' associations,http://aims.fao.org/aos/agrovoc/c_50160,beekeepers,http://aims.fao.org/aos/agrovoc/c_839c093c
+teachers' associations,http://aims.fao.org/aos/agrovoc/c_50315,teachers,http://aims.fao.org/aos/agrovoc/c_7637
+technical societies,http://aims.fao.org/aos/agrovoc/c_50316,society,http://aims.fao.org/aos/agrovoc/c_50309
+professional societies,http://aims.fao.org/aos/agrovoc/c_50290,society,http://aims.fao.org/aos/agrovoc/c_50309
+civil law associations,http://aims.fao.org/aos/agrovoc/c_50175,civil law,http://aims.fao.org/aos/agrovoc/c_28647
+library associations,http://aims.fao.org/aos/agrovoc/c_50250,libraries,http://aims.fao.org/aos/agrovoc/c_4311
+scientific societies,http://aims.fao.org/aos/agrovoc/c_50302,society,http://aims.fao.org/aos/agrovoc/c_50309
+neighbourhood societies,http://aims.fao.org/aos/agrovoc/c_50265,society,http://aims.fao.org/aos/agrovoc/c_50309
+youth organizations,http://aims.fao.org/aos/agrovoc/c_50161,youth,http://aims.fao.org/aos/agrovoc/c_8491
+community organizations,http://aims.fao.org/aos/agrovoc/c_50184,communities,http://aims.fao.org/aos/agrovoc/c_50182
+community based organizations,http://aims.fao.org/aos/agrovoc/c_50184,communities,http://aims.fao.org/aos/agrovoc/c_50182
+Indigenous Peoples' organizations,http://aims.fao.org/aos/agrovoc/c_50234,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+Indigenous Peoples' private voluntary organizations,http://aims.fao.org/aos/agrovoc/c_50236,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+consumer organizations,http://aims.fao.org/aos/agrovoc/c_50189,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+development organizations,http://aims.fao.org/aos/agrovoc/c_50199,development,http://aims.fao.org/aos/agrovoc/c_331049
+for profit organizations,http://aims.fao.org/aos/agrovoc/c_50211,profit,http://aims.fao.org/aos/agrovoc/c_6213
+social welfare organizations,http://aims.fao.org/aos/agrovoc/c_50308,social welfare,http://aims.fao.org/aos/agrovoc/c_7137
+government organizations,http://aims.fao.org/aos/agrovoc/c_50225,government,http://aims.fao.org/aos/agrovoc/c_11230
+chambers of agriculture,http://aims.fao.org/aos/agrovoc/c_50170,agriculture,http://aims.fao.org/aos/agrovoc/c_203
+health organizations,http://aims.fao.org/aos/agrovoc/c_50231,health,http://aims.fao.org/aos/agrovoc/c_3511
+women's organizations,http://aims.fao.org/aos/agrovoc/c_50331,women,http://aims.fao.org/aos/agrovoc/c_8420
+womens organizations,http://aims.fao.org/aos/agrovoc/c_50331,women,http://aims.fao.org/aos/agrovoc/c_8420
+not for profit organizations,http://aims.fao.org/aos/agrovoc/c_50268,profit,http://aims.fao.org/aos/agrovoc/c_6213
+trade organizations,http://aims.fao.org/aos/agrovoc/c_50317,trade,http://aims.fao.org/aos/agrovoc/c_7848
+international trade promotion organizations,http://aims.fao.org/aos/agrovoc/c_50244,international trade,http://aims.fao.org/aos/agrovoc/c_3919
+transport organizations,http://aims.fao.org/aos/agrovoc/c_50318,transport,http://aims.fao.org/aos/agrovoc/c_7874
+labour organizations,http://aims.fao.org/aos/agrovoc/c_50334,labour,http://aims.fao.org/aos/agrovoc/c_4128
+workers' unions,http://aims.fao.org/aos/agrovoc/c_50334,workers,http://aims.fao.org/aos/agrovoc/c_8445
+workers' unions,http://aims.fao.org/aos/agrovoc/c_50334,unions,http://aims.fao.org/aos/agrovoc/c_50323
+rural workers' organizations,http://aims.fao.org/aos/agrovoc/c_50300,workers,http://aims.fao.org/aos/agrovoc/c_8445
+civil society organizations,http://aims.fao.org/aos/agrovoc/c_9000020,civil society,http://aims.fao.org/aos/agrovoc/c_50177
+literacy organizations,http://aims.fao.org/aos/agrovoc/c_50251,literacy,http://aims.fao.org/aos/agrovoc/c_4385
+Caribbean Community,http://aims.fao.org/aos/agrovoc/c_1325,Caribbean,http://aims.fao.org/aos/agrovoc/c_1320
+Council of Europe,http://aims.fao.org/aos/agrovoc/c_1934,Europe,http://aims.fao.org/aos/agrovoc/c_2724
+South Pacific Commission,http://aims.fao.org/aos/agrovoc/c_7262,South Pacific,http://aims.fao.org/aos/agrovoc/c_32764
+"African, Caribbean and Pacific Group of States",http://aims.fao.org/aos/agrovoc/c_24811,Caribbean,http://aims.fao.org/aos/agrovoc/c_1320
+International Livestock Centre for Africa,http://aims.fao.org/aos/agrovoc/c_36559,Africa,http://aims.fao.org/aos/agrovoc/c_165
+Comprehensive Africa Agriculture Development Programme,http://aims.fao.org/aos/agrovoc/c_71ac138f,Africa,http://aims.fao.org/aos/agrovoc/c_165
+Economic and Social Commission for Asia and the Pacific,http://aims.fao.org/aos/agrovoc/c_331056,Asia,http://aims.fao.org/aos/agrovoc/c_666
+fishery organizations,http://aims.fao.org/aos/agrovoc/c_50210,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+population structure,http://aims.fao.org/aos/agrovoc/c_6115,population,http://aims.fao.org/aos/agrovoc/c_330887
+population structure,http://aims.fao.org/aos/agrovoc/c_6115,structures,http://aims.fao.org/aos/agrovoc/c_330905
+population composition,http://aims.fao.org/aos/agrovoc/c_6115,population,http://aims.fao.org/aos/agrovoc/c_330887
+population composition,http://aims.fao.org/aos/agrovoc/c_6115,composition,http://aims.fao.org/aos/agrovoc/c_331025
+age structure,http://aims.fao.org/aos/agrovoc/c_28630,age,http://aims.fao.org/aos/agrovoc/c_186
+age distribution,http://aims.fao.org/aos/agrovoc/c_28630,age,http://aims.fao.org/aos/agrovoc/c_186
+age distribution,http://aims.fao.org/aos/agrovoc/c_28630,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+age pattern,http://aims.fao.org/aos/agrovoc/c_28630,age,http://aims.fao.org/aos/agrovoc/c_186
+age composition,http://aims.fao.org/aos/agrovoc/c_28630,age,http://aims.fao.org/aos/agrovoc/c_186
+age composition,http://aims.fao.org/aos/agrovoc/c_28630,composition,http://aims.fao.org/aos/agrovoc/c_331025
+age pyramide,http://aims.fao.org/aos/agrovoc/c_28630,age,http://aims.fao.org/aos/agrovoc/c_186
+neonata (humans),http://aims.fao.org/aos/agrovoc/c_3851,humans,http://aims.fao.org/aos/agrovoc/c_4586
+out of school youth,http://aims.fao.org/aos/agrovoc/c_9000118,schools,http://aims.fao.org/aos/agrovoc/c_6852
+family size,http://aims.fao.org/aos/agrovoc/c_15502,families,http://aims.fao.org/aos/agrovoc/c_2785
+family size,http://aims.fao.org/aos/agrovoc/c_15502,size,http://aims.fao.org/aos/agrovoc/c_7093
+sex ratio,http://aims.fao.org/aos/agrovoc/c_7014,sex,http://aims.fao.org/aos/agrovoc/c_7010
+male female ratio,http://aims.fao.org/aos/agrovoc/c_7014,males,http://aims.fao.org/aos/agrovoc/c_15995
+male female ratio,http://aims.fao.org/aos/agrovoc/c_7014,females,http://aims.fao.org/aos/agrovoc/c_15969
+size distribution,http://aims.fao.org/aos/agrovoc/c_efc50c3a,size,http://aims.fao.org/aos/agrovoc/c_7093
+size distribution,http://aims.fao.org/aos/agrovoc/c_efc50c3a,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+size composition,http://aims.fao.org/aos/agrovoc/c_efc50c3a,size,http://aims.fao.org/aos/agrovoc/c_7093
+size composition,http://aims.fao.org/aos/agrovoc/c_efc50c3a,composition,http://aims.fao.org/aos/agrovoc/c_331025
+bank loans,http://aims.fao.org/aos/agrovoc/c_28837,banks,http://aims.fao.org/aos/agrovoc/c_812
+collateral (land),http://aims.fao.org/aos/agrovoc/c_931da360,land,http://aims.fao.org/aos/agrovoc/c_4172
+land based collateral,http://aims.fao.org/aos/agrovoc/c_931da360,land,http://aims.fao.org/aos/agrovoc/c_4172
+shadow prices,http://aims.fao.org/aos/agrovoc/c_1922,prices,http://aims.fao.org/aos/agrovoc/c_6178
+production costs,http://aims.fao.org/aos/agrovoc/c_6202,production,http://aims.fao.org/aos/agrovoc/c_6200
+utilization costs,http://aims.fao.org/aos/agrovoc/c_25702,uses,http://aims.fao.org/aos/agrovoc/c_8117
+unit costs,http://aims.fao.org/aos/agrovoc/c_28783,units,http://aims.fao.org/aos/agrovoc/c_50324
+labour costs,http://aims.fao.org/aos/agrovoc/c_29985,labour,http://aims.fao.org/aos/agrovoc/c_4128
+distribution costs,http://aims.fao.org/aos/agrovoc/c_32973,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+household expenditure,http://aims.fao.org/aos/agrovoc/c_3675,households,http://aims.fao.org/aos/agrovoc/c_3676
+consumer expenditure,http://aims.fao.org/aos/agrovoc/c_1823,consumers,http://aims.fao.org/aos/agrovoc/c_28315
+farm results,http://aims.fao.org/aos/agrovoc/c_28692,farms,http://aims.fao.org/aos/agrovoc/c_2809
+farm results,http://aims.fao.org/aos/agrovoc/c_28692,results,http://aims.fao.org/aos/agrovoc/c_8c3ecd25
+farm comparisons,http://aims.fao.org/aos/agrovoc/c_28692,farms,http://aims.fao.org/aos/agrovoc/c_2809
+land access,http://aims.fao.org/aos/agrovoc/c_9000090,land,http://aims.fao.org/aos/agrovoc/c_4172
+access to land,http://aims.fao.org/aos/agrovoc/c_9000090,toes,http://aims.fao.org/aos/agrovoc/c_14912
+access to land,http://aims.fao.org/aos/agrovoc/c_9000090,land,http://aims.fao.org/aos/agrovoc/c_4172
+regularization of ownership,http://aims.fao.org/aos/agrovoc/c_d190bc52,ownership,http://aims.fao.org/aos/agrovoc/c_5466
+open access (land),http://aims.fao.org/aos/agrovoc/c_51a39a94,open access,http://aims.fao.org/aos/agrovoc/c_688a856e
+tenant's rights,http://aims.fao.org/aos/agrovoc/c_28775,tenants,http://aims.fao.org/aos/agrovoc/c_330886
+animal rights,http://aims.fao.org/aos/agrovoc/c_32377,animals,http://aims.fao.org/aos/agrovoc/c_444
+human rights,http://aims.fao.org/aos/agrovoc/c_37883,humans,http://aims.fao.org/aos/agrovoc/c_4586
+right to information,http://aims.fao.org/aos/agrovoc/c_1337330866534,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to information,http://aims.fao.org/aos/agrovoc/c_1337330866534,information,http://aims.fao.org/aos/agrovoc/c_330966
+freedom of information,http://aims.fao.org/aos/agrovoc/c_1337330866534,information,http://aims.fao.org/aos/agrovoc/c_330966
+right to food,http://aims.fao.org/aos/agrovoc/c_37904,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to food,http://aims.fao.org/aos/agrovoc/c_37904,foods,http://aims.fao.org/aos/agrovoc/c_3032
+right to adequate food,http://aims.fao.org/aos/agrovoc/c_37904,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to adequate food,http://aims.fao.org/aos/agrovoc/c_37904,foods,http://aims.fao.org/aos/agrovoc/c_3032
+freedom of association,http://aims.fao.org/aos/agrovoc/c_50216,associations,http://aims.fao.org/aos/agrovoc/c_37955
+right of association,http://aims.fao.org/aos/agrovoc/c_50216,associations,http://aims.fao.org/aos/agrovoc/c_37955
+housing rights,http://aims.fao.org/aos/agrovoc/c_a1b5abd0,housing,http://aims.fao.org/aos/agrovoc/c_3678
+access to justice,http://aims.fao.org/aos/agrovoc/c_ead6b386,toes,http://aims.fao.org/aos/agrovoc/c_14912
+economic rights,http://aims.fao.org/aos/agrovoc/c_4fd16d1e,economics,http://aims.fao.org/aos/agrovoc/c_2481
+right to reasonable standard of living,http://aims.fao.org/aos/agrovoc/c_5b5dd839,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to reasonable standard of living,http://aims.fao.org/aos/agrovoc/c_5b5dd839,standards,http://aims.fao.org/aos/agrovoc/c_7367
+right to water,http://aims.fao.org/aos/agrovoc/c_eb68aec7,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to water,http://aims.fao.org/aos/agrovoc/c_eb68aec7,water,http://aims.fao.org/aos/agrovoc/c_8309
+right to clean and healthy environment,http://aims.fao.org/aos/agrovoc/c_fbb8a399,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to clean and healthy environment,http://aims.fao.org/aos/agrovoc/c_fbb8a399,environment,http://aims.fao.org/aos/agrovoc/c_2593
+land rights,http://aims.fao.org/aos/agrovoc/c_37898,land,http://aims.fao.org/aos/agrovoc/c_4172
+management rights,http://aims.fao.org/aos/agrovoc/c_862db225,management,http://aims.fao.org/aos/agrovoc/c_16086
+pastoral land rights,http://aims.fao.org/aos/agrovoc/c_4d6b6100,pastoral lands,http://aims.fao.org/aos/agrovoc/c_8e487587
+grazing land rights,http://aims.fao.org/aos/agrovoc/c_97241aeb,grazing lands,http://aims.fao.org/aos/agrovoc/c_3369
+use rights,http://aims.fao.org/aos/agrovoc/c_945c9e82,uses,http://aims.fao.org/aos/agrovoc/c_8117
+right of use,http://aims.fao.org/aos/agrovoc/c_945c9e82,uses,http://aims.fao.org/aos/agrovoc/c_8117
+waste (abuse),http://aims.fao.org/aos/agrovoc/c_ecf20c17,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+waste (abuse),http://aims.fao.org/aos/agrovoc/c_ecf20c17,abuse,http://aims.fao.org/aos/agrovoc/c_f1b9ed13
+community land rights,http://aims.fao.org/aos/agrovoc/c_ff890f6b,communities,http://aims.fao.org/aos/agrovoc/c_50182
+Indigenous Peoples' land rights,http://aims.fao.org/aos/agrovoc/c_d42b49e7,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+indigenous land rights,http://aims.fao.org/aos/agrovoc/c_d42b49e7,Indigenous Peoples' lands,http://aims.fao.org/aos/agrovoc/c_86524ff8
+"Indigenous Peoples’ rights to lands, territory and natural resources",http://aims.fao.org/aos/agrovoc/c_d42b49e7,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+rights in divorce,http://aims.fao.org/aos/agrovoc/c_b3372020,divorce,http://aims.fao.org/aos/agrovoc/c_cb47f3da
+legal empowerment,http://aims.fao.org/aos/agrovoc/c_c1543349,empowerment,http://aims.fao.org/aos/agrovoc/c_37872
+fishing rights,http://aims.fao.org/aos/agrovoc/c_24028,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+water rights,http://aims.fao.org/aos/agrovoc/c_16062,water,http://aims.fao.org/aos/agrovoc/c_8309
+property rights,http://aims.fao.org/aos/agrovoc/c_37942,property,http://aims.fao.org/aos/agrovoc/c_13609
+right to property,http://aims.fao.org/aos/agrovoc/c_37942,toes,http://aims.fao.org/aos/agrovoc/c_14912
+right to property,http://aims.fao.org/aos/agrovoc/c_37942,property,http://aims.fao.org/aos/agrovoc/c_13609
+assignment (land),http://aims.fao.org/aos/agrovoc/c_8c6882ab,land,http://aims.fao.org/aos/agrovoc/c_4172
+land inheritance rights,http://aims.fao.org/aos/agrovoc/c_70a14ab3,land,http://aims.fao.org/aos/agrovoc/c_4172
+state ownership,http://aims.fao.org/aos/agrovoc/c_6350,state,http://aims.fao.org/aos/agrovoc/c_330998
+right of first occupancy,http://aims.fao.org/aos/agrovoc/c_9904d265,occupancy,http://aims.fao.org/aos/agrovoc/c_c9508190
+land grabbing,http://aims.fao.org/aos/agrovoc/c_cc39a497,land,http://aims.fao.org/aos/agrovoc/c_4172
+land ownership,http://aims.fao.org/aos/agrovoc/c_28718,land,http://aims.fao.org/aos/agrovoc/c_4172
+vessel ownership,http://aims.fao.org/aos/agrovoc/c_4892202c,surface craft,http://aims.fao.org/aos/agrovoc/c_70a2892b
+land titling,http://aims.fao.org/aos/agrovoc/c_119678e7,land,http://aims.fao.org/aos/agrovoc/c_4172
+hunting rights,http://aims.fao.org/aos/agrovoc/c_0d75aa30,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+farmers' rights,http://aims.fao.org/aos/agrovoc/c_2e9f47c8,farmers,http://aims.fao.org/aos/agrovoc/c_2805
+Goal 1 No poverty,http://aims.fao.org/aos/agrovoc/c_565dbc68,poverty,http://aims.fao.org/aos/agrovoc/c_6151
+Goal 2 Zero hunger,http://aims.fao.org/aos/agrovoc/c_dbdca922,hunger,http://aims.fao.org/aos/agrovoc/c_9be48a31
+Goal 3 Good health and well-being,http://aims.fao.org/aos/agrovoc/c_c8a1b1b5,health,http://aims.fao.org/aos/agrovoc/c_3511
+Goal 4 Quality education,http://aims.fao.org/aos/agrovoc/c_691e9ab4,education,http://aims.fao.org/aos/agrovoc/c_2488
+Goal 5 Gender equality,http://aims.fao.org/aos/agrovoc/c_0b3d05b8,equality,http://aims.fao.org/aos/agrovoc/c_f5c30cf9
+Goal 6 Clean water and sanitation,http://aims.fao.org/aos/agrovoc/c_d972c36a,water,http://aims.fao.org/aos/agrovoc/c_8309
+Goal 6 Clean water and sanitation,http://aims.fao.org/aos/agrovoc/c_d972c36a,hygiene,http://aims.fao.org/aos/agrovoc/c_3739
+Goal 7 Affordable and clean energy,http://aims.fao.org/aos/agrovoc/c_e2aa372f,energy,http://aims.fao.org/aos/agrovoc/c_2565
+Goal 8 Decent work and economic growth,http://aims.fao.org/aos/agrovoc/c_3b312ffd,economic growth,http://aims.fao.org/aos/agrovoc/c_2474
+"Goal 9 Industry, innovation and infrastructure",http://aims.fao.org/aos/agrovoc/c_bc9c79c6,innovation,http://aims.fao.org/aos/agrovoc/c_27560
+"Goal 9 Industry, innovation and infrastructure",http://aims.fao.org/aos/agrovoc/c_bc9c79c6,infrastructure,http://aims.fao.org/aos/agrovoc/c_26790
+Goal 12 Responsible production and consumption,http://aims.fao.org/aos/agrovoc/c_dee90db3,production,http://aims.fao.org/aos/agrovoc/c_6200
+Goal 12 Responsible production and consumption,http://aims.fao.org/aos/agrovoc/c_dee90db3,consumption,http://aims.fao.org/aos/agrovoc/c_1827
+Goal 14 Life below water,http://aims.fao.org/aos/agrovoc/c_7dbc9700,water,http://aims.fao.org/aos/agrovoc/c_8309
+Goal 15 Life on land,http://aims.fao.org/aos/agrovoc/c_0725371c,land,http://aims.fao.org/aos/agrovoc/c_4172
+"Goal 16 Peace, justice and strong institutions",http://aims.fao.org/aos/agrovoc/c_135606b8,justice,http://aims.fao.org/aos/agrovoc/c_c0956c50
+"Goal 16 Peace, justice and strong institutions",http://aims.fao.org/aos/agrovoc/c_135606b8,institutions,http://aims.fao.org/aos/agrovoc/c_50242
+type collections,http://aims.fao.org/aos/agrovoc/c_08d19be4,collections,http://aims.fao.org/aos/agrovoc/c_1756
+solar system,http://aims.fao.org/aos/agrovoc/c_d0a5a603,systems,http://aims.fao.org/aos/agrovoc/c_330985
+ozone layer,http://aims.fao.org/aos/agrovoc/c_35252,ozone,http://aims.fao.org/aos/agrovoc/c_5485
+ozone layer,http://aims.fao.org/aos/agrovoc/c_35252,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
+outer space,http://aims.fao.org/aos/agrovoc/c_365eaf1d,space,http://aims.fao.org/aos/agrovoc/c_330769
+use restrictions,http://aims.fao.org/aos/agrovoc/c_e445bc84,uses,http://aims.fao.org/aos/agrovoc/c_8117
+border closures,http://aims.fao.org/aos/agrovoc/c_0a64a953,closures,http://aims.fao.org/aos/agrovoc/c_28373
+movement restrictions,http://aims.fao.org/aos/agrovoc/c_c2c5fc2a,movement,http://aims.fao.org/aos/agrovoc/c_4961
+area closures,http://aims.fao.org/aos/agrovoc/c_1d2acc30,area,http://aims.fao.org/aos/agrovoc/c_330588
+area closures,http://aims.fao.org/aos/agrovoc/c_1d2acc30,closures,http://aims.fao.org/aos/agrovoc/c_28373
+gender equity,http://aims.fao.org/aos/agrovoc/c_f29f3106,gender,http://aims.fao.org/aos/agrovoc/c_34835
+land equity,http://aims.fao.org/aos/agrovoc/c_4fad5356,land,http://aims.fao.org/aos/agrovoc/c_4172
+spatial units,http://aims.fao.org/aos/agrovoc/c_9df6243d,units,http://aims.fao.org/aos/agrovoc/c_50324
+boundary face,http://aims.fao.org/aos/agrovoc/c_3122d115,boundaries,http://aims.fao.org/aos/agrovoc/c_15686
+boundary face,http://aims.fao.org/aos/agrovoc/c_3122d115,face,http://aims.fao.org/aos/agrovoc/c_b87cfa66
+boundary face string,http://aims.fao.org/aos/agrovoc/c_c9ac54c9,boundary face,http://aims.fao.org/aos/agrovoc/c_3122d115
+node based spatial units,http://aims.fao.org/aos/agrovoc/c_4be99d5b,nodes,http://aims.fao.org/aos/agrovoc/c_5204
+face based spatial units,http://aims.fao.org/aos/agrovoc/c_9e450562,face,http://aims.fao.org/aos/agrovoc/c_b87cfa66
+datum levels,http://aims.fao.org/aos/agrovoc/c_a1f891c7,data,http://aims.fao.org/aos/agrovoc/c_49816
+tidal datum,http://aims.fao.org/aos/agrovoc/c_2d9fb015,data,http://aims.fao.org/aos/agrovoc/c_49816
+chart datum,http://aims.fao.org/aos/agrovoc/c_bd816e9e,data,http://aims.fao.org/aos/agrovoc/c_49816
+layer of no motion,http://aims.fao.org/aos/agrovoc/c_be8c51f1,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
+gender equality,http://aims.fao.org/aos/agrovoc/c_03ae1678,gender,http://aims.fao.org/aos/agrovoc/c_34835
+Indigenous Peoples' knowledge,http://aims.fao.org/aos/agrovoc/c_35704,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+time use patterns,http://aims.fao.org/aos/agrovoc/c_aa3a1b63,time,http://aims.fao.org/aos/agrovoc/c_7778
+time use patterns,http://aims.fao.org/aos/agrovoc/c_aa3a1b63,uses,http://aims.fao.org/aos/agrovoc/c_8117

@@ -1,0 +1,43 @@
+nome,uriVella,NovoElemento,uriNiovo
+grass weeds,http://aims.fao.org/aos/agrovoc/c_330644,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+lowland grass weeds,http://aims.fao.org/aos/agrovoc/c_330647,lowland,http://aims.fao.org/aos/agrovoc/c_4453
+broad leaf weeds,http://aims.fao.org/aos/agrovoc/c_330650,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+upland broad leaf weeds,http://aims.fao.org/aos/agrovoc/c_330689,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+irrigated broad leaf weed,http://aims.fao.org/aos/agrovoc/c_330791,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+irrigated area weeds,http://aims.fao.org/aos/agrovoc/c_330789,area,http://aims.fao.org/aos/agrovoc/c_330588
+sedge weed,http://aims.fao.org/aos/agrovoc/c_330793,Cyperaceae,http://aims.fao.org/aos/agrovoc/c_2072
+stored products pests,http://aims.fao.org/aos/agrovoc/c_7433,stored products,http://aims.fao.org/aos/agrovoc/c_33118
+storage pest,http://aims.fao.org/aos/agrovoc/c_7433,storage,http://aims.fao.org/aos/agrovoc/c_7427
+plant pests,http://aims.fao.org/aos/agrovoc/c_16196,plants,http://aims.fao.org/aos/agrovoc/c_5993
+gall causing insects,http://aims.fao.org/aos/agrovoc/c_3174,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+gall causing mites,http://aims.fao.org/aos/agrovoc/c_3175,mites,http://aims.fao.org/aos/agrovoc/c_d1532eb7
+flower damaging insects,http://aims.fao.org/aos/agrovoc/c_2991,flowers,http://aims.fao.org/aos/agrovoc/c_2993
+flower damaging insects,http://aims.fao.org/aos/agrovoc/c_2991,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+fruit damaging insects,http://aims.fao.org/aos/agrovoc/c_3130,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+fruit damaging insects,http://aims.fao.org/aos/agrovoc/c_3130,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+leaf eating insects,http://aims.fao.org/aos/agrovoc/c_4239,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+leaf eating insects,http://aims.fao.org/aos/agrovoc/c_4239,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+leaf eating insects,http://aims.fao.org/aos/agrovoc/c_4239,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+phyllophagous insects,http://aims.fao.org/aos/agrovoc/c_4239,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+root eating insects,http://aims.fao.org/aos/agrovoc/c_6648,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root eating insects,http://aims.fao.org/aos/agrovoc/c_6648,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+root eating insects,http://aims.fao.org/aos/agrovoc/c_6648,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+forest pests,http://aims.fao.org/aos/agrovoc/c_35703,forests,http://aims.fao.org/aos/agrovoc/c_3062
+insect pests,http://aims.fao.org/aos/agrovoc/c_5729,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+noxious insects,http://aims.fao.org/aos/agrovoc/c_5729,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+injurious insects,http://aims.fao.org/aos/agrovoc/c_5729,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+harmful insects,http://aims.fao.org/aos/agrovoc/c_5729,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+stem eating insects,http://aims.fao.org/aos/agrovoc/c_7389,stems,http://aims.fao.org/aos/agrovoc/c_7390
+stem eating insects,http://aims.fao.org/aos/agrovoc/c_7389,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+stem borers,http://aims.fao.org/aos/agrovoc/c_7389,stems,http://aims.fao.org/aos/agrovoc/c_7390
+stem borers,http://aims.fao.org/aos/agrovoc/c_7389,boring organisms,http://aims.fao.org/aos/agrovoc/c_295b7529
+seed damaging insects,http://aims.fao.org/aos/agrovoc/c_24080,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed borers,http://aims.fao.org/aos/agrovoc/c_24080,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed borers,http://aims.fao.org/aos/agrovoc/c_24080,boring organisms,http://aims.fao.org/aos/agrovoc/c_295b7529
+desert locusts,http://aims.fao.org/aos/agrovoc/c_9437f18a,deserts,http://aims.fao.org/aos/agrovoc/c_2205
+fall armyworms,http://aims.fao.org/aos/agrovoc/c_e6b223d7,autumn,http://aims.fao.org/aos/agrovoc/c_724
+injurious mites,http://aims.fao.org/aos/agrovoc/c_5730,mites,http://aims.fao.org/aos/agrovoc/c_d1532eb7
+noxious mites,http://aims.fao.org/aos/agrovoc/c_5730,mites,http://aims.fao.org/aos/agrovoc/c_d1532eb7
+harmful mites,http://aims.fao.org/aos/agrovoc/c_5730,mites,http://aims.fao.org/aos/agrovoc/c_d1532eb7
+mange mites,http://aims.fao.org/aos/agrovoc/c_4573,mange,http://aims.fao.org/aos/agrovoc/c_4572
+quarantine pests,http://aims.fao.org/aos/agrovoc/c_1c7914df,quarantine,http://aims.fao.org/aos/agrovoc/c_6402

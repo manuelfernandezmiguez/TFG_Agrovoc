@@ -1,5 +1,5 @@
 from rdflib import Graph
-from SPARQLWrapper import SPARQLWrapper, JSON, N3
+from SPARQLWrapper import SPARQLWrapper, JSON, N3,ASK
 from pprint import pprint
 
 def busqueda(parametro): 
@@ -40,32 +40,44 @@ def busqueda(parametro):
         #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
         
     return fillos
+def comprobarXerarquia(uri1:str,uri2:str):
 
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query='''
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+    ASK {
+        <'''+uri1+'''> skos:broader+  <'''+uri2+'''>
+    }
+    '''
+    # Set the query and the return format
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    # Execute the query and get the result
+    result = sparql.query().convert()
+
+    # Print the boolean result
+    return result['boolean']
+#print(comprobarXerarquia('http://aims.fao.org/aos/agrovoc/c_29786','http://aims.fao.org/aos/agrovoc/c_1184'))
+#print(comprobarXerarquia('http://aims.fao.org/aos/agrovoc/c_3654','http://aims.fao.org/aos/agrovoc/c_8116'))
+#print(comprobarXerarquia('http://aims.fao.org/aos/agrovoc/c_8116','http://aims.fao.org/aos/agrovoc/c_3654'))
 def busquedaNome(nome):
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
     query = '''
+    PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#>
     PREFIX skos-xl: <http://www.w3.org/2008/05/skos-xl#>
     PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
-    SELECT ?concept ?conceptLabel ?broaderConcept ?broaderConceptLabel WHERE {
+    SELECT ?concept ?prefLabel  WHERE {
 
-    # set the search term
-    VALUES ?conceptLabel {"'''+nome+'''"@en}
+        # set the search term
+        VALUES ?conceptLabel {"'''+nome+'''"@en}
 
-    # get the concept matching the term
-    ?concept skos-xl:prefLabel ?conceptLabelNode .
-    ?conceptLabelNode skos-xl:literalForm ?conceptLabel .
-
-    # get the broader concepts
-    ?concept skos:broader ?broaderConcept.
-
-    # and their labels
-    ?broaderConcept skos-xl:prefLabel ?broaderConceptLabelNode .
-    ?broaderConceptLabelNode skos-xl:literalForm ?broaderConceptLabel .
-
-    # in English language only
-    FILTER(LANGMATCHES(LANG(?broaderConceptLabel), 'en'))
-    } 
+        # get the concept matching the term
+        ?concept skos:prefLabel|skos:altLabel ?conceptLabel .
+        ?concept skosxl:prefLabel/skosxl:literalForm ?prefLabel .
+        FILTER(langMatches(lang(?prefLabel), 'en')) 
+        FILTER (str(?conceptLabel) = "'''+nome+'''")
+    }
     '''
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
@@ -73,36 +85,41 @@ def busquedaNome(nome):
     #pprint(qres)
     for result in qres['results']['bindings']:
         uri = result['concept']['value']
-        value = result['conceptLabel']['value']
+        value = result['prefLabel']['value']
         #print(f'\tValue: {value}         \tEnlace: {uri}')
         return value,uri
 
 #busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
-#busquedaNome('poultry')
+#value,uri=busquedaNome('swamp buffaloes')
+#print(value)
 def busquedaNomeAlternativo(parametro): 
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
     query='''
-        PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
         PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#> 
-        SELECT DISTINCT ?altlabel
-        WHERE { 
-          BIND(<http://aims.fao.org/aos/agrovoc/c_49904> AS ?concept) 
-          OPTIONAL{ ?concept skosxl:altLabel/skosxl:literalForm ?altlabel. }
-          FILTER(langMatches(lang(?altlabel), 'en')) 
+        SELECT ?altLabel ?prefLabel
+        WHERE {
+        BIND(<'''+parametro+'''> AS ?concept) 
+        ?concept skosxl:altLabel/skosxl:literalForm ?altLabel . 
+        FILTER(lang(?altLabel) = "en" ) 
+        
         }
     '''
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
+    #pprint(sparql.query())
     qres = sparql.query().convert()
-    lista: list[str]= []
+    lista2: list[str]= []
     #pprint(qres)
     for result in qres['results']['bindings']:
-        value = result['altlabel']['value']
-        lista.append(value)
-            
+        if result['altLabel']['value'] == None:
+            return None
+        else:
+            value2 = result['altLabel']['value']
+            lista2.append(value2)
+        
         #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
         
-    return lista
+    return lista2
 
 def busquedaExhaustiva(parametro): 
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
@@ -327,12 +344,35 @@ def busquedaTopConcepts():
     #pprint(fillos)
     return fillos
 
+def busquedaWikidataIDAgrovoc(id:str):
+    sparql = SPARQLWrapper('https://query.wikidata.org/sparql')
+    query="""SELECT ?item ?itemLabel ?value WHERE {
+    wd:"""+id+""" wdt:P279+ ?item.
+    ?item wdt:P8061 ?value;
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+    }"""
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    lista:list=[]
+    devolver:list=[]
+    for result in qres['results']['bindings']:
+        value = result['item']['value']
+        valueLabel = result['itemLabel']['value']
+        lista.append(value)
+        lista.append(valueLabel)
+        devolver.append(lista)
+        lista=[]
+    return devolver
+    #pprint(qres)
+    
+#print(busquedaWikidataIDAgrovoc("Q245"))
 #nome,uri =busquedaPai("http://aims.fao.org/aos/agrovoc/c_1540")
 #print(nome)
 #print(uri)
 
 #pprint(busquedaTopConcepts())
-
+#nome,uri = (busquedaNome("sealions"))
 
 #lista = busquedaTodosPais("http://aims.fao.org/aos/agrovoc/c_1540")
 #pprint(lista)
@@ -343,4 +383,4 @@ def busquedaTopConcepts():
 
 #lista = busquedaPaiExhaustiva("http://aims.fao.org/aos/agrovoc/c_3324")
 #print(lista)
-#print(busquedaNomeAlternativo('http://aims.fao.org/aos/agrovoc/c_49904'))
+#print(busquedaNomeAlternativo('http://aims.fao.org/aos/agrovoc/c_1540'))

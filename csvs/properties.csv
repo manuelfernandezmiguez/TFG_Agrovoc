@@ -1,0 +1,552 @@
+nome,uriVella,NovoElemento,uriNiovo
+mass per volume,http://aims.fao.org/aos/agrovoc/c_2186,mass,http://aims.fao.org/aos/agrovoc/c_4639
+mass per volume,http://aims.fao.org/aos/agrovoc/c_2186,volume,http://aims.fao.org/aos/agrovoc/c_8288
+wood density,http://aims.fao.org/aos/agrovoc/c_24549,wood,http://aims.fao.org/aos/agrovoc/c_8421
+population density,http://aims.fao.org/aos/agrovoc/c_6112,population,http://aims.fao.org/aos/agrovoc/c_330887
+livestock density,http://aims.fao.org/aos/agrovoc/c_24410,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+energy density,http://aims.fao.org/aos/agrovoc/c_63c345c2,energy,http://aims.fao.org/aos/agrovoc/c_2565
+specific energy,http://aims.fao.org/aos/agrovoc/c_27483fa8,energy,http://aims.fao.org/aos/agrovoc/c_2565
+water density,http://aims.fao.org/aos/agrovoc/c_5bab82a8,water,http://aims.fao.org/aos/agrovoc/c_8309
+antibiotic properties,http://aims.fao.org/aos/agrovoc/c_29116,antibiotics,http://aims.fao.org/aos/agrovoc/c_492
+antimicrobial properties,http://aims.fao.org/aos/agrovoc/c_26756,antimicrobials,http://aims.fao.org/aos/agrovoc/c_509
+wood properties,http://aims.fao.org/aos/agrovoc/c_34363,wood,http://aims.fao.org/aos/agrovoc/c_8421
+grain and figure (wood),http://aims.fao.org/aos/agrovoc/c_35823,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain and figure in wood,http://aims.fao.org/aos/agrovoc/c_35823,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain of wood,http://aims.fao.org/aos/agrovoc/c_35823,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain and figure,http://aims.fao.org/aos/agrovoc/c_35823,grain,http://aims.fao.org/aos/agrovoc/c_3346
+engineering properties,http://aims.fao.org/aos/agrovoc/c_2572,engineering,http://aims.fao.org/aos/agrovoc/c_2571
+transporting quality,http://aims.fao.org/aos/agrovoc/c_32613,quality,http://aims.fao.org/aos/agrovoc/c_6400
+aptitude for transport,http://aims.fao.org/aos/agrovoc/c_32613,transport,http://aims.fao.org/aos/agrovoc/c_7874
+seedling age,http://aims.fao.org/aos/agrovoc/c_330589,seedlings,http://aims.fao.org/aos/agrovoc/c_6945
+seed viability,http://aims.fao.org/aos/agrovoc/c_15179,seed,http://aims.fao.org/aos/agrovoc/c_6927
+forest vitality,http://aims.fao.org/aos/agrovoc/c_1374849874515,forests,http://aims.fao.org/aos/agrovoc/c_3062
+genetic resistance,http://aims.fao.org/aos/agrovoc/c_35130,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+water tolerance,http://aims.fao.org/aos/agrovoc/c_16151,water,http://aims.fao.org/aos/agrovoc/c_8309
+waterlogging tolerance,http://aims.fao.org/aos/agrovoc/c_16151,waterlogging,http://aims.fao.org/aos/agrovoc/c_8333
+waterlogging resistance,http://aims.fao.org/aos/agrovoc/c_16151,waterlogging,http://aims.fao.org/aos/agrovoc/c_8333
+cold tolerance,http://aims.fao.org/aos/agrovoc/c_9994,cold,http://aims.fao.org/aos/agrovoc/c_1743
+cold hardiness,http://aims.fao.org/aos/agrovoc/c_9994,cold,http://aims.fao.org/aos/agrovoc/c_1743
+cold hardiness,http://aims.fao.org/aos/agrovoc/c_9994,hardiness,http://aims.fao.org/aos/agrovoc/c_11458
+cold resistance,http://aims.fao.org/aos/agrovoc/c_9994,cold,http://aims.fao.org/aos/agrovoc/c_1743
+susceptibility to cold,http://aims.fao.org/aos/agrovoc/c_9994,toes,http://aims.fao.org/aos/agrovoc/c_14912
+susceptibility to cold,http://aims.fao.org/aos/agrovoc/c_9994,cold,http://aims.fao.org/aos/agrovoc/c_1743
+heat tolerance,http://aims.fao.org/aos/agrovoc/c_11486,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat resistance,http://aims.fao.org/aos/agrovoc/c_11486,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat sensitivity,http://aims.fao.org/aos/agrovoc/c_11486,heat,http://aims.fao.org/aos/agrovoc/c_3519
+susceptibility to heat,http://aims.fao.org/aos/agrovoc/c_11486,toes,http://aims.fao.org/aos/agrovoc/c_14912
+susceptibility to heat,http://aims.fao.org/aos/agrovoc/c_11486,heat,http://aims.fao.org/aos/agrovoc/c_3519
+glucose tolerance,http://aims.fao.org/aos/agrovoc/c_11180,glucose,http://aims.fao.org/aos/agrovoc/c_3287
+drought tolerance,http://aims.fao.org/aos/agrovoc/c_14914,drought,http://aims.fao.org/aos/agrovoc/c_2391
+salt tolerance,http://aims.fao.org/aos/agrovoc/c_24078,salts,http://aims.fao.org/aos/agrovoc/c_33129
+resistance to salinity,http://aims.fao.org/aos/agrovoc/c_24078,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to salinity,http://aims.fao.org/aos/agrovoc/c_24078,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+salt resistance,http://aims.fao.org/aos/agrovoc/c_24078,salts,http://aims.fao.org/aos/agrovoc/c_33129
+salinity tolerance,http://aims.fao.org/aos/agrovoc/c_24078,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+drug tolerance,http://aims.fao.org/aos/agrovoc/c_25088,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+shade tolerance,http://aims.fao.org/aos/agrovoc/c_25267,shade,http://aims.fao.org/aos/agrovoc/c_14232
+flooding tolerance,http://aims.fao.org/aos/agrovoc/c_36989,flooding,http://aims.fao.org/aos/agrovoc/c_2980
+disease tolerance,http://aims.fao.org/aos/agrovoc/c_331441,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+fasting tolerance,http://aims.fao.org/aos/agrovoc/c_c0fb841c,fasting,http://aims.fao.org/aos/agrovoc/c_16545
+resistance to injurious factors,http://aims.fao.org/aos/agrovoc/c_6520,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to injurious factors,http://aims.fao.org/aos/agrovoc/c_6520,injurious factors,http://aims.fao.org/aos/agrovoc/c_3872
+pest resistance,http://aims.fao.org/aos/agrovoc/c_5731,pests,http://aims.fao.org/aos/agrovoc/c_5741
+host resistance to pests,http://aims.fao.org/aos/agrovoc/c_5731,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host resistance to pests,http://aims.fao.org/aos/agrovoc/c_5731,toes,http://aims.fao.org/aos/agrovoc/c_14912
+host resistance to pests,http://aims.fao.org/aos/agrovoc/c_5731,pests,http://aims.fao.org/aos/agrovoc/c_5741
+resistance to pests,http://aims.fao.org/aos/agrovoc/c_5731,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to pests,http://aims.fao.org/aos/agrovoc/c_5731,pests,http://aims.fao.org/aos/agrovoc/c_5741
+susceptibility to infestation,http://aims.fao.org/aos/agrovoc/c_5731,toes,http://aims.fao.org/aos/agrovoc/c_14912
+susceptibility to infestation,http://aims.fao.org/aos/agrovoc/c_5731,infestation,http://aims.fao.org/aos/agrovoc/c_3855
+parasite resistance,http://aims.fao.org/aos/agrovoc/c_17971197,parasites,http://aims.fao.org/aos/agrovoc/c_5574
+resistance to parasites,http://aims.fao.org/aos/agrovoc/c_17971197,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to parasites,http://aims.fao.org/aos/agrovoc/c_17971197,parasites,http://aims.fao.org/aos/agrovoc/c_5574
+drought resistance,http://aims.fao.org/aos/agrovoc/c_2392,drought,http://aims.fao.org/aos/agrovoc/c_2391
+resistance to drought,http://aims.fao.org/aos/agrovoc/c_2392,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to drought,http://aims.fao.org/aos/agrovoc/c_2392,drought,http://aims.fao.org/aos/agrovoc/c_2391
+susceptibility to dryness,http://aims.fao.org/aos/agrovoc/c_2392,toes,http://aims.fao.org/aos/agrovoc/c_14912
+disease resistance,http://aims.fao.org/aos/agrovoc/c_2328,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+resistance to disease,http://aims.fao.org/aos/agrovoc/c_2328,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to disease,http://aims.fao.org/aos/agrovoc/c_2328,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+susceptibility to infection,http://aims.fao.org/aos/agrovoc/c_2328,toes,http://aims.fao.org/aos/agrovoc/c_14912
+susceptibility to infection,http://aims.fao.org/aos/agrovoc/c_2328,infection,http://aims.fao.org/aos/agrovoc/c_3852
+host resistance to diseases,http://aims.fao.org/aos/agrovoc/c_2328,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+host resistance to diseases,http://aims.fao.org/aos/agrovoc/c_2328,toes,http://aims.fao.org/aos/agrovoc/c_14912
+host resistance to diseases,http://aims.fao.org/aos/agrovoc/c_2328,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+adult plant resistance,http://aims.fao.org/aos/agrovoc/c_7fdf1f94,adults,http://aims.fao.org/aos/agrovoc/c_139
+adult plant resistance,http://aims.fao.org/aos/agrovoc/c_7fdf1f94,plants,http://aims.fao.org/aos/agrovoc/c_5993
+temperature resistance,http://aims.fao.org/aos/agrovoc/c_7660,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+resistance to temperature extremes,http://aims.fao.org/aos/agrovoc/c_7660,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to temperature extremes,http://aims.fao.org/aos/agrovoc/c_7660,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+resistance to temperature extremes,http://aims.fao.org/aos/agrovoc/c_7660,extreme values,http://aims.fao.org/aos/agrovoc/c_8e611af8
+wind resistance,http://aims.fao.org/aos/agrovoc/c_8396,winds,http://aims.fao.org/aos/agrovoc/c_8401
+resistance to wind,http://aims.fao.org/aos/agrovoc/c_8396,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to wind,http://aims.fao.org/aos/agrovoc/c_8396,winds,http://aims.fao.org/aos/agrovoc/c_8401
+winter hardiness,http://aims.fao.org/aos/agrovoc/c_16067,winter,http://aims.fao.org/aos/agrovoc/c_8410
+winter hardiness,http://aims.fao.org/aos/agrovoc/c_16067,hardiness,http://aims.fao.org/aos/agrovoc/c_11458
+frost resistance,http://aims.fao.org/aos/agrovoc/c_11025,frost,http://aims.fao.org/aos/agrovoc/c_3113
+frost tolerance,http://aims.fao.org/aos/agrovoc/c_11025,frost,http://aims.fao.org/aos/agrovoc/c_3113
+frost tolerance,http://aims.fao.org/aos/agrovoc/c_11025,tolerance,http://aims.fao.org/aos/agrovoc/c_37740
+physiological stress resistance,http://aims.fao.org/aos/agrovoc/c_27025,stress,http://aims.fao.org/aos/agrovoc/c_7452
+fire resistance,http://aims.fao.org/aos/agrovoc/c_648efc0d,fires,http://aims.fao.org/aos/agrovoc/c_2915
+resistance to fire,http://aims.fao.org/aos/agrovoc/c_648efc0d,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to fire,http://aims.fao.org/aos/agrovoc/c_648efc0d,fires,http://aims.fao.org/aos/agrovoc/c_2915
+selection criteria,http://aims.fao.org/aos/agrovoc/c_1078,selection,http://aims.fao.org/aos/agrovoc/c_6951
+breeding aims,http://aims.fao.org/aos/agrovoc/c_1078,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+resistance to chemicals,http://aims.fao.org/aos/agrovoc/c_5736,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to chemicals,http://aims.fao.org/aos/agrovoc/c_5736,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+chemical resistance,http://aims.fao.org/aos/agrovoc/c_5736,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+saline and sodic soil resistance,http://aims.fao.org/aos/agrovoc/c_330809,sodic soils,http://aims.fao.org/aos/agrovoc/c_7144
+antimicrobial resistance,http://aims.fao.org/aos/agrovoc/c_662faf6f,antimicrobials,http://aims.fao.org/aos/agrovoc/c_509
+resistance to antibiotics,http://aims.fao.org/aos/agrovoc/c_8848,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to antibiotics,http://aims.fao.org/aos/agrovoc/c_8848,antibiotics,http://aims.fao.org/aos/agrovoc/c_492
+antibiotic resistance,http://aims.fao.org/aos/agrovoc/c_8848,antibiotics,http://aims.fao.org/aos/agrovoc/c_492
+antibiotic drug resistance,http://aims.fao.org/aos/agrovoc/c_8848,antibiotics,http://aims.fao.org/aos/agrovoc/c_492
+antibiotic drug resistance,http://aims.fao.org/aos/agrovoc/c_8848,drug resistance,http://aims.fao.org/aos/agrovoc/c_10471
+plant habit,http://aims.fao.org/aos/agrovoc/c_5969,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant habit,http://aims.fao.org/aos/agrovoc/c_5969,habits,http://aims.fao.org/aos/agrovoc/c_11419
+habit improvement,http://aims.fao.org/aos/agrovoc/c_5969,habits,http://aims.fao.org/aos/agrovoc/c_11419
+habit improvement,http://aims.fao.org/aos/agrovoc/c_5969,improvement,http://aims.fao.org/aos/agrovoc/c_330895
+growth habit,http://aims.fao.org/aos/agrovoc/c_5969,growth,http://aims.fao.org/aos/agrovoc/c_3394
+growth habit,http://aims.fao.org/aos/agrovoc/c_5969,habits,http://aims.fao.org/aos/agrovoc/c_11419
+growth form,http://aims.fao.org/aos/agrovoc/c_5969,growth,http://aims.fao.org/aos/agrovoc/c_3394
+tree form,http://aims.fao.org/aos/agrovoc/c_7884,trees,http://aims.fao.org/aos/agrovoc/c_7887
+seed characteristics,http://aims.fao.org/aos/agrovoc/c_36509,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed longevity,http://aims.fao.org/aos/agrovoc/c_6934,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed longevity,http://aims.fao.org/aos/agrovoc/c_6934,longevity,http://aims.fao.org/aos/agrovoc/c_4428
+1000 grain weight,http://aims.fao.org/aos/agrovoc/c_d273eced,grain,http://aims.fao.org/aos/agrovoc/c_3346
+cell structure,http://aims.fao.org/aos/agrovoc/c_1414,cells,http://aims.fao.org/aos/agrovoc/c_1418
+cell structure,http://aims.fao.org/aos/agrovoc/c_1414,structures,http://aims.fao.org/aos/agrovoc/c_330905
+cellular structure,http://aims.fao.org/aos/agrovoc/c_1414,structures,http://aims.fao.org/aos/agrovoc/c_330905
+in vitro digestibility,http://aims.fao.org/aos/agrovoc/c_34856,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+feed conversion efficiency,http://aims.fao.org/aos/agrovoc/c_16125,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed conversion efficiency,http://aims.fao.org/aos/agrovoc/c_16125,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+feed efficiency,http://aims.fao.org/aos/agrovoc/c_16125,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed efficiency,http://aims.fao.org/aos/agrovoc/c_16125,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+feed consumption index,http://aims.fao.org/aos/agrovoc/c_16125,feed consumption,http://aims.fao.org/aos/agrovoc/c_16124
+feed utilization,http://aims.fao.org/aos/agrovoc/c_16125,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed utilization,http://aims.fao.org/aos/agrovoc/c_16125,uses,http://aims.fao.org/aos/agrovoc/c_8117
+nitrogen retention,http://aims.fao.org/aos/agrovoc/c_24944,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+early development,http://aims.fao.org/aos/agrovoc/c_2435,development,http://aims.fao.org/aos/agrovoc/c_331049
+egg characters,http://aims.fao.org/aos/agrovoc/c_2494,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+adolescent fertility,http://aims.fao.org/aos/agrovoc/c_9000002,adolescents,http://aims.fao.org/aos/agrovoc/c_37831
+germination rate,http://aims.fao.org/aos/agrovoc/c_3246,germination,http://aims.fao.org/aos/agrovoc/c_3247
+seed germinability,http://aims.fao.org/aos/agrovoc/c_36511,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed germinative capacity,http://aims.fao.org/aos/agrovoc/c_36511,seed,http://aims.fao.org/aos/agrovoc/c_6927
+pollen germinability,http://aims.fao.org/aos/agrovoc/c_36512,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+drug resistance,http://aims.fao.org/aos/agrovoc/c_10471,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+resistance to drugs,http://aims.fao.org/aos/agrovoc/c_10471,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to drugs,http://aims.fao.org/aos/agrovoc/c_10471,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+resistance to anthelmintics,http://aims.fao.org/aos/agrovoc/c_25066,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to anthelmintics,http://aims.fao.org/aos/agrovoc/c_25066,anthelmintics,http://aims.fao.org/aos/agrovoc/c_475
+pesticide resistance,http://aims.fao.org/aos/agrovoc/c_25427,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+resistance to pesticides,http://aims.fao.org/aos/agrovoc/c_25427,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to pesticides,http://aims.fao.org/aos/agrovoc/c_25427,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+resistance to acaricides,http://aims.fao.org/aos/agrovoc/c_8584,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to acaricides,http://aims.fao.org/aos/agrovoc/c_8584,acaricides,http://aims.fao.org/aos/agrovoc/c_56
+resistance to fungicides,http://aims.fao.org/aos/agrovoc/c_11047,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to fungicides,http://aims.fao.org/aos/agrovoc/c_11047,fungicides,http://aims.fao.org/aos/agrovoc/c_3146
+herbicide resistance,http://aims.fao.org/aos/agrovoc/c_11530,herbicides,http://aims.fao.org/aos/agrovoc/c_3566
+resistance to herbicides,http://aims.fao.org/aos/agrovoc/c_11530,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to herbicides,http://aims.fao.org/aos/agrovoc/c_11530,herbicides,http://aims.fao.org/aos/agrovoc/c_3566
+insecticide resistance,http://aims.fao.org/aos/agrovoc/c_11794,insecticides,http://aims.fao.org/aos/agrovoc/c_3887
+resistance to insecticides,http://aims.fao.org/aos/agrovoc/c_11794,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to insecticides,http://aims.fao.org/aos/agrovoc/c_11794,insecticides,http://aims.fao.org/aos/agrovoc/c_3887
+resistance to nematicides,http://aims.fao.org/aos/agrovoc/c_12789,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to nematicides,http://aims.fao.org/aos/agrovoc/c_12789,nematicides,http://aims.fao.org/aos/agrovoc/c_5109
+polar behaviour,http://aims.fao.org/aos/agrovoc/c_6058,behaviour,http://aims.fao.org/aos/agrovoc/c_868
+pollen incompatibility,http://aims.fao.org/aos/agrovoc/c_6071,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+lodging resistance,http://aims.fao.org/aos/agrovoc/c_34308,lodging,http://aims.fao.org/aos/agrovoc/c_15592
+fitness of organisms,http://aims.fao.org/aos/agrovoc/c_37512,organisms,http://aims.fao.org/aos/agrovoc/c_49904
+seed storage life,http://aims.fao.org/aos/agrovoc/c_14174,seed storage,http://aims.fao.org/aos/agrovoc/c_6938
+plant structure,http://aims.fao.org/aos/agrovoc/c_13439,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant structure,http://aims.fao.org/aos/agrovoc/c_13439,structures,http://aims.fao.org/aos/agrovoc/c_330905
+timber structure,http://aims.fao.org/aos/agrovoc/c_15721,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood macrostructure,http://aims.fao.org/aos/agrovoc/c_15721,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood microstructure,http://aims.fao.org/aos/agrovoc/c_15721,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood microstructure,http://aims.fao.org/aos/agrovoc/c_15721,oceanic microstructure,http://aims.fao.org/aos/agrovoc/c_33963bc3
+root architecture,http://aims.fao.org/aos/agrovoc/c_b04afe23,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root architecture,http://aims.fao.org/aos/agrovoc/c_b04afe23,architecture,http://aims.fao.org/aos/agrovoc/c_2b9edc5e
+root system architecture,http://aims.fao.org/aos/agrovoc/c_b04afe23,root systems,http://aims.fao.org/aos/agrovoc/c_16034
+body conformation,http://aims.fao.org/aos/agrovoc/c_29251,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+animal structure,http://aims.fao.org/aos/agrovoc/c_31917,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal structure,http://aims.fao.org/aos/agrovoc/c_31917,structures,http://aims.fao.org/aos/agrovoc/c_330905
+sex differences,http://aims.fao.org/aos/agrovoc/c_34106,sex,http://aims.fao.org/aos/agrovoc/c_7010
+regenerative ability,http://aims.fao.org/aos/agrovoc/c_36858,ability,http://aims.fao.org/aos/agrovoc/c_49830
+interstock scion relationships,http://aims.fao.org/aos/agrovoc/c_3342,interstocks,http://aims.fao.org/aos/agrovoc/c_3922
+interstock scion relationships,http://aims.fao.org/aos/agrovoc/c_3342,scions,http://aims.fao.org/aos/agrovoc/c_6857
+rootstock compatibility,http://aims.fao.org/aos/agrovoc/c_3342,rootstocks,http://aims.fao.org/aos/agrovoc/c_6653
+rootstock scion relationships,http://aims.fao.org/aos/agrovoc/c_3342,rootstocks,http://aims.fao.org/aos/agrovoc/c_6653
+rootstock scion relationships,http://aims.fao.org/aos/agrovoc/c_3342,scions,http://aims.fao.org/aos/agrovoc/c_6857
+host plant resistance,http://aims.fao.org/aos/agrovoc/c_331556,host plants,http://aims.fao.org/aos/agrovoc/c_11621
+animal performance,http://aims.fao.org/aos/agrovoc/c_5698,animals,http://aims.fao.org/aos/agrovoc/c_444
+meat performance,http://aims.fao.org/aos/agrovoc/c_32877,meat,http://aims.fao.org/aos/agrovoc/c_4669
+meat yield,http://aims.fao.org/aos/agrovoc/c_15996,meat,http://aims.fao.org/aos/agrovoc/c_4669
+milk performance,http://aims.fao.org/aos/agrovoc/c_24276,milk,http://aims.fao.org/aos/agrovoc/c_4826
+dairy performance,http://aims.fao.org/aos/agrovoc/c_24276,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+milk yield,http://aims.fao.org/aos/agrovoc/c_15998,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk protein yield,http://aims.fao.org/aos/agrovoc/c_331327,milk protein,http://aims.fao.org/aos/agrovoc/c_4831
+milk fat yield,http://aims.fao.org/aos/agrovoc/c_331328,milk fat,http://aims.fao.org/aos/agrovoc/c_4828
+breeding performance,http://aims.fao.org/aos/agrovoc/c_6510,breeding,http://aims.fao.org/aos/agrovoc/c_49902
+reproductive ability,http://aims.fao.org/aos/agrovoc/c_6510,ability,http://aims.fao.org/aos/agrovoc/c_49830
+reproductive efficiency,http://aims.fao.org/aos/agrovoc/c_6510,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+mating performance,http://aims.fao.org/aos/agrovoc/c_6510,copulation,http://aims.fao.org/aos/agrovoc/c_1876
+calving rate,http://aims.fao.org/aos/agrovoc/c_35215,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+kidding rate,http://aims.fao.org/aos/agrovoc/c_35216,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+lambing rate,http://aims.fao.org/aos/agrovoc/c_35217,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+farrowing rate,http://aims.fao.org/aos/agrovoc/c_35811,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+crop performance,http://aims.fao.org/aos/agrovoc/c_35199,crops,http://aims.fao.org/aos/agrovoc/c_1972
+plant performance,http://aims.fao.org/aos/agrovoc/c_35199,plants,http://aims.fao.org/aos/agrovoc/c_5993
+crop yield,http://aims.fao.org/aos/agrovoc/c_10176,crops,http://aims.fao.org/aos/agrovoc/c_1972
+forage yield,http://aims.fao.org/aos/agrovoc/c_15adb263,forage,http://aims.fao.org/aos/agrovoc/c_36108
+population characteristics,http://aims.fao.org/aos/agrovoc/c_dec26c2a,population,http://aims.fao.org/aos/agrovoc/c_330887
+population estimates,http://aims.fao.org/aos/agrovoc/c_dec26c2a,population,http://aims.fao.org/aos/agrovoc/c_330887
+population parameters,http://aims.fao.org/aos/agrovoc/c_dec26c2a,population,http://aims.fao.org/aos/agrovoc/c_330887
+population parameters,http://aims.fao.org/aos/agrovoc/c_dec26c2a,parameters,http://aims.fao.org/aos/agrovoc/c_7dfaf103
+standing crop (in number),http://aims.fao.org/aos/agrovoc/c_ff80e99d,crops,http://aims.fao.org/aos/agrovoc/c_1972
+standing stock (in number),http://aims.fao.org/aos/agrovoc/c_ff80e99d,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+effect traits,http://aims.fao.org/aos/agrovoc/c_c961761a,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+species traits,http://aims.fao.org/aos/agrovoc/c_c961761a,species,http://aims.fao.org/aos/agrovoc/c_7280
+crop characters,http://aims.fao.org/aos/agrovoc/c_210,crops,http://aims.fao.org/aos/agrovoc/c_1972
+homeothermy (physiology),http://aims.fao.org/aos/agrovoc/c_a28ebb0a,physiology,http://aims.fao.org/aos/agrovoc/c_49881
+fruit characteristics,http://aims.fao.org/aos/agrovoc/c_012f6226,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+product characters,http://aims.fao.org/aos/agrovoc/c_1521,products,http://aims.fao.org/aos/agrovoc/c_6211
+chemical properties,http://aims.fao.org/aos/agrovoc/c_1521,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+homothermy (hydrogeology),http://aims.fao.org/aos/agrovoc/c_33076,hydrogeology,http://aims.fao.org/aos/agrovoc/c_11669
+body weight,http://aims.fao.org/aos/agrovoc/c_15846,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body mass,http://aims.fao.org/aos/agrovoc/c_15846,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body mass,http://aims.fao.org/aos/agrovoc/c_15846,mass,http://aims.fao.org/aos/agrovoc/c_4639
+fat-free mass,http://aims.fao.org/aos/agrovoc/c_37725,mass,http://aims.fao.org/aos/agrovoc/c_4639
+body lean mass,http://aims.fao.org/aos/agrovoc/c_37725,bodies,http://aims.fao.org/aos/agrovoc/c_50164
+body lean mass,http://aims.fao.org/aos/agrovoc/c_37725,mass,http://aims.fao.org/aos/agrovoc/c_4639
+birth weight,http://aims.fao.org/aos/agrovoc/c_16115,parturition,http://aims.fao.org/aos/agrovoc/c_5604
+weaning weight,http://aims.fao.org/aos/agrovoc/c_16152,weaning,http://aims.fao.org/aos/agrovoc/c_15291
+carcass weight,http://aims.fao.org/aos/agrovoc/c_88647d04,carcasses,http://aims.fao.org/aos/agrovoc/c_1310
+grain test weight,http://aims.fao.org/aos/agrovoc/c_2f56dbd8,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain test weight,http://aims.fao.org/aos/agrovoc/c_2f56dbd8,tests,http://aims.fao.org/aos/agrovoc/c_330976
+high temperature,http://aims.fao.org/aos/agrovoc/c_3519,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+acoustic properties,http://aims.fao.org/aos/agrovoc/c_98,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+catalytic activity,http://aims.fao.org/aos/agrovoc/c_1382,activities,http://aims.fao.org/aos/agrovoc/c_330834
+enzyme activity,http://aims.fao.org/aos/agrovoc/c_2604,enzymes,http://aims.fao.org/aos/agrovoc/c_2603
+enzyme activity,http://aims.fao.org/aos/agrovoc/c_2604,activities,http://aims.fao.org/aos/agrovoc/c_330834
+enzymatic activity,http://aims.fao.org/aos/agrovoc/c_2604,activities,http://aims.fao.org/aos/agrovoc/c_330834
+enzymic activity,http://aims.fao.org/aos/agrovoc/c_2604,activities,http://aims.fao.org/aos/agrovoc/c_330834
+colloidal stability,http://aims.fao.org/aos/agrovoc/c_36296,stability,http://aims.fao.org/aos/agrovoc/c_36930
+isoelectric point,http://aims.fao.org/aos/agrovoc/c_28503,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+specific gravity,http://aims.fao.org/aos/agrovoc/c_7281,gravity,http://aims.fao.org/aos/agrovoc/c_24586
+dielectric constant,http://aims.fao.org/aos/agrovoc/c_2260,constants,http://aims.fao.org/aos/agrovoc/c_b081dd11
+rock magnetism,http://aims.fao.org/aos/agrovoc/c_76b0c99b,rock,http://aims.fao.org/aos/agrovoc/c_6628
+wood bond strength,http://aims.fao.org/aos/agrovoc/c_27405678,wood,http://aims.fao.org/aos/agrovoc/c_8421
+shear strength,http://aims.fao.org/aos/agrovoc/c_9d2ec51c,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+wind speed,http://aims.fao.org/aos/agrovoc/c_29582,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind velocity,http://aims.fao.org/aos/agrovoc/c_29582,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind velocity,http://aims.fao.org/aos/agrovoc/c_29582,velocity,http://aims.fao.org/aos/agrovoc/c_24098
+ship speed,http://aims.fao.org/aos/agrovoc/c_cd5425c6,ships,http://aims.fao.org/aos/agrovoc/c_7040
+friction coefficient,http://aims.fao.org/aos/agrovoc/c_33495,friction,http://aims.fao.org/aos/agrovoc/c_33494
+aerodynamic properties,http://aims.fao.org/aos/agrovoc/c_fe0ec5ea,aerodynamics,http://aims.fao.org/aos/agrovoc/c_0efda038
+resistance to penetration,http://aims.fao.org/aos/agrovoc/c_6f5b0d4a,toes,http://aims.fao.org/aos/agrovoc/c_14912
+water colour,http://aims.fao.org/aos/agrovoc/c_1812dbe1,water,http://aims.fao.org/aos/agrovoc/c_8309
+chlorophyll fluorescence,http://aims.fao.org/aos/agrovoc/c_ffcb9d65,chlorophylls,http://aims.fao.org/aos/agrovoc/c_1577
+water transparency,http://aims.fao.org/aos/agrovoc/c_0861ccd4,water,http://aims.fao.org/aos/agrovoc/c_8309
+transparency (water),http://aims.fao.org/aos/agrovoc/c_0861ccd4,water,http://aims.fao.org/aos/agrovoc/c_8309
+optical density,http://aims.fao.org/aos/agrovoc/c_33924,density,http://aims.fao.org/aos/agrovoc/c_2186
+angular distribution,http://aims.fao.org/aos/agrovoc/c_b8612234,economic distribution,http://aims.fao.org/aos/agrovoc/c_2338
+membrane permeability,http://aims.fao.org/aos/agrovoc/c_b4d8c6ad,membranes,http://aims.fao.org/aos/agrovoc/c_28457
+cell membrane permeability,http://aims.fao.org/aos/agrovoc/c_b4d8c6ad,cell membranes,http://aims.fao.org/aos/agrovoc/c_9693
+water holding capacity,http://aims.fao.org/aos/agrovoc/c_25304,water,http://aims.fao.org/aos/agrovoc/c_8309
+hydrogen ion concentration,http://aims.fao.org/aos/agrovoc/c_5753,hydrogen,http://aims.fao.org/aos/agrovoc/c_3724
+hydrogen ion concentration,http://aims.fao.org/aos/agrovoc/c_5753,ions,http://aims.fao.org/aos/agrovoc/c_16162
+blood pH,http://aims.fao.org/aos/agrovoc/c_33956,blood,http://aims.fao.org/aos/agrovoc/c_959
+soil pH,http://aims.fao.org/aos/agrovoc/c_34901,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil acidity,http://aims.fao.org/aos/agrovoc/c_34901,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil acidity,http://aims.fao.org/aos/agrovoc/c_34901,acidity,http://aims.fao.org/aos/agrovoc/c_8601
+soil alkalinity,http://aims.fao.org/aos/agrovoc/c_34901,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil alkalinity,http://aims.fao.org/aos/agrovoc/c_34901,alkalinity,http://aims.fao.org/aos/agrovoc/c_8721
+rhizosphere pH,http://aims.fao.org/aos/agrovoc/c_36313,rhizosphere,http://aims.fao.org/aos/agrovoc/c_6569
+oxidation reduction potential,http://aims.fao.org/aos/agrovoc/c_6482,oxidation,http://aims.fao.org/aos/agrovoc/c_5472
+oxidation reduction potential,http://aims.fao.org/aos/agrovoc/c_6482,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+eddy viscosity,http://aims.fao.org/aos/agrovoc/c_1646dbc1,eddies,http://aims.fao.org/aos/agrovoc/c_7893d9db
+kinematic eddy viscosity,http://aims.fao.org/aos/agrovoc/c_1646dbc1,kinematics,http://aims.fao.org/aos/agrovoc/c_35219
+dynamic viscosity,http://aims.fao.org/aos/agrovoc/c_8cf3a082,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+modulus of elasticity,http://aims.fao.org/aos/agrovoc/c_fc77ca91,elasticity,http://aims.fao.org/aos/agrovoc/c_26777
+water surface salinity,http://aims.fao.org/aos/agrovoc/c_0738cb4f,water,http://aims.fao.org/aos/agrovoc/c_8309
+gas solubility,http://aims.fao.org/aos/agrovoc/c_1d7e0b65,gases,http://aims.fao.org/aos/agrovoc/c_3197
+specific heat,http://aims.fao.org/aos/agrovoc/c_7282,heat,http://aims.fao.org/aos/agrovoc/c_3519
+thermal inertia,http://aims.fao.org/aos/agrovoc/c_9000165,inertia,http://aims.fao.org/aos/agrovoc/c_79634dfa
+thermodynamic equilibrium,http://aims.fao.org/aos/agrovoc/c_43335651,thermodynamics,http://aims.fao.org/aos/agrovoc/c_75fa93b8
+thermodynamic equilibrium,http://aims.fao.org/aos/agrovoc/c_43335651,equilibrium,http://aims.fao.org/aos/agrovoc/c_5364a9a1
+thermal equilibrium,http://aims.fao.org/aos/agrovoc/c_43335651,equilibrium,http://aims.fao.org/aos/agrovoc/c_5364a9a1
+low temperature,http://aims.fao.org/aos/agrovoc/c_1743,temperature,http://aims.fao.org/aos/agrovoc/c_7657
+water binding capacity,http://aims.fao.org/aos/agrovoc/c_8312,water,http://aims.fao.org/aos/agrovoc/c_8309
+amino acid sequences,http://aims.fao.org/aos/agrovoc/c_37202,amino acids,http://aims.fao.org/aos/agrovoc/c_342
+active sites,http://aims.fao.org/aos/agrovoc/c_7c1e6a79,site,http://aims.fao.org/aos/agrovoc/c_331000
+binding sites,http://aims.fao.org/aos/agrovoc/c_8587bcc5,site,http://aims.fao.org/aos/agrovoc/c_331000
+saponification value,http://aims.fao.org/aos/agrovoc/c_32541,saponification,http://aims.fao.org/aos/agrovoc/c_28548
+saponification number,http://aims.fao.org/aos/agrovoc/c_32541,saponification,http://aims.fao.org/aos/agrovoc/c_28548
+ion exchange capacity,http://aims.fao.org/aos/agrovoc/c_24864,ion exchange,http://aims.fao.org/aos/agrovoc/c_3933
+anion exchange capacity,http://aims.fao.org/aos/agrovoc/c_24966,anions,http://aims.fao.org/aos/agrovoc/c_16163
+cation exchange capacity,http://aims.fao.org/aos/agrovoc/c_24981,cations,http://aims.fao.org/aos/agrovoc/c_16169
+water activity,http://aims.fao.org/aos/agrovoc/c_24929,water,http://aims.fao.org/aos/agrovoc/c_8309
+water activity,http://aims.fao.org/aos/agrovoc/c_24929,activities,http://aims.fao.org/aos/agrovoc/c_330834
+rumen degradability,http://aims.fao.org/aos/agrovoc/c_36169,rumen,http://aims.fao.org/aos/agrovoc/c_6693
+water retention,http://aims.fao.org/aos/agrovoc/c_28410,water,http://aims.fao.org/aos/agrovoc/c_8309
+heat stability,http://aims.fao.org/aos/agrovoc/c_88eb28a7,heat,http://aims.fao.org/aos/agrovoc/c_3519
+yield stability,http://aims.fao.org/aos/agrovoc/c_f1fb41ae,yields,http://aims.fao.org/aos/agrovoc/c_8488
+abrasion resistance,http://aims.fao.org/aos/agrovoc/c_facbf709,abrasion,http://aims.fao.org/aos/agrovoc/c_9709308a
+resistance to abrasion,http://aims.fao.org/aos/agrovoc/c_facbf709,toes,http://aims.fao.org/aos/agrovoc/c_14912
+resistance to abrasion,http://aims.fao.org/aos/agrovoc/c_facbf709,abrasion,http://aims.fao.org/aos/agrovoc/c_9709308a
+dynamic instability,http://aims.fao.org/aos/agrovoc/c_223a9377,dynamics,http://aims.fao.org/aos/agrovoc/c_330860
+shear flow instability,http://aims.fao.org/aos/agrovoc/c_39500aab,shear flow,http://aims.fao.org/aos/agrovoc/c_6469b453
+shear instability,http://aims.fao.org/aos/agrovoc/c_39500aab,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+static instability,http://aims.fao.org/aos/agrovoc/c_fceaf3a7,statics,http://aims.fao.org/aos/agrovoc/c_906ee04a
+antioxidant properties,http://aims.fao.org/aos/agrovoc/c_11805097,antioxidants,http://aims.fao.org/aos/agrovoc/c_511
+particle size distribution,http://aims.fao.org/aos/agrovoc/c_b99752c3,particle size,http://aims.fao.org/aos/agrovoc/c_5601
+taste of a substance,http://aims.fao.org/aos/agrovoc/c_10893,substances,http://aims.fao.org/aos/agrovoc/c_330705
+off flavours,http://aims.fao.org/aos/agrovoc/c_28336,flavour,http://aims.fao.org/aos/agrovoc/c_10893
+boar taint,http://aims.fao.org/aos/agrovoc/c_36101,boars,http://aims.fao.org/aos/agrovoc/c_977
+food safety,http://aims.fao.org/aos/agrovoc/c_33995,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food safety,http://aims.fao.org/aos/agrovoc/c_33995,safety,http://aims.fao.org/aos/agrovoc/c_6732
+seafood safety,http://aims.fao.org/aos/agrovoc/c_c0ac2de9,seafoods,http://aims.fao.org/aos/agrovoc/c_6905
+seafood safety,http://aims.fao.org/aos/agrovoc/c_c0ac2de9,safety,http://aims.fao.org/aos/agrovoc/c_6732
+food quality,http://aims.fao.org/aos/agrovoc/c_10965,foods,http://aims.fao.org/aos/agrovoc/c_3032
+meat quality,http://aims.fao.org/aos/agrovoc/c_12459,meat,http://aims.fao.org/aos/agrovoc/c_4669
+fruit quality,http://aims.fao.org/aos/agrovoc/c_375700fd,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+egg quality,http://aims.fao.org/aos/agrovoc/c_6f6ac52d,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+egg yolk colour,http://aims.fao.org/aos/agrovoc/c_626c0e49,egg yolk,http://aims.fao.org/aos/agrovoc/c_2501
+egg yolk color,http://aims.fao.org/aos/agrovoc/c_626c0e49,egg yolk,http://aims.fao.org/aos/agrovoc/c_2501
+egg shell quality,http://aims.fao.org/aos/agrovoc/c_f44fbea0,egg shell,http://aims.fao.org/aos/agrovoc/c_2500
+storage life,http://aims.fao.org/aos/agrovoc/c_4082,storage,http://aims.fao.org/aos/agrovoc/c_7427
+postharvest life duration,http://aims.fao.org/aos/agrovoc/c_4082,duration,http://aims.fao.org/aos/agrovoc/c_2412
+storage stability,http://aims.fao.org/aos/agrovoc/c_4082,storage,http://aims.fao.org/aos/agrovoc/c_7427
+storage stability,http://aims.fao.org/aos/agrovoc/c_4082,stability,http://aims.fao.org/aos/agrovoc/c_36930
+oxidative stability,http://aims.fao.org/aos/agrovoc/c_35879,stability,http://aims.fao.org/aos/agrovoc/c_36930
+feed quality,http://aims.fao.org/aos/agrovoc/c_15850,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+food value,http://aims.fao.org/aos/agrovoc/c_5278,foods,http://aims.fao.org/aos/agrovoc/c_3032
+nutritional assessment of foods,http://aims.fao.org/aos/agrovoc/c_5278,assessment,http://aims.fao.org/aos/agrovoc/c_330990
+nutritional assessment of foods,http://aims.fao.org/aos/agrovoc/c_5278,foods,http://aims.fao.org/aos/agrovoc/c_3032
+nutritional assessment of feeds,http://aims.fao.org/aos/agrovoc/c_5278,assessment,http://aims.fao.org/aos/agrovoc/c_330990
+nutritional assessment of feeds,http://aims.fao.org/aos/agrovoc/c_5278,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feeding value,http://aims.fao.org/aos/agrovoc/c_5278,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+feed value,http://aims.fao.org/aos/agrovoc/c_5278,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+fattening value,http://aims.fao.org/aos/agrovoc/c_5278,fattening,http://aims.fao.org/aos/agrovoc/c_2817
+dietary fibres,http://aims.fao.org/aos/agrovoc/c_28386,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+food fibres,http://aims.fao.org/aos/agrovoc/c_28386,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food fibres,http://aims.fao.org/aos/agrovoc/c_28386,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+non-digestible carbohydrate,http://aims.fao.org/aos/agrovoc/c_28386,carbohydrates,http://aims.fao.org/aos/agrovoc/c_1300
+digestible fibre,http://aims.fao.org/aos/agrovoc/c_2268,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+digestible cellulose,http://aims.fao.org/aos/agrovoc/c_2267,cellulose,http://aims.fao.org/aos/agrovoc/c_1423
+digestible nitrogen,http://aims.fao.org/aos/agrovoc/c_2269,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+protein equivalent,http://aims.fao.org/aos/agrovoc/c_2269,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+digestible starch,http://aims.fao.org/aos/agrovoc/c_2270,starch,http://aims.fao.org/aos/agrovoc/c_7369
+total digestible nutrients,http://aims.fao.org/aos/agrovoc/c_7820,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+protein quality,http://aims.fao.org/aos/agrovoc/c_6257,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+protein value,http://aims.fao.org/aos/agrovoc/c_6257,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+energy value,http://aims.fao.org/aos/agrovoc/c_10613,energy,http://aims.fao.org/aos/agrovoc/c_2565
+energy content,http://aims.fao.org/aos/agrovoc/c_10613,energy,http://aims.fao.org/aos/agrovoc/c_2565
+digestible energy,http://aims.fao.org/aos/agrovoc/c_10613,energy,http://aims.fao.org/aos/agrovoc/c_2565
+metabolizable energy,http://aims.fao.org/aos/agrovoc/c_10613,energy,http://aims.fao.org/aos/agrovoc/c_2565
+net energy,http://aims.fao.org/aos/agrovoc/c_10613,energy,http://aims.fao.org/aos/agrovoc/c_2565
+starch equivalent,http://aims.fao.org/aos/agrovoc/c_7371,starch,http://aims.fao.org/aos/agrovoc/c_7369
+feed units,http://aims.fao.org/aos/agrovoc/c_26881,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed units,http://aims.fao.org/aos/agrovoc/c_26881,units,http://aims.fao.org/aos/agrovoc/c_50324
+crude fat,http://aims.fao.org/aos/agrovoc/c_32416,fats,http://aims.fao.org/aos/agrovoc/c_2816
+ether extracts,http://aims.fao.org/aos/agrovoc/c_32416,ethers,http://aims.fao.org/aos/agrovoc/c_35739
+ether extracts,http://aims.fao.org/aos/agrovoc/c_32416,extracts,http://aims.fao.org/aos/agrovoc/c_2767
+digestible protein,http://aims.fao.org/aos/agrovoc/c_7eeeb63a,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+processing quality,http://aims.fao.org/aos/agrovoc/c_29772,processing,http://aims.fao.org/aos/agrovoc/c_6195
+baking characteristics,http://aims.fao.org/aos/agrovoc/c_787,baking,http://aims.fao.org/aos/agrovoc/c_786
+product quality,http://aims.fao.org/aos/agrovoc/c_13591,products,http://aims.fao.org/aos/agrovoc/c_6211
+fibre quality,http://aims.fao.org/aos/agrovoc/c_15b22da0,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+seed quality,http://aims.fao.org/aos/agrovoc/c_14172,seed,http://aims.fao.org/aos/agrovoc/c_6927
+water quality,http://aims.fao.org/aos/agrovoc/c_16061,water,http://aims.fao.org/aos/agrovoc/c_8309
+seed purity,http://aims.fao.org/aos/agrovoc/c_7dbd9d23,seed,http://aims.fao.org/aos/agrovoc/c_6927
+chemical contamination,http://aims.fao.org/aos/agrovoc/c_28319,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+food contamination,http://aims.fao.org/aos/agrovoc/c_10962,foods,http://aims.fao.org/aos/agrovoc/c_3032
+feed contamination,http://aims.fao.org/aos/agrovoc/c_11a7f1d9,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+sample contamination,http://aims.fao.org/aos/agrovoc/c_2ac099d1,samples,http://aims.fao.org/aos/agrovoc/c_875b7e95
+cooking quality,http://aims.fao.org/aos/agrovoc/c_330711,cooking,http://aims.fao.org/aos/agrovoc/c_1851
+milling quality,http://aims.fao.org/aos/agrovoc/c_330814,milling,http://aims.fao.org/aos/agrovoc/c_4840
+feed safety,http://aims.fao.org/aos/agrovoc/c_1410352829602,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed safety,http://aims.fao.org/aos/agrovoc/c_1410352829602,safety,http://aims.fao.org/aos/agrovoc/c_6732
+soil quality,http://aims.fao.org/aos/agrovoc/c_a9645d28,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil health,http://aims.fao.org/aos/agrovoc/c_a9645d28,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil health,http://aims.fao.org/aos/agrovoc/c_a9645d28,health,http://aims.fao.org/aos/agrovoc/c_3511
+air quality,http://aims.fao.org/aos/agrovoc/c_a2ef545f,air,http://aims.fao.org/aos/agrovoc/c_224
+data quality,http://aims.fao.org/aos/agrovoc/c_2fe8a00c,data,http://aims.fao.org/aos/agrovoc/c_49816
+diet quality,http://aims.fao.org/aos/agrovoc/c_608dac5f,diet,http://aims.fao.org/aos/agrovoc/c_2261
+wood quality,http://aims.fao.org/aos/agrovoc/c_5cf2b3dc,wood,http://aims.fao.org/aos/agrovoc/c_8421
+use efficiency,http://aims.fao.org/aos/agrovoc/c_36789,uses,http://aims.fao.org/aos/agrovoc/c_8117
+nutrient use efficiency,http://aims.fao.org/aos/agrovoc/c_1e66facd,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+nitrogen use efficiency,http://aims.fao.org/aos/agrovoc/c_fd20296f,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+irrigation efficiency,http://aims.fao.org/aos/agrovoc/c_f6058be7,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+energy efficiency,http://aims.fao.org/aos/agrovoc/c_2cb45772,energy,http://aims.fao.org/aos/agrovoc/c_2565
+break-even point,http://aims.fao.org/aos/agrovoc/c_6214,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+economic viability,http://aims.fao.org/aos/agrovoc/c_16098,economics,http://aims.fao.org/aos/agrovoc/c_2481
+economic viability,http://aims.fao.org/aos/agrovoc/c_16098,viability,http://aims.fao.org/aos/agrovoc/c_8210
+fish utilization,http://aims.fao.org/aos/agrovoc/c_50fef7b3,fish,http://aims.fao.org/aos/agrovoc/c_15903
+shark utilization,http://aims.fao.org/aos/agrovoc/c_be135aed,sharks,http://aims.fao.org/aos/agrovoc/c_7028
+proper grazing,http://aims.fao.org/aos/agrovoc/c_5f842fc6,grazing,http://aims.fao.org/aos/agrovoc/c_25243
+pesticide actions,http://aims.fao.org/aos/agrovoc/c_5732,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+acaricide selectivity,http://aims.fao.org/aos/agrovoc/c_36817,acaricides,http://aims.fao.org/aos/agrovoc/c_56
+fungicide selectivity,http://aims.fao.org/aos/agrovoc/c_36818,fungicides,http://aims.fao.org/aos/agrovoc/c_3146
+insecticide selectivity,http://aims.fao.org/aos/agrovoc/c_36819,insecticides,http://aims.fao.org/aos/agrovoc/c_3887
+rodenticide selectivity,http://aims.fao.org/aos/agrovoc/c_36820,rodenticides,http://aims.fao.org/aos/agrovoc/c_6632
+herbicide selectivity,http://aims.fao.org/aos/agrovoc/c_37583,herbicides,http://aims.fao.org/aos/agrovoc/c_3566
+fumigant toxicity,http://aims.fao.org/aos/agrovoc/c_3140,fumigants,http://aims.fao.org/aos/agrovoc/c_3141
+fertilizer injury,http://aims.fao.org/aos/agrovoc/c_10797,fertilizers,http://aims.fao.org/aos/agrovoc/c_2867
+soil toxicity,http://aims.fao.org/aos/agrovoc/c_7201,soil,http://aims.fao.org/aos/agrovoc/c_7156
+toxic soils,http://aims.fao.org/aos/agrovoc/c_7201,soil,http://aims.fao.org/aos/agrovoc/c_7156
+drug toxicity,http://aims.fao.org/aos/agrovoc/c_10472,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+pesticide toxicity,http://aims.fao.org/aos/agrovoc/c_13265,pesticides,http://aims.fao.org/aos/agrovoc/c_5739
+capital productivity,http://aims.fao.org/aos/agrovoc/c_1273,capital,http://aims.fao.org/aos/agrovoc/c_1271
+capital efficiency,http://aims.fao.org/aos/agrovoc/c_1273,capital,http://aims.fao.org/aos/agrovoc/c_1271
+capital efficiency,http://aims.fao.org/aos/agrovoc/c_1273,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+labour productivity,http://aims.fao.org/aos/agrovoc/c_4130,labour,http://aims.fao.org/aos/agrovoc/c_4128
+labour efficiency,http://aims.fao.org/aos/agrovoc/c_4130,labour,http://aims.fao.org/aos/agrovoc/c_4128
+labour efficiency,http://aims.fao.org/aos/agrovoc/c_4130,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+worker performance,http://aims.fao.org/aos/agrovoc/c_36768,workers,http://aims.fao.org/aos/agrovoc/c_8445
+land productivity,http://aims.fao.org/aos/agrovoc/c_4176,land,http://aims.fao.org/aos/agrovoc/c_4172
+water productivity,http://aims.fao.org/aos/agrovoc/c_3fb84478,water,http://aims.fao.org/aos/agrovoc/c_8309
+root productivity,http://aims.fao.org/aos/agrovoc/c_6daefadb,roots,http://aims.fao.org/aos/agrovoc/c_6651
+land suitability,http://aims.fao.org/aos/agrovoc/c_15992,land,http://aims.fao.org/aos/agrovoc/c_4172
+land capability,http://aims.fao.org/aos/agrovoc/c_15992,land,http://aims.fao.org/aos/agrovoc/c_4172
+drug properties,http://aims.fao.org/aos/agrovoc/c_25197,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+side effects,http://aims.fao.org/aos/agrovoc/c_141,sides,http://aims.fao.org/aos/agrovoc/c_7056
+side effects,http://aims.fao.org/aos/agrovoc/c_141,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+adverse drug reactions,http://aims.fao.org/aos/agrovoc/c_141,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+adverse drug effects,http://aims.fao.org/aos/agrovoc/c_141,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+adverse drug effects,http://aims.fao.org/aos/agrovoc/c_141,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+undesirable drug reactions,http://aims.fao.org/aos/agrovoc/c_141,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+secondary effects,http://aims.fao.org/aos/agrovoc/c_141,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+nontarget effects,http://aims.fao.org/aos/agrovoc/c_141,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+drug efficacy,http://aims.fao.org/aos/agrovoc/c_2b9efd7f,drugs,http://aims.fao.org/aos/agrovoc/c_2395
+equipment characteristics,http://aims.fao.org/aos/agrovoc/c_25689,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+equipment specifications,http://aims.fao.org/aos/agrovoc/c_25689,equipment,http://aims.fao.org/aos/agrovoc/c_2631
+vehicle performance,http://aims.fao.org/aos/agrovoc/c_26102,vehicles,http://aims.fao.org/aos/agrovoc/c_8180
+ship performance,http://aims.fao.org/aos/agrovoc/c_2a1b8067,ships,http://aims.fao.org/aos/agrovoc/c_7040
+service life,http://aims.fao.org/aos/agrovoc/c_29056,services,http://aims.fao.org/aos/agrovoc/c_6989
+four wheel drive,http://aims.fao.org/aos/agrovoc/c_26123,wheels,http://aims.fao.org/aos/agrovoc/c_8374
+wind direction,http://aims.fao.org/aos/agrovoc/c_29583,winds,http://aims.fao.org/aos/agrovoc/c_8401
+stand structure,http://aims.fao.org/aos/agrovoc/c_34911,structures,http://aims.fao.org/aos/agrovoc/c_330905
+stand density,http://aims.fao.org/aos/agrovoc/c_35781,density,http://aims.fao.org/aos/agrovoc/c_2186
+learning capacity,http://aims.fao.org/aos/agrovoc/c_12120,learning,http://aims.fao.org/aos/agrovoc/c_37978
+processing ability,http://aims.fao.org/aos/agrovoc/c_29773,processing,http://aims.fao.org/aos/agrovoc/c_6195
+conflict sensitivity,http://aims.fao.org/aos/agrovoc/c_dd6a14d0,conflicts,http://aims.fao.org/aos/agrovoc/c_73599179
+market capacity,http://aims.fao.org/aos/agrovoc/c_e5727551,markets,http://aims.fao.org/aos/agrovoc/c_4626
+soil properties,http://aims.fao.org/aos/agrovoc/c_330883,soil,http://aims.fao.org/aos/agrovoc/c_7156
+nutrient status (soil),http://aims.fao.org/aos/agrovoc/c_7170,nutritional status,http://aims.fao.org/aos/agrovoc/c_24877
+bulk density (soil),http://aims.fao.org/aos/agrovoc/c_7167,density,http://aims.fao.org/aos/agrovoc/c_2186
+aggregate density (soil),http://aims.fao.org/aos/agrovoc/c_7167,density,http://aims.fao.org/aos/agrovoc/c_2186
+particle density (soil),http://aims.fao.org/aos/agrovoc/c_7167,density,http://aims.fao.org/aos/agrovoc/c_2186
+hydraulic head,http://aims.fao.org/aos/agrovoc/c_34125,head,http://aims.fao.org/aos/agrovoc/c_3509
+pressure head (soil),http://aims.fao.org/aos/agrovoc/c_34125,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+pressure head (soil),http://aims.fao.org/aos/agrovoc/c_34125,head,http://aims.fao.org/aos/agrovoc/c_3509
+soil water retention,http://aims.fao.org/aos/agrovoc/c_7212,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil water balance,http://aims.fao.org/aos/agrovoc/c_7206,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil water content,http://aims.fao.org/aos/agrovoc/c_7208,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil moisture deficit,http://aims.fao.org/aos/agrovoc/c_25307,soil water content,http://aims.fao.org/aos/agrovoc/c_7208
+soil water characteristics,http://aims.fao.org/aos/agrovoc/c_330770,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil temperature,http://aims.fao.org/aos/agrovoc/c_7197,soil,http://aims.fao.org/aos/agrovoc/c_7156
+coarse sand,http://aims.fao.org/aos/agrovoc/c_c03927e1,sand,http://aims.fao.org/aos/agrovoc/c_6779
+medium sand,http://aims.fao.org/aos/agrovoc/c_7b64842d,sand,http://aims.fao.org/aos/agrovoc/c_6779
+fine sand,http://aims.fao.org/aos/agrovoc/c_a91f25d6,sand,http://aims.fao.org/aos/agrovoc/c_6779
+coarse silt,http://aims.fao.org/aos/agrovoc/c_c1b90f01,silt,http://aims.fao.org/aos/agrovoc/c_331558
+medium silt,http://aims.fao.org/aos/agrovoc/c_090f427c,silt,http://aims.fao.org/aos/agrovoc/c_331558
+fine silt,http://aims.fao.org/aos/agrovoc/c_0f15e6e6,silt,http://aims.fao.org/aos/agrovoc/c_331558
+soil water potential,http://aims.fao.org/aos/agrovoc/c_7210,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+suction pressure (soil),http://aims.fao.org/aos/agrovoc/c_7210,water potential,http://aims.fao.org/aos/agrovoc/c_24418
+soil water regimes,http://aims.fao.org/aos/agrovoc/c_7211,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+soil water constants,http://aims.fao.org/aos/agrovoc/c_32444,soil water,http://aims.fao.org/aos/agrovoc/c_7205
+field capacity,http://aims.fao.org/aos/agrovoc/c_32445,fields,http://aims.fao.org/aos/agrovoc/c_2894
+wilting point,http://aims.fao.org/aos/agrovoc/c_32626,wilting,http://aims.fao.org/aos/agrovoc/c_8390
+wilting point,http://aims.fao.org/aos/agrovoc/c_32626,points,http://aims.fao.org/aos/agrovoc/c_b12823a4
+nitrogen content,http://aims.fao.org/aos/agrovoc/c_5193,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+nonprotein nitrogen content,http://aims.fao.org/aos/agrovoc/c_330615,nonprotein nitrogen,http://aims.fao.org/aos/agrovoc/c_24055
+ammonium nitrogen,http://aims.fao.org/aos/agrovoc/c_37457,ammonium,http://aims.fao.org/aos/agrovoc/c_32634
+mineral nitrogen,http://aims.fao.org/aos/agrovoc/c_19dbe72d,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+plant available nitrogen,http://aims.fao.org/aos/agrovoc/c_05f1777f,plants,http://aims.fao.org/aos/agrovoc/c_5993
+total carbon,http://aims.fao.org/aos/agrovoc/c_24fb4269,carbon,http://aims.fao.org/aos/agrovoc/c_1301
+total inorganic carbon,http://aims.fao.org/aos/agrovoc/c_e3783c76,inorganic carbon,http://aims.fao.org/aos/agrovoc/c_49123b50
+phosphorus content,http://aims.fao.org/aos/agrovoc/c_63a4df58,phosphorus,http://aims.fao.org/aos/agrovoc/c_5804
+plant available phosphorus,http://aims.fao.org/aos/agrovoc/c_eb7b4957,plants,http://aims.fao.org/aos/agrovoc/c_5993
+particulate organic phosphorus,http://aims.fao.org/aos/agrovoc/c_95182e1d,particulates,http://aims.fao.org/aos/agrovoc/c_2e3bd581
+dissolved organic phosphorus,http://aims.fao.org/aos/agrovoc/c_19784f1a,organic phosphorus,http://aims.fao.org/aos/agrovoc/c_4911ce06
+boron content,http://aims.fao.org/aos/agrovoc/c_f52b8ef5,boron,http://aims.fao.org/aos/agrovoc/c_1018
+plant available boron,http://aims.fao.org/aos/agrovoc/c_531214d1,plants,http://aims.fao.org/aos/agrovoc/c_5993
+age of soil,http://aims.fao.org/aos/agrovoc/c_7157,age,http://aims.fao.org/aos/agrovoc/c_186
+food composition,http://aims.fao.org/aos/agrovoc/c_10961,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food nutrient content,http://aims.fao.org/aos/agrovoc/c_10961,foods,http://aims.fao.org/aos/agrovoc/c_3032
+food nutrient content,http://aims.fao.org/aos/agrovoc/c_10961,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+milk composition,http://aims.fao.org/aos/agrovoc/c_b0b8d068,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk components,http://aims.fao.org/aos/agrovoc/c_b0b8d068,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk components,http://aims.fao.org/aos/agrovoc/c_b0b8d068,components,http://aims.fao.org/aos/agrovoc/c_331055
+milk constituents,http://aims.fao.org/aos/agrovoc/c_b0b8d068,milk,http://aims.fao.org/aos/agrovoc/c_4826
+chemical composition,http://aims.fao.org/aos/agrovoc/c_1794,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+chemical analysis (results),http://aims.fao.org/aos/agrovoc/c_1794,chemical analysis,http://aims.fao.org/aos/agrovoc/c_f5fd1a6c
+chemical concentration,http://aims.fao.org/aos/agrovoc/c_1794,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+blood composition,http://aims.fao.org/aos/agrovoc/c_963,blood,http://aims.fao.org/aos/agrovoc/c_959
+plasma proteins,http://aims.fao.org/aos/agrovoc/c_970,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+serum protein,http://aims.fao.org/aos/agrovoc/c_970,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+catch composition,http://aims.fao.org/aos/agrovoc/c_1384,catches,http://aims.fao.org/aos/agrovoc/c_9665
+fisheries catches (composition),http://aims.fao.org/aos/agrovoc/c_1384,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fisheries catches (composition),http://aims.fao.org/aos/agrovoc/c_1384,catches,http://aims.fao.org/aos/agrovoc/c_9665
+alcohol content,http://aims.fao.org/aos/agrovoc/c_32364,alcohols,http://aims.fao.org/aos/agrovoc/c_249
+alcoholic strength,http://aims.fao.org/aos/agrovoc/c_32364,strength,http://aims.fao.org/aos/agrovoc/c_7445
+ash content,http://aims.fao.org/aos/agrovoc/c_665,ashes,http://aims.fao.org/aos/agrovoc/c_15728
+mineral content,http://aims.fao.org/aos/agrovoc/c_4848,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+carbohydrate content,http://aims.fao.org/aos/agrovoc/c_1298,carbohydrates,http://aims.fao.org/aos/agrovoc/c_1300
+sugar content,http://aims.fao.org/aos/agrovoc/c_1298,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+crude fibre,http://aims.fao.org/aos/agrovoc/c_1983,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+fibre content,http://aims.fao.org/aos/agrovoc/c_1983,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+neutral detergent fibre,http://aims.fao.org/aos/agrovoc/c_806be3ed,surfactants,http://aims.fao.org/aos/agrovoc/c_7529
+acid detergent fibre,http://aims.fao.org/aos/agrovoc/c_7fb85d63,acids,http://aims.fao.org/aos/agrovoc/c_92
+acid detergent fibre,http://aims.fao.org/aos/agrovoc/c_7fb85d63,surfactants,http://aims.fao.org/aos/agrovoc/c_7529
+dry matter content,http://aims.fao.org/aos/agrovoc/c_2398,dry matter,http://aims.fao.org/aos/agrovoc/c_331318
+solid content,http://aims.fao.org/aos/agrovoc/c_2398,solids,http://aims.fao.org/aos/agrovoc/c_7229
+dry matter weight,http://aims.fao.org/aos/agrovoc/c_2398,dry matter,http://aims.fao.org/aos/agrovoc/c_331318
+lipid content,http://aims.fao.org/aos/agrovoc/c_4360,lipids,http://aims.fao.org/aos/agrovoc/c_4362
+fat content,http://aims.fao.org/aos/agrovoc/c_4360,fats,http://aims.fao.org/aos/agrovoc/c_2816
+oil content,http://aims.fao.org/aos/agrovoc/c_4360,oils,http://aims.fao.org/aos/agrovoc/c_5334
+organic matter content,http://aims.fao.org/aos/agrovoc/c_5388,organic matter,http://aims.fao.org/aos/agrovoc/c_5387
+polyphenol content,http://aims.fao.org/aos/agrovoc/c_5773,polyphenols,http://aims.fao.org/aos/agrovoc/c_15881
+protein content,http://aims.fao.org/aos/agrovoc/c_6251,proteins,http://aims.fao.org/aos/agrovoc/c_6259
+crude protein content,http://aims.fao.org/aos/agrovoc/c_330614,crude protein,http://aims.fao.org/aos/agrovoc/c_24013
+vitamin content,http://aims.fao.org/aos/agrovoc/c_8270,vitamins,http://aims.fao.org/aos/agrovoc/c_8274
+crude fibre content,http://aims.fao.org/aos/agrovoc/c_330618,crude fibre,http://aims.fao.org/aos/agrovoc/c_1983
+feed composition,http://aims.fao.org/aos/agrovoc/c_10770,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed nutrient content,http://aims.fao.org/aos/agrovoc/c_10770,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+feed nutrient content,http://aims.fao.org/aos/agrovoc/c_10770,nutrients,http://aims.fao.org/aos/agrovoc/c_5274
+liquid fraction,http://aims.fao.org/aos/agrovoc/c_e4e6afd3,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+solid fraction,http://aims.fao.org/aos/agrovoc/c_0de33285,solids,http://aims.fao.org/aos/agrovoc/c_7229
+forest resilience,http://aims.fao.org/aos/agrovoc/c_1374848192478,forests,http://aims.fao.org/aos/agrovoc/c_3062
+ecosystem resilience,http://aims.fao.org/aos/agrovoc/c_20712c90,ecosystems,http://aims.fao.org/aos/agrovoc/c_2482
+climate resilience,http://aims.fao.org/aos/agrovoc/c_8a6031d8,climate,http://aims.fao.org/aos/agrovoc/c_1665
+sea level,http://aims.fao.org/aos/agrovoc/c_34115,levels,http://aims.fao.org/aos/agrovoc/c_976a1ab6
+biological activity,http://aims.fao.org/aos/agrovoc/c_4b49522d,activities,http://aims.fao.org/aos/agrovoc/c_330834
+water properties,http://aims.fao.org/aos/agrovoc/c_ef433a7e,water,http://aims.fao.org/aos/agrovoc/c_8309
+water temperature,http://aims.fao.org/aos/agrovoc/c_16063,water,http://aims.fao.org/aos/agrovoc/c_8309
+sea surface temperature,http://aims.fao.org/aos/agrovoc/c_0f118213,surface temperature,http://aims.fao.org/aos/agrovoc/c_07929aa3
+ocean surface temperature,http://aims.fao.org/aos/agrovoc/c_0f118213,surface temperature,http://aims.fao.org/aos/agrovoc/c_07929aa3
+sublethal effects,http://aims.fao.org/aos/agrovoc/c_03719a43,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+lethal effects,http://aims.fao.org/aos/agrovoc/c_9519520c,effects,http://aims.fao.org/aos/agrovoc/c_67fd39fd
+tidal constants,http://aims.fao.org/aos/agrovoc/c_0e551f76,constants,http://aims.fao.org/aos/agrovoc/c_b081dd11
+tidal harmonic constants,http://aims.fao.org/aos/agrovoc/c_0e551f76,constants,http://aims.fao.org/aos/agrovoc/c_b081dd11
+grain shape,http://aims.fao.org/aos/agrovoc/c_22e67713,grain,http://aims.fao.org/aos/agrovoc/c_3346
+resource availability,http://aims.fao.org/aos/agrovoc/c_34432ae4,resources,http://aims.fao.org/aos/agrovoc/c_9001017
+pollutant persistence,http://aims.fao.org/aos/agrovoc/c_6962daac,pollutants,http://aims.fao.org/aos/agrovoc/c_6076
+changes (time),http://aims.fao.org/aos/agrovoc/c_8fc366d4,time,http://aims.fao.org/aos/agrovoc/c_7778
+variations (time),http://aims.fao.org/aos/agrovoc/c_8fc366d4,time,http://aims.fao.org/aos/agrovoc/c_7778
+moon phases,http://aims.fao.org/aos/agrovoc/c_4929,moon,http://aims.fao.org/aos/agrovoc/c_4928
+day length,http://aims.fao.org/aos/agrovoc/c_5809,length,http://aims.fao.org/aos/agrovoc/c_4260
+annual variations,http://aims.fao.org/aos/agrovoc/c_8c0cdf54,annuals,http://aims.fao.org/aos/agrovoc/c_28997
+year to year variations,http://aims.fao.org/aos/agrovoc/c_8c0cdf54,toes,http://aims.fao.org/aos/agrovoc/c_14912
+gear efficiency,http://aims.fao.org/aos/agrovoc/c_8c601945,efficiency,http://aims.fao.org/aos/agrovoc/c_2491
+trawl selectivity,http://aims.fao.org/aos/agrovoc/c_8c601945,trawlnets,http://aims.fao.org/aos/agrovoc/c_7b0e1dd0
+mesh selectivity,http://aims.fao.org/aos/agrovoc/c_cee80734,mesh,http://aims.fao.org/aos/agrovoc/c_995b2fe7
+size selectivity,http://aims.fao.org/aos/agrovoc/c_cee80734,size,http://aims.fao.org/aos/agrovoc/c_7093
+wind constancy,http://aims.fao.org/aos/agrovoc/c_84174552,winds,http://aims.fao.org/aos/agrovoc/c_8401
+colour fastness,http://aims.fao.org/aos/agrovoc/c_c8c7c662,colour,http://aims.fao.org/aos/agrovoc/c_1773
+conservation equations,http://aims.fao.org/aos/agrovoc/c_d62af5fc,resource conservation,http://aims.fao.org/aos/agrovoc/c_6523
+stability constants,http://aims.fao.org/aos/agrovoc/c_c0c7fd50,stability,http://aims.fao.org/aos/agrovoc/c_36930
+habitat connectivity,http://aims.fao.org/aos/agrovoc/c_fef7f706,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+habitat suitability,http://aims.fao.org/aos/agrovoc/c_f197cbef,habitats,http://aims.fao.org/aos/agrovoc/c_3456
+food affordability,http://aims.fao.org/aos/agrovoc/c_e95c2eff,foods,http://aims.fao.org/aos/agrovoc/c_3032

@@ -1,0 +1,426 @@
+nome,uriVella,NovoElemento,uriNiovo
+animal husbandry equipment,http://aims.fao.org/aos/agrovoc/c_25746,animal husbandry,http://aims.fao.org/aos/agrovoc/c_8532
+livestock confinement equipment,http://aims.fao.org/aos/agrovoc/c_25746,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+livestock care equipment,http://aims.fao.org/aos/agrovoc/c_25746,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+milking facilities,http://aims.fao.org/aos/agrovoc/c_25735,milking,http://aims.fao.org/aos/agrovoc/c_4835
+teat cups,http://aims.fao.org/aos/agrovoc/c_14811,teats,http://aims.fao.org/aos/agrovoc/c_14813
+hive equipment,http://aims.fao.org/aos/agrovoc/c_3638,hives,http://aims.fao.org/aos/agrovoc/c_3640
+beekeeping appliances,http://aims.fao.org/aos/agrovoc/c_3638,apiculture,http://aims.fao.org/aos/agrovoc/c_529
+hive parts,http://aims.fao.org/aos/agrovoc/c_3638,hives,http://aims.fao.org/aos/agrovoc/c_3640
+comb foundations,http://aims.fao.org/aos/agrovoc/c_10026,foundations,http://aims.fao.org/aos/agrovoc/c_50214
+queen bee excluders,http://aims.fao.org/aos/agrovoc/c_13705,queen bees,http://aims.fao.org/aos/agrovoc/c_6405
+honey supers,http://aims.fao.org/aos/agrovoc/c_14696,honey,http://aims.fao.org/aos/agrovoc/c_3652
+pollen traps,http://aims.fao.org/aos/agrovoc/c_18980,pollen,http://aims.fao.org/aos/agrovoc/c_6070
+pollen traps,http://aims.fao.org/aos/agrovoc/c_18980,traps,http://aims.fao.org/aos/agrovoc/c_7879
+honey extractors,http://aims.fao.org/aos/agrovoc/c_25999,honey,http://aims.fao.org/aos/agrovoc/c_3652
+honey extractors,http://aims.fao.org/aos/agrovoc/c_25999,extractors,http://aims.fao.org/aos/agrovoc/c_25998
+poultry equipment,http://aims.fao.org/aos/agrovoc/c_25741,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+feeding equipment,http://aims.fao.org/aos/agrovoc/c_2839,feeding,http://aims.fao.org/aos/agrovoc/c_2838
+liquid feed dispensers,http://aims.fao.org/aos/agrovoc/c_25710,liquid feeds,http://aims.fao.org/aos/agrovoc/c_27901
+solid feed dispensers,http://aims.fao.org/aos/agrovoc/c_25711,solids,http://aims.fao.org/aos/agrovoc/c_7229
+fish feeder,http://aims.fao.org/aos/agrovoc/c_29bc6f3f,fish,http://aims.fao.org/aos/agrovoc/c_15903
+application equipment,http://aims.fao.org/aos/agrovoc/c_37293,application,http://aims.fao.org/aos/agrovoc/c_331436
+tree injectors,http://aims.fao.org/aos/agrovoc/c_37687,trees,http://aims.fao.org/aos/agrovoc/c_7887
+soil injectors,http://aims.fao.org/aos/agrovoc/c_26094,soil,http://aims.fao.org/aos/agrovoc/c_7156
+refrigeration equipment,http://aims.fao.org/aos/agrovoc/c_25722,refrigeration,http://aims.fao.org/aos/agrovoc/c_6485
+cooling systems,http://aims.fao.org/aos/agrovoc/c_25722,cooling,http://aims.fao.org/aos/agrovoc/c_1854
+cooling systems,http://aims.fao.org/aos/agrovoc/c_25722,systems,http://aims.fao.org/aos/agrovoc/c_330985
+dairy equipment,http://aims.fao.org/aos/agrovoc/c_2109,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+milk coolers,http://aims.fao.org/aos/agrovoc/c_25795,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk coolers,http://aims.fao.org/aos/agrovoc/c_25795,coolers,http://aims.fao.org/aos/agrovoc/c_28539
+forestry equipment,http://aims.fao.org/aos/agrovoc/c_3058,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+forestry machinery,http://aims.fao.org/aos/agrovoc/c_3058,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+logging equipment,http://aims.fao.org/aos/agrovoc/c_4419,logging,http://aims.fao.org/aos/agrovoc/c_7775
+logging carts,http://aims.fao.org/aos/agrovoc/c_25691,logging,http://aims.fao.org/aos/agrovoc/c_7775
+logging carts,http://aims.fao.org/aos/agrovoc/c_25691,carts,http://aims.fao.org/aos/agrovoc/c_1345
+log carriages,http://aims.fao.org/aos/agrovoc/c_25692,logs,http://aims.fao.org/aos/agrovoc/c_4420
+tree felling equipment,http://aims.fao.org/aos/agrovoc/c_25742,trees,http://aims.fao.org/aos/agrovoc/c_7887
+tree felling equipment,http://aims.fao.org/aos/agrovoc/c_25742,felling,http://aims.fao.org/aos/agrovoc/c_2847
+forestry tractors,http://aims.fao.org/aos/agrovoc/c_26188,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+growth chambers,http://aims.fao.org/aos/agrovoc/c_3395,growth,http://aims.fao.org/aos/agrovoc/c_3394
+climate chambers,http://aims.fao.org/aos/agrovoc/c_3395,climate,http://aims.fao.org/aos/agrovoc/c_1665
+pest control equipment,http://aims.fao.org/aos/agrovoc/c_5727,pest control,http://aims.fao.org/aos/agrovoc/c_5726
+fumigation equipment,http://aims.fao.org/aos/agrovoc/c_3143,fumigation,http://aims.fao.org/aos/agrovoc/c_3142
+bait distributors,http://aims.fao.org/aos/agrovoc/c_25967,baits,http://aims.fao.org/aos/agrovoc/c_331029
+bird scarers,http://aims.fao.org/aos/agrovoc/c_9275,birds,http://aims.fao.org/aos/agrovoc/c_935
+artificial hawks,http://aims.fao.org/aos/agrovoc/c_8960,hawks,http://aims.fao.org/aos/agrovoc/c_3507
+planting equipment,http://aims.fao.org/aos/agrovoc/c_5991,planting,http://aims.fao.org/aos/agrovoc/c_5992
+seed drills,http://aims.fao.org/aos/agrovoc/c_2386,seed,http://aims.fao.org/aos/agrovoc/c_6927
+potting machines,http://aims.fao.org/aos/agrovoc/c_25986,potting,http://aims.fao.org/aos/agrovoc/c_6143
+sowing equipment,http://aims.fao.org/aos/agrovoc/c_26059,sowing,http://aims.fao.org/aos/agrovoc/c_7268
+wool clippers,http://aims.fao.org/aos/agrovoc/c_26182,wool,http://aims.fao.org/aos/agrovoc/c_8436
+microwave ovens,http://aims.fao.org/aos/agrovoc/c_32492,ovens,http://aims.fao.org/aos/agrovoc/c_26803
+root choppers,http://aims.fao.org/aos/agrovoc/c_25701,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root cutters,http://aims.fao.org/aos/agrovoc/c_25701,roots,http://aims.fao.org/aos/agrovoc/c_6651
+plan sifter,http://aims.fao.org/aos/agrovoc/c_28497,plans,http://aims.fao.org/aos/agrovoc/c_330902
+cyclones (equipment),http://aims.fao.org/aos/agrovoc/c_37297,cyclones,http://aims.fao.org/aos/agrovoc/c_2057
+steam generators,http://aims.fao.org/aos/agrovoc/c_25731,water vapour,http://aims.fao.org/aos/agrovoc/c_25424
+maize shellers,http://aims.fao.org/aos/agrovoc/c_331388,maize,http://aims.fao.org/aos/agrovoc/c_12332
+traditional rice milling machinery,http://aims.fao.org/aos/agrovoc/c_330692,rice,http://aims.fao.org/aos/agrovoc/c_6599
+traditional rice milling machinery,http://aims.fao.org/aos/agrovoc/c_330692,milling,http://aims.fao.org/aos/agrovoc/c_4840
+maintenance equipment,http://aims.fao.org/aos/agrovoc/c_25749,maintenance,http://aims.fao.org/aos/agrovoc/c_4524
+welding equipment,http://aims.fao.org/aos/agrovoc/c_26061,welding,http://aims.fao.org/aos/agrovoc/c_7eb51b94
+greasing equipment,http://aims.fao.org/aos/agrovoc/c_26051,lubrication,http://aims.fao.org/aos/agrovoc/c_25738
+cultivation equipment,http://aims.fao.org/aos/agrovoc/c_25750,cultivation,http://aims.fao.org/aos/agrovoc/c_2018
+pruning implements,http://aims.fao.org/aos/agrovoc/c_6275,pruning,http://aims.fao.org/aos/agrovoc/c_6274
+hedge cutters,http://aims.fao.org/aos/agrovoc/c_3527,hedges,http://aims.fao.org/aos/agrovoc/c_3529
+pruning shears,http://aims.fao.org/aos/agrovoc/c_24ed5dac,pruning,http://aims.fao.org/aos/agrovoc/c_6274
+pruning shears,http://aims.fao.org/aos/agrovoc/c_24ed5dac,shears,http://aims.fao.org/aos/agrovoc/c_7029
+gardening equipment,http://aims.fao.org/aos/agrovoc/c_25755,gardening,http://aims.fao.org/aos/agrovoc/c_3195
+stakes (plant),http://aims.fao.org/aos/agrovoc/c_27044,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant ties,http://aims.fao.org/aos/agrovoc/c_27044,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant protection equipment,http://aims.fao.org/aos/agrovoc/c_25760,plant protection,http://aims.fao.org/aos/agrovoc/c_5978
+weed control equipment,http://aims.fao.org/aos/agrovoc/c_15296,weed control,http://aims.fao.org/aos/agrovoc/c_8345
+weeding hoes,http://aims.fao.org/aos/agrovoc/c_15296,weeding,http://aims.fao.org/aos/agrovoc/c_8346
+weeding hoes,http://aims.fao.org/aos/agrovoc/c_15296,hoes,http://aims.fao.org/aos/agrovoc/c_25733
+farm equipment,http://aims.fao.org/aos/agrovoc/c_25753,farms,http://aims.fao.org/aos/agrovoc/c_2809
+farm machinery,http://aims.fao.org/aos/agrovoc/c_25753,farms,http://aims.fao.org/aos/agrovoc/c_2809
+fertilizer equipment,http://aims.fao.org/aos/agrovoc/c_25754,fertilizers,http://aims.fao.org/aos/agrovoc/c_2867
+liquid gas fertilizer distributors,http://aims.fao.org/aos/agrovoc/c_25713,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+liquid gas fertilizer distributors,http://aims.fao.org/aos/agrovoc/c_25713,gases,http://aims.fao.org/aos/agrovoc/c_3197
+liquid fertilizer distributors,http://aims.fao.org/aos/agrovoc/c_25714,liquid fertilizers,http://aims.fao.org/aos/agrovoc/c_4372
+slurry spreaders,http://aims.fao.org/aos/agrovoc/c_7112,slurry,http://aims.fao.org/aos/agrovoc/c_16602
+fluidized bed reactors,http://aims.fao.org/aos/agrovoc/c_36714,fluidized bed processing,http://aims.fao.org/aos/agrovoc/c_28599
+food industry equipment,http://aims.fao.org/aos/agrovoc/c_25773,food industry,http://aims.fao.org/aos/agrovoc/c_3020
+food processing equipment,http://aims.fao.org/aos/agrovoc/c_25773,food processing,http://aims.fao.org/aos/agrovoc/c_37969
+winemaking equipment,http://aims.fao.org/aos/agrovoc/c_25770,winemaking,http://aims.fao.org/aos/agrovoc/c_8405
+power tools,http://aims.fao.org/aos/agrovoc/c_25786,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+trituration equipment,http://aims.fao.org/aos/agrovoc/c_26042,trituration,http://aims.fao.org/aos/agrovoc/c_15003
+fibre rope (natural),http://aims.fao.org/aos/agrovoc/c_00f73a48,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+fiber rope (natural),http://aims.fao.org/aos/agrovoc/c_00f73a48,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+natural fibre rope,http://aims.fao.org/aos/agrovoc/c_00f73a48,natural fibres,http://aims.fao.org/aos/agrovoc/c_1358246728522
+fibre rope (synthetic),http://aims.fao.org/aos/agrovoc/c_f983cf1e,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+fiber rope (synthetic),http://aims.fao.org/aos/agrovoc/c_f983cf1e,fibres,http://aims.fao.org/aos/agrovoc/c_2879
+synthetic fibre rope,http://aims.fao.org/aos/agrovoc/c_f983cf1e,synthetic fibres,http://aims.fao.org/aos/agrovoc/c_7574
+enzyme reactors,http://aims.fao.org/aos/agrovoc/c_27515,enzymes,http://aims.fao.org/aos/agrovoc/c_2603
+charcoal kilns,http://aims.fao.org/aos/agrovoc/c_28043,charcoal,http://aims.fao.org/aos/agrovoc/c_1503
+electronic equipment,http://aims.fao.org/aos/agrovoc/c_49878,electronics,http://aims.fao.org/aos/agrovoc/c_2522
+straw balers,http://aims.fao.org/aos/agrovoc/c_793,straw,http://aims.fao.org/aos/agrovoc/c_7441
+forage conditioners,http://aims.fao.org/aos/agrovoc/c_3036,forage,http://aims.fao.org/aos/agrovoc/c_36108
+tree shakers,http://aims.fao.org/aos/agrovoc/c_7886,trees,http://aims.fao.org/aos/agrovoc/c_7887
+vegetable harvesters,http://aims.fao.org/aos/agrovoc/c_25762,vegetables,http://aims.fao.org/aos/agrovoc/c_8174
+forage harvesters,http://aims.fao.org/aos/agrovoc/c_25763,forage,http://aims.fao.org/aos/agrovoc/c_36108
+fruit harvesters,http://aims.fao.org/aos/agrovoc/c_25764,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+seed harvesters,http://aims.fao.org/aos/agrovoc/c_25765,seed,http://aims.fao.org/aos/agrovoc/c_6927
+root crop harvesters,http://aims.fao.org/aos/agrovoc/c_25766,root crops,http://aims.fao.org/aos/agrovoc/c_6641
+root harvesters,http://aims.fao.org/aos/agrovoc/c_25766,roots,http://aims.fao.org/aos/agrovoc/c_6651
+potato harvesters,http://aims.fao.org/aos/agrovoc/c_7bde518a,potatoes,http://aims.fao.org/aos/agrovoc/c_13551
+beet cleaner loaders,http://aims.fao.org/aos/agrovoc/c_160beb13,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+beet cleaner loaders,http://aims.fao.org/aos/agrovoc/c_160beb13,loaders,http://aims.fao.org/aos/agrovoc/c_4407
+rotary slashers,http://aims.fao.org/aos/agrovoc/c_8eee7b37,slashers,http://aims.fao.org/aos/agrovoc/c_25939
+combine harvesters,http://aims.fao.org/aos/agrovoc/c_1775,combines,http://aims.fao.org/aos/agrovoc/c_28649
+threshing machines,http://aims.fao.org/aos/agrovoc/c_7738,threshing,http://aims.fao.org/aos/agrovoc/c_7739
+means of transport,http://aims.fao.org/aos/agrovoc/c_8180,transport,http://aims.fao.org/aos/agrovoc/c_7874
+barrows (vehicles),http://aims.fao.org/aos/agrovoc/c_829,barrows,http://aims.fao.org/aos/agrovoc/c_32386
+all terrain vehicles,http://aims.fao.org/aos/agrovoc/c_1974,relief,http://aims.fao.org/aos/agrovoc/c_0a8b4e1e
+cross country vehicles,http://aims.fao.org/aos/agrovoc/c_1974,countries,http://aims.fao.org/aos/agrovoc/c_330904
+off road vehicles,http://aims.fao.org/aos/agrovoc/c_1974,roads,http://aims.fao.org/aos/agrovoc/c_6621
+walking tractors,http://aims.fao.org/aos/agrovoc/c_25779,walking,http://aims.fao.org/aos/agrovoc/c_15251
+caterpillar tractors,http://aims.fao.org/aos/agrovoc/c_25814,caterpillars,http://aims.fao.org/aos/agrovoc/c_9669
+tank trucks,http://aims.fao.org/aos/agrovoc/c_25687,tanks,http://aims.fao.org/aos/agrovoc/c_25699
+animal drawn vehicles,http://aims.fao.org/aos/agrovoc/c_25817,animals,http://aims.fao.org/aos/agrovoc/c_444
+survival capsules,http://aims.fao.org/aos/agrovoc/c_61e87a32,survival,http://aims.fao.org/aos/agrovoc/c_7538
+motor boats,http://aims.fao.org/aos/agrovoc/c_01abe6cf,engines,http://aims.fao.org/aos/agrovoc/c_4954
+dredging vessels,http://aims.fao.org/aos/agrovoc/c_2376,dredging,http://aims.fao.org/aos/agrovoc/c_50c7fa97
+weather ships,http://aims.fao.org/aos/agrovoc/c_8342,weather,http://aims.fao.org/aos/agrovoc/c_15292
+ocean station vessels,http://aims.fao.org/aos/agrovoc/c_8342,ocean stations,http://aims.fao.org/aos/agrovoc/c_2616000b
+factory ships,http://aims.fao.org/aos/agrovoc/c_10732,factories,http://aims.fao.org/aos/agrovoc/c_25201
+mother ships,http://aims.fao.org/aos/agrovoc/c_9eb798ad,mothers,http://aims.fao.org/aos/agrovoc/c_4952
+research vessels,http://aims.fao.org/aos/agrovoc/c_6516,research,http://aims.fao.org/aos/agrovoc/c_6513
+fishery research vessels,http://aims.fao.org/aos/agrovoc/c_876061ba,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishing vessels,http://aims.fao.org/aos/agrovoc/c_2954,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fishing boats,http://aims.fao.org/aos/agrovoc/c_2954,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+fishing boats,http://aims.fao.org/aos/agrovoc/c_2954,boats,http://aims.fao.org/aos/agrovoc/c_330920
+merchant ships,http://aims.fao.org/aos/agrovoc/c_7d752a5e,merchants,http://aims.fao.org/aos/agrovoc/c_4750
+cargo ships,http://aims.fao.org/aos/agrovoc/c_7d752a5e,cargo,http://aims.fao.org/aos/agrovoc/c_1ed92ff6
+oil tankers,http://aims.fao.org/aos/agrovoc/c_7603,oils,http://aims.fao.org/aos/agrovoc/c_5334
+container ships,http://aims.fao.org/aos/agrovoc/c_48c3f031,containers,http://aims.fao.org/aos/agrovoc/c_1831
+liners (passengers),http://aims.fao.org/aos/agrovoc/c_70f12455,liners,http://aims.fao.org/aos/agrovoc/c_6142549a
+drilling vessels,http://aims.fao.org/aos/agrovoc/c_723ba11d,seed drilling,http://aims.fao.org/aos/agrovoc/c_27912
+drilling ships,http://aims.fao.org/aos/agrovoc/c_723ba11d,seed drilling,http://aims.fao.org/aos/agrovoc/c_27912
+emergency vessels,http://aims.fao.org/aos/agrovoc/c_40eca39a,emergencies,http://aims.fao.org/aos/agrovoc/c_1361784825156
+sailing ships,http://aims.fao.org/aos/agrovoc/c_9807fff5,boating,http://aims.fao.org/aos/agrovoc/c_1c79a009
+ice breakers,http://aims.fao.org/aos/agrovoc/c_b1f1e31f,ice,http://aims.fao.org/aos/agrovoc/c_3782
+ice breakers,http://aims.fao.org/aos/agrovoc/c_b1f1e31f,breakers,http://aims.fao.org/aos/agrovoc/c_219f2732
+light vessels,http://aims.fao.org/aos/agrovoc/c_1edba98e,light,http://aims.fao.org/aos/agrovoc/c_4322
+cable ships,http://aims.fao.org/aos/agrovoc/c_cc3d6a1f,cables,http://aims.fao.org/aos/agrovoc/c_a8bcf3c5
+mining vessels,http://aims.fao.org/aos/agrovoc/c_26b63701,mining,http://aims.fao.org/aos/agrovoc/c_49983
+protection vessels,http://aims.fao.org/aos/agrovoc/c_5d5851e6,protection,http://aims.fao.org/aos/agrovoc/c_330896
+fishery protection vessels,http://aims.fao.org/aos/agrovoc/c_5d5851e6,fishery protection,http://aims.fao.org/aos/agrovoc/c_0b150f21
+lighter ships,http://aims.fao.org/aos/agrovoc/c_4325,ships,http://aims.fao.org/aos/agrovoc/c_7040
+crane barges,http://aims.fao.org/aos/agrovoc/c_5dedfd65,cranes,http://aims.fao.org/aos/agrovoc/c_16369
+underwater research vessels,http://aims.fao.org/aos/agrovoc/c_b401c325,research vessels,http://aims.fao.org/aos/agrovoc/c_6516
+air cushion vehicles,http://aims.fao.org/aos/agrovoc/c_5e098bc9,air,http://aims.fao.org/aos/agrovoc/c_224
+radar satellite,http://aims.fao.org/aos/agrovoc/c_9000132,radar,http://aims.fao.org/aos/agrovoc/c_24071
+weather satellites,http://aims.fao.org/aos/agrovoc/c_37900,weather,http://aims.fao.org/aos/agrovoc/c_15292
+earth observation satellites,http://aims.fao.org/aos/agrovoc/c_9000039,earth,http://aims.fao.org/aos/agrovoc/c_2437
+earth observation satellites,http://aims.fao.org/aos/agrovoc/c_9000039,observation,http://aims.fao.org/aos/agrovoc/c_fc54b25b
+photovoltaic cells,http://aims.fao.org/aos/agrovoc/c_35259,cells,http://aims.fao.org/aos/agrovoc/c_1418
+SAR (radar),http://aims.fao.org/aos/agrovoc/c_37908,search and rescue,http://aims.fao.org/aos/agrovoc/c_331576
+Synthetic Aperture Radar (SAR),http://aims.fao.org/aos/agrovoc/c_37908,search and rescue,http://aims.fao.org/aos/agrovoc/c_331576
+safety equipment,http://aims.fao.org/aos/agrovoc/c_6733,safety,http://aims.fao.org/aos/agrovoc/c_6732
+safety devices,http://aims.fao.org/aos/agrovoc/c_6733,safety,http://aims.fao.org/aos/agrovoc/c_6732
+hearing protectors,http://aims.fao.org/aos/agrovoc/c_3515,hearing,http://aims.fao.org/aos/agrovoc/c_3514
+hearing protection,http://aims.fao.org/aos/agrovoc/c_3515,hearing,http://aims.fao.org/aos/agrovoc/c_3514
+hearing protection,http://aims.fao.org/aos/agrovoc/c_3515,protection,http://aims.fao.org/aos/agrovoc/c_330896
+roll over protection structures,http://aims.fao.org/aos/agrovoc/c_6635,protection,http://aims.fao.org/aos/agrovoc/c_330896
+roll over protection structures,http://aims.fao.org/aos/agrovoc/c_6635,structures,http://aims.fao.org/aos/agrovoc/c_330905
+carbon dioxide detectors,http://aims.fao.org/aos/agrovoc/c_25960,carbon dioxide,http://aims.fao.org/aos/agrovoc/c_1302
+gas masks,http://aims.fao.org/aos/agrovoc/c_dad4e988,gases,http://aims.fao.org/aos/agrovoc/c_3197
+cloth face masks,http://aims.fao.org/aos/agrovoc/c_6e269ea6,face,http://aims.fao.org/aos/agrovoc/c_b87cfa66
+life jackets,http://aims.fao.org/aos/agrovoc/c_f7ea3de5,piled platforms,http://aims.fao.org/aos/agrovoc/c_1b2cf77f
+wood burners,http://aims.fao.org/aos/agrovoc/c_16366,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood burners,http://aims.fao.org/aos/agrovoc/c_16366,burners,http://aims.fao.org/aos/agrovoc/c_36710
+drilling equipment,http://aims.fao.org/aos/agrovoc/c_25343,seed drilling,http://aims.fao.org/aos/agrovoc/c_27912
+drills (for wood or metalworking),http://aims.fao.org/aos/agrovoc/c_25343,wood,http://aims.fao.org/aos/agrovoc/c_8421
+soil management equipment,http://aims.fao.org/aos/agrovoc/c_25757,soil management,http://aims.fao.org/aos/agrovoc/c_7176
+drainage equipment,http://aims.fao.org/aos/agrovoc/c_2373,drainage,http://aims.fao.org/aos/agrovoc/c_2372
+building equipment,http://aims.fao.org/aos/agrovoc/c_26222,buildings,http://aims.fao.org/aos/agrovoc/c_1142
+fishing gear,http://aims.fao.org/aos/agrovoc/c_2946,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+otter trawls (bottom),http://aims.fao.org/aos/agrovoc/c_c24c228b,otters,http://aims.fao.org/aos/agrovoc/c_5452
+otter trawls (midwater),http://aims.fao.org/aos/agrovoc/c_118dc362,otters,http://aims.fao.org/aos/agrovoc/c_5452
+trap nets,http://aims.fao.org/aos/agrovoc/c_eac2ecd2,traps,http://aims.fao.org/aos/agrovoc/c_7879
+boat seines,http://aims.fao.org/aos/agrovoc/c_838e2977,boats,http://aims.fao.org/aos/agrovoc/c_330920
+beach seines,http://aims.fao.org/aos/agrovoc/c_ab40e556,beaches,http://aims.fao.org/aos/agrovoc/c_850
+lift nets,http://aims.fao.org/aos/agrovoc/c_2eecfd6c,elevators,http://aims.fao.org/aos/agrovoc/c_2535
+lobster pots,http://aims.fao.org/aos/agrovoc/c_12223,lobsters,http://aims.fao.org/aos/agrovoc/c_4411
+otter boards,http://aims.fao.org/aos/agrovoc/c_4a6d0936,otters,http://aims.fao.org/aos/agrovoc/c_5452
+trawl doors,http://aims.fao.org/aos/agrovoc/c_4a6d0936,trawlnets,http://aims.fao.org/aos/agrovoc/c_7b0e1dd0
+trawl doors,http://aims.fao.org/aos/agrovoc/c_4a6d0936,doors,http://aims.fao.org/aos/agrovoc/c_2366
+bycatch excluder devices,http://aims.fao.org/aos/agrovoc/c_fe6a0492,bycatch,http://aims.fao.org/aos/agrovoc/c_15949
+by catch reduction devices,http://aims.fao.org/aos/agrovoc/c_fe6a0492,catches,http://aims.fao.org/aos/agrovoc/c_9665
+by catch reduction devices,http://aims.fao.org/aos/agrovoc/c_fe6a0492,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+turtle excluder devices,http://aims.fao.org/aos/agrovoc/c_04a08110,turtles,http://aims.fao.org/aos/agrovoc/c_8023
+boat dredges,http://aims.fao.org/aos/agrovoc/c_4079990c,boats,http://aims.fao.org/aos/agrovoc/c_330920
+boat dredges,http://aims.fao.org/aos/agrovoc/c_4079990c,dredgers,http://aims.fao.org/aos/agrovoc/c_2376
+dredges (fishing),http://aims.fao.org/aos/agrovoc/c_4079990c,dredgers,http://aims.fao.org/aos/agrovoc/c_2376
+hand dredges,http://aims.fao.org/aos/agrovoc/c_4079990c,dredgers,http://aims.fao.org/aos/agrovoc/c_2376
+laboratory equipment,http://aims.fao.org/aos/agrovoc/c_4127,laboratories,http://aims.fao.org/aos/agrovoc/c_15988
+protective structures,http://aims.fao.org/aos/agrovoc/c_6249,structures,http://aims.fao.org/aos/agrovoc/c_330905
+garden frames,http://aims.fao.org/aos/agrovoc/c_3193,gardens,http://aims.fao.org/aos/agrovoc/c_3196
+plant frames,http://aims.fao.org/aos/agrovoc/c_3193,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plastic film covers,http://aims.fao.org/aos/agrovoc/c_5997,plastic film,http://aims.fao.org/aos/agrovoc/c_25728
+film covers (protective structures),http://aims.fao.org/aos/agrovoc/c_5997,films,http://aims.fao.org/aos/agrovoc/c_2899
+plastic tunnels,http://aims.fao.org/aos/agrovoc/c_5997,plastics,http://aims.fao.org/aos/agrovoc/c_5998
+plastic tunnels,http://aims.fao.org/aos/agrovoc/c_5997,tunnels,http://aims.fao.org/aos/agrovoc/c_0f2d7511
+protective screening,http://aims.fao.org/aos/agrovoc/c_32663,screening,http://aims.fao.org/aos/agrovoc/c_330877
+woodworking equipment,http://aims.fao.org/aos/agrovoc/c_8435,woodworking,http://aims.fao.org/aos/agrovoc/c_25103
+fermentation equipment,http://aims.fao.org/aos/agrovoc/c_25831,fermentation,http://aims.fao.org/aos/agrovoc/c_2855
+plastic pipes,http://aims.fao.org/aos/agrovoc/c_4a5256cb,plastics,http://aims.fao.org/aos/agrovoc/c_5998
+plastic pipelines,http://aims.fao.org/aos/agrovoc/c_4a5256cb,plastics,http://aims.fao.org/aos/agrovoc/c_5998
+submarine pipelines,http://aims.fao.org/aos/agrovoc/c_30b8b068,submarines,http://aims.fao.org/aos/agrovoc/c_5e5ad342
+gathering lines,http://aims.fao.org/aos/agrovoc/c_38f4dfba,collection,http://aims.fao.org/aos/agrovoc/c_330898
+electricity generators,http://aims.fao.org/aos/agrovoc/c_25730,electricity,http://aims.fao.org/aos/agrovoc/c_2518
+heat exchangers,http://aims.fao.org/aos/agrovoc/c_11483,heat,http://aims.fao.org/aos/agrovoc/c_3519
+earthmoving equipment,http://aims.fao.org/aos/agrovoc/c_2439,earthmoving,http://aims.fao.org/aos/agrovoc/c_25811
+land levelling equipment,http://aims.fao.org/aos/agrovoc/c_37266,land levelling,http://aims.fao.org/aos/agrovoc/c_25791
+land levellers,http://aims.fao.org/aos/agrovoc/c_37266,land,http://aims.fao.org/aos/agrovoc/c_4172
+packaging boxes,http://aims.fao.org/aos/agrovoc/c_9385,packaging,http://aims.fao.org/aos/agrovoc/c_5495
+milk containers,http://aims.fao.org/aos/agrovoc/c_25682,milk,http://aims.fao.org/aos/agrovoc/c_4826
+milk cartons,http://aims.fao.org/aos/agrovoc/c_25682,milk,http://aims.fao.org/aos/agrovoc/c_4826
+plant containers,http://aims.fao.org/aos/agrovoc/c_5958,plants,http://aims.fao.org/aos/agrovoc/c_5993
+flower pots,http://aims.fao.org/aos/agrovoc/c_5958,flowers,http://aims.fao.org/aos/agrovoc/c_2993
+flower pots,http://aims.fao.org/aos/agrovoc/c_5958,pots,http://aims.fao.org/aos/agrovoc/c_37405
+plant pots,http://aims.fao.org/aos/agrovoc/c_5958,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant pots,http://aims.fao.org/aos/agrovoc/c_5958,pots,http://aims.fao.org/aos/agrovoc/c_37405
+seed boxes,http://aims.fao.org/aos/agrovoc/c_6928,seed,http://aims.fao.org/aos/agrovoc/c_6927
+flats (seed),http://aims.fao.org/aos/agrovoc/c_6928,seed,http://aims.fao.org/aos/agrovoc/c_6927
+internal combustion engines,http://aims.fao.org/aos/agrovoc/c_25776,combustion,http://aims.fao.org/aos/agrovoc/c_1777
+petrol engines,http://aims.fao.org/aos/agrovoc/c_26070,petrol,http://aims.fao.org/aos/agrovoc/c_5746
+gasoline engines,http://aims.fao.org/aos/agrovoc/c_26070,petrol,http://aims.fao.org/aos/agrovoc/c_5746
+steam engines,http://aims.fao.org/aos/agrovoc/c_25777,water vapour,http://aims.fao.org/aos/agrovoc/c_25424
+ignition systems,http://aims.fao.org/aos/agrovoc/c_24b1dacb,systems,http://aims.fao.org/aos/agrovoc/c_330985
+cleaning equipment,http://aims.fao.org/aos/agrovoc/c_24005,cleaning,http://aims.fao.org/aos/agrovoc/c_1661
+barn cleaners,http://aims.fao.org/aos/agrovoc/c_25780,barns,http://aims.fao.org/aos/agrovoc/c_825
+barn cleaners,http://aims.fao.org/aos/agrovoc/c_25780,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+scrubbers (brush),http://aims.fao.org/aos/agrovoc/c_25684,scrubbers,http://aims.fao.org/aos/agrovoc/c_43e1595d
+vacuum cleaners,http://aims.fao.org/aos/agrovoc/c_330921,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+seed cleaners,http://aims.fao.org/aos/agrovoc/c_25781,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed cleaners,http://aims.fao.org/aos/agrovoc/c_25781,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+ditch cleaners,http://aims.fao.org/aos/agrovoc/c_26035,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+root cleaners,http://aims.fao.org/aos/agrovoc/c_25782,roots,http://aims.fao.org/aos/agrovoc/c_6651
+root cleaners,http://aims.fao.org/aos/agrovoc/c_25782,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+air cleaners,http://aims.fao.org/aos/agrovoc/c_24387,air,http://aims.fao.org/aos/agrovoc/c_224
+air cleaners,http://aims.fao.org/aos/agrovoc/c_24387,cleaners,http://aims.fao.org/aos/agrovoc/c_24145
+fire fighting equipment,http://aims.fao.org/aos/agrovoc/c_2912,fire control,http://aims.fao.org/aos/agrovoc/c_2908
+handling machinery,http://aims.fao.org/aos/agrovoc/c_3487,handling,http://aims.fao.org/aos/agrovoc/c_3485
+silo fillers,http://aims.fao.org/aos/agrovoc/c_25721,silos,http://aims.fao.org/aos/agrovoc/c_7065
+chain and flight conveyers,http://aims.fao.org/aos/agrovoc/c_26200,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+chain and flight conveyers,http://aims.fao.org/aos/agrovoc/c_26200,flight,http://aims.fao.org/aos/agrovoc/c_24948
+chain conveyors,http://aims.fao.org/aos/agrovoc/c_26200,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+roller conveyers,http://aims.fao.org/aos/agrovoc/c_26201,rollers,http://aims.fao.org/aos/agrovoc/c_6636
+auger conveyers,http://aims.fao.org/aos/agrovoc/c_35852,augers,http://aims.fao.org/aos/agrovoc/c_50115
+bale loaders,http://aims.fao.org/aos/agrovoc/c_25896,bales,http://aims.fao.org/aos/agrovoc/c_bc58e649
+bale collectors,http://aims.fao.org/aos/agrovoc/c_26018,bales,http://aims.fao.org/aos/agrovoc/c_bc58e649
+bale throwers,http://aims.fao.org/aos/agrovoc/c_26025,bales,http://aims.fao.org/aos/agrovoc/c_bc58e649
+bale wrappers,http://aims.fao.org/aos/agrovoc/c_34938a9b,bales,http://aims.fao.org/aos/agrovoc/c_bc58e649
+electric fences,http://aims.fao.org/aos/agrovoc/c_24162,fencing,http://aims.fao.org/aos/agrovoc/c_2853
+irrigation equipment,http://aims.fao.org/aos/agrovoc/c_3955,irrigation,http://aims.fao.org/aos/agrovoc/c_3954
+measuring instruments,http://aims.fao.org/aos/agrovoc/c_12457,measurement,http://aims.fao.org/aos/agrovoc/c_4668
+texture meters,http://aims.fao.org/aos/agrovoc/c_28593,texture,http://aims.fao.org/aos/agrovoc/c_15578
+light detection and ranging,http://aims.fao.org/aos/agrovoc/c_c3ea7f1d,light,http://aims.fao.org/aos/agrovoc/c_4322
+light detection and ranging,http://aims.fao.org/aos/agrovoc/c_c3ea7f1d,detection,http://aims.fao.org/aos/agrovoc/c_a97eb278
+rain gauges,http://aims.fao.org/aos/agrovoc/c_6437,rain,http://aims.fao.org/aos/agrovoc/c_6435
+rain gauges,http://aims.fao.org/aos/agrovoc/c_6437,gauges,http://aims.fao.org/aos/agrovoc/c_9a34cdac
+rain intensity recorders,http://aims.fao.org/aos/agrovoc/c_6437,rain,http://aims.fao.org/aos/agrovoc/c_6435
+moderate resolution imaging spectroradiometer,http://aims.fao.org/aos/agrovoc/c_1141a5db,resolution,http://aims.fao.org/aos/agrovoc/c_f37af06c
+infrared detectors,http://aims.fao.org/aos/agrovoc/c_ec274eb2,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+snow gauges,http://aims.fao.org/aos/agrovoc/c_14366,snow,http://aims.fao.org/aos/agrovoc/c_7124
+snow gauges,http://aims.fao.org/aos/agrovoc/c_14366,gauges,http://aims.fao.org/aos/agrovoc/c_9a34cdac
+wave gauges,http://aims.fao.org/aos/agrovoc/c_e2190b6c,gauges,http://aims.fao.org/aos/agrovoc/c_9a34cdac
+salinity measuring equipment,http://aims.fao.org/aos/agrovoc/c_a2e4090f,salinity,http://aims.fao.org/aos/agrovoc/c_6751
+fish counters,http://aims.fao.org/aos/agrovoc/c_1177b42d,fish,http://aims.fao.org/aos/agrovoc/c_15903
+echo counting systems,http://aims.fao.org/aos/agrovoc/c_1177b42d,systems,http://aims.fao.org/aos/agrovoc/c_330985
+fish counting devices,http://aims.fao.org/aos/agrovoc/c_1177b42d,fish,http://aims.fao.org/aos/agrovoc/c_15903
+egg counters,http://aims.fao.org/aos/agrovoc/c_d46eb44e,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+light measuring instruments,http://aims.fao.org/aos/agrovoc/c_c6c83327,light,http://aims.fao.org/aos/agrovoc/c_4322
+irradiance meters,http://aims.fao.org/aos/agrovoc/c_9b148996,irradiance,http://aims.fao.org/aos/agrovoc/c_7fff0491
+Secchi discs,http://aims.fao.org/aos/agrovoc/c_8408c571,cultivators,http://aims.fao.org/aos/agrovoc/c_2019
+laser altimeters,http://aims.fao.org/aos/agrovoc/c_2017ebe9,lasers,http://aims.fao.org/aos/agrovoc/c_26026
+radar altimeters,http://aims.fao.org/aos/agrovoc/c_27657add,radar,http://aims.fao.org/aos/agrovoc/c_24071
+density measuring equipment,http://aims.fao.org/aos/agrovoc/c_21e26d86,density,http://aims.fao.org/aos/agrovoc/c_2186
+slope indicators,http://aims.fao.org/aos/agrovoc/c_30f7539b,slope,http://aims.fao.org/aos/agrovoc/c_fa256eab
+slope indicators,http://aims.fao.org/aos/agrovoc/c_30f7539b,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+tide gauges,http://aims.fao.org/aos/agrovoc/c_42511d51,tides,http://aims.fao.org/aos/agrovoc/c_7764
+tide measuring equipment,http://aims.fao.org/aos/agrovoc/c_42511d51,tides,http://aims.fao.org/aos/agrovoc/c_7764
+tide measuring equipment,http://aims.fao.org/aos/agrovoc/c_42511d51,measurement,http://aims.fao.org/aos/agrovoc/c_4668
+tide pole,http://aims.fao.org/aos/agrovoc/c_42511d51,tides,http://aims.fao.org/aos/agrovoc/c_7764
+tide pole,http://aims.fao.org/aos/agrovoc/c_42511d51,poles,http://aims.fao.org/aos/agrovoc/c_6061
+tide staff,http://aims.fao.org/aos/agrovoc/c_42511d51,tides,http://aims.fao.org/aos/agrovoc/c_7764
+strain gauges,http://aims.fao.org/aos/agrovoc/c_30d6f39e,strains,http://aims.fao.org/aos/agrovoc/c_ae97fbc0
+pressure gauges,http://aims.fao.org/aos/agrovoc/c_1db16df5,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+mesh gauges,http://aims.fao.org/aos/agrovoc/c_7974baa2,mesh,http://aims.fao.org/aos/agrovoc/c_995b2fe7
+flow sensors,http://aims.fao.org/aos/agrovoc/c_3b116cbd,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+current measuring equipment,http://aims.fao.org/aos/agrovoc/c_9ca380c0,current measurement,http://aims.fao.org/aos/agrovoc/c_58ee6757
+acoustic current meters,http://aims.fao.org/aos/agrovoc/c_03a3e09d,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+current sensors,http://aims.fao.org/aos/agrovoc/c_6355f09c,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+time measuring equipment,http://aims.fao.org/aos/agrovoc/c_a62487da,time,http://aims.fao.org/aos/agrovoc/c_7778
+timing devices,http://aims.fao.org/aos/agrovoc/c_a62487da,timing,http://aims.fao.org/aos/agrovoc/c_7779
+acoustic surveys (atmosphere),http://aims.fao.org/aos/agrovoc/c_dd110480,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic surveys (atmosphere),http://aims.fao.org/aos/agrovoc/c_dd110480,surveys,http://aims.fao.org/aos/agrovoc/c_7537
+acoustic surveys (atmosphere),http://aims.fao.org/aos/agrovoc/c_dd110480,atmosphere,http://aims.fao.org/aos/agrovoc/c_8994
+sonic detection and rangefinding,http://aims.fao.org/aos/agrovoc/c_dd110480,detection,http://aims.fao.org/aos/agrovoc/c_a97eb278
+strain seismometers,http://aims.fao.org/aos/agrovoc/c_ddcb7d5f,strains,http://aims.fao.org/aos/agrovoc/c_ae97fbc0
+turbidity sensors,http://aims.fao.org/aos/agrovoc/c_b18e13e2,turbidity,http://aims.fao.org/aos/agrovoc/c_15043
+turbidity sensors,http://aims.fao.org/aos/agrovoc/c_b18e13e2,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+laser bathymeters,http://aims.fao.org/aos/agrovoc/c_61cb5b95,lasers,http://aims.fao.org/aos/agrovoc/c_26026
+packaging equipment,http://aims.fao.org/aos/agrovoc/c_25748,packaging,http://aims.fao.org/aos/agrovoc/c_5495
+cutting implements,http://aims.fao.org/aos/agrovoc/c_2047,cutting,http://aims.fao.org/aos/agrovoc/c_2046
+sorting equipment,http://aims.fao.org/aos/agrovoc/c_25769,grading,http://aims.fao.org/aos/agrovoc/c_3341
+chain saws,http://aims.fao.org/aos/agrovoc/c_9728,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+heating equipment,http://aims.fao.org/aos/agrovoc/c_36740,heating,http://aims.fao.org/aos/agrovoc/c_3524
+combustion systems,http://aims.fao.org/aos/agrovoc/c_36710,combustion,http://aims.fao.org/aos/agrovoc/c_1777
+combustion systems,http://aims.fao.org/aos/agrovoc/c_36710,systems,http://aims.fao.org/aos/agrovoc/c_330985
+fluidized bed combustors,http://aims.fao.org/aos/agrovoc/c_36713,fluidized bed processing,http://aims.fao.org/aos/agrovoc/c_28599
+cyclone combustors,http://aims.fao.org/aos/agrovoc/c_37679,cyclones,http://aims.fao.org/aos/agrovoc/c_2057
+tillage equipment,http://aims.fao.org/aos/agrovoc/c_25768,tillage,http://aims.fao.org/aos/agrovoc/c_7771
+soil loosening equipment,http://aims.fao.org/aos/agrovoc/c_25768,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil preparation equipment,http://aims.fao.org/aos/agrovoc/c_25768,soil,http://aims.fao.org/aos/agrovoc/c_7156
+disc harrows,http://aims.fao.org/aos/agrovoc/c_25794,cultivators,http://aims.fao.org/aos/agrovoc/c_2019
+chain harrows,http://aims.fao.org/aos/agrovoc/c_0619dd9e,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+tine harrows,http://aims.fao.org/aos/agrovoc/c_e7505488,tines,http://aims.fao.org/aos/agrovoc/c_7785
+rotary hoes,http://aims.fao.org/aos/agrovoc/c_8f953631,hoes,http://aims.fao.org/aos/agrovoc/c_25733
+mole ploughs,http://aims.fao.org/aos/agrovoc/c_25698,moles,http://aims.fao.org/aos/agrovoc/c_4893
+disc ploughs,http://aims.fao.org/aos/agrovoc/c_25694,cultivators,http://aims.fao.org/aos/agrovoc/c_2019
+vineyard ploughs,http://aims.fao.org/aos/agrovoc/c_25695,vineyards,http://aims.fao.org/aos/agrovoc/c_15203
+stubble ploughs,http://aims.fao.org/aos/agrovoc/c_25696,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+chisel ploughs,http://aims.fao.org/aos/agrovoc/c_99dd11f2,ploughs,http://aims.fao.org/aos/agrovoc/c_6022
+stone pickers,http://aims.fao.org/aos/agrovoc/c_25992,stones,http://aims.fao.org/aos/agrovoc/c_7424
+grafting tools,http://aims.fao.org/aos/agrovoc/c_3345,grafting,http://aims.fao.org/aos/agrovoc/c_3344
+grafting equipment,http://aims.fao.org/aos/agrovoc/c_3345,grafting,http://aims.fao.org/aos/agrovoc/c_3344
+storage equipment,http://aims.fao.org/aos/agrovoc/c_25839,storage,http://aims.fao.org/aos/agrovoc/c_7427
+antifreeze equipment,http://aims.fao.org/aos/agrovoc/c_26054,antifreezes,http://aims.fao.org/aos/agrovoc/c_f667802b
+land clearing equipment,http://aims.fao.org/aos/agrovoc/c_25752,land clearing,http://aims.fao.org/aos/agrovoc/c_1662
+stump pullers,http://aims.fao.org/aos/agrovoc/c_25959,stumps,http://aims.fao.org/aos/agrovoc/c_24412
+air conditioning equipment,http://aims.fao.org/aos/agrovoc/c_26046,air conditioning,http://aims.fao.org/aos/agrovoc/c_225
+light traps,http://aims.fao.org/aos/agrovoc/c_4324,light,http://aims.fao.org/aos/agrovoc/c_4322
+pheromone traps,http://aims.fao.org/aos/agrovoc/c_34883,pheromones,http://aims.fao.org/aos/agrovoc/c_5778
+water traps,http://aims.fao.org/aos/agrovoc/c_df6cfc25,water,http://aims.fao.org/aos/agrovoc/c_8309
+sediment traps,http://aims.fao.org/aos/agrovoc/c_292f11ec,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+sand traps,http://aims.fao.org/aos/agrovoc/c_292f11ec,sand,http://aims.fao.org/aos/agrovoc/c_6779
+data buoys,http://aims.fao.org/aos/agrovoc/c_bf870a8e,data,http://aims.fao.org/aos/agrovoc/c_49816
+ice buoys,http://aims.fao.org/aos/agrovoc/c_f74e19aa,ice,http://aims.fao.org/aos/agrovoc/c_3782
+sonar buoys,http://aims.fao.org/aos/agrovoc/c_e39d7e07,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+mooring buoys,http://aims.fao.org/aos/agrovoc/c_04fbfdc4,mooring systems,http://aims.fao.org/aos/agrovoc/c_29e64db2
+loading buoys,http://aims.fao.org/aos/agrovoc/c_2f15478b,loading,http://aims.fao.org/aos/agrovoc/c_12218
+radio buoys,http://aims.fao.org/aos/agrovoc/c_459d4e07,radio,http://aims.fao.org/aos/agrovoc/c_6424
+fishing buoys,http://aims.fao.org/aos/agrovoc/c_9bfc459f,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+radio aids,http://aims.fao.org/aos/agrovoc/c_b71f4186,radio,http://aims.fao.org/aos/agrovoc/c_6424
+acoustic beacons,http://aims.fao.org/aos/agrovoc/c_37ee249c,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+underwater acoustic positioning systems,http://aims.fao.org/aos/agrovoc/c_c9abcac5,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+underwater acoustic positioning systems,http://aims.fao.org/aos/agrovoc/c_c9abcac5,systems,http://aims.fao.org/aos/agrovoc/c_330985
+acoustic tracking systems,http://aims.fao.org/aos/agrovoc/c_c9abcac5,tracking,http://aims.fao.org/aos/agrovoc/c_c4d65583
+underwater tracking systems,http://aims.fao.org/aos/agrovoc/c_c9abcac5,tracking,http://aims.fao.org/aos/agrovoc/c_c4d65583
+hunting equipment,http://aims.fao.org/aos/agrovoc/c_e9033222,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+hunting gear,http://aims.fao.org/aos/agrovoc/c_e9033222,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+fishery industry equipment,http://aims.fao.org/aos/agrovoc/c_d3fcf63d,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fishery industry equipment,http://aims.fao.org/aos/agrovoc/c_d3fcf63d,industry,http://aims.fao.org/aos/agrovoc/c_3848
+ship fittings,http://aims.fao.org/aos/agrovoc/c_0a42ef7b,ships,http://aims.fao.org/aos/agrovoc/c_7040
+mooring lines,http://aims.fao.org/aos/agrovoc/c_02fa4f86,mooring systems,http://aims.fao.org/aos/agrovoc/c_29e64db2
+submarine cables,http://aims.fao.org/aos/agrovoc/c_fef5f1f9,submarines,http://aims.fao.org/aos/agrovoc/c_5e5ad342
+power cables,http://aims.fao.org/aos/agrovoc/c_d30f2217,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+acoustic transducers,http://aims.fao.org/aos/agrovoc/c_0eac0c10,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+sonar transducers,http://aims.fao.org/aos/agrovoc/c_3f846a50,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+ultrasonic transducers,http://aims.fao.org/aos/agrovoc/c_460da773,ultrasonics,http://aims.fao.org/aos/agrovoc/c_8044
+free-fall profilers,http://aims.fao.org/aos/agrovoc/c_7d4260b8,profilers,http://aims.fao.org/aos/agrovoc/c_f7ae79e6
+diving equipment,http://aims.fao.org/aos/agrovoc/c_dd264e72,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+diving gear,http://aims.fao.org/aos/agrovoc/c_dd264e72,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+diving systems,http://aims.fao.org/aos/agrovoc/c_dd264e72,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+diving systems,http://aims.fao.org/aos/agrovoc/c_dd264e72,systems,http://aims.fao.org/aos/agrovoc/c_330985
+diving suits,http://aims.fao.org/aos/agrovoc/c_645037ac,diving,http://aims.fao.org/aos/agrovoc/c_816e729b
+pressure chambers,http://aims.fao.org/aos/agrovoc/c_4d802e5e,pressure,http://aims.fao.org/aos/agrovoc/c_6174
+acoustic equipment,http://aims.fao.org/aos/agrovoc/c_077ac042,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic devices,http://aims.fao.org/aos/agrovoc/c_077ac042,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic systems,http://aims.fao.org/aos/agrovoc/c_077ac042,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+acoustic systems,http://aims.fao.org/aos/agrovoc/c_077ac042,systems,http://aims.fao.org/aos/agrovoc/c_330985
+sound generators,http://aims.fao.org/aos/agrovoc/c_6b9b1a75,sound,http://aims.fao.org/aos/agrovoc/c_7251
+noise generators,http://aims.fao.org/aos/agrovoc/c_6b9b1a75,noise,http://aims.fao.org/aos/agrovoc/c_5205
+acoustic pingers,http://aims.fao.org/aos/agrovoc/c_549151a5,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+echo integration,http://aims.fao.org/aos/agrovoc/c_497931a4,integration,http://aims.fao.org/aos/agrovoc/c_3903
+beacons (transponders),http://aims.fao.org/aos/agrovoc/c_3fab03cb,transponders,http://aims.fao.org/aos/agrovoc/c_f0a46682
+sonar transponders,http://aims.fao.org/aos/agrovoc/c_3fab03cb,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+sonar transponders,http://aims.fao.org/aos/agrovoc/c_3fab03cb,transponders,http://aims.fao.org/aos/agrovoc/c_f0a46682
+acoustic doppler sonar,http://aims.fao.org/aos/agrovoc/c_94c80e84,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+side scan sonar,http://aims.fao.org/aos/agrovoc/c_6b5273d4,sides,http://aims.fao.org/aos/agrovoc/c_7056
+sonar receivers,http://aims.fao.org/aos/agrovoc/c_d23ea6cc,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+ultrasonic devices,http://aims.fao.org/aos/agrovoc/c_09ec32c4,ultrasonics,http://aims.fao.org/aos/agrovoc/c_8044
+ultrasonic equipment,http://aims.fao.org/aos/agrovoc/c_09ec32c4,ultrasonics,http://aims.fao.org/aos/agrovoc/c_8044
+aircraft equipment,http://aims.fao.org/aos/agrovoc/c_0a592670,aircraft,http://aims.fao.org/aos/agrovoc/c_233
+surveying equipment,http://aims.fao.org/aos/agrovoc/c_e25db215,surveying,http://aims.fao.org/aos/agrovoc/c_7536
+shear probes,http://aims.fao.org/aos/agrovoc/c_f7ae79e6,shear,http://aims.fao.org/aos/agrovoc/c_6c80a093
+STD sensors,http://aims.fao.org/aos/agrovoc/c_0ad3a043,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+conductivity-temperature depth profilers,http://aims.fao.org/aos/agrovoc/c_15de7dc5,depth,http://aims.fao.org/aos/agrovoc/c_2190
+CTD sensors,http://aims.fao.org/aos/agrovoc/c_15de7dc5,sensors,http://aims.fao.org/aos/agrovoc/c_28279
+benthos collecting devices,http://aims.fao.org/aos/agrovoc/c_0b39ba0d,benthos,http://aims.fao.org/aos/agrovoc/c_878
+plankton collecting devices,http://aims.fao.org/aos/agrovoc/c_93e06e57,plankton,http://aims.fao.org/aos/agrovoc/c_5950
+plankton nets,http://aims.fao.org/aos/agrovoc/c_93e06e57,plankton,http://aims.fao.org/aos/agrovoc/c_5950
+nekton collecting devices,http://aims.fao.org/aos/agrovoc/c_a297ef23,nekton,http://aims.fao.org/aos/agrovoc/c_5105
+necton collecting devices,http://aims.fao.org/aos/agrovoc/c_a297ef23,nekton,http://aims.fao.org/aos/agrovoc/c_5105
+salvage equipment,http://aims.fao.org/aos/agrovoc/c_5187ab46,salvaging,http://aims.fao.org/aos/agrovoc/c_20c81b80
+mining equipment,http://aims.fao.org/aos/agrovoc/c_76b6f574,mining,http://aims.fao.org/aos/agrovoc/c_49983
+dredges (geology),http://aims.fao.org/aos/agrovoc/c_d671b98d,dredgers,http://aims.fao.org/aos/agrovoc/c_2376
+acoustic arrays,http://aims.fao.org/aos/agrovoc/c_2cdfca90,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+transducer arrays,http://aims.fao.org/aos/agrovoc/c_703c51b0,transducers,http://aims.fao.org/aos/agrovoc/c_120bc081
+sonar arrays,http://aims.fao.org/aos/agrovoc/c_22aaf626,sonar,http://aims.fao.org/aos/agrovoc/c_c568829a
+transponder arrays,http://aims.fao.org/aos/agrovoc/c_cc3b6afa,transponders,http://aims.fao.org/aos/agrovoc/c_f0a46682
+current meter arrays,http://aims.fao.org/aos/agrovoc/c_798df877,current meters,http://aims.fao.org/aos/agrovoc/c_513ef113
+thermistor chains,http://aims.fao.org/aos/agrovoc/c_75ec2ca3,chains,http://aims.fao.org/aos/agrovoc/c_04f04701
+seismic energy sources,http://aims.fao.org/aos/agrovoc/c_1cbfea78,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+air guns (seismic),http://aims.fao.org/aos/agrovoc/c_d3e6a780,air,http://aims.fao.org/aos/agrovoc/c_224
+deicing equipment,http://aims.fao.org/aos/agrovoc/c_d57bb932,deicing,http://aims.fao.org/aos/agrovoc/c_3c73540e
+de-icing equipment,http://aims.fao.org/aos/agrovoc/c_d57bb932,deicing,http://aims.fao.org/aos/agrovoc/c_3c73540e
+aquaculture facilities,http://aims.fao.org/aos/agrovoc/c_cbafa2e3,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+cage nets,http://aims.fao.org/aos/agrovoc/c_7f1ab695,cages,http://aims.fao.org/aos/agrovoc/c_1184
+air compressors,http://aims.fao.org/aos/agrovoc/c_94744f94,air,http://aims.fao.org/aos/agrovoc/c_224
+wind tunnels,http://aims.fao.org/aos/agrovoc/c_9b47bcf4,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind tunnels,http://aims.fao.org/aos/agrovoc/c_9b47bcf4,tunnels,http://aims.fao.org/aos/agrovoc/c_0f2d7511
+gas scrubbers,http://aims.fao.org/aos/agrovoc/c_43e1595d,gases,http://aims.fao.org/aos/agrovoc/c_3197
+acoustic tags,http://aims.fao.org/aos/agrovoc/c_5d22b12d,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+radio frequency identification tags,http://aims.fao.org/aos/agrovoc/c_23ef2de6,radio,http://aims.fao.org/aos/agrovoc/c_6424
+radio frequency identification tags,http://aims.fao.org/aos/agrovoc/c_23ef2de6,identification,http://aims.fao.org/aos/agrovoc/c_3791
+ear tags,http://aims.fao.org/aos/agrovoc/c_2c7639a9,ears,http://aims.fao.org/aos/agrovoc/c_2436
+water samples,http://aims.fao.org/aos/agrovoc/c_e7f37e3c,water,http://aims.fao.org/aos/agrovoc/c_8309
+sediment samples,http://aims.fao.org/aos/agrovoc/c_d4e3d9d9,sediment,http://aims.fao.org/aos/agrovoc/c_25341
+rock samples,http://aims.fao.org/aos/agrovoc/c_d4e3d9d9,rock,http://aims.fao.org/aos/agrovoc/c_6628
+mineral samples,http://aims.fao.org/aos/agrovoc/c_ce45c7f6,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+ship anchors,http://aims.fao.org/aos/agrovoc/c_c3b1822b,ships,http://aims.fao.org/aos/agrovoc/c_7040

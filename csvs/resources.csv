@@ -1,0 +1,184 @@
+nome,uriVella,NovoElemento,uriNiovo
+economic resources,http://aims.fao.org/aos/agrovoc/c_2476,economics,http://aims.fao.org/aos/agrovoc/c_2481
+individual land property,http://aims.fao.org/aos/agrovoc/c_9000082,individuals,http://aims.fao.org/aos/agrovoc/c_49823
+individual land property,http://aims.fao.org/aos/agrovoc/c_9000082,land,http://aims.fao.org/aos/agrovoc/c_4172
+dowry (land),http://aims.fao.org/aos/agrovoc/c_f7cf8606,land,http://aims.fao.org/aos/agrovoc/c_4172
+state property,http://aims.fao.org/aos/agrovoc/c_22d01a32,state,http://aims.fao.org/aos/agrovoc/c_330998
+common property,http://aims.fao.org/aos/agrovoc/c_9000022,commons,http://aims.fao.org/aos/agrovoc/c_778a14cf
+farm inputs,http://aims.fao.org/aos/agrovoc/c_2798,farms,http://aims.fao.org/aos/agrovoc/c_2809
+liquid gas fertilizers,http://aims.fao.org/aos/agrovoc/c_25712,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+liquid gas fertilizers,http://aims.fao.org/aos/agrovoc/c_25712,gases,http://aims.fao.org/aos/agrovoc/c_3197
+nitrogen phosphorus fertilizers,http://aims.fao.org/aos/agrovoc/c_5198,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+nitrogen phosphorus fertilizers,http://aims.fao.org/aos/agrovoc/c_5198,phosphate fertilizers,http://aims.fao.org/aos/agrovoc/c_5800
+phosphorus potassium fertilizers,http://aims.fao.org/aos/agrovoc/c_5805,phosphorus,http://aims.fao.org/aos/agrovoc/c_5804
+phosphorus potassium fertilizers,http://aims.fao.org/aos/agrovoc/c_5805,potash fertilizers,http://aims.fao.org/aos/agrovoc/c_6138
+nitrogen potassium fertilizers,http://aims.fao.org/aos/agrovoc/c_5199,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+nitrogen potassium fertilizers,http://aims.fao.org/aos/agrovoc/c_5199,potash fertilizers,http://aims.fao.org/aos/agrovoc/c_6138
+micronutrient fertilizers,http://aims.fao.org/aos/agrovoc/c_4806,trace elements,http://aims.fao.org/aos/agrovoc/c_7834
+trace element fertilizers,http://aims.fao.org/aos/agrovoc/c_4806,trace elements,http://aims.fao.org/aos/agrovoc/c_7834
+slow release fertilizers,http://aims.fao.org/aos/agrovoc/c_7110,controlled release,http://aims.fao.org/aos/agrovoc/c_34247
+controlled release fertilizers,http://aims.fao.org/aos/agrovoc/c_7110,controlled release,http://aims.fao.org/aos/agrovoc/c_34247
+mineral fertilizers,http://aims.fao.org/aos/agrovoc/c_27870,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+fish manure,http://aims.fao.org/aos/agrovoc/c_27896,fish,http://aims.fao.org/aos/agrovoc/c_15903
+potting composts,http://aims.fao.org/aos/agrovoc/c_6144,potting,http://aims.fao.org/aos/agrovoc/c_6143
+mushroom composts,http://aims.fao.org/aos/agrovoc/c_b257ca1f,edible fungi,http://aims.fao.org/aos/agrovoc/c_2487
+phosphate fertilizers,http://aims.fao.org/aos/agrovoc/c_5800,phosphates,http://aims.fao.org/aos/agrovoc/c_35986
+phosphorus fertilizers,http://aims.fao.org/aos/agrovoc/c_5800,phosphorus,http://aims.fao.org/aos/agrovoc/c_5804
+rock phosphate,http://aims.fao.org/aos/agrovoc/c_6630,rock,http://aims.fao.org/aos/agrovoc/c_6628
+mineral phosphate,http://aims.fao.org/aos/agrovoc/c_6630,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+potassium fertilizers,http://aims.fao.org/aos/agrovoc/c_6138,potassium,http://aims.fao.org/aos/agrovoc/c_6139
+nitrogen fertilizers,http://aims.fao.org/aos/agrovoc/c_5195,nitrogen,http://aims.fao.org/aos/agrovoc/c_5192
+ammonium fertilizers,http://aims.fao.org/aos/agrovoc/c_37197,ammonium,http://aims.fao.org/aos/agrovoc/c_32634
+nitrate fertilizers,http://aims.fao.org/aos/agrovoc/c_37469,nitrates,http://aims.fao.org/aos/agrovoc/c_5187
+sulfur fertilizers,http://aims.fao.org/aos/agrovoc/c_27917,sulfur,http://aims.fao.org/aos/agrovoc/c_7514
+sulphur fertilizers,http://aims.fao.org/aos/agrovoc/c_27917,sulfur,http://aims.fao.org/aos/agrovoc/c_7514
+calcium fertilizers,http://aims.fao.org/aos/agrovoc/c_1199,calcium,http://aims.fao.org/aos/agrovoc/c_1196
+magnesium fertilizers,http://aims.fao.org/aos/agrovoc/c_27904,magnesium,http://aims.fao.org/aos/agrovoc/c_4517
+liquid fertilizers,http://aims.fao.org/aos/agrovoc/c_4372,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+propagation materials,http://aims.fao.org/aos/agrovoc/c_6224,materials,http://aims.fao.org/aos/agrovoc/c_92337
+foundation seed,http://aims.fao.org/aos/agrovoc/c_331544,foundations,http://aims.fao.org/aos/agrovoc/c_50214
+artificial seeds,http://aims.fao.org/aos/agrovoc/c_27453,seeds,http://aims.fao.org/aos/agrovoc/c_6946
+synthetic seeds,http://aims.fao.org/aos/agrovoc/c_27453,seeds,http://aims.fao.org/aos/agrovoc/c_6946
+in vitro plantlets,http://aims.fao.org/aos/agrovoc/c_27626,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+planting stock,http://aims.fao.org/aos/agrovoc/c_16111,planting,http://aims.fao.org/aos/agrovoc/c_5992
+planting stock,http://aims.fao.org/aos/agrovoc/c_16111,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+nursery plants,http://aims.fao.org/aos/agrovoc/c_16111,plants,http://aims.fao.org/aos/agrovoc/c_5993
+nursery stock,http://aims.fao.org/aos/agrovoc/c_16111,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+bare root stock,http://aims.fao.org/aos/agrovoc/c_f29a8d6b,roots,http://aims.fao.org/aos/agrovoc/c_6651
+bare root sapling,http://aims.fao.org/aos/agrovoc/c_f29a8d6b,roots,http://aims.fao.org/aos/agrovoc/c_6651
+grafting stocks,http://aims.fao.org/aos/agrovoc/c_6653,grafting,http://aims.fao.org/aos/agrovoc/c_3344
+grafting stocks,http://aims.fao.org/aos/agrovoc/c_6653,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+plant cuttings,http://aims.fao.org/aos/agrovoc/c_2048,plants,http://aims.fao.org/aos/agrovoc/c_5993
+training materials,http://aims.fao.org/aos/agrovoc/c_9000168,training,http://aims.fao.org/aos/agrovoc/c_7861
+training materials,http://aims.fao.org/aos/agrovoc/c_9000168,materials,http://aims.fao.org/aos/agrovoc/c_92337
+extension materials,http://aims.fao.org/aos/agrovoc/c_9000061,extension,http://aims.fao.org/aos/agrovoc/c_2762
+teaching materials,http://aims.fao.org/aos/agrovoc/c_7639,teaching,http://aims.fao.org/aos/agrovoc/c_7638
+teaching materials,http://aims.fao.org/aos/agrovoc/c_7639,materials,http://aims.fao.org/aos/agrovoc/c_92337
+raw materials,http://aims.fao.org/aos/agrovoc/c_24887,materials,http://aims.fao.org/aos/agrovoc/c_92337
+energy sources,http://aims.fao.org/aos/agrovoc/c_2570,energy,http://aims.fao.org/aos/agrovoc/c_2565
+solar activity,http://aims.fao.org/aos/agrovoc/c_7222,activities,http://aims.fao.org/aos/agrovoc/c_330834
+water power,http://aims.fao.org/aos/agrovoc/c_8322,water,http://aims.fao.org/aos/agrovoc/c_8309
+water power,http://aims.fao.org/aos/agrovoc/c_8322,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+hydroelectric power,http://aims.fao.org/aos/agrovoc/c_25612,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wave power,http://aims.fao.org/aos/agrovoc/c_4eb75191,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wind power,http://aims.fao.org/aos/agrovoc/c_8394,winds,http://aims.fao.org/aos/agrovoc/c_8401
+wind power,http://aims.fao.org/aos/agrovoc/c_8394,energy sources,http://aims.fao.org/aos/agrovoc/c_2570
+wind energy,http://aims.fao.org/aos/agrovoc/c_8394,winds,http://aims.fao.org/aos/agrovoc/c_8401
+biomass fuels,http://aims.fao.org/aos/agrovoc/c_27465,biomass,http://aims.fao.org/aos/agrovoc/c_926
+wood pellets,http://aims.fao.org/aos/agrovoc/c_a83d5bac,wood,http://aims.fao.org/aos/agrovoc/c_8421
+wood pellets,http://aims.fao.org/aos/agrovoc/c_a83d5bac,pellets,http://aims.fao.org/aos/agrovoc/c_5664
+wood energy,http://aims.fao.org/aos/agrovoc/c_37916,wood,http://aims.fao.org/aos/agrovoc/c_8421
+forest energy,http://aims.fao.org/aos/agrovoc/c_37916,forests,http://aims.fao.org/aos/agrovoc/c_3062
+water resources,http://aims.fao.org/aos/agrovoc/c_8325,water,http://aims.fao.org/aos/agrovoc/c_8309
+freshwater resources,http://aims.fao.org/aos/agrovoc/c_a71c319d,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+waste land,http://aims.fao.org/aos/agrovoc/c_16205,wastes,http://aims.fao.org/aos/agrovoc/c_8307
+grazing lands,http://aims.fao.org/aos/agrovoc/c_3369,grazing,http://aims.fao.org/aos/agrovoc/c_25243
+forest range,http://aims.fao.org/aos/agrovoc/c_28008,forests,http://aims.fao.org/aos/agrovoc/c_3062
+mangrove swamps,http://aims.fao.org/aos/agrovoc/c_4577,mangroves,http://aims.fao.org/aos/agrovoc/c_16190
+rice fields,http://aims.fao.org/aos/agrovoc/c_34891,rice,http://aims.fao.org/aos/agrovoc/c_6599
+state land,http://aims.fao.org/aos/agrovoc/c_36873,state,http://aims.fao.org/aos/agrovoc/c_330998
+forest land,http://aims.fao.org/aos/agrovoc/c_24843,forests,http://aims.fao.org/aos/agrovoc/c_3062
+degraded forest land,http://aims.fao.org/aos/agrovoc/c_1374841039020,disturbed forests,http://aims.fao.org/aos/agrovoc/c_1374840486107
+mineral resources,http://aims.fao.org/aos/agrovoc/c_4852,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+crude oil,http://aims.fao.org/aos/agrovoc/c_5747,oils,http://aims.fao.org/aos/agrovoc/c_5334
+mineral oils,http://aims.fao.org/aos/agrovoc/c_4851,minerals,http://aims.fao.org/aos/agrovoc/c_4857
+diesel oil,http://aims.fao.org/aos/agrovoc/c_34813,oils,http://aims.fao.org/aos/agrovoc/c_5334
+turf (peat),http://aims.fao.org/aos/agrovoc/c_5647,turf,http://aims.fao.org/aos/agrovoc/c_8011
+feed resources,http://aims.fao.org/aos/agrovoc/c_35106,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+ecosystem diversity,http://aims.fao.org/aos/agrovoc/c_33949,ecosystems,http://aims.fao.org/aos/agrovoc/c_2482
+genetic diversity (as resource),http://aims.fao.org/aos/agrovoc/c_33952,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+forest biodiversity,http://aims.fao.org/aos/agrovoc/c_0a269dfe,forests,http://aims.fao.org/aos/agrovoc/c_3062
+forestry biodiversity,http://aims.fao.org/aos/agrovoc/c_0a269dfe,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+forest biological diversity,http://aims.fao.org/aos/agrovoc/c_0a269dfe,forests,http://aims.fao.org/aos/agrovoc/c_3062
+species diversity,http://aims.fao.org/aos/agrovoc/c_00ba8c53,species,http://aims.fao.org/aos/agrovoc/c_7280
+community diversity,http://aims.fao.org/aos/agrovoc/c_00ba8c53,communities,http://aims.fao.org/aos/agrovoc/c_50182
+animal resources,http://aims.fao.org/aos/agrovoc/c_440,animals,http://aims.fao.org/aos/agrovoc/c_444
+genetic resources,http://aims.fao.org/aos/agrovoc/c_3218,genetics,http://aims.fao.org/aos/agrovoc/c_3222
+genetic material banks,http://aims.fao.org/aos/agrovoc/c_11116,germplasm,http://aims.fao.org/aos/agrovoc/c_3249
+seed banks (genetics),http://aims.fao.org/aos/agrovoc/c_11116,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed banks (genetics),http://aims.fao.org/aos/agrovoc/c_11116,banks,http://aims.fao.org/aos/agrovoc/c_812
+community seed bank,http://aims.fao.org/aos/agrovoc/c_1415210059453,communities,http://aims.fao.org/aos/agrovoc/c_50182
+community seed bank,http://aims.fao.org/aos/agrovoc/c_1415210059453,seed,http://aims.fao.org/aos/agrovoc/c_6927
+animal genetic resources,http://aims.fao.org/aos/agrovoc/c_37418,animal genetics,http://aims.fao.org/aos/agrovoc/c_49986
+pedigree livestock,http://aims.fao.org/aos/agrovoc/c_13185,pedigrees,http://aims.fao.org/aos/agrovoc/c_595fd878
+pedigree livestock,http://aims.fao.org/aos/agrovoc/c_13185,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+livestock breeds,http://aims.fao.org/aos/agrovoc/c_12212,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+exotic breeds,http://aims.fao.org/aos/agrovoc/c_32892,introduced species,http://aims.fao.org/aos/agrovoc/c_1333440888271
+land breeds,http://aims.fao.org/aos/agrovoc/c_4177,land,http://aims.fao.org/aos/agrovoc/c_4172
+endemic breeds,http://aims.fao.org/aos/agrovoc/c_4177,endemics,http://aims.fao.org/aos/agrovoc/c_16416
+camel breeds,http://aims.fao.org/aos/agrovoc/c_c53eaa0d,camels,http://aims.fao.org/aos/agrovoc/c_1228
+cat breeds,http://aims.fao.org/aos/agrovoc/c_6eab3ebd,cats,http://aims.fao.org/aos/agrovoc/c_1390
+cattle breeds,http://aims.fao.org/aos/agrovoc/c_c5f298d3,cattle,http://aims.fao.org/aos/agrovoc/c_1391
+rabbit breeds,http://aims.fao.org/aos/agrovoc/c_33a4369d,rabbits,http://aims.fao.org/aos/agrovoc/c_6414
+sheep breeds,http://aims.fao.org/aos/agrovoc/c_fb4f2485,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+Kangal White Karaman,http://aims.fao.org/aos/agrovoc/c_d5a851d5,White Karaman,http://aims.fao.org/aos/agrovoc/c_18df5899
+Central Anatolian Merino,http://aims.fao.org/aos/agrovoc/c_422a6b6c,Anatolian Merino,http://aims.fao.org/aos/agrovoc/c_b887034c
+pig breeds,http://aims.fao.org/aos/agrovoc/c_e9e4dd68,swine,http://aims.fao.org/aos/agrovoc/c_7555
+goat breeds,http://aims.fao.org/aos/agrovoc/c_31620b27,goats,http://aims.fao.org/aos/agrovoc/c_3324
+Norduz Goat,http://aims.fao.org/aos/agrovoc/c_644aaf46,Norduz,http://aims.fao.org/aos/agrovoc/c_4ca1e261
+poultry breeds,http://aims.fao.org/aos/agrovoc/c_011bb48c,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+chicken breeds,http://aims.fao.org/aos/agrovoc/c_45d35147,chickens,http://aims.fao.org/aos/agrovoc/c_1540
+duck breeds,http://aims.fao.org/aos/agrovoc/c_131211a4,ducks,http://aims.fao.org/aos/agrovoc/c_2406
+turkey breeds,http://aims.fao.org/aos/agrovoc/c_0ebb2249,turkeys,http://aims.fao.org/aos/agrovoc/c_8016
+horse breeds,http://aims.fao.org/aos/agrovoc/c_67b12182,horses,http://aims.fao.org/aos/agrovoc/c_3668
+land varieties,http://aims.fao.org/aos/agrovoc/c_32886,land,http://aims.fao.org/aos/agrovoc/c_4172
+endemic varieties,http://aims.fao.org/aos/agrovoc/c_32886,endemics,http://aims.fao.org/aos/agrovoc/c_16416
+plant landraces,http://aims.fao.org/aos/agrovoc/c_32886,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant landraces,http://aims.fao.org/aos/agrovoc/c_32886,landraces,http://aims.fao.org/aos/agrovoc/c_4177
+area specific variety,http://aims.fao.org/aos/agrovoc/c_330593,area,http://aims.fao.org/aos/agrovoc/c_330588
+exotic varieties,http://aims.fao.org/aos/agrovoc/c_32896,introduced species,http://aims.fao.org/aos/agrovoc/c_1333440888271
+exotic germplasm,http://aims.fao.org/aos/agrovoc/c_cca98046,introduced species,http://aims.fao.org/aos/agrovoc/c_1333440888271
+heterotic groups,http://aims.fao.org/aos/agrovoc/c_99409960,groups,http://aims.fao.org/aos/agrovoc/c_50227
+plant genetic resources,http://aims.fao.org/aos/agrovoc/c_37419,plant genetics,http://aims.fao.org/aos/agrovoc/c_49985
+forest genetic resources,http://aims.fao.org/aos/agrovoc/c_331594,forests,http://aims.fao.org/aos/agrovoc/c_3062
+DNA libraries,http://aims.fao.org/aos/agrovoc/c_8cbdc1d5,DNA,http://aims.fao.org/aos/agrovoc/c_2347
+DNA libraries,http://aims.fao.org/aos/agrovoc/c_8cbdc1d5,libraries,http://aims.fao.org/aos/agrovoc/c_4311
+cDNA libraries,http://aims.fao.org/aos/agrovoc/c_ba8a9d4b,complementary DNA,http://aims.fao.org/aos/agrovoc/c_f859a862
+cell lines,http://aims.fao.org/aos/agrovoc/c_2e0e4efa,cells,http://aims.fao.org/aos/agrovoc/c_1418
+plant resources,http://aims.fao.org/aos/agrovoc/c_5979,plants,http://aims.fao.org/aos/agrovoc/c_5993
+wild boar,http://aims.fao.org/aos/agrovoc/c_24131,boars,http://aims.fao.org/aos/agrovoc/c_977
+communal ownership,http://aims.fao.org/aos/agrovoc/c_9024771d,ownership,http://aims.fao.org/aos/agrovoc/c_5466
+communal territory,http://aims.fao.org/aos/agrovoc/c_41b77c02,territory,http://aims.fao.org/aos/agrovoc/c_a9e7dd7f
+lineage land,http://aims.fao.org/aos/agrovoc/c_d08b21b6,lineage,http://aims.fao.org/aos/agrovoc/c_29225
+lineage land,http://aims.fao.org/aos/agrovoc/c_d08b21b6,land,http://aims.fao.org/aos/agrovoc/c_4172
+sacred woods,http://aims.fao.org/aos/agrovoc/c_c0a7f4fb,wood,http://aims.fao.org/aos/agrovoc/c_8421
+Indigenous Peoples' territories,http://aims.fao.org/aos/agrovoc/c_f7f8f7ab,Indigenous Peoples,http://aims.fao.org/aos/agrovoc/c_331524
+food resources,http://aims.fao.org/aos/agrovoc/c_3026,foods,http://aims.fao.org/aos/agrovoc/c_3032
+energy resources,http://aims.fao.org/aos/agrovoc/c_28006,energy,http://aims.fao.org/aos/agrovoc/c_2565
+natural gas,http://aims.fao.org/aos/agrovoc/c_5087,gases,http://aims.fao.org/aos/agrovoc/c_3197
+lp-gas (liquid petroleum gas),http://aims.fao.org/aos/agrovoc/c_5087,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+lp-gas (liquid petroleum gas),http://aims.fao.org/aos/agrovoc/c_5087,petroleum,http://aims.fao.org/aos/agrovoc/c_5747
+lp-gas (liquid petroleum gas),http://aims.fao.org/aos/agrovoc/c_5087,gases,http://aims.fao.org/aos/agrovoc/c_3197
+liquid fuels,http://aims.fao.org/aos/agrovoc/c_25025,liquids,http://aims.fao.org/aos/agrovoc/c_12200
+solid fuels,http://aims.fao.org/aos/agrovoc/c_25082,solids,http://aims.fao.org/aos/agrovoc/c_7229
+producer gas,http://aims.fao.org/aos/agrovoc/c_26807,gases,http://aims.fao.org/aos/agrovoc/c_3197
+fossil fuels,http://aims.fao.org/aos/agrovoc/c_cb06ade9,fossils,http://aims.fao.org/aos/agrovoc/c_10989
+synthesis gases,http://aims.fao.org/aos/agrovoc/c_be83d79a,synthesis,http://aims.fao.org/aos/agrovoc/c_3def4163
+synthesis gases,http://aims.fao.org/aos/agrovoc/c_be83d79a,gases,http://aims.fao.org/aos/agrovoc/c_3197
+synthetic gas,http://aims.fao.org/aos/agrovoc/c_be83d79a,gases,http://aims.fao.org/aos/agrovoc/c_3197
+forest resources,http://aims.fao.org/aos/agrovoc/c_3050,forests,http://aims.fao.org/aos/agrovoc/c_3062
+production forests,http://aims.fao.org/aos/agrovoc/c_28123,production,http://aims.fao.org/aos/agrovoc/c_6200
+protection forests,http://aims.fao.org/aos/agrovoc/c_28127,protection,http://aims.fao.org/aos/agrovoc/c_330896
+soil resources,http://aims.fao.org/aos/agrovoc/c_7187,soil,http://aims.fao.org/aos/agrovoc/c_7156
+fishery resources,http://aims.fao.org/aos/agrovoc/c_2942,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+biological stocks,http://aims.fao.org/aos/agrovoc/c_601eeee0,stocks,http://aims.fao.org/aos/agrovoc/c_28772
+fish stocks,http://aims.fao.org/aos/agrovoc/c_cfea9f6a,fish,http://aims.fao.org/aos/agrovoc/c_15903
+unit stocks,http://aims.fao.org/aos/agrovoc/c_91aa2d22,units,http://aims.fao.org/aos/agrovoc/c_50324
+stock assessment units,http://aims.fao.org/aos/agrovoc/c_489af625,stock assessment,http://aims.fao.org/aos/agrovoc/c_24251
+fishery management unit,http://aims.fao.org/aos/agrovoc/c_ce03d2ef,fishery management,http://aims.fao.org/aos/agrovoc/c_24026
+fisheries management unit,http://aims.fao.org/aos/agrovoc/c_ce03d2ef,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fisheries management unit,http://aims.fao.org/aos/agrovoc/c_ce03d2ef,management,http://aims.fao.org/aos/agrovoc/c_16086
+fisheries management unit,http://aims.fao.org/aos/agrovoc/c_ce03d2ef,units,http://aims.fao.org/aos/agrovoc/c_50324
+human resources,http://aims.fao.org/aos/agrovoc/c_3684,humans,http://aims.fao.org/aos/agrovoc/c_4586
+farm workers,http://aims.fao.org/aos/agrovoc/c_8684,farms,http://aims.fao.org/aos/agrovoc/c_2809
+forest workers,http://aims.fao.org/aos/agrovoc/c_25278,forests,http://aims.fao.org/aos/agrovoc/c_3062
+factory workers,http://aims.fao.org/aos/agrovoc/c_28689,factories,http://aims.fao.org/aos/agrovoc/c_25201
+peasant workers,http://aims.fao.org/aos/agrovoc/c_28742,smallholders,http://aims.fao.org/aos/agrovoc/c_14343
+child labour,http://aims.fao.org/aos/agrovoc/c_1546,children,http://aims.fao.org/aos/agrovoc/c_1547
+female labour,http://aims.fao.org/aos/agrovoc/c_2852,females,http://aims.fao.org/aos/agrovoc/c_15969
+male labour,http://aims.fao.org/aos/agrovoc/c_4538,males,http://aims.fao.org/aos/agrovoc/c_15995
+migrant labour,http://aims.fao.org/aos/agrovoc/c_4821,migrants,http://aims.fao.org/aos/agrovoc/c_e42455cf
+migrant workers,http://aims.fao.org/aos/agrovoc/c_4821,migrants,http://aims.fao.org/aos/agrovoc/c_e42455cf
+migrant workers,http://aims.fao.org/aos/agrovoc/c_4821,workers,http://aims.fao.org/aos/agrovoc/c_8445
+foreign workers,http://aims.fao.org/aos/agrovoc/c_10981,workers,http://aims.fao.org/aos/agrovoc/c_8445
+family labour,http://aims.fao.org/aos/agrovoc/c_2788,families,http://aims.fao.org/aos/agrovoc/c_2785
