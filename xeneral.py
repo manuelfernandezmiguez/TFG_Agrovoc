@@ -14,7 +14,7 @@ def anotarWikidataAgrovoc(texto):
     for entity in entities:
         print(entity)
         print(busquedaWikidataIDAgrovoc('Q'+str(entity.identifier)))
-anotarWikidataAgrovoc("The raspberry pi is a microcomputer used to AI and IOT")
+#anotarWikidataAgrovoc("The raspberry pi is a microcomputer used to AI and IOT")
 def lexemaEstemma(nome:str,lista:list):
     fixarNomeLexSte(nome,lexemaConcepto(nome),aplicarStemming(nome))
     if(len(lista)>0):
@@ -79,7 +79,8 @@ def facerBusquedaDoConcepto(nome:str):
                 guardar=i
                 resultado=[]
                 resultado.append(i)
-    #print(resultado)
+    print(nome)
+    print(resultado)
     return resultado
 
 #pprint(facerBusquedaDoConcepto('forage sorghum production'))
@@ -123,11 +124,11 @@ def ConceptosAgrovocNoTexto(nome:str):
                     if(len(listaAux2)>1):
                         listaAux2=[]
                         listaAux2.append(listaAuxiliar[0][0])
-                    print(listaAuxiliar[0][0])
-                    print(listaAuxiliar[1][0])
+                    #print(listaAuxiliar[0][0])
+                    #print(listaAuxiliar[1][0])
                     listaAuxiliar=[]
                     listaAuxiliar.append(devolverNodoPoloNome(listaAux2[0]))
-                    print(listaAuxiliar)
+                    #print(listaAuxiliar)
                     romper=True
                 else:
                     

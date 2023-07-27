@@ -257,7 +257,7 @@ def StringContenLexConcepto(text:str):
             lista=[]
         return listaResultado
 #print(StringContenLexConcepto('computer vision'))
-#print(buscarLexContidoConcepto('housing','bee'))
+print(buscarLexContidoConcepto('housing','bee'))
 def contidosNosFillos(nome:str):
     query = f"""
     MATCH (me)-[:Narrower*]->(remote_friend),(p)-[:Contido_en*]->(remote_friend)

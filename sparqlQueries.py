@@ -90,7 +90,7 @@ def busquedaNome(nome):
         return value,uri
 
 #busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
-#value,uri=busquedaNome('swamp buffaloes')
+#value,uri=busquedaNome('bees')
 #print(value)
 def busquedaNomeAlternativo(parametro): 
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
@@ -347,7 +347,7 @@ def busquedaTopConcepts():
 def busquedaWikidataIDAgrovoc(id:str):
     sparql = SPARQLWrapper('https://query.wikidata.org/sparql')
     query="""SELECT ?item ?itemLabel ?value WHERE {
-    wd:"""+id+""" wdt:P279+ ?item.
+    wd:"""+id+""" wdt:P279* ?item.
     ?item wdt:P8061 ?value;
     SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
     }"""

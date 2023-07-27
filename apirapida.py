@@ -96,19 +96,9 @@ async def get_node_nome(nome:str):
 @app.get("/neo4j/busqueda/nome/{nome}")
 async def get_busqueda_nome(nome:str):
     lista=facerBusquedaDoConcepto(nome)
-    for l in lista:
-        if(len(contidosNosFillos(l))>0):
-            query = f"""
-            MATCH (me)-[:Narrower*]->(remote_friend),(p)-[:Contido_en*]->(remote_friend)
-            WHERE me.label = '{l}'
-            RETURN remote_friend.label,p.label
-            """
-            break
+    
     try:
-        with driver.session() as session:
-            result = session.run(query=query)
-            nodes = result.data()
-        return nodes
+        return lista
     except Exception as e:
         print(e)
         return JSONResponse(content={"message": "get location node unsuccessful"}, status_code=500)
