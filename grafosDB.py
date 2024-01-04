@@ -223,6 +223,32 @@ def devolverLex(nome:str):
         
     return lista
 
+def devolverStemma(nome:str):
+    query = f"""
+    MATCH(e) where e.uri='{nome}' return e.label_stem,e.alternative_labels_stem
+    """
+    lista=[]
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+        
+    return lista
+def devolverLemma(nome:str):
+    query = f"""
+    MATCH(e) where e.uri='{nome}' return e.label_lex,e.alternative_labels_lex
+    """
+    lista=[]
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+        
+    return lista
+#print(devolverStemma('http://aims.fao.org/aos/agrovoc/c_3654'))
+#print(devolverLemma('http://aims.fao.org/aos/agrovoc/c_3654'))
 def buscarLexContidoConcepto(nome1:str,nome2:str):
     lista: list[json_data]= []
     query = f"""
@@ -257,7 +283,7 @@ def StringContenLexConcepto(text:str):
             lista=[]
         return listaResultado
 #print(StringContenLexConcepto('computer vision'))
-print(buscarLexContidoConcepto('housing','bee'))
+#print(buscarLexContidoConcepto('housing','bee'))
 def contidosNosFillos(nome:str):
     query = f"""
     MATCH (me)-[:Narrower*]->(remote_friend),(p)-[:Contido_en*]->(remote_friend)
@@ -374,6 +400,39 @@ def busquedaPaisGrafo(concepto1) :
             lista+=(json_data)
         
         return lista
+
+def startsWithStem(nome: str):
+    lista: list[json_data]= []
+    listaResultado: list[json_data]= []
+    query = f"""MATCH (n)
+    WHERE ANY(label IN labels(n) WHERE label STARTS WITH '{nome}' OR n.alternative_labels STARTS WITH '{nome}')
+    RETURN n.label,n.uri"""
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+            listaResultado.append(lista)
+            lista=[]
+        return listaResultado
+
+def startsWithLex(nome: str):
+    lista: list[json_data]= []
+    listaResultado: list[json_data]= []
+    query = f"""MATCH (n)
+    WHERE ANY(lemma IN SPLIT(n.lemmatizations, ',') WHERE lemma IN labels(x:Concepto))
+    RETURN x.label,x.uri"""
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+            listaResultado.append(lista)
+            lista=[]
+        return listaResultado
+    
+#print(startsWithStem('bee'))
+    
 
 #print(busquedaPaisGrafo('honeybees'))
 ###

@@ -1,129 +1,124 @@
-buscado,resultado
-meat animals production,meat production
-beef cattle production,meat production
-ornamental fishes production,animal production
-pet animals production,animal production
-ornamental birds production,aviculture
-songbirds production,aviculture
-plumage birds production,aviculture
-zoo animals production,animal production
-domestic animals production,animal production
-poultry production,aviculture
-geese production,aviculture
-ganders production,aviculture
-goslings production,aviculture
-chickens production,aviculture
-capons production,aviculture
-cocks production,aviculture
-chicks production,aviculture
-broiler chickens production,aviculture
-cockerels production,aviculture
-hens production,aviculture
-layer chickens production,aviculture
-pullets production,aviculture
-layer breeders production,aviculture
-broiler breeders production,aviculture
-guinea fowl production,aviculture
-quails production,aviculture
-turkeys production,aviculture
-turkey poults production,aviculture
-ducks production,aviculture
-drakes production,aviculture
-ducklings production,aviculture
-Muscovy ducks production,aviculture
-working animals production,animal production
-draught animals production,animal production
-pack animals production,animal production
-livestock production,livestock production
-cattle production,livestock production
-bullocks production,livestock production
-bulls production,livestock production
-heifers production,livestock production
-dairy cattle production,milk production
-dairy cows production,milk production
-zebu production,livestock production
-banteng production,livestock production
-calves production,livestock production
-cows production,livestock production
-suckler cows production,livestock production
-yearling bulls production,livestock production
-gaurs production,livestock production
-yaks production,livestock production
-goats production,livestock production
-billygoats production,livestock production
-kids production,livestock production
-nannygoats production,livestock production
-doelings production,livestock production
-female yearling (goat) production,livestock production
-male yearling (goat) production,livestock production
-dairy goats production,milk production
-fibre goats production,livestock production
-sheep production,livestock production
-ewes production,livestock production
-lambs production,livestock production
-hoggets production,livestock production
-rams production,livestock production
-wethers production,livestock production
-ewe hoggs production,livestock production
-gimmers production,livestock production
-dairy sheep production,milk production
-donkeys production,livestock production
-hinnies production,livestock production
-mules production,livestock production
-domestic buffaloes production,livestock production
-water buffaloes production,livestock production
-camels production,livestock production
-dromedaries production,livestock production
-Bactrian camels production,livestock production
-swine production,livestock production
-piglets production,livestock production
-suckling piglets production,livestock production
-weaners production,livestock production
-boars production,livestock production
-barrows production,livestock production
-sows production,livestock production
-gilts production,livestock production
-dry sows production,livestock production
-farrowing sows production,livestock production
-miniature pigs production,livestock production
-fattening pigs production,livestock production
-horses production,livestock production
-fillies production,livestock production
-racehorses production,livestock production
-saddle horses production,livestock production
-draught horses production,livestock production
-mares production,livestock production
-geldings production,livestock production
-stallions production,livestock production
-ponies production,livestock production
-colts production,livestock production
-yearling (horse) production,livestock production
-foals production,livestock production
-milk yielding animals production,milk production
-furbearing animals production,animal production
-skin producing animals production,animal production
-oil producing animals production,oil and gas production
-performing animals production,animal production
-pollinators production,animal production
-useful arthropods production,animal production
-biological control arthropods production,animal production
-useful insects production,animal production
-honey bees production,honey production
-bee broods production,honey production
-drones (insects) production,honey production
-queen bees production,honey production
-worker bees production,honey production
-Africanized bees production,honey production
-Lac insects production,animal production
-cx,sericulture
-dung beetles production,animal production
-insects as food production,animal production
-ornamental insects production,animal production
-medicinal insects production,animal production
-wool producing animals production,wool production
-breeding stock production,animal production
-laboratory animals production,animal production
-gnotobiotic animals production,animal production
-laboratory mammals production,animal production
-recipient animals production,animal production
-donor animals production,animal production
+buscado,resultado,tempo
+meat animals production,meat production,49.60082936286926
+beef cattle production,meat production,83.29282999038696
+ornamental fishes production,animal production,47.96503806114197
+pet animals production,animal production,48.03787398338318
+ornamental birds production,aviculture,52.12885236740112
+songbirds production,aviculture,43.77963161468506
+plumage birds production,aviculture,52.2972149848938
+zoo animals production,animal production,39.77472805976868
+domestic animals production,animal production,47.98402285575867
+poultry production,aviculture,25.14454460144043
+geese production,aviculture,37.74315595626831
+ganders production,aviculture,37.498321533203125
+goslings production,aviculture,37.651652097702026
+chickens production,aviculture,33.4010865688324
+capons production,aviculture,49.76065397262573
+cocks production,aviculture,50.02237343788147
+chicks production,aviculture,37.47555756568909
+broiler chickens production,aviculture,50.10983443260193
+cockerels production,aviculture,49.72910737991333
+hens production,aviculture,49.545438289642334
+layer chickens production,aviculture,49.79973268508911
+pullets production,aviculture,37.34735083580017
+layer breeders production,aviculture,50.13974595069885
+broiler breeders production,aviculture,50.014166831970215
+guinea fowl production,aviculture,45.78860902786255
+quails production,aviculture,33.438082695007324
+turkeys production,aviculture,33.408172607421875
+turkey poults production,aviculture,49.95970416069031
+ducks production,aviculture,33.475653409957886
+drakes production,aviculture,37.574026107788086
+ducklings production,aviculture,37.70180106163025
+Muscovy ducks production,aviculture,50.29717469215393
+working animals production,animal production,52.186490297317505
+draught animals production,animal production,56.439382553100586
+pack animals production,animal production,56.48633074760437
+livestock production,livestock production,2.125006675720215
+cattle production,livestock production,48.18018364906311
+bullocks production,livestock production,64.64529490470886
+bulls production,livestock production,64.43646883964539
+heifers production,livestock production,64.10589170455933
+dairy cattle production,milk production,66.32598829269409
+dairy cows production,milk production,118.48406648635864
+zebu production,livestock production,72.7969000339508
+banteng production,livestock production,52.07900261878967
+calves production,livestock production,56.028125286102295
+cows production,livestock production,64.52899050712585
+suckler cows production,livestock production,80.99821424484253
+yearling bulls production,livestock production,64.76243042945862
+gaurs production,livestock production,47.93322014808655
+yaks production,livestock production,47.987873554229736
+goats production,livestock production,48.07613921165466
+billygoats production,livestock production,64.68968558311462
+kids production,livestock production,52.01977276802063
+nannygoats production,livestock production,64.21318030357361
+doelings production,livestock production,51.69520306587219
+female yearling (goat) production,livestock production,41.31547212600708
+male yearling (goat) production,livestock production,41.646963596343994
+dairy goats production,milk production,66.30223202705383
+fibre goats production,livestock production,64.37867593765259
+llamas production,livestock production,47.963953495025635
+sheep production,livestock production,43.745311975479126
+ewes production,livestock production,64.5677273273468
+lambs production,livestock production,51.9465069770813
+hoggets production,livestock production,51.88682818412781
+rams production,livestock production,64.44351935386658
+wethers production,livestock production,64.48711895942688
+ewe hoggs production,livestock production,64.57107353210449
+gimmers production,livestock production,51.950674533843994
+dairy sheep production,milk production,60.25338864326477
+donkeys production,livestock production,49.693541288375854
+hinnies production,livestock production,47.871498823165894
+mules production,livestock production,47.91219878196716
+domestic buffaloes production,livestock production,60.00429725646973
+water buffaloes production, ,35.581380128860474
+camels production,livestock production,47.89538073539734
+dromedaries production,livestock production,51.88626551628113
+Bactrian camels production,livestock production,64.43616652488708
+swine production,livestock production,43.55546593666077
+piglets production,livestock production,47.80008912086487
+suckling piglets production,livestock production,64.59120273590088
+weaners production,livestock production,51.636171102523804
+boars production,livestock production,60.067267656326294
+barrows production,livestock production,59.640727519989014
+sows production,livestock production,59.716588497161865
+gilts production,livestock production,63.61092233657837
+dry sows production,livestock production,76.17189717292786
+farrowing sows production,livestock production,75.98196077346802
+miniature pigs production,livestock production,59.70792579650879
+fattening pigs production,livestock production,59.71695613861084
+horses production,livestock production,47.29042148590088
+fillies production,livestock production,63.665425062179565
+racehorses production,livestock production,51.49479413032532
+saddle horses production,livestock production,63.73740768432617
+draught horses production,livestock production,63.64323115348816
+mares production,livestock production,63.79682517051697
+geldings production,livestock production,63.76143264770508
+stallions production,livestock production,63.68921160697937
+ponies production,livestock production,51.34729337692261
+colts production,livestock production,51.37217378616333
+yearling (horse) production,livestock production,41.05497765541077
+foals production,livestock production,51.39999985694885
+milk yielding animals production,milk production,61.67765974998474
+furbearing animals production,animal production,47.28477668762207
+skin producing animals production,animal production,59.5117871761322
+oil producing animals production,oil and gas production,61.58601665496826
+performing animals production,animal production,38.96509146690369
+pollinators production,animal production,34.90467429161072
+useful arthropods production,animal production,47.27050805091858
+biological control arthropods production,animal production,67.98995971679688
+useful insects production,animal production,51.43644046783447
+Lac insects production,animal production,55.342631816864014
+silkworms production,sericulture,45.12228965759277
+dung beetles production,animal production,55.303123474121094
+insects as food production,animal production,67.65568947792053
+ornamental insects production,animal production,55.32415413856506
+medicinal insects production,animal production,55.35758948326111
+wool producing animals production,wool production,61.59714102745056
+breeding stock production,animal production,47.209612131118774
+laboratory animals production,animal production,47.33826518058777
+gnotobiotic animals production,animal production,39.071287631988525
+laboratory mammals production, ,35.09402894973755
+recipient animals production,animal production,39.03627610206604
+donor animals production,animal production,39.010048627853394

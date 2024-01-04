@@ -1,0 +1,19 @@
+nome,uriVella,NovoElemento,uriNiovo
+disease vectors,http://aims.fao.org/aos/agrovoc/c_8164,diseases,http://aims.fao.org/aos/agrovoc/c_49879
+indigenous species,http://aims.fao.org/aos/agrovoc/c_34268,species,http://aims.fao.org/aos/agrovoc/c_7280
+native species,http://aims.fao.org/aos/agrovoc/c_34268,species,http://aims.fao.org/aos/agrovoc/c_7280
+autochthonous species,http://aims.fao.org/aos/agrovoc/c_34268,species,http://aims.fao.org/aos/agrovoc/c_7280
+indicator organisms,http://aims.fao.org/aos/agrovoc/c_24040,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+biochemical indicators (organisms),http://aims.fao.org/aos/agrovoc/c_24040,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+indicator species,http://aims.fao.org/aos/agrovoc/c_24040,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+indicator species,http://aims.fao.org/aos/agrovoc/c_24040,species,http://aims.fao.org/aos/agrovoc/c_7280
+soil indicators (organisms),http://aims.fao.org/aos/agrovoc/c_24040,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil indicators (organisms),http://aims.fao.org/aos/agrovoc/c_24040,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+indicator hosts,http://aims.fao.org/aos/agrovoc/c_24040,indicators,http://aims.fao.org/aos/agrovoc/c_330058
+indicator hosts,http://aims.fao.org/aos/agrovoc/c_24040,hosts,http://aims.fao.org/aos/agrovoc/c_3673
+soil organisms,http://aims.fao.org/aos/agrovoc/c_33552,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil life,http://aims.fao.org/aos/agrovoc/c_33552,soil,http://aims.fao.org/aos/agrovoc/c_7156
+beneficial species,http://aims.fao.org/aos/agrovoc/c_36799,species,http://aims.fao.org/aos/agrovoc/c_7280
+endemic organisms,http://aims.fao.org/aos/agrovoc/c_f0858fcc,endemics,http://aims.fao.org/aos/agrovoc/c_16416
+endemic population,http://aims.fao.org/aos/agrovoc/c_f0858fcc,endemics,http://aims.fao.org/aos/agrovoc/c_16416
+endemic population,http://aims.fao.org/aos/agrovoc/c_f0858fcc,population,http://aims.fao.org/aos/agrovoc/c_330887

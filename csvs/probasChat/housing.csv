@@ -1,0 +1,124 @@
+nome,resultado,tempo
+meat animals, Livestock Housing,3.3477656841278076
+beef cattle, Cattle Housing,2.853642702102661
+ornamental fishes, Aquaculture,2.2582733631134033
+pet animals, Pet Keeping,2.5412003993988037
+ornamental birds, Aviculture,2.3054964542388916
+songbirds, Aviculture,3.163548231124878
+plumage birds, Poultry,2.582232713699341
+zoo animals, Wildlife Management,2.6582555770874023
+domestic animals, Livestock Production,14.809847831726074
+poultry, Poultry,2.3515212535858154
+geese, Poultry,2.6712818145751953
+ganders, Poultry,2.723540782928467
+goslings, Poultry,2.331019163131714
+chickens, Poultry,2.284613609313965
+capons, Poultry,2.3717596530914307
+cocks, Poultry,2.4945077896118164
+chicks, Poultry,2.4746952056884766
+broiler chickens, Poultry,2.711151123046875
+cockerels, Poultry,3.343804359436035
+hens, Poultry,2.4237937927246094
+layer chickens, Poultry,2.960010290145874
+pullets, Poultry,2.624298572540283
+layer breeders, Poultry Breeding,2.809035539627075
+broiler breeders, Poultry Breeding,2.5349721908569336
+guinea fowl, Poultry,2.3171327114105225
+quails, Poultry,2.245680809020996
+turkeys, Poultry,70.12423515319824
+turkey poults, Poultry,2.4113829135894775
+ducks, Poultry,2.274919271469116
+drakes, Poultry,2.3699018955230713
+ducklings, Poultry,2.108342409133911
+Muscovy ducks, Poultry,2.1397979259490967
+working animals, Livestock Housing,2.6656970977783203
+draught animals, Livestock Housing,2.835408926010132
+pack animals, Livestock Housing,2.4993855953216553
+livestock, Animal Husbandry,4.589844703674316
+cattle, Livestock Housing,2.558086395263672
+bullocks, Livestock Housing,2.6287572383880615
+bulls, Livestock Housing,4.243542909622192
+heifers, Livestock Housing,2.386294364929199
+dairy cattle, Livestock Housing,2.3997950553894043
+dairy cows, Livestock Housing,2.2740557193756104
+zebu, Livestock Housing,2.403022050857544
+banteng, Livestock Housing,2.5525119304656982
+calves, Livestock Housing,2.526653289794922
+cows, Livestock Housing,2.660374641418457
+suckler cows, Beef Cattle Production,3.601942539215088
+yearling bulls, Livestock Housing,2.6091835498809814
+gaurs, Wildlife Management,3.5894832611083984
+yaks, Livestock Housing,2.550767421722412
+goats, Livestock Housing,2.3010523319244385
+billygoats, Livestock Housing,2.5864479541778564
+kids, Youth Housing,2.5739381313323975
+nannygoats, Livestock Housing,2.2275092601776123
+doelings, Livestock Housing,2.285369634628296
+female yearling (goat), Livestock Housing,2.1943578720092773
+male yearling (goat), Livestock Housing,2.461702346801758
+dairy goats, Livestock Housing,2.5511438846588135
+fibre goats, Livestock Housing,2.4519948959350586
+llamas, Livestock Housing,3.677722215652466
+sheep, Livestock Housing,2.24204421043396
+ewes, Livestock Housing,2.370600461959839
+lambs, Livestock Housing,2.2120625972747803
+hoggets, Livestock Housing,2.203174352645874
+rams, Livestock Housing,2.354329824447632
+wethers, Livestock Housing,2.2082371711730957
+ewe hoggs, Livestock Housing,2.2908854484558105
+gimmers, Livestock Housing,2.4716694355010986
+dairy sheep, Livestock Housing,2.432838201522827
+donkeys, Livestock Housing,2.627568483352661
+hinnies, Livestock Housing,2.366050958633423
+mules, Livestock Housing,2.7224743366241455
+domestic buffaloes, Livestock Housing,3.8034675121307373
+water buffaloes, Livestock Housing,2.533839225769043
+camels, Livestock Housing,2.742436647415161
+dromedaries, Livestock Housing,3.6875014305114746
+Bactrian camels, Livestock Housing,2.655930757522583
+swine, Livestock Housing,3.5028653144836426
+piglets, Livestock Housing,2.311725378036499
+suckling piglets, Livestock Housing,2.3163862228393555
+weaners, Livestock Housing,2.3409337997436523
+boars, Livestock Housing,2.629197835922241
+barrows, Livestock Housing,2.401665687561035
+sows, Livestock Housing,2.5506341457366943
+gilts, Livestock Housing,3.7949750423431396
+dry sows, Livestock Housing,2.499067783355713
+farrowing sows, Livestock Housing,2.2593579292297363
+miniature pigs, Specialized Animal Housing,2.4458324909210205
+fattening pigs, Livestock Housing,2.4594531059265137
+horses, Equine Housing,2.6426448822021484
+fillies, Equine Housing,2.1640267372131348
+racehorses, Equine Housing,2.177004337310791
+saddle horses, Equine Housing,2.6276419162750244
+draught horses, Equine Housing,2.7194979190826416
+mares, Equine Housing,2.4387547969818115
+geldings, Equine Housing,2.249030828475952
+stallions, Equine Housing,2.3898324966430664
+ponies, Equine Housing,2.442291498184204
+colts, Equine Housing,2.225353479385376
+yearling (horse), Equine Housing,2.3061769008636475
+foals, Equine Housing,3.7115094661712646
+milk yielding animals, Livestock Housing,2.2262675762176514
+furbearing animals, Wildlife Management,3.030937671661377
+skin producing animals, Livestock Housing,2.270512580871582
+oil producing animals, Livestock Housing,2.4075536727905273
+performing animals, Animal Welfare,3.4147074222564697
+pollinators, Crop Production,2.561102867126465
+useful arthropods, Beneficial Organisms,2.620713472366333
+biological control arthropods, Biological Control,2.654102325439453
+useful insects, Beneficial Organisms,3.4661099910736084
+Lac insects, Insect Rearing,2.5321614742279053
+silkworms, Insect Rearing,2.4055676460266113
+dung beetles, Beneficial Organisms,2.7279348373413086
+insects as food, Insect Rearing,2.531881093978882
+ornamental insects, Ornamental Animals,2.793464183807373
+medicinal insects, Medicinal Plants and Animals,2.873300075531006
+wool producing animals, Livestock Production,2.1943247318267822
+breeding stock, Breeding and Genetics,3.3161258697509766
+laboratory animals, Experimental Animals,2.3608994483947754
+gnotobiotic animals, Specialized Animal Housing,3.4367148876190186
+laboratory mammals, Experimental Animals,2.1958165168762207
+recipient animals, Animal Shelters,2.5130090713500977
+donor animals, Animal Donation,2.4693377017974854

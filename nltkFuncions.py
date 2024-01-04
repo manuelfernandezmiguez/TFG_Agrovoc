@@ -1,5 +1,5 @@
 import nltk
-import pprint
+from pprint import pprint
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import wordnet
@@ -8,6 +8,10 @@ from nltk.stem import WordNetLemmatizer
 from rake_nltk import Rake
 import spacy  # version 3.5
 import en_core_web_sm
+from spacy.matcher import PhraseMatcher
+#nltk.download('wordnet')
+#nltk.download('punkt')
+#nltk.download('stopwords')
 nlp = en_core_web_sm.load()
 nlp.add_pipe("entityLinker", last=True)
 rake_nltk_var = Rake(min_length=2, max_length=8,include_repeated_phrases=True)
@@ -59,6 +63,27 @@ def aplicarPluralFrase(frase:str):
         devolver+=aplicarPlural(f)+' '
     return devolver
 #print(aplicarPluralFrase("i have a beehive"))
+def split_text_into_sentences(text):
+    sentences = nltk.sent_tokenize(text)
+    return sentences
+
+
+def separacion(str):
+    doc = nlp(str)
+    nlp_model = spacy.load("en_core_web_sm")
+    matcher = PhraseMatcher(nlp.vocab)
+    phrases = ["honey bees", "honeybees", "president", "video system"]
+    # Create Doc Objects For The Phrases
+    patterns = [nlp(text) for text in phrases ]
+    matcher.add("PatternList", patterns)
+    doc = nlp(str)
+
+    # Find Matches
+    matches = matcher(doc)
+    for match_id, start, end in matches:
+        span = doc[start:end]
+        print(span.text)
+
 def estaEnIngles(string):
 
     for i in dividirTexto(string):

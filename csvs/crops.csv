@@ -9,9 +9,12 @@ tick beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos
 fava beans,http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
 field bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,fields,http://aims.fao.org/aos/agrovoc/c_2894
 field bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+field bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,Vicia,http://aims.fao.org/aos/agrovoc/c_8214
 horse bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,horses,http://aims.fao.org/aos/agrovoc/c_3668
 horse bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,beans,http://aims.fao.org/aos/agrovoc/c_331566
+horse bean (vicia),http://aims.fao.org/aos/agrovoc/c_10722,Vicia,http://aims.fao.org/aos/agrovoc/c_8214
 lima beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
+burma beans,http://aims.fao.org/aos/agrovoc/c_12180,Myanmar,http://aims.fao.org/aos/agrovoc/c_1155
 burma beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
 butter beans,http://aims.fao.org/aos/agrovoc/c_12180,butter,http://aims.fao.org/aos/agrovoc/c_1162
 butter beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
@@ -23,16 +26,25 @@ Madagascar beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.o
 sieva beans,http://aims.fao.org/aos/agrovoc/c_12180,beans,http://aims.fao.org/aos/agrovoc/c_331566
 pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356,pigeons,http://aims.fao.org/aos/agrovoc/c_5870
 pigeon peas,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
-congo beans,http://aims.fao.org/aos/agrovoc/c_13356,beans,http://aims.fao.org/aos/agrovoc/c_331566
-congo pea,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
+Congo beans,http://aims.fao.org/aos/agrovoc/c_13356,Congo,http://aims.fao.org/aos/agrovoc/c_1811
+Congo beans,http://aims.fao.org/aos/agrovoc/c_13356,beans,http://aims.fao.org/aos/agrovoc/c_331566
+Congo peas,http://aims.fao.org/aos/agrovoc/c_13356,Congo,http://aims.fao.org/aos/agrovoc/c_1811
+Congo peas,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
 noneye pea,http://aims.fao.org/aos/agrovoc/c_13356,peas,http://aims.fao.org/aos/agrovoc/c_13177
 vegetable legumes,http://aims.fao.org/aos/agrovoc/c_8169,vegetables,http://aims.fao.org/aos/agrovoc/c_8174
 grain crops,http://aims.fao.org/aos/agrovoc/c_3348,grain,http://aims.fao.org/aos/agrovoc/c_3346
 cereal crops,http://aims.fao.org/aos/agrovoc/c_25512,cereals,http://aims.fao.org/aos/agrovoc/c_1474
+grain grasses,http://aims.fao.org/aos/agrovoc/c_25512,grain,http://aims.fao.org/aos/agrovoc/c_3346
+grain grasses,http://aims.fao.org/aos/agrovoc/c_25512,grasses,http://aims.fao.org/aos/agrovoc/c_3362
+small grain cereals (plant),http://aims.fao.org/aos/agrovoc/c_25512,grain,http://aims.fao.org/aos/agrovoc/c_3346
+small grain cereals (plant),http://aims.fao.org/aos/agrovoc/c_25512,cereals,http://aims.fao.org/aos/agrovoc/c_1474
 stimulant crops,http://aims.fao.org/aos/agrovoc/c_7413,stimulants,http://aims.fao.org/aos/agrovoc/c_7414
 shade plants,http://aims.fao.org/aos/agrovoc/c_7019,shade,http://aims.fao.org/aos/agrovoc/c_14232
+shade trees,http://aims.fao.org/aos/agrovoc/c_25548,shade,http://aims.fao.org/aos/agrovoc/c_14232
+shade trees,http://aims.fao.org/aos/agrovoc/c_25548,trees,http://aims.fao.org/aos/agrovoc/c_7887
 spice crops,http://aims.fao.org/aos/agrovoc/c_7299,spices,http://aims.fao.org/aos/agrovoc/c_15685
 flavouring crops (spices),http://aims.fao.org/aos/agrovoc/c_7299,flavouring,http://aims.fao.org/aos/agrovoc/c_2967
+bee plants,http://aims.fao.org/aos/agrovoc/c_860,Apidae,http://aims.fao.org/aos/agrovoc/c_865
 honey plants,http://aims.fao.org/aos/agrovoc/c_860,honey,http://aims.fao.org/aos/agrovoc/c_3652
 nectar plants,http://aims.fao.org/aos/agrovoc/c_860,nectar,http://aims.fao.org/aos/agrovoc/c_5098
 erosion control plants,http://aims.fao.org/aos/agrovoc/c_2653,erosion control,http://aims.fao.org/aos/agrovoc/c_2652
@@ -42,15 +54,21 @@ food crops,http://aims.fao.org/aos/agrovoc/c_3017,foods,http://aims.fao.org/aos/
 fruit crops,http://aims.fao.org/aos/agrovoc/c_3120,fruits,http://aims.fao.org/aos/agrovoc/c_3131
 orchard crops,http://aims.fao.org/aos/agrovoc/c_3120,orchards,http://aims.fao.org/aos/agrovoc/c_5379
 grape vines,http://aims.fao.org/aos/agrovoc/c_3360,grapes,http://aims.fao.org/aos/agrovoc/c_3359
+fruit trees,http://aims.fao.org/aos/agrovoc/c_3128,fruits,http://aims.fao.org/aos/agrovoc/c_3131
 sugar crops,http://aims.fao.org/aos/agrovoc/c_7503,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+sugar palms,http://aims.fao.org/aos/agrovoc/c_7505,sugar,http://aims.fao.org/aos/agrovoc/c_7498
+sugar palms,http://aims.fao.org/aos/agrovoc/c_7505,Arecaceae,http://aims.fao.org/aos/agrovoc/c_15807
 beverage crops,http://aims.fao.org/aos/agrovoc/c_894,beverages,http://aims.fao.org/aos/agrovoc/c_896
 vegetable crops,http://aims.fao.org/aos/agrovoc/c_8165,vegetables,http://aims.fao.org/aos/agrovoc/c_8174
+brassica crops,http://aims.fao.org/aos/agrovoc/c_331529,Brassica,http://aims.fao.org/aos/agrovoc/c_1060
 pole beans,http://aims.fao.org/aos/agrovoc/c_cd551774,poles,http://aims.fao.org/aos/agrovoc/c_6061
 pole beans,http://aims.fao.org/aos/agrovoc/c_cd551774,beans,http://aims.fao.org/aos/agrovoc/c_331566
 bush beans,http://aims.fao.org/aos/agrovoc/c_168dbe5b,beans,http://aims.fao.org/aos/agrovoc/c_331566
 oil crops,http://aims.fao.org/aos/agrovoc/c_5328,oils,http://aims.fao.org/aos/agrovoc/c_5334
 oil plants,http://aims.fao.org/aos/agrovoc/c_5328,oils,http://aims.fao.org/aos/agrovoc/c_5334
 oilseed crops,http://aims.fao.org/aos/agrovoc/c_5328,oilseeds,http://aims.fao.org/aos/agrovoc/c_25490
+oil palms,http://aims.fao.org/aos/agrovoc/c_5330,oils,http://aims.fao.org/aos/agrovoc/c_5334
+oil palms,http://aims.fao.org/aos/agrovoc/c_5330,Arecaceae,http://aims.fao.org/aos/agrovoc/c_15807
 dye plants,http://aims.fao.org/aos/agrovoc/c_2422,dyes,http://aims.fao.org/aos/agrovoc/c_2425
 fibre crops,http://aims.fao.org/aos/agrovoc/c_2876,fibres,http://aims.fao.org/aos/agrovoc/c_2879
 fibre plants,http://aims.fao.org/aos/agrovoc/c_2876,fibres,http://aims.fao.org/aos/agrovoc/c_2879

@@ -1,5 +1,4 @@
 from xeneral import gardarConsultaAccesos, explorar,gardadoXeralConsultaAccesos,gardarConceptoAmplioProximo
-
 def op1():
     print("esta é a primeira opción")
     print("Introduza o elemento a representar:")
@@ -10,9 +9,22 @@ def op2():
     print("esta é a segunda opción")
     print("Introduza o elemento a buscar:")
     nome=str(input())
-    gardarConsultaAccesos(nome)
+    print("Só os primeiros fillos(True):se non (False)")
+    inp=str(input())
+    if inp =='True':
+        inm=True
+    else:
+        inm=False
+    print("Inclue as relaicons IncludeOf e UseOf como narrowers neste sistema(True):se non (False)")
+    inp=str(input())
+    if inp =='True':
+        inc=True
+    else:
+        inc=False
+    gardarConsultaAccesos(nome,inm,inc)
 
 def op3():
+    
     gardadoXeralConsultaAccesos()
 
 def op4():

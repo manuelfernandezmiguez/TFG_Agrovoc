@@ -1,22 +1,23 @@
 nome,uriVella,NovoElemento,uriNiovo
+sea turtles,http://aims.fao.org/aos/agrovoc/c_8023,Seas,http://aims.fao.org/aos/agrovoc/c_14148
 meat animals,http://aims.fao.org/aos/agrovoc/c_4670,meat,http://aims.fao.org/aos/agrovoc/c_4669
-beef cattle,http://aims.fao.org/aos/agrovoc/c_862,beef,http://aims.fao.org/aos/agrovoc/c_861
-ornamental fishes,http://aims.fao.org/aos/agrovoc/c_5413,fishes,http://aims.fao.org/aos/agrovoc/c_2943
-household pets,http://aims.fao.org/aos/agrovoc/c_5742,households,http://aims.fao.org/aos/agrovoc/c_3676
-plumage birds,http://aims.fao.org/aos/agrovoc/c_6025,plumage,http://aims.fao.org/aos/agrovoc/c_13466
-zoo animals,http://aims.fao.org/aos/agrovoc/c_32736,zoos,http://aims.fao.org/aos/agrovoc/c_8531
 domesticated birds,http://aims.fao.org/aos/agrovoc/c_6145,birds,http://aims.fao.org/aos/agrovoc/c_935
 layer chickens,http://aims.fao.org/aos/agrovoc/c_12109,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
 laying hens,http://aims.fao.org/aos/agrovoc/c_12109,hens,http://aims.fao.org/aos/agrovoc/c_11525
 layer breeders,http://aims.fao.org/aos/agrovoc/c_4b09d619,layers,http://aims.fao.org/aos/agrovoc/c_f851fe26
 broiler breeders,http://aims.fao.org/aos/agrovoc/c_9676e23b,broiler chickens,http://aims.fao.org/aos/agrovoc/c_9435
+guinea fowl,http://aims.fao.org/aos/agrovoc/c_3425,Guinea,http://aims.fao.org/aos/agrovoc/c_3423
+guinea hen,http://aims.fao.org/aos/agrovoc/c_3425,Guinea,http://aims.fao.org/aos/agrovoc/c_3423
 guinea hen,http://aims.fao.org/aos/agrovoc/c_3425,hens,http://aims.fao.org/aos/agrovoc/c_11525
-farm animals,http://aims.fao.org/aos/agrovoc/c_4397,farms,http://aims.fao.org/aos/agrovoc/c_2809
+beef cattle,http://aims.fao.org/aos/agrovoc/c_862,beef,http://aims.fao.org/aos/agrovoc/c_861
 dairy cattle,http://aims.fao.org/aos/agrovoc/c_2108,dairies,http://aims.fao.org/aos/agrovoc/c_34761
 dairy cows,http://aims.fao.org/aos/agrovoc/c_26767,dairies,http://aims.fao.org/aos/agrovoc/c_34761
 yearling bulls,http://aims.fao.org/aos/agrovoc/c_6ba03e7b,yearlings,http://aims.fao.org/aos/agrovoc/c_6c68436b
 yearling bulls,http://aims.fao.org/aos/agrovoc/c_6ba03e7b,bulls,http://aims.fao.org/aos/agrovoc/c_1148
 Indian bison,http://aims.fao.org/aos/agrovoc/c_3205,bison,http://aims.fao.org/aos/agrovoc/c_939
+water buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,water,http://aims.fao.org/aos/agrovoc/c_8309
+swamp buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,swamps,http://aims.fao.org/aos/agrovoc/c_7544
+river buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,rivers,http://aims.fao.org/aos/agrovoc/c_6617
 Capra hircus,http://aims.fao.org/aos/agrovoc/c_3324,Capra,http://aims.fao.org/aos/agrovoc/c_35822
 female yearling (goat),http://aims.fao.org/aos/agrovoc/c_ebb28c90,females,http://aims.fao.org/aos/agrovoc/c_15969
 female yearling (goat),http://aims.fao.org/aos/agrovoc/c_ebb28c90,yearlings,http://aims.fao.org/aos/agrovoc/c_6c68436b
@@ -28,35 +29,61 @@ fiber goats,http://aims.fao.org/aos/agrovoc/c_cf6e817f,fibres,http://aims.fao.or
 yearling sheep,http://aims.fao.org/aos/agrovoc/c_11570,yearlings,http://aims.fao.org/aos/agrovoc/c_6c68436b
 ewe hoggs,http://aims.fao.org/aos/agrovoc/c_10705,ewes,http://aims.fao.org/aos/agrovoc/c_2746
 dairy sheep,http://aims.fao.org/aos/agrovoc/c_18cf2753,dairies,http://aims.fao.org/aos/agrovoc/c_34761
-water buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,water,http://aims.fao.org/aos/agrovoc/c_8309
-swamp buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,swamps,http://aims.fao.org/aos/agrovoc/c_7544
-river buffaloes,http://aims.fao.org/aos/agrovoc/c_8313,rivers,http://aims.fao.org/aos/agrovoc/c_6617
+Red deer,http://aims.fao.org/aos/agrovoc/c_9718,deer,http://aims.fao.org/aos/agrovoc/c_2152
+American elks,http://aims.fao.org/aos/agrovoc/c_331603,elks,http://aims.fao.org/aos/agrovoc/c_2536
+guinea pigs,http://aims.fao.org/aos/agrovoc/c_3426,Guinea,http://aims.fao.org/aos/agrovoc/c_3423
+guinea pigs,http://aims.fao.org/aos/agrovoc/c_3426,swine,http://aims.fao.org/aos/agrovoc/c_7555
 suckling piglets,http://aims.fao.org/aos/agrovoc/c_a6dcd255,suckling,http://aims.fao.org/aos/agrovoc/c_7493
 suckling pigs,http://aims.fao.org/aos/agrovoc/c_a6dcd255,suckling,http://aims.fao.org/aos/agrovoc/c_7493
 farrowing sows,http://aims.fao.org/aos/agrovoc/c_5ebe219a,parturition,http://aims.fao.org/aos/agrovoc/c_5604
 fattening pigs,http://aims.fao.org/aos/agrovoc/c_59e0f842,fattening,http://aims.fao.org/aos/agrovoc/c_2817
 yearling (horse),http://aims.fao.org/aos/agrovoc/c_15447,yearlings,http://aims.fao.org/aos/agrovoc/c_6c68436b
+ornamental fishes,http://aims.fao.org/aos/agrovoc/c_5413,fishes,http://aims.fao.org/aos/agrovoc/c_2943
+household pets,http://aims.fao.org/aos/agrovoc/c_5742,households,http://aims.fao.org/aos/agrovoc/c_3676
+aviary birds,http://aims.fao.org/aos/agrovoc/c_9021,aviaries,http://aims.fao.org/aos/agrovoc/c_32382
+cage birds,http://aims.fao.org/aos/agrovoc/c_9021,cages,http://aims.fao.org/aos/agrovoc/c_1184
+Canis familiaris,http://aims.fao.org/aos/agrovoc/c_2352,Canis,http://aims.fao.org/aos/agrovoc/c_331214
+hunting dogs,http://aims.fao.org/aos/agrovoc/c_3698,hunting,http://aims.fao.org/aos/agrovoc/c_3697
+sheep dogs,http://aims.fao.org/aos/agrovoc/c_7031,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+farm animals,http://aims.fao.org/aos/agrovoc/c_4397,farms,http://aims.fao.org/aos/agrovoc/c_2809
+plumage birds,http://aims.fao.org/aos/agrovoc/c_6025,plumage,http://aims.fao.org/aos/agrovoc/c_13466
 milk yielding animals,http://aims.fao.org/aos/agrovoc/c_4833,milk,http://aims.fao.org/aos/agrovoc/c_4826
+beef herds,http://aims.fao.org/aos/agrovoc/c_9202,beef,http://aims.fao.org/aos/agrovoc/c_861
+dairy herds,http://aims.fao.org/aos/agrovoc/c_10272,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+livestock breeds,http://aims.fao.org/aos/agrovoc/c_12212,livestock,http://aims.fao.org/aos/agrovoc/c_4397
 fur bearing animals,http://aims.fao.org/aos/agrovoc/c_3149,furs,http://aims.fao.org/aos/agrovoc/c_3155
+Arctic fox,http://aims.fao.org/aos/agrovoc/c_8914,Arctic,http://aims.fao.org/aos/agrovoc/c_36576
+Castor (genus),http://aims.fao.org/aos/agrovoc/c_854,genus,http://aims.fao.org/aos/agrovoc/c_11125
+Chinchilla (genus),http://aims.fao.org/aos/agrovoc/c_1557,genus,http://aims.fao.org/aos/agrovoc/c_11125
 skin producing animals,http://aims.fao.org/aos/agrovoc/c_7101,skin,http://aims.fao.org/aos/agrovoc/c_7097
 oil producing animals,http://aims.fao.org/aos/agrovoc/c_5333,oils,http://aims.fao.org/aos/agrovoc/c_5334
 useful arthropods,http://aims.fao.org/aos/agrovoc/c_8115,Arthropoda,http://aims.fao.org/aos/agrovoc/c_635
 beneficial arthropods,http://aims.fao.org/aos/agrovoc/c_8115,Arthropoda,http://aims.fao.org/aos/agrovoc/c_635
-biological control arthropods,http://aims.fao.org/aos/agrovoc/c_919,biological control,http://aims.fao.org/aos/agrovoc/c_918
 useful insects,http://aims.fao.org/aos/agrovoc/c_8116,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
 beneficial insects,http://aims.fao.org/aos/agrovoc/c_8116,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+biological control arthropods,http://aims.fao.org/aos/agrovoc/c_919,biological control,http://aims.fao.org/aos/agrovoc/c_918
 honey bees,http://aims.fao.org/aos/agrovoc/c_3654,honey,http://aims.fao.org/aos/agrovoc/c_3652
+honey bees,http://aims.fao.org/aos/agrovoc/c_3654,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+bee broods,http://aims.fao.org/aos/agrovoc/c_856,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+bee larvae,http://aims.fao.org/aos/agrovoc/c_856,Apidae,http://aims.fao.org/aos/agrovoc/c_865
 bee larvae,http://aims.fao.org/aos/agrovoc/c_856,larvae,http://aims.fao.org/aos/agrovoc/c_4204
-drones (insects),http://aims.fao.org/aos/agrovoc/c_2389,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
 male bees,http://aims.fao.org/aos/agrovoc/c_2389,males,http://aims.fao.org/aos/agrovoc/c_15995
+male bees,http://aims.fao.org/aos/agrovoc/c_2389,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+queen bees,http://aims.fao.org/aos/agrovoc/c_6405,Apidae,http://aims.fao.org/aos/agrovoc/c_865
 worker bees,http://aims.fao.org/aos/agrovoc/c_8444,workers,http://aims.fao.org/aos/agrovoc/c_8445
+worker bees,http://aims.fao.org/aos/agrovoc/c_8444,Apidae,http://aims.fao.org/aos/agrovoc/c_865
 workers (bees),http://aims.fao.org/aos/agrovoc/c_8444,workers,http://aims.fao.org/aos/agrovoc/c_8445
+workers (bees),http://aims.fao.org/aos/agrovoc/c_8444,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+Africanized bees,http://aims.fao.org/aos/agrovoc/c_32628,Apidae,http://aims.fao.org/aos/agrovoc/c_865
 silk moths,http://aims.fao.org/aos/agrovoc/c_7064,silk,http://aims.fao.org/aos/agrovoc/c_7063
 silk moths,http://aims.fao.org/aos/agrovoc/c_7064,Lepidoptera,http://aims.fao.org/aos/agrovoc/c_4268
 dung beetles,http://aims.fao.org/aos/agrovoc/c_33976,livestock manure,http://aims.fao.org/aos/agrovoc/c_596cf4e4
+dung beetles,http://aims.fao.org/aos/agrovoc/c_33976,Coleoptera,http://aims.fao.org/aos/agrovoc/c_1747
+May bugs,http://aims.fao.org/aos/agrovoc/c_4730,Heteroptera,http://aims.fao.org/aos/agrovoc/c_3585
+june bugs,http://aims.fao.org/aos/agrovoc/c_5820,Heteroptera,http://aims.fao.org/aos/agrovoc/c_3585
+Tropinota senicula,http://aims.fao.org/aos/agrovoc/c_97d29b85,Tropinota,http://aims.fao.org/aos/agrovoc/c_c1b22659
+Epicometis hirta,http://aims.fao.org/aos/agrovoc/c_5c0c43e4,Epicometis,http://aims.fao.org/aos/agrovoc/c_0eb26f9d
 wool producing animals,http://aims.fao.org/aos/agrovoc/c_8438,wool,http://aims.fao.org/aos/agrovoc/c_8436
 breeding stock,http://aims.fao.org/aos/agrovoc/c_16206,breeding,http://aims.fao.org/aos/agrovoc/c_49902
 breeding stock,http://aims.fao.org/aos/agrovoc/c_16206,stocks,http://aims.fao.org/aos/agrovoc/c_28772
 laboratory animals,http://aims.fao.org/aos/agrovoc/c_4126,laboratories,http://aims.fao.org/aos/agrovoc/c_15988
-laboratory mammals,http://aims.fao.org/aos/agrovoc/c_0152142c,laboratories,http://aims.fao.org/aos/agrovoc/c_15988
-laboratory mammals,http://aims.fao.org/aos/agrovoc/c_0152142c,mammals,http://aims.fao.org/aos/agrovoc/c_4560

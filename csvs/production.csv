@@ -1,0 +1,133 @@
+nome,uriVella,NovoElemento,uriNiovo
+animal production,http://aims.fao.org/aos/agrovoc/c_437,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal agriculture,http://aims.fao.org/aos/agrovoc/c_437,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal agriculture,http://aims.fao.org/aos/agrovoc/c_437,agriculture,http://aims.fao.org/aos/agrovoc/c_203
+bird keeping,http://aims.fao.org/aos/agrovoc/c_742,birds,http://aims.fao.org/aos/agrovoc/c_935
+bird culture,http://aims.fao.org/aos/agrovoc/c_742,birds,http://aims.fao.org/aos/agrovoc/c_935
+egg production,http://aims.fao.org/aos/agrovoc/c_2498,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+honey production,http://aims.fao.org/aos/agrovoc/c_3653,honey,http://aims.fao.org/aos/agrovoc/c_3652
+meat production,http://aims.fao.org/aos/agrovoc/c_4679,meat,http://aims.fao.org/aos/agrovoc/c_4669
+milk production,http://aims.fao.org/aos/agrovoc/c_4829,milk,http://aims.fao.org/aos/agrovoc/c_4826
+dairy production,http://aims.fao.org/aos/agrovoc/c_4829,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+silk farming,http://aims.fao.org/aos/agrovoc/c_6981,silk,http://aims.fao.org/aos/agrovoc/c_7063
+silk farming,http://aims.fao.org/aos/agrovoc/c_6981,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+silk production,http://aims.fao.org/aos/agrovoc/c_6981,silk,http://aims.fao.org/aos/agrovoc/c_7063
+earthworm culture,http://aims.fao.org/aos/agrovoc/c_24262,earthworms,http://aims.fao.org/aos/agrovoc/c_29109
+wool production,http://aims.fao.org/aos/agrovoc/c_29375,wool,http://aims.fao.org/aos/agrovoc/c_8436
+livestock production,http://aims.fao.org/aos/agrovoc/c_331557,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+snail culture,http://aims.fao.org/aos/agrovoc/c_7120,snails,http://aims.fao.org/aos/agrovoc/c_7121
+snail farming,http://aims.fao.org/aos/agrovoc/c_7120,snails,http://aims.fao.org/aos/agrovoc/c_7121
+snail farming,http://aims.fao.org/aos/agrovoc/c_7120,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+feed production,http://aims.fao.org/aos/agrovoc/c_33986,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+food production,http://aims.fao.org/aos/agrovoc/c_3025,foods,http://aims.fao.org/aos/agrovoc/c_3032
+cell-based food production,http://aims.fao.org/aos/agrovoc/c_35f3dec1,cell-based foods,http://aims.fao.org/aos/agrovoc/c_fb5c77dc
+cellular agriculture,http://aims.fao.org/aos/agrovoc/c_35f3dec1,agriculture,http://aims.fao.org/aos/agrovoc/c_203
+forestry production,http://aims.fao.org/aos/agrovoc/c_3061,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+wood production,http://aims.fao.org/aos/agrovoc/c_28194,wood,http://aims.fao.org/aos/agrovoc/c_8421
+timber production,http://aims.fao.org/aos/agrovoc/c_28194,wood,http://aims.fao.org/aos/agrovoc/c_8421
+seed production,http://aims.fao.org/aos/agrovoc/c_6937,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed extraction,http://aims.fao.org/aos/agrovoc/c_24578,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed extraction,http://aims.fao.org/aos/agrovoc/c_24578,extraction,http://aims.fao.org/aos/agrovoc/c_36910
+hybrid seed production,http://aims.fao.org/aos/agrovoc/c_35154,hybrids,http://aims.fao.org/aos/agrovoc/c_3707
+seed multiplication,http://aims.fao.org/aos/agrovoc/c_ab4acfb2,seed,http://aims.fao.org/aos/agrovoc/c_6927
+fishery production,http://aims.fao.org/aos/agrovoc/c_2940,fisheries,http://aims.fao.org/aos/agrovoc/c_2934
+fish production,http://aims.fao.org/aos/agrovoc/c_2940,fish,http://aims.fao.org/aos/agrovoc/c_15903
+crop production,http://aims.fao.org/aos/agrovoc/c_5976,crops,http://aims.fao.org/aos/agrovoc/c_1972
+plant production,http://aims.fao.org/aos/agrovoc/c_5976,plants,http://aims.fao.org/aos/agrovoc/c_5993
+cut flower production,http://aims.fao.org/aos/agrovoc/c_2043,cut flowers,http://aims.fao.org/aos/agrovoc/c_16485
+crop husbandry,http://aims.fao.org/aos/agrovoc/c_2018,crops,http://aims.fao.org/aos/agrovoc/c_1972
+plant cultivation,http://aims.fao.org/aos/agrovoc/c_2018,plants,http://aims.fao.org/aos/agrovoc/c_5993
+frost hardening,http://aims.fao.org/aos/agrovoc/c_16316,frost,http://aims.fao.org/aos/agrovoc/c_3113
+thinning (deblossoming),http://aims.fao.org/aos/agrovoc/c_2139,thinning,http://aims.fao.org/aos/agrovoc/c_7729
+flower thinning,http://aims.fao.org/aos/agrovoc/c_2139,flowers,http://aims.fao.org/aos/agrovoc/c_2993
+flower thinning,http://aims.fao.org/aos/agrovoc/c_2139,thinning,http://aims.fao.org/aos/agrovoc/c_7729
+stubble cleaning,http://aims.fao.org/aos/agrovoc/c_7472,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+stubble cleaning,http://aims.fao.org/aos/agrovoc/c_7472,cleaning,http://aims.fao.org/aos/agrovoc/c_1661
+stubble mulching,http://aims.fao.org/aos/agrovoc/c_debb1abd,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+ring barking,http://aims.fao.org/aos/agrovoc/c_6606,barking,http://aims.fao.org/aos/agrovoc/c_9083
+soil cultivation,http://aims.fao.org/aos/agrovoc/c_7771,soil,http://aims.fao.org/aos/agrovoc/c_7156
+field preparation,http://aims.fao.org/aos/agrovoc/c_330639,fields,http://aims.fao.org/aos/agrovoc/c_2894
+land preparation,http://aims.fao.org/aos/agrovoc/c_330639,land,http://aims.fao.org/aos/agrovoc/c_4172
+nursery bed preparation,http://aims.fao.org/aos/agrovoc/c_330842,bycatch excluder devices,http://aims.fao.org/aos/agrovoc/c_fe6a0492
+seedbed preparation,http://aims.fao.org/aos/agrovoc/c_6943,seed beds,http://aims.fao.org/aos/agrovoc/c_6942
+soil scarification,http://aims.fao.org/aos/agrovoc/c_24085,soil,http://aims.fao.org/aos/agrovoc/c_7156
+soil scarification,http://aims.fao.org/aos/agrovoc/c_24085,scarification,http://aims.fao.org/aos/agrovoc/c_6843
+soil breaking,http://aims.fao.org/aos/agrovoc/c_25707,soil,http://aims.fao.org/aos/agrovoc/c_7156
+conservation tillage,http://aims.fao.org/aos/agrovoc/c_33445,resource conservation,http://aims.fao.org/aos/agrovoc/c_6523
+stubble tillage,http://aims.fao.org/aos/agrovoc/c_b219433a,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+mulch tillage,http://aims.fao.org/aos/agrovoc/c_b219433a,mulches,http://aims.fao.org/aos/agrovoc/c_4977
+stubble mulch tillage,http://aims.fao.org/aos/agrovoc/c_b219433a,stubble,http://aims.fao.org/aos/agrovoc/c_16650
+stone clearing,http://aims.fao.org/aos/agrovoc/c_25433,stones,http://aims.fao.org/aos/agrovoc/c_7424
+seed planting,http://aims.fao.org/aos/agrovoc/c_7268,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed planting,http://aims.fao.org/aos/agrovoc/c_7268,planting,http://aims.fao.org/aos/agrovoc/c_5992
+seeding (seed),http://aims.fao.org/aos/agrovoc/c_7268,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed placement,http://aims.fao.org/aos/agrovoc/c_7268,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed placement,http://aims.fao.org/aos/agrovoc/c_7268,placement,http://aims.fao.org/aos/agrovoc/c_5943
+direct drilling,http://aims.fao.org/aos/agrovoc/c_25803,seed drilling,http://aims.fao.org/aos/agrovoc/c_27912
+seed drilling,http://aims.fao.org/aos/agrovoc/c_27912,seed,http://aims.fao.org/aos/agrovoc/c_6927
+winter overseeding,http://aims.fao.org/aos/agrovoc/c_29229,winter,http://aims.fao.org/aos/agrovoc/c_8410
+fruit thinning,http://aims.fao.org/aos/agrovoc/c_32701,fruits,http://aims.fao.org/aos/agrovoc/c_3131
+fruit thinning,http://aims.fao.org/aos/agrovoc/c_32701,thinning,http://aims.fao.org/aos/agrovoc/c_7729
+chemical fruit thinning,http://aims.fao.org/aos/agrovoc/c_35048,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+crop forcing,http://aims.fao.org/aos/agrovoc/c_3039,crops,http://aims.fao.org/aos/agrovoc/c_1972
+bare root planting,http://aims.fao.org/aos/agrovoc/c_28029,roots,http://aims.fao.org/aos/agrovoc/c_6651
+naked root planting,http://aims.fao.org/aos/agrovoc/c_28029,roots,http://aims.fao.org/aos/agrovoc/c_6651
+container planting,http://aims.fao.org/aos/agrovoc/c_28050,containers,http://aims.fao.org/aos/agrovoc/c_1831
+pot planting,http://aims.fao.org/aos/agrovoc/c_28120,pots,http://aims.fao.org/aos/agrovoc/c_37405
+plant replacement,http://aims.fao.org/aos/agrovoc/c_13811,plants,http://aims.fao.org/aos/agrovoc/c_5993
+group planting,http://aims.fao.org/aos/agrovoc/c_28032,groups,http://aims.fao.org/aos/agrovoc/c_50227
+double transplanting,http://aims.fao.org/aos/agrovoc/c_330753,transplanting,http://aims.fao.org/aos/agrovoc/c_7873
+seed stratification,http://aims.fao.org/aos/agrovoc/c_7438,seed,http://aims.fao.org/aos/agrovoc/c_6927
+seed stratification,http://aims.fao.org/aos/agrovoc/c_7438,stratification,http://aims.fao.org/aos/agrovoc/c_2d2ea4aa
+tree clipping,http://aims.fao.org/aos/agrovoc/c_6274,trees,http://aims.fao.org/aos/agrovoc/c_7887
+trimming (plants),http://aims.fao.org/aos/agrovoc/c_6274,plants,http://aims.fao.org/aos/agrovoc/c_5993
+root pruning,http://aims.fao.org/aos/agrovoc/c_6645,roots,http://aims.fao.org/aos/agrovoc/c_6651
+cutting back,http://aims.fao.org/aos/agrovoc/c_10228,cutting,http://aims.fao.org/aos/agrovoc/c_2046
+cutting back,http://aims.fao.org/aos/agrovoc/c_10228,back,http://aims.fao.org/aos/agrovoc/c_762
+chemical pruning,http://aims.fao.org/aos/agrovoc/c_1517,chemicals,http://aims.fao.org/aos/agrovoc/c_1520
+shoot pruning,http://aims.fao.org/aos/agrovoc/c_7042,shoots,http://aims.fao.org/aos/agrovoc/c_14261
+topping (pruning),http://aims.fao.org/aos/agrovoc/c_25090,topping,http://aims.fao.org/aos/agrovoc/c_25716
+thinning (branches),http://aims.fao.org/aos/agrovoc/c_28169,thinning,http://aims.fao.org/aos/agrovoc/c_7729
+thinning (branches),http://aims.fao.org/aos/agrovoc/c_28169,branches,http://aims.fao.org/aos/agrovoc/c_23995
+leaf removal,http://aims.fao.org/aos/agrovoc/c_15579,leaves,http://aims.fao.org/aos/agrovoc/c_4243
+leaf removal,http://aims.fao.org/aos/agrovoc/c_15579,removal,http://aims.fao.org/aos/agrovoc/c_2042f69b
+desnigue (onion pruning),http://aims.fao.org/aos/agrovoc/c_9ca8b355,onions,http://aims.fao.org/aos/agrovoc/c_12934
+resin tapping,http://aims.fao.org/aos/agrovoc/c_28138,resins,http://aims.fao.org/aos/agrovoc/c_6519
+cutting (herbaceous crops),http://aims.fao.org/aos/agrovoc/c_12679,cutting,http://aims.fao.org/aos/agrovoc/c_2046
+cutting (herbaceous crops),http://aims.fao.org/aos/agrovoc/c_12679,crops,http://aims.fao.org/aos/agrovoc/c_1972
+topping (beets),http://aims.fao.org/aos/agrovoc/c_25089,topping,http://aims.fao.org/aos/agrovoc/c_25716
+manual harvesting,http://aims.fao.org/aos/agrovoc/c_330801,manuals,http://aims.fao.org/aos/agrovoc/c_f376fb22
+seaweed harvesting,http://aims.fao.org/aos/agrovoc/c_ef2c2989,seaweeds,http://aims.fao.org/aos/agrovoc/c_14154
+fodder conservation,http://aims.fao.org/aos/agrovoc/c_393bde22,forage,http://aims.fao.org/aos/agrovoc/c_36108
+fodder conservation,http://aims.fao.org/aos/agrovoc/c_393bde22,resource conservation,http://aims.fao.org/aos/agrovoc/c_6523
+plant training,http://aims.fao.org/aos/agrovoc/c_5983,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant training,http://aims.fao.org/aos/agrovoc/c_5983,training,http://aims.fao.org/aos/agrovoc/c_7861
+vertical training,http://aims.fao.org/aos/agrovoc/c_58b8f66e,training,http://aims.fao.org/aos/agrovoc/c_7861
+oblique training,http://aims.fao.org/aos/agrovoc/c_9cce007c,training,http://aims.fao.org/aos/agrovoc/c_7861
+seedling production,http://aims.fao.org/aos/agrovoc/c_35313,seedlings,http://aims.fao.org/aos/agrovoc/c_6945
+plant propagation,http://aims.fao.org/aos/agrovoc/c_5977,plants,http://aims.fao.org/aos/agrovoc/c_5993
+plant multiplication,http://aims.fao.org/aos/agrovoc/c_5977,plants,http://aims.fao.org/aos/agrovoc/c_5993
+vegetative reproduction (propagation),http://aims.fao.org/aos/agrovoc/c_8177,reproduction,http://aims.fao.org/aos/agrovoc/c_6507
+asexual reproduction (propagation),http://aims.fao.org/aos/agrovoc/c_8177,asexual reproduction,http://aims.fao.org/aos/agrovoc/c_664
+stool layering,http://aims.fao.org/aos/agrovoc/c_7426,layering,http://aims.fao.org/aos/agrovoc/c_4233
+air layering,http://aims.fao.org/aos/agrovoc/c_8695,air,http://aims.fao.org/aos/agrovoc/c_224
+propagation by cuttings,http://aims.fao.org/aos/agrovoc/c_25293,cuttings,http://aims.fao.org/aos/agrovoc/c_2048
+bud grafting,http://aims.fao.org/aos/agrovoc/c_1132,buds,http://aims.fao.org/aos/agrovoc/c_1135
+endosperm grafting,http://aims.fao.org/aos/agrovoc/c_2562,endosperm,http://aims.fao.org/aos/agrovoc/c_2561
+side grafting,http://aims.fao.org/aos/agrovoc/c_a84b018c,sides,http://aims.fao.org/aos/agrovoc/c_7056
+approach grafting,http://aims.fao.org/aos/agrovoc/c_c6911825,approaches,http://aims.fao.org/aos/agrovoc/c_330992
+in vitro regeneration,http://aims.fao.org/aos/agrovoc/c_34114,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+in vitro rejuvenation,http://aims.fao.org/aos/agrovoc/c_34114,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+propagation by microcuttings,http://aims.fao.org/aos/agrovoc/c_27784,microcuttings,http://aims.fao.org/aos/agrovoc/c_35755
+biomass production,http://aims.fao.org/aos/agrovoc/c_adfffd29,biomass,http://aims.fao.org/aos/agrovoc/c_926
+aquaculture production,http://aims.fao.org/aos/agrovoc/c_e4dde96c,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+seeding (aquaculture),http://aims.fao.org/aos/agrovoc/c_0fe599e2,aquaculture,http://aims.fao.org/aos/agrovoc/c_550
+oil and gas production,http://aims.fao.org/aos/agrovoc/c_211dab62,oils,http://aims.fao.org/aos/agrovoc/c_5334
+exploitation (oil and gas),http://aims.fao.org/aos/agrovoc/c_211dab62,oils,http://aims.fao.org/aos/agrovoc/c_5334
+exploitation (oil and gas),http://aims.fao.org/aos/agrovoc/c_211dab62,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gas production,http://aims.fao.org/aos/agrovoc/c_4aef72f3,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gas extraction,http://aims.fao.org/aos/agrovoc/c_4aef72f3,gases,http://aims.fao.org/aos/agrovoc/c_3197
+gas extraction,http://aims.fao.org/aos/agrovoc/c_4aef72f3,extraction,http://aims.fao.org/aos/agrovoc/c_36910
+oil production,http://aims.fao.org/aos/agrovoc/c_91c9713a,oils,http://aims.fao.org/aos/agrovoc/c_5334
+crude oil production,http://aims.fao.org/aos/agrovoc/c_91c9713a,petroleum,http://aims.fao.org/aos/agrovoc/c_5747
+petroleum production,http://aims.fao.org/aos/agrovoc/c_91c9713a,petroleum,http://aims.fao.org/aos/agrovoc/c_5747

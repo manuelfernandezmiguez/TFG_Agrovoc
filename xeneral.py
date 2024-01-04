@@ -1,10 +1,12 @@
-from sparqlQueries import busquedaWikidataIDAgrovoc,comprobarXerarquia,busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva,busquedaRelacionados,busquedaNomeAlternativo,busquedaTodosPais
+from sparqlQueries import busquedaInmediataIncludesUse,busquedaInmediata,busquedaExhaustivaIncludesUse,buscarUsedOf,buscarInluidos,busquedaWikidataIDAgrovoc,comprobarXerarquia,busqueda,busquedaNome,busquedaExhaustiva,busquedaPai,busquedaOrfos,busquedaPaiExhaustiva,busquedaRelacionados,busquedaNomeAlternativo,busquedaTodosPais
 from nltkFuncions import devolverConceptosWikidata,getSingular,aplicarPluralFrase,extraerKeywords,dividirTexto,aplicarStemming,aplicarStemmingIndividual,aplicarPlural,estaEnIngles,combinacionParaBusqueda,aplicarStemmingLista,lexemaLista,lexemaConcepto,lexemaTermo
 from parseCSV import escribir
 from pprint import pprint
 from anytree import Node, RenderTree
 from anytree.exporter import DotExporter
-from grafosDB import devolverContaFillos,crearClasificación,devolverArtigo,crearArtigo,devolverNodoPoloNome,contidoNosConceptosSimilares,StringContenLexConcepto,buscarLexContidoConcepto,devolverLex,buscarTermoContidoConcepto,buscarConceptoContido,contidosNosFillos,crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion,busquedaPaisGrafo,paisContidosNosFillos,fixarAlcume,fixarAlcumeLexSte,fixarNomeLexSte,comprobarExistenciaNome
+from grafosDB import devolverLemma,devolverStemma,startsWithStem,devolverContaFillos,crearClasificación,devolverArtigo,crearArtigo,devolverNodoPoloNome,contidoNosConceptosSimilares,StringContenLexConcepto,buscarLexContidoConcepto,devolverLex,buscarTermoContidoConcepto,buscarConceptoContido,contidosNosFillos,crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion,busquedaPaisGrafo,paisContidosNosFillos,fixarAlcume,fixarAlcumeLexSte,fixarNomeLexSte,comprobarExistenciaNome
+from conversaLLM import funcionchat
+import time
 import os
 
 d = {}
@@ -82,7 +84,32 @@ def facerBusquedaDoConcepto(nome:str):
     print(nome)
     print(resultado)
     return resultado
+def facerBusqueda2Concepto(nome1,nome2):
+    listaPais=[]
+    resultado=[]
+    listaPais.append(nome1)
+    listaPais+=busquedaPaisGrafo(nome1)
+    contador=100
+    pprint(listaPais)
+    for lp in listaPais:
+        #print("concepto analizado: "+lp +"\t concepto a cotexar "+lista[1])
+        resultadoParcial=[]
+        resultadoParcial=buscarConceptoContido(lp,nome2)
 
+        if(len(resultadoParcial)==0):
+            resultadoParcial=buscarTermoContidoConcepto(lp,nome2)
+            if len(resultadoParcial)!=0:
+                #listaNova=contidosNosFillos(lp)
+                #pprint(listaNova)
+                #print(resultadoParcial)
+                contadorParcial=devolverContaFillos(lp)
+                if(contadorParcial<contador):
+                    contador=contadorParcial
+                    resultado=resultadoParcial
+    return resultado
+#print(facerBusqueda2Concepto('honey bees','housing'))
+#print(buscarConceptoContido('chickens','housing'))
+#pprint(facerBusquedaDoConcepto('honey bees housing'))
 #pprint(facerBusquedaDoConcepto('forage sorghum production'))
 #print(combinacionParaBusqueda('calves housing'))
 def sortFunc(e):
@@ -309,44 +336,50 @@ def TratamentoConcepto(nome,uri,pais,paiNome):
                         #print('non entra aqui e ten este nome: '+analizar[ij-1])
                         a=analizar[ij-1]
             if(busquedaNome(a) is None):
-                #print('entrou: '+a)
+                a=getSingular(a)
+            if(busquedaNome(a) is None):
                 a=aplicarPlural(a)
+            if(busquedaNome(a) is None):
+                a = a.capitalize()
+                #print('entrou: '+a)
             if(busquedaNome(a) is not None):
                 #print('entrou2: '+a)
                 nomeA,uriNome = busquedaNome(a) 
                 #paiNome,pai=busquedaPai(uri)
-                #print(nomeA)
-                stem_nome=aplicarStemmingIndividual(nomeA)
-                parar=False
-                if stem_nome in paiNome:
-                    break
-                for p in pais:
-                    if stem_nome==aplicarStemmingIndividual(p[0]):
-                        parar=True
-                        break
-                if parar==True:
-                    break
+                print(nomeA)
+                #stem_nome=aplicarStemmingIndividual(nomeA)
+                #palabras_stem=startsWithStem(stem_nome)
+                #parar=False
+                #if stem_nome in paiNome:
+                    #break
+                #for p in pais:
+                    #if stem_nome==aplicarStemmingIndividual(p[0]):
+                        #parar=True
+                        #break
+                #if parar==True:
+                    #break
                 if(comprobarXerarquia(uriNome,uri)==True):
                     break
                 if(comprobarXerarquia(uri,uriNome)==True ):
                     break
                 if(uriNome==uri):
                     break
-                print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA}")
                 if(comprobarExistencia(uriNome)==False):
                     crearNodo(nomeA,uriNome)
                     procesar_alternativos(nomeA,uriNome)
                     procesar_relacionados(nomeA,uriNome)
                 
                 if(comprobarExistenciaRelacion(uriNome,uri,"Contido_en")==None):
+                    print(f"nome: {nome} busquedadoPai: {paiNome} nomeA: {nomeA}")
                     crearRelacion(uriNome,uri,"Contido_en")
-
+                
                 auxiliar=[nome,uri,nomeA,uriNome]
                 listaParcial.append(auxiliar) 
         return listaParcial
     else:
         return None
-def TratamentoFillo(f):
+def TratamentoFillo(f,includeUse=False):
+    #print(f)
     lista: list[str]= []
     if(comprobarExistencia(f[1])==False):
         #print(f[0])
@@ -357,6 +390,43 @@ def TratamentoFillo(f):
     
     paiNome,pai=busquedaPai(uri)
     listaPais = busquedaTodosPais(uri)
+    listaIncluidos=buscarInluidos(f[1])
+    listaUseOf=buscarUsedOf(f[1])
+    if(includeUse==True):
+        if(listaIncluidos is not None):
+            #print(listaIncluidos)
+            for fio in listaIncluidos:
+                if(comprobarExistencia(fio[1])==False):
+                    crearNodo(fio[0],fio[1])
+                    procesar_alternativos(fio[0],fio[1])
+                if(comprobarExistenciaRelacion(f[1],fio[1],"Narrower")==None):
+                    crearRelacion(f[1],fio[1],"Narrower")
+                if(comprobarExistenciaRelacion(fio[1],f[1],"Broader")==None):
+                    crearRelacion(fio[1],f[1],"Broader")
+                pais=busquedaPaiExhaustiva(fio[1])
+                lista = TratamentoConcepto(fio[0],fio[1],pais,f[0])
+                alt = busquedaNomeAlternativo(uri)
+                if(len(alt)>0):
+                    #print(alt)
+                    for a in alt:
+                        listaOcasional = TratamentoConcepto(a,uri,pais,paiNome)
+        if(listaUseOf is not None):
+            #print(listaUseOf)
+            for fio in listaUseOf:
+                if(comprobarExistencia(fio[1])==False):
+                    crearNodo(fio[0],fio[1])
+                    procesar_alternativos(fio[0],fio[1])
+                if(comprobarExistenciaRelacion(f[1],fio[1],"Narrower")==None):
+                    crearRelacion(f[1],fio[1],"Narrower")
+                if(comprobarExistenciaRelacion(fio[1],f[1],"Broader")==None):
+                    crearRelacion(fio[1],f[1],"Broader")
+                pais=busquedaPaiExhaustiva(fio[1])
+                lista = TratamentoConcepto(fio[0],fio[1],pais,f[0])
+                alt = busquedaNomeAlternativo(uri)
+                if(len(alt)>0):
+                    #print(alt)
+                    for a in alt:
+                        listaOcasional = TratamentoConcepto(a,uri,pais,paiNome)
     if len(listaPais)>1:
         for fi in listaPais:
             if(comprobarExistencia(fi[1])==False):
@@ -390,8 +460,8 @@ def TratamentoFillo(f):
                 #print(lista)
                 
     return lista
-    
-def ConceptosPalabras(texto: str):
+#TratamentoFillo(['crustaceans','http://aims.fao.org/aos/agrovoc/c_eaa20250'])
+def ConceptosPalabras(texto: str,inmediata=False,includes=False):
     listaNomes: list[str]= []
     nome,uri = busquedaNome(texto)
     if(comprobarExistencia(uri)==False):
@@ -399,19 +469,27 @@ def ConceptosPalabras(texto: str):
         crearNodo(nome,uri)
         procesar_alternativos(nome,uri)
         procesar_relacionados(nome,uri)
-    
-    fillos = busquedaExhaustiva(uri)
+    #fillos = busquedaExhaustiva(uri)
+    if(inmediata==True and includes==False):
+        fillos = busquedaInmediata(uri)
+    elif(inmediata==False and includes==True):
+        fillos=busquedaExhaustivaIncludesUse(uri)
+    elif(includes==True and inmediata==True):
+        fillos=busquedaInmediataIncludesUse(uri)
+    else:
+        fillos = busquedaExhaustiva(uri)
+        
     print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
         print("analizamos o seguinte concepto: "+f[0]+" que se está executando no número: "+str(i)+" da orde total")
-        auxiliar=TratamentoFillo(f)
+        auxiliar=TratamentoFillo(f,includeUse=includes)
         if auxiliar is not None:
             listaNomes+=auxiliar
                       
     return listaNomes
 
-def gardarConsultaAccesos(nome: str):
-    listaEscribir=ConceptosPalabras(nome)
+def gardarConsultaAccesos(nome: str,inmediata,includes):
+    listaEscribir=ConceptosPalabras(nome,inmediata=inmediata,includes=includes)
     gardar= "csvs/"+nome + ".csv"
     #print(listaEscribir)
     cabeceira=['nome', 'uriVella',"NovoElemento","uriNiovo"]
@@ -430,6 +508,7 @@ def gardarConceptoAmplioProximo(ascendente:str,nomeAconcatear: str):
     for i,f in enumerate(fillos):
         buscado=f[0]+' '+nomeAconcatear
         print("analizamos o seguinte concepto: "+buscado+" que se está executando no número: "+str(i)+" da orde total")
+        start_time = time.time()
         auxiliar=facerBusquedaDoConcepto(buscado)
         listaAuxiliar.append(buscado)
         if auxiliar is not None:
@@ -439,14 +518,43 @@ def gardarConceptoAmplioProximo(ascendente:str,nomeAconcatear: str):
                 listaAuxiliar.append(' ')
         else:
             listaAuxiliar.append(' ')
+        listaAuxiliar.append(time.time() - start_time)
         listaNomes.append(listaAuxiliar)
         #print(listaNomes)
         listaAuxiliar=[]
     gardar= "csvs/buscado"+ascendente+"_"+nomeAconcatear+".csv"
     #pprint(listaNomes)
-    cabeceira=['buscado','resultado']
+    cabeceira=['buscado','resultado','tempo']
+    print(listaNomes)
     escribir(gardar,listaNomes,cabeceira)
 #gardarConceptoAmplioProximo('useful animals','housing')
+def probaHuggingface(descende,nome):
+    name,uri = busquedaNome(descende)
+    fillos=busquedaExhaustivaIncludesUse(uri)
+    fillos=busquedaExhaustiva(uri)
+    print(fillos)
+    listaAux=[]
+    lista=[]
+    nome,uri2 = busquedaNome(nome)
+    print(uri2)
+    print(nome)
+    cabeceira=['nome', 'resultado','tempo']
+    entrada=(descende+'_'+nome)
+    gardar="csvs/probasChat/"+entrada + ".csv"
+    for f in fillos:
+        time.sleep(5)
+        start_time = time.time()
+        entrada=(f[0]+' '+nome)
+        listaAux.append(entrada)
+        print(entrada)
+        mensaxe=funcionchat(entrada,uri2)
+        print(mensaxe)
+        listaAux.append(mensaxe)
+        listaAux.append(time.time() - start_time)
+        lista.append(listaAux)
+        listaAux=[]
+    escribir(gardar,lista,cabeceira)
+probaHuggingface('crops','production')
 def gardadoXeralConsultaAccesos():
     listaEscribir: list[str]= []
     listaInicial=busquedaOrfos()
@@ -457,12 +565,16 @@ def gardadoXeralConsultaAccesos():
         gardar="csvs/"+l[0] + ".csv"
         print(f"\n IMOS EXPLORAR AGORA ESTE CONCEPTO INICIAL: {l[0]} \n")
         if l[0] == 'organisms': 
-            if os.path.exists("csvs/woody plants.csv") :
+            if os.path.exists("csvs/pests.csv") :
                 continue
             else:
-                gardarConsultaAccesos("useful animals")
-                gardarConsultaAccesos("plants")
-                gardarConsultaAccesos("pests")
+                gardarConsultaAccesos("useful animals",False,True)
+                gardarConsultaAccesos("plants",False,False)
+                gardarConsultaAccesos("pests",False,False)
+                gardarConsultaAccesos("insects",False,False)
+                gardarConsultaAccesos("animals",True,False)
+                gardarConsultaAccesos("invertebrates",True,False)
+                gardarConsultaAccesos("organisms",True,False)
                 continue
         if os.path.exists(gardar) :
             continue

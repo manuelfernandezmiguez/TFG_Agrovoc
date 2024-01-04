@@ -90,7 +90,7 @@ def busquedaNome(nome):
         return value,uri
 
 #busqueda('http://aims.fao.org/aos/agrovoc/c_6145')
-#value,uri=busquedaNome('bees')
+#value,uri=busquedaNome('Bees')
 #print(value)
 def busquedaNomeAlternativo(parametro): 
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
@@ -120,7 +120,39 @@ def busquedaNomeAlternativo(parametro):
         #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
         
     return lista2
-
+def busquedaInmediata(parametro): 
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query='''
+        PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+        PREFIX skosxl: <http://www.w3.org/2008/05/skos-xl#> 
+        SELECT DISTINCT ?hierarchicalType ?otherConcept ?label
+        WHERE { 
+            BIND(<'''+parametro+'''> AS ?concept) 
+            ?otherConcept skos:broader ?concept . 
+            BIND("narrower" AS ?hierarchicalType ) 
+            OPTIONAL{ ?otherConcept skosxl:prefLabel/skosxl:literalForm ?label. }
+            FILTER(langMatches(lang(?label), 'en')) 
+        }
+    '''
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    fillos: list[str]= []
+    lista: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        xerarquia = result['hierarchicalType']['value']
+        value = result['label']['value']
+        uri = result['otherConcept']['value']
+        lista=[]
+        if xerarquia!='broader':
+            lista.append(value)
+            lista.append(uri)
+            fillos.append(lista)
+            
+        #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
+        
+    return fillos
 def busquedaExhaustiva(parametro): 
     sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
     query='''
@@ -343,7 +375,155 @@ def busquedaTopConcepts():
         #print(f'Tipo: {xerarquia}\tValue: {value}         \tEnlace: {uri}')
     #pprint(fillos)
     return fillos
+def buscarUsedOf(id:str):
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query="""
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+    PREFIX agrontology: <http://aims.fao.org/aos/agrontology#>  
+    SELECT ?includedConcept ?prefLabel  {
+    <"""+id+"""> agrontology:isUseOf ?includedConcept .
+    ?includedConcept skos:prefLabel ?prefLabel .
+    FILTER (LANG(?prefLabel) = 'en')
+    }"""
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    lista: list[str]= []
+    resultado: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        value = result['includedConcept']['value']
+        label = result['prefLabel']['value']
+        lista=[]
+        lista.append(label)
+        lista.append(value)
+        resultado.append(lista)
+    return resultado
+def buscarInluidos(id:str):
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query="""
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+    PREFIX agrontology: <http://aims.fao.org/aos/agrontology#>  
+    SELECT ?includedConcept ?prefLabel  {
+    <"""+id+"""> agrontology:includes ?includedConcept .
+    ?includedConcept skos:prefLabel ?prefLabel .
+    FILTER (LANG(?prefLabel) = 'en')
+    }"""
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    lista: list[str]= []
+    resultado: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        value = result['includedConcept']['value']
+        label = result['prefLabel']['value']
+        lista=[]
+        lista.append(label)
+        lista.append(value)
+        resultado.append(lista)
+    return resultado
 
+def busquedaInmediataIncludesUse(id:str):
+    print(id)
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query="""
+    PREFIX agrontology: <http://aims.fao.org/aos/agrontology#>  
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+
+    SELECT ?includedConcept ?prefLabel2 ?narrowerConcept ?prefLabel ?narrowerConcept2 ?prefLabel3
+    WHERE {
+    <"""+id+"""> skos:narrower ?narrowerConcept .
+    ?narrowerConcept agrontology:isUseOf|agrontology:includes ?includedConcept .
+    ?narrowerConcept skos:prefLabel ?prefLabel .
+    ?includedConcept skos:prefLabel ?prefLabel2 .
+    ?includedConcept skos:narrower ?narrowerConcept2 .
+    ?narrowerConcept2 skos:prefLabel ?prefLabel3 .
+    FILTER (LANG(?prefLabel) = 'en')
+    FILTER (LANG(?prefLabel2) = 'en')
+    FILTER (LANG(?prefLabel3) = 'en')
+    }
+    """
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    lista: list[str]= []
+    resultado: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        value = result['includedConcept']['value']
+        label = result['prefLabel2']['value']
+        lista=[]
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+        lista=[]
+        value = result['narrowerConcept']['value']
+        label = result['prefLabel']['value']
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+        lista=[]
+        value = result['narrowerConcept2']['value']
+        label = result['prefLabel3']['value']
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+    return resultado
+
+def busquedaExhaustivaIncludesUse(id:str):
+    print(id)
+    sparql = SPARQLWrapper('https://agrovoc.fao.org/sparql')
+    query="""
+    PREFIX agrontology: <http://aims.fao.org/aos/agrontology#>  
+    PREFIX skos: <http://www.w3.org/2004/02/skos/core#> 
+
+    SELECT ?includedConcept ?prefLabel2 ?narrowerConcept ?prefLabel ?narrowerConcept2 ?prefLabel3
+    WHERE {
+    <"""+id+"""> skos:narrower* ?narrowerConcept .
+    ?narrowerConcept agrontology:isUseOf|agrontology:includes ?includedConcept .
+    ?narrowerConcept skos:prefLabel ?prefLabel .
+    ?includedConcept skos:prefLabel ?prefLabel2 .
+    ?includedConcept skos:narrower* ?narrowerConcept2 .
+    ?narrowerConcept2 skos:prefLabel ?prefLabel3 .
+    FILTER (LANG(?prefLabel) = 'en')
+    FILTER (LANG(?prefLabel2) = 'en')
+    FILTER (LANG(?prefLabel3) = 'en')
+    }
+    """
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    qres = sparql.query().convert()
+    lista: list[str]= []
+    resultado: list[str]= []
+    #pprint(qres)
+    for result in qres['results']['bindings']:
+        value = result['includedConcept']['value']
+        label = result['prefLabel2']['value']
+        lista=[]
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+        lista=[]
+        value = result['narrowerConcept']['value']
+        label = result['prefLabel']['value']
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+        lista=[]
+        value = result['narrowerConcept2']['value']
+        label = result['prefLabel3']['value']
+        lista.append(label)
+        lista.append(value)
+        if lista not in resultado:
+            resultado.append(lista)
+    return resultado
+#pprint(busquedaExhaustivaIncludesUse("http://aims.fao.org/aos/agrovoc/c_29108"))
 def busquedaWikidataIDAgrovoc(id:str):
     sparql = SPARQLWrapper('https://query.wikidata.org/sparql')
     query="""SELECT ?item ?itemLabel ?value WHERE {
