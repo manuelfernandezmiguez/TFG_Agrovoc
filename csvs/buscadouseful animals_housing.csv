@@ -1,124 +1,124 @@
 buscado,resultado,tempo
-meat animals housing,animal housing,47.60948634147644
-beef cattle housing,cattle sheds,80.33284044265747
-ornamental fishes housing,animal housing,47.31224465370178
-pet animals housing,animal housing,47.332996129989624
-ornamental birds housing,aviaries,51.34549856185913
-songbirds housing,aviaries,43.127530097961426
-plumage birds housing,aviaries,51.482357025146484
-zoo animals housing,animal housing,39.17553687095642
-domestic animals housing,animal housing,47.26798725128174
-poultry housing,poultry housing,2.0805227756500244
-geese housing,poultry housing,34.95760202407837
-ganders housing,poultry housing,34.99754285812378
-goslings housing,poultry housing,34.83857226371765
-chickens housing,poultry housing,30.82203435897827
-capons housing,poultry housing,47.27123308181763
-cocks housing,poultry housing,47.25676202774048
-chicks housing,poultry housing,34.91687989234924
-broiler chickens housing,poultry housing,47.215837478637695
-cockerels housing,poultry housing,47.156943559646606
-hens housing,poultry housing,47.337371587753296
-layer chickens housing,poultry housing,47.179245948791504
-pullets housing,poultry housing,34.980180501937866
-layer breeders housing,poultry housing,47.344725608825684
-broiler breeders housing,poultry housing,47.095173597335815
-guinea fowl housing,poultry housing,43.24786329269409
-quails housing,poultry housing,30.82327914237976
-turkeys housing,poultry housing,30.899186849594116
-turkey poults housing,poultry housing,47.41845774650574
-ducks housing,poultry housing,30.80594539642334
-drakes housing,poultry housing,34.96270751953125
-ducklings housing,poultry housing,34.91783833503723
-Muscovy ducks housing,poultry housing,47.3552930355072
-working animals housing,animal housing,51.425126791000366
-draught animals housing,animal housing,55.457900285720825
-pack animals housing,animal housing,55.39502668380737
-livestock housing,livestock housing,2.044005870819092
-cattle housing,cattle sheds,47.19656705856323
-bullocks housing,cattle sheds,63.536996364593506
-bulls housing,cattle sheds,63.68602275848389
-heifers housing,cattle sheds,63.65436553955078
-dairy cattle housing,cattle sheds,63.67412090301514
-dairy cows housing,cattle sheds,112.83032941818237
-zebu housing,cattle sheds,71.7559015750885
-banteng housing,cattle sheds,51.46098041534424
-calves housing,calf housing,55.50587844848633
-cows housing,cattle sheds,63.69870471954346
-suckler cows housing,cattle sheds,80.08344650268555
-yearling bulls housing,cattle sheds,63.74051094055176
-gaurs housing,livestock housing,47.21278214454651
-yaks housing,livestock housing,47.312591314315796
-goats housing,goat houses,47.24422883987427
-billygoats housing,goat houses,63.641719579696655
-kids housing,goat houses,51.34883785247803
-nannygoats housing,goat houses,63.63101363182068
-doelings housing,goat houses,51.203176975250244
-female yearling (goat) housing,goat houses,40.99614644050598
-male yearling (goat) housing,goat houses,41.01323199272156
-dairy goats housing,goat houses,63.68879151344299
-fibre goats housing,goat houses,63.50500154495239
-llamas housing,livestock housing,47.19996166229248
-sheep housing,sheep housing,2.0665764808654785
-ewes housing,sheep housing,63.692012310028076
-lambs housing,sheep housing,51.266066551208496
-hoggets housing,sheep housing,51.298245668411255
-rams housing,sheep housing,63.63415241241455
-wethers housing,sheep housing,63.609822511672974
-ewe hoggs housing,sheep housing,63.70671629905701
-gimmers housing,sheep housing,51.394686460494995
-dairy sheep housing,sheep housing,57.46555852890015
-donkeys housing,livestock housing,47.28719615936279
-hinnies housing,livestock housing,47.32574462890625
-mules housing,livestock housing,47.1583034992218
-domestic buffaloes housing,livestock housing,61.72318959236145
-water buffaloes housing, ,34.96029710769653
-camels housing,livestock housing,47.45168662071228
-dromedaries housing,livestock housing,51.3925621509552
-Bactrian camels housing,livestock housing,63.69351649284363
-swine housing,piggeries,43.13403105735779
-piglets housing,piggeries,47.29550361633301
-suckling piglets housing,piggeries,63.67747116088867
-weaners housing,piggeries,51.256083965301514
-boars housing,piggeries,59.65009307861328
-barrows housing,piggeries,59.48107719421387
-sows housing,piggeries,59.51146841049194
-gilts housing,piggeries,63.737815856933594
-dry sows housing,piggeries,76.0124864578247
-farrowing sows housing,farrowing pens,78.0847647190094
-miniature pigs housing,piggeries,59.68287801742554
-fattening pigs housing,piggeries,59.565945625305176
-horses housing,stables,47.187126874923706
-fillies housing,stables,63.65947127342224
-racehorses housing,stables,51.490896224975586
-saddle horses housing,stables,63.85545587539673
-draught horses housing,stables,63.674121379852295
-mares housing,stables,63.63013434410095
-geldings housing,stables,63.68716502189636
-stallions housing,stables,63.68476057052612
-ponies housing,stables,51.347379207611084
-colts housing,stables,51.42573642730713
-yearling (horse) housing,stables,41.534810304641724
-foals housing,stables,52.03861689567566
-milk yielding animals housing,animal housing,60.541191816329956
-furbearing animals housing,animal housing,47.8898344039917
-skin producing animals housing,animal housing,59.98510718345642
-oil producing animals housing,animal housing,60.02615690231323
-performing animals housing,animal housing,39.12956690788269
-pollinators housing,animal housing,35.341949701309204
-useful arthropods housing,animal housing,47.46900486946106
-biological control arthropods housing,animal housing,68.29073429107666
-useful insects housing,animal housing,51.54343366622925
-Lac insects housing,animal housing,55.625752210617065
-silkworms housing,animal housing,43.32793617248535
-dung beetles housing,animal housing,55.79953479766846
-insects as food housing,animal housing,68.51799988746643
-ornamental insects housing,animal housing,55.62818956375122
-medicinal insects housing,animal housing,55.83890390396118
-wool producing animals housing,animal housing,59.86221122741699
-breeding stock housing,animal housing,47.582602977752686
-laboratory animals housing,animal housing,47.8150589466095
-gnotobiotic animals housing,animal housing,39.48019623756409
-laboratory mammals housing, ,35.65569090843201
-recipient animals housing,animal housing,39.66335105895996
-donor animals housing,animal housing,39.539592027664185
+meat animals housing,animal housing,12.29
+beef cattle housing,cattle sheds,8.17
+ornamental fishes housing,animal housing,16.35
+pet animals housing,animal housing,12.26
+ornamental birds housing,animal housing,16.42
+songbirds housing,animal housing,20.5
+plumage birds housing,animal housing,12.34
+zoo animals housing,animal housing,12.34
+domestic animals housing,animal housing,16.4
+poultry housing,poultry housing,4.17
+geese housing,poultry housing,8.22
+ganders housing,poultry housing,12.36
+goslings housing,poultry housing,12.36
+chickens housing,poultry housing,8.18
+capons housing,animal housing,12.3
+cocks housing,animal housing,12.27
+chicks housing,poultry housing,12.31
+broiler chickens housing,animal housing,16.44
+cockerels housing,animal housing,12.31
+hens housing,animal housing,12.3
+layer chickens housing,poultry housing,12.31
+pullets housing,poultry housing,12.28
+layer breeders housing,poultry housing,12.32
+broiler breeders housing,poultry housing,12.34
+guinea fowl housing,poultry housing,8.23
+quails housing,poultry housing,8.21
+turkeys housing,poultry housing,8.19
+turkey poults housing,poultry housing,12.35
+ducks housing,poultry housing,8.26
+drakes housing,poultry housing,12.36
+ducklings housing,poultry housing,12.37
+Muscovy ducks housing,poultry housing,12.34
+working animals housing,livestock boxes,8.24
+draught animals housing,livestock boxes,12.35
+pack animals housing,livestock boxes,12.31
+livestock housing,livestock boxes,4.14
+cattle housing,cattle sheds,4.13
+bullocks housing,livestock boxes,12.35
+bulls housing,animal housing,12.36
+heifers housing,cattle sheds,8.21
+dairy cattle housing,cattle sheds,8.23
+dairy cows housing,animal housing,16.48
+zebu housing,animal housing,16.46
+banteng housing,cattle sheds,8.42
+calves housing,calf housing,4.14
+cows housing,cattle sheds,4.11
+suckler cows housing,cattle sheds,8.23
+yearling bulls housing,cattle sheds,8.31
+gaurs housing,animal housing,16.55
+yaks housing,animal housing,16.5
+goats housing,goat houses,4.24
+billygoats housing,animal housing,12.5
+kids housing,goat houses,8.32
+nannygoats housing,animal housing,16.54
+doelings housing,goat houses,8.41
+female yearling (goat) housing,goat houses,8.34
+male yearling (goat) housing,goat houses,8.28
+dairy goats housing,goat houses,8.39
+fibre goats housing,goat houses,8.29
+llamas housing,animal housing,16.45
+sheep housing,sheep housing,4.16
+ewes housing,animal housing,16.49
+lambs housing,sheep housing,8.3
+hoggets housing,sheep housing,8.31
+rams housing,animal housing,12.35
+wethers housing,animal housing,12.38
+ewe hoggs housing,sheep housing,8.29
+gimmers housing,sheep housing,8.27
+dairy sheep housing,sheep housing,8.28
+donkeys housing,animal housing,16.43
+hinnies housing,livestock boxes,8.24
+mules housing,livestock boxes,8.26
+domestic buffaloes housing,animal housing,16.71
+water buffaloes housing,animal housing,16.56
+camels housing,animal housing,16.58
+dromedaries housing,animal housing,20.61
+Bactrian camels housing,animal housing,20.61
+swine housing,piggeries,4.11
+piglets housing,piggeries,8.27
+suckling piglets housing,piggeries,12.25
+weaners housing,piggeries,12.33
+boars housing,piggeries,8.25
+barrows housing,piggeries,8.24
+sows housing,piggeries,8.24
+gilts housing,piggeries,12.37
+dry sows housing,piggeries,12.34
+farrowing sows housing,farrowing crates,6.23
+miniature pigs housing,piggeries,8.16
+fattening pigs housing,piggeries,8.2
+horses housing,stables,4.11
+fillies housing,stables,8.22
+racehorses housing,stables,8.16
+saddle horses housing,stables,8.23
+draught horses housing,livestock boxes,16.42
+mares housing,animal housing,16.4
+geldings housing,stables,8.29
+stallions housing,stables,8.19
+ponies housing,livestock boxes,12.28
+colts housing,stables,8.2
+yearling (horse) housing,stables,8.14
+foals housing,stables,8.14
+milk yielding animals housing,animal housing,12.22
+furbearing animals housing,animal housing,12.26
+skin producing animals housing,animal housing,12.24
+oil producing animals housing,animal housing,12.24
+performing animals housing,animal housing,12.24
+pollinators housing,animal housing,20.51
+useful arthropods housing,animal housing,12.28
+biological control arthropods housing,animal housing,20.5
+useful insects housing,animal housing,16.46
+Lac insects housing,animal housing,20.7
+silkworms housing,animal housing,20.68
+dung beetles housing,animal housing,20.56
+insects as food housing,animal housing,20.61
+ornamental insects housing,animal housing,20.63
+medicinal insects housing,animal housing,20.71
+wool producing animals housing,animal housing,12.39
+breeding stock housing,animal housing,12.52
+laboratory animals housing,animal housing,12.41
+gnotobiotic animals housing,animal housing,16.69
+laboratory mammals housing,animal housing,16.61
+recipient animals housing,animal housing,12.49
+donor animals housing,animal housing,12.53

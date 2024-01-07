@@ -1,184 +1,92 @@
 nome,resultado,tempo
-legumes production," Pulses.
-(The Agrovoc concept with ID <http://aims.fao.org/aos/agrovoc/c_38547> is a narrower term of ""legume"" and has the preferred label ""pulses"".)
-
-Note: Legumes production can be classified under several more specific Agrovoc concepts depending on the context, such as ""soybean production"", ""peanut production"", etc., which are all narrower terms of ""legumes production"" (<http://aims.fao.org/aos/agrovoc/c_6200>)",10.692986488342285
-feed legumes production, Production of animal feeding stuffs (<http://aims.fao.org/aos/agrovoc/c_7548>),7.079499959945679
-grain legumes production," The entity ""grain legumes production"" can be classified under the AgroVoc narrower term ""Production"" for the superior concept ""Grain legume"".
-The exact URI for this concept is: <http://aims.fao.org/aos/agrovoc/c_38579>
-Therefore, the returned value would be ""Production"".",9.737248420715332
-broad beans production," The entity ""broad beans production"" can be classified under the AgroVoc narrower term ""Broad bean (Cultivation)"".
-The URI for this concept is: <http://aims.fao.org/aos/agrovoc/en/page/CA384759-E6A3-4F6D-B8DF-6EA0BAADC8DA>
-And the preferred label is: Broad bean (Cultivation)
-Therefore, the answer is: Broad bean (Cultivation)",11.169697284698486
-lima beans production, Production,5.5470099449157715
-pigeon peas production," Production
-```diff
-",3.4026284217834473
-vegetable legumes production," The correct AgroVoc narrower term for ""vegetable legumes production"" would be ""Pulse crop production"", which has the identifier <http://aims.fao.org/aos/agrovoc/c_30547>.",5.103852033615112
-groundnuts production," The entity ""groundnut production"" can be classified under the AgroVoc narrower term ""Groundnuts - cultivation"":
-<http://aims.fao.org/aos/agrovoc/en/resource/files/5384973>
-This concept is a narrower of the superior concept ""Agricultural crops"", which has the URI <http://aims.fao.org/aos/agrovoc/c_6200>.",9.194826602935791
-tropical legumes production," Pulses.
-
-Explanation:
-The Agrovoc concept with id c\_6200 represents ""Legume crops"". One of its narrower concepts is ""Pulses"", which refers to ""Plants belonging to the family Leguminosae and having fruits that are beans, peas, lentils, etc., many of which are used as food for humans and fodder for animals."" Tropical legumes such as cowpeas, pigeon peas, and bambara groundnuts can be classified under this subcategory since they are all types of pulses grown in tropical regions.",9.645485162734985
-grain crops production," The entity ""grain crops production"" can be classified under the AgroVoc narrower term ""Cereal farming"" (<http://aims.fao.org/aos/agrovoc/c_3875>).",5.53842830657959
-cereal crops production," The entity ""cereal crops production"" can be classified under the AgroVoc narrower term ""Cereals harvested"" (<http://aims.fao.org/aos/agrovoc/c_3485>).",4.787525177001953
-stimulant crops production," ""Stimulant Crops Production"" can be classified under the AgroVoc narrower term ""Opium Poppy"". The exact URI for this concept is <http://aims.fao.org/aos/agrovoc/c_8954>.
-
-Note: I am a language model and cannot browse the web in real-time, so I used my knowledge cutoff from 2021 to provide this answer based on the information available up until then. It would still be advisable to double-check the current version of AgroVoc for any updates regarding the classification of stimulant crop production.",9.434401035308838
-shade plants production," ""Shade plants production"" can be classified under the AgroVoc narrower term ""Ornamental horticulture"": <http://aims.fao.org/aos/agrovoc/en/resource/05d3e84b-97fc-4bba-bcde-4ddccfd2a5eb>
-
-Explanation: Ornamental horticulture is a branch of horticulture dealing with the cultivation and marketing of plants for their aesthetic value rather than for food or other useful products. Shade plants are typically grown as part of this industry due to their attractive foliage and ability to thrive in low light conditions.",9.630755424499512
-shade trees production," ""Urban forestry"" would be a suitable AgroVoc narrower for the entity ""shade tree production."" Urban forestry refers to the management and maintenance of trees in urban areas, including shade trees, which are typically planted to provide shade and other benefits to people in these environments. The broader concept under which this falls is simply ""Trees,"" coded as AGROVOC:03A58794.",6.995767593383789
-spice crops production," ""Spice Crops Production"" can be classified under the AgroVoc narrower term ""Spices"" (code: <http://aims.fao.org/aos/agrovoc/c_3854>).",6.2054078578948975
-bee plants production," ""Bee plants"" is a narrower term of ""Plant products"" (id: <http://aims.fao.org/aos/agrovoc/c_6200>).",5.411947727203369
-calabash crops production," The entity ""calabash crops production"" can be classified under the AgroVoc narrower term ""Cucurbitaceae production"" (<http://aims.fao.org/aos/agrovoc/en/resource/index.html?query=cucurbitaceae+production>).",10.728776454925537
-cash crops production," The entity ""cash crops production"" can be classified under the AgroVoc narrower term ""http://aims.fao.org/aos/agrovoc/c\_9853"", which is ""Crop production, commercial"".",5.827603340148926
-cover plants production," ""Greenhouse crops""",4.981573820114136
-protective plants production," ""Cover crops"" (<http://aims.fao.org/aos/agrovoc/en/page/3845971>).",7.400935173034668
-erosion control plants production, Production.,3.823524236679077
-root crops production," The entity ""root crops production"" can be classified under the AgroVoc narrower term ""Root and tuber crops production"" (<http://aims.fao.org/aos/agrovoc/c_30549>).",5.333540439605713
-food crops production," ""Crop Production""",4.707322597503662
-fruit crops production," The entity ""fruit crops production"" can be classified under the AgroVoc narrower term ""Fruits -- Production"" (<http://aims.fao.org/aos/agrovoc/en/resource/0000479>).",9.754967451095581
-grapevines production," The entity ""grapevines production"" can be classified under the AgroVoc narrower term ""http://aims.fao.org/aos/agrovoc/c\_9754"" which is ""Grape cultivation."" This refers specifically to the agricultural practices and techniques used in growing grapes for various purposes such as wine-making, table grape consumption, or raisin production.",7.217684030532837
-berry crops production," ""Berry crops production"" can be classified under the AgroVoc narrower term ""Fruit farming"" which has the following URI: <http://aims.fao.org/aos/agrovoc/c_3589>.",7.494236946105957
-fruit trees production," ""Orchards"" would be a suitable AgroVoc narrower for the concept ""Fruit trees production"". The URI for this concept is: <http://aims.fao.org/aos/agrovoc/c_30584>.",7.449468374252319
-sugar crops production," ""Sugarcane""
-(This is a narrower term for the AgroVoc concept <http://aims.fao.org/aos/agrovoc/en/page/AAYK-5XJ4> ""Crop production"", which has the identifier c\_6200.)
-
-Note: To ensure accuracy and relevance in answering your question, I directly accessed the AgroVoc thesaurus using its SPARQL endpoint at <https://lov.linkeddata.es/sparql/>. The query used was as follows:
-
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-SELECT ?narrowerLabel
-WHERE {
-<http://aims.fao.org/aos/agrovoc/c_6200> skos:narrower ?narrower .
-?narrower skos:prefLabel ?narrowerLabel .
-FILTER (lang(?narrowerLabel) = ""en"")
-}",12.780471324920654
-sugar palms production," ""Palm sugar""",6.047127962112427
-beverage crops production," The correct AgroVoc narrower term for ""beverage crops production"" would be ""Beverages"" (ID: <http://aims.fao.org/aos/agrovoc/c_345>).",5.774313449859619
-vegetable crops production," The entity ""vegetable crop production"" can be classified under the AgroVoc narrower term ""vegetable cropping"" (<http://aims.fao.org/aos/agrovoc/c_38459>).",5.741403341293335
-cole crops production," The entity ""cole crops production"" can be classified under the AgroVoc narrower term ""Brassica spp."" (<http://aims.fao.org/aos/agrovoc/en/page/BRANSICA-SPP>), which is a subconcept of ""Crop production"". Cole crops are vegetables from the family Brassicaceae, also known as Cruciferae, and include species such as broccoli, cauliflower, cabbage, kale, and others.",14.563778162002563
-pole beans production," Horticultural crops.
-
-The Agrovoc concept ""Pole Beans"" (<http://aims.fao.org/aos/agrovoc/en/page/pole-beans>) is a narrower term of ""Climbing bean"" (<http://aims.fao.org/aos/agrovoc/en/page/climbing-bean>), which in turn is a narrower term of ""Bean"" (<http://aims.fao.org/aos/agrovoc/en/page/bean>). The latter is a narrower term of ""Legume"" (<http://aims.fao.org/aos/agrovoc/en/page/legume>), which is finally a narrower term of ""Horticultural crop"" (<http://aims.fao.org/aos/agrovoc/en/page/horticultural-crops>).",11.797396421432495
-bush beans production," ""Bush bean production"" can be classified under the AgroVoc narrower term ""Haricot (Phaseolus vulgaris L.) - varieties, production and management"". The code for this concept in AgroVOC is: <http://aims.fao.org/aos/agrovoc/c_38579>.",6.765102863311768
-hedging plants production," ""Hedging plants production"" can be classified under the AgroVoc narrower term ""Ornamental shrubs"": <http://aims.fao.org/aos/agrovoc/en/resource/index.html?query= hedging%20plants&rtype=freeTextMatch>
-This classification is based on the use of hedging plants as ornamentals in landscaping and gardening.",9.327381134033203
-industrial crops production," ""Industrial crops production"" can be classified under the AgroVoc narrower term ""Cultivation of industrial plants"" (<http://aims.fao.org/aos/agrovoc/en/resource/files/437598>).",10.168614149093628
-oil crops production," ""Oilseeds""
-(This is a narrower term of the AgroVoc concept for ""crops,"" and it specifically refers to plants that are grown primarily for their oil-rich seeds.)",6.090789318084717
-safflower production," ""Oilseed Crops""
-(This is based on the AgroVoc concept hierarchy for safflower (Carthamus tinctorius L.), where it is classified as a type of oilseed crop.)",8.757708311080933
-oil palms production," ""Palm Oil Production""
-```json
-{
-    ""id"": ""9354"",
-    ""label"": {
-        ""en"": ""Palm oil production""
-    },
-    ""inScheme"": {
-        ""uri"": ""http:\/\/aims.fao.org\/aos\/agrovoc\/""
-    }
-}
-```",6.9706175327301025
-sunflowers production, 'Sunflower cultivation' is a suitable AgroVoc narrower term for the superior concept '<http://aims.fao.org/aos/agrovoc/en/page/AAE34F58-D7FE-41B9-A8CF-EA93FFAEB7FA> Sunflower (Crop).',6.788875579833984
-dye plants production," ""Plant dye crop farming""",4.050366640090942
-fibre crops production," ""Fiber Crops Production"" can be classified under the AgroVoc narrower term ""Fiber crop cultivation"" (id: <http://aims.fao.org/aos/agrovoc/c_45397>).",5.528321981430054
-wax plants production," ""Cultivation of ornamental plants""",4.403449535369873
-fuel crops production," ""Bioenergy crops"" would be a suitable AgroVoc narrower for the concept ""Fuel crops production"".",7.231941223144531
-pesticide crops production," ""Pest Management""",4.955735921859741
-essential oil crops production," ""Essential oil crops production"" can be classified under the AgroVoc narrower term ""Aromatic and medicinal plants"" (<http://aims.fao.org/aos/agrovoc/en/page/AROMATIC-AND-MEDICINAL-PLANTS>).",6.362779378890991
-structural crops production," The entity ""structural crops production"" can be classified under the AgroVoc narrower term ""Perennial crop farming"" (<http://aims.fao.org/aos/agrovoc/c_3859>).",6.273235559463501
-medicinal plants production," ""Medicinal plants production"" can be classified under the AgroVoc narrower term ""Medicinal and aromatic plants"" (<http://aims.fao.org/aos/agrovoc/en/resourceDetails?nodeId=5974>).",8.249780416488647
-antibacterial plants production," ""Medicinal plant production"" is a suitable AgroVoc narrower for the superior concept ""Plant production."" You can find this information by searching for related concepts in the AgroVoc thesaurus on the Agricultural Information Management Standards (AIMS) website maintained by the Food and Agriculture Organization (FAO).",7.1837685108184814
-antifungal plants production," ""Medicinal plant products"" (http://aims.fao.org/aos/agrovoc/c\_9754)",8.200854063034058
-antiviral plants production," ""Medicinal plant cultivation""",6.661218166351318
-gum plants production," ""Gum plants production"" can be classified under the AgroVoc narrower term ""Gums, resins and latexes"". The AgroVoc URI for this concept is <http://aims.fao.org/aos/agrovoc/c_4537>.",6.68784761428833
-tan plants production," ""Plant cultivation""
-(This is a narrower term of the Agrovoc concept for ""Agricultural crops production"", which has the code <http://aims.fao.org/aos/agrovoc/c_6200>. The term ""Plant cultivation"" refers to the process of growing and tending plants, including crops like tan.)",7.705235958099365
-rubber crops production," The entity ""rubber crops production"" can be classified under the AgroVoc narrower term ""http://aims.fao.org/aos/agrovoc/c\_9854"" which is ""Rubber tree crop"".",5.33950400352478
-bioenergy crops production," ""Energy Crops""
-(This is a direct child concept of ""<http://aims.fao.org/aos/agrovoc/c_6200>"" in AgroVoc.)
-
-Confidence: 95%",5.576343059539795
-revegetation plants production," ""Plant propagation""",4.181010723114014
-rootstock crops production," The entity ""rootstock crops production"" can be classified under the AgroVoc narrower term ""Orchard farming"" (<http://aims.fao.org/aos/agrovoc/en/page/5874>), which is a subconcept of ""Plant propagation"" (<http://aims.fao.org/aos/agrovoc/c_6200>).",6.723127126693726
-salad crops production," ""Vegetable crop farming""",4.147412538528442
-seed crops production," The entity ""seed crops production"" can be classified under the AgroVoc narrower term ""Seed production"".
-
-Here is the corresponding URI for this concept: <http://aims.fao.org/aos/agrovoc/c_8793>
-
-And here is a brief definition of Seed Production from AgroVoc:
-
-""The process of producing seeds for sowing and plant breeding purposes.""",9.3695809841156
-soil reclamation plants production," Environmental protection and conservation (env)
-	+ Rehabilitation and restoration ecology (env.rehab)
-		- Land reclamation (env.rehab.land\_reclm)
-
-However, I am designed to provide just one result, so here it is as requested: `Land reclamation`",41.15371608734131
-browse plants production," ""Plant cultivation""",3.8197031021118164
-herbage crops production," Forage Crops Production \\
-(narrower term of ""Herbaceous plants"" (ConceptURI: <http://aims.fao.org/aos/agrovoc/c_6200>))",6.183719158172607
-field crops production," ""Cereals""
-(This is a direct child concept of ""Field crop productions"", identified by the URI <http://aims.fao.org/aos/agrovoc/c_9538>)",6.536959886550903
-plantation crops production," ""Plantation crops production"" can be classified under the AgroVoc narrower term ""Perennial crop farming"" (http://aims.fao.org/aos/agrovoc/en/resource/files/7348951), which is a subconcept of ""Crop production"" (<http://aims.fao.org/aos/agrovoc/c_6200>).",8.492760419845581
-winter crops production," The entity ""winter crops production"" can be classified under the AgroVoc narrower term ""Crop management practices by type of crop - Winter cereals"".
-The AgroVoc URI for this concept is: <http://aims.fao.org/aos/agrovoc/c_30594>.",6.12651252746582
-spring crops production," The entity ""spring crops production"" can be classified under the AgroVoc narrower term ""Spring wheat"".
-
-Concept: <http://aims.fao.org/aos/agrovoc/c_6200> (Cereals)
-Narrower Concept: Spring wheat (<http://aims.fao.org/aos/agrovoc/c_34578>)",7.824915170669556
-companion crops production," Intercropping
-
-The Agrovoc concept for ""companion crops production"" (<http://aims.fao.org/aos/agrovoc/en/page/BROWSE-AGROVOC?query=companion+crops+production>) has the narrower term ""intercropping"" (<http://aims.fao.org/aos/agrovoc/en/page/BROWSE-AGROVOC?query=Intercropping>).",10.459053754806519
-grass clover production," Forage Production
-(This is a narrower term (NT) of ""Animal feeding"" (ID: <http://aims.fao.org/aos/agrovoc/c_6200>))
-
-Note: AgroVoc Concept Scheme and SKOS notation are used in this response.
-AgroVoc URI: <http://aims.fao.org/aos/agrovoc/c_385794>
-Label: forage production
-Notation: AD-3020
-broader: Animal feeding (ID: <http://aims.fao.org/aos/agrovoc/c_6200>)",11.498247146606445
-lucerne grass production," ""Fodder crops""
-(This is a narrower term of the Agrovoc concept ""Forage resources"", ID: <http://aims.fao.org/aos/agrovoc/c_6200>, which refers to lucerne grass as a type of forage crop.)",6.150278568267822
-catch crops production," The entity ""catch crops production"" can be classified under the AgroVoc narrower term ""Cover Crops"" (<http://aims.fao.org/aos/agrovoc/en/resource/files/7348592>) which is a subconcept of ""Temporary Agricultural Plants"" (<http://aims.fao.org/aos/agrovoc/en/resource/files/7348591>).
-
-Therefore, the answer is: Cover Crops",7.636354684829712
-summer catch crops production," ""Summer catch crops production"" can be classified under the AgroVoc narrower term ""Catch crop farming"" (<http://aims.fao.org/aos/agrovoc/en/resourceDetails/record/435789>).",8.402640104293823
-winter catch crops production," The entity ""winter catch crops production"" can be classified under the AgroVoc narrower term ""Catch Crops"". Here is the corresponding URI for your reference: <http://aims.fao.org/aos/agrovoc/en/page/CA327458>",6.332947254180908
-tree crops production," ""Tree crop farming""",4.604995489120483
-tropical crops production," ""Crop Production"" (http://aims.fao.org/aos/agrovoc/c\_6200) is a broader concept for ""Tropical Crops Production"".",6.700164079666138
-mother plants production," ""Mother plant production"" can be classified under the AgroVoc narrower term ""Plant tissue culture"": <http://aims.fao.org/aos/agrovoc/en/resourceDetails?q=&lng=en&terms=7839>
-It is a method of propagating plants using in vitro cultured cells, tissues, or organs, including mother plants used for producing multiple progeny through clonal reproduction.",7.955688953399658
-autochthonous crops production," ""Crop Production""",3.7823710441589355
-feed crops production," The entity ""feed crops production"" can be classified under the AgroVoc narrower term ""animal feeding"". Here is the corresponding URL:
-
-<http://aims.fao.org/aos/agrovoc/en/resource/?query=id%3A9587>
-
-I hope this helps! Let me know if you have any other questions.",6.983169794082642
-sorghum production," ""Sorghum production"" can be classified under the AgroVoc narrower term ""Cultivation practices"":
-<http://aims.fao.org/aos/agrovoc/c_9754>
-This is because sorghum production involves various cultivation practices such as land preparation, planting, irrigation, fertilization, pest and disease management, and harvesting.",6.164645433425903
-broom sorghum production," ""Cereals and cereal products""
-(this is a narrower term for the concept ""Agricultural crops"", which has the identifier <http://aims.fao.org/aos/agrovoc/c_6200>)
-
-Broom sorghum (Sorghum bicolor) is a type of cereal crop, so it falls under this category in AgroVoc.",6.966125011444092
-sweet sorghum production," ""Sorghum for human nutrition""",4.456110000610352
-grain sorghum production," ""Crop Production""
-(This is a narrower term of the Agrovoc concept <http://aims.fao.org/aos/agrovoc/en/resource/files/795384> for ""Agriculture and Forestry"", under which ""Grain Sorghum Production"" falls.)",6.299675703048706
-forage sorghum production," ""Forage crop""
-(This is a narrower term of the Agrovoc concept ""Fodder crops"", which has the code <http://aims.fao.org/aos/agrovoc/c_6200>. The term ""forage crop"" refers to any crop grown primarily for use as animal feed.)",6.647130727767944
-upland crops production," ""Crop Production""",3.662714958190918
-trap crops production," ""Trap cropping"" is a specific pest control measure that falls under the broader category of ""Pest management."" Therefore, I would classify ""trap crops production"" as a narrower term of the AgroVoc concept:
-
-<http://aims.fao.org/aos/agrovoc/en/page/pest-management> (id: 5983)",9.139824867248535
-protein plants production," ""Plant protein production"" is a narrower term of the AgroVoc concept with id `<http://aims.fao.org/aos/agrovoc/c_6200>`, which represents ""Agricultural crops"". However, there isn't a specific narrower term for ""protein plants production"" in AgroVoc. The closest concept I could find is ""Protein crops"", which has the id `<http://aims.fao.org/aos/agrovoc/c_385479>`.",8.008011102676392
-greenhouse crops production," The entity ""greenhouse crops production"" can be classified under the AgroVoc narrower term ""Controlled environment agriculture"". Here is the corresponding URI: <http://aims.fao.org/aos/agrovoc/c_38574>.",7.946937799453735
-pot plants production, Indoor gardening (ID: <http://aims.fao.org/aos/agrovoc/c_983574>).,7.032653570175171
-starch crops production," The entity ""starch crops production"" can be classified under the AgroVoc narrower term ""Starch crop cultivation"" (<http://aims.fao.org/aos/agrovoc/c_38547>).",5.8581719398498535
-nut crops production," ""Crops, Nuts""",4.62753963470459
-prohibited crops production," ""Crop prohibition and restriction""",4.804590940475464
-useful plants production," Useful plants production can be classified under the AgroVoc narrower term ""Crop production"" (<http://aims.fao.org/aos/agrovoc/en/page/4873>).",6.403211832046509
+legumes production,'Production',12.45
+feed legumes production,'Legume crop',9.59
+grain legumes production,'Grain legumes',5.17
+broad beans production,'Broad bean',5.16
+lima beans production,'Lima beans',5.42
+pigeon peas production,'Pigeon pea',5.0
+vegetable legumes production,'Vegetables,6.85
+groundnuts production,'Groundnut cultivation',4.21
+tropical legumes production,'Legume crops',4.96
+grain crops production,'Crop production',6.47
+cereal crops production,'Crop Production',5.02
+stimulant crops production,"""Stimulant crop production""",6.7
+shade plants production,'Shade-Tolerant Plants',12.4
+shade trees production,'tree growing',8.6
+spice crops production,'Spices',8.65
+bee plants production,'Plant production and protection',5.94
+calabash crops production,'Calabashes',6.86
+cash crops production,'production of cash crops',5.52
+cover plants production,'Crop production',6.73
+protective plants production,'Protection forests management',9.02
+erosion control plants production,'Plant production',5.17
+root crops production,'Root crop production',6.45
+food crops production,'Agricultural crop production',4.98
+fruit crops production,'Fruit Crops Production',9.93
+grapevines production,'Grape cultivation',5.19
+berry crops production,'Berries',5.0
+fruit trees production,'Fruits',8.82
+sugar crops production,'Sugarcane',9.28
+sugar palms production,'Sugarcane',6.16
+beverage crops production,'Beverages',5.11
+vegetable crops production,'Crop Production',8.5
+cole crops production,'Brassica vegetables',6.86
+pole beans production,'Pole bean',5.72
+bush beans production,'Bush bean',6.06
+hedging plants production,'Hedging',7.59
+industrial crops production,'Industrial crop production',9.28
+oil crops production,'Oilseed Crops',16.69
+safflower production,'Safflower',8.54
+oil palms production,'Palm oil',6.76
+sunflowers production,'Sunflower oil',6.14
+dye plants production,'Plant dye',5.23
+fibre crops production,'Fiber crop production',5.12
+wax plants production,"""Wax plant""",5.6
+fuel crops production,'Biomass energy crop production',11.77
+pesticide crops production,'Pest control in crop production',8.28
+essential oil crops production,'Essential oils',9.46
+structural crops production,'Crop Production',6.54
+medicinal plants production,'Medicinal plant cultivation',11.74
+antibacterial plants production,'Plant product processing',9.62
+antifungal plants production,'Phytomedicines',9.17
+antiviral plants production,'Medicinal and aromatic plants',8.96
+gum plants production,'Gums',6.18
+tan plants production,'Tannins',7.78
+rubber crops production,'Rubber',8.83
+bioenergy crops production,'Bioenergy Crops',6.29
+revegetation plants production,'Plant production',7.34
+rootstock crops production,'Root and tuber crops production',7.47
+salad crops production,'Salad plants (crops)',11.73
+seed crops production,'Seed production',5.84
+soil reclamation plants production,'Waste Treatment Plant',8.67
+browse plants production,'Forage Crops',9.09
+herbage crops production,'Herbaceous crop production',9.06
+field crops production,'Field crop',7.64
+plantation crops production,'Plantation crops',5.57
+winter crops production,'Winter crops',6.41
+spring crops production,'Spring crop production',5.33
+companion crops production,'companion planting',8.89
+grass clover production,'Forage production',9.12
+lucerne grass production,'Lucerne',6.07
+catch crops production,'Catch cropping',6.23
+summer catch crops production,"""Crop yields""",9.29
+winter catch crops production,'catch crop',6.72
+tree crops production,'Tree crop cultivation',6.14
+tropical crops production,"""Tropical crops""",5.03
+mother plants production,'Mother plant',8.72
+autochthonous crops production,'production of autochthonous crops',9.07
+feed crops production,'Feed crop production',7.23
+sorghum production,'Sorghum',9.68
+broom sorghum production,'sorghum brooms',13.19
+sweet sorghum production,'Sorghum production',7.72
+grain sorghum production,'Grain Sorghums',8.69
+forage sorghum production,'Forage crop production',13.63
+upland crops production,'Upland crop',22.68
+trap crops production,'Trap cropping',6.67
+protein plants production,'Plant protein',9.99
+greenhouse crops production,'Greenhouse crop production',7.43
+pot plants production,'Indoor vertical farming',7.88
+starch crops production,'Starchy roots',5.97
+nut crops production,'Nut crop',11.15
+prohibited crops production,'Prohibition of crop production',6.21
+useful plants production,'Useful plant production',8.36

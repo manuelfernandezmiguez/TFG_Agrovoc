@@ -1,5 +1,6 @@
 from neo4j import GraphDatabase
 import json
+from pprint import pprint
 
 uri = "neo4j://localhost:7687"
 username = "neo4j"
@@ -401,6 +402,17 @@ def busquedaPaisGrafo(concepto1) :
         
         return lista
 
+def busquedaFillosGrafo(concepto1) :
+    lista: list[json_data]= []
+    query = "MATCH (n:Concept)-[:Narrower*]->(p:Concept) where n.uri="+f"'{concepto1}'"+" RETURN p.label,p.uri"
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista.append(json_data)
+        
+        return lista
+#pprint(busquedaFillosGrafo('http://aims.fao.org/aos/agrovoc/c_444'))
 def startsWithStem(nome: str):
     lista: list[json_data]= []
     listaResultado: list[json_data]= []
@@ -430,10 +442,52 @@ def startsWithLex(nome: str):
             listaResultado.append(lista)
             lista=[]
         return listaResultado
-    
-#print(startsWithStem('bee'))
-    
 
+def ContidoUnion(nome:str,nome2:str):
+    lista: list[json_data]= []
+    listaResultado: list[json_data]= []
+    query = f"""MATCH (e)-[:Narrower*]->(b),
+        (d)-[:Contido_en]->(c),
+        (d)-[:Contido_en]->(b),
+        path=(f)-[:Broader*]->(c)
+        WHERE f.label = '{nome}' AND e.label = '{nome2}'
+        RETURN DISTINCT b.label as etiqueta,length(path)+0.1 as distancia
+        UNION ALL
+        MATCH (e)-[:Narrower*]->(b),
+        (c)-[:Contido_en]->(b),
+        path=(d)-[:Broader*]->(c)
+        WHERE
+        d.label='{nome}'
+        AND e.label='{nome2}'
+        RETURN distinct b.label as etiqueta,length(path) as distancia
+        UNION ALL
+        MATCH (c)-[:Contido_en]->(b),(e)-[:Narrower*]->(b)
+        where c.label='{nome}' and e.label='{nome2}'
+        return b.label as etiqueta, 0 as distancia
+        UNION ALL
+        MATCH (e)-[:Narrower*]->(b),
+            (d)-[:Contido_en]->(c),
+            (d)-[:Contido_en]->(b)
+        where c.label='{nome}' and e.label='{nome2}'
+        return b.label as etiqueta, 0.1 as distancia
+"""
+    with driver.session() as session:
+        results =  session.run(query)
+        for record in results:
+            json_data = record
+            lista+=(json_data)
+            listaResultado.append(lista)
+            lista=[]
+        # Utilizar un conjunto para rastrear elementos únicos
+    # Conjunto para rastrear elementos únicos
+    elementos_vistos = set()
+    listaResultado.sort(reverse=False, key=lambda x: x[1])
+    # Lista resultante sin duplicados en la posición elemento[0]
+    lista_sin_duplicados = [elemento for elemento in listaResultado if not (elemento[0] in elementos_vistos or elementos_vistos.add(elemento[0]))]
+    return lista_sin_duplicados
+#pprint(ContidoUnion('ponies','housing'))
+#print(startsWithStem('bee'))
+# Tu lista con elementos duplicados
 #print(busquedaPaisGrafo('honeybees'))
 ###
 #json_data = json.dumps(get_some_data(limit=1).data())

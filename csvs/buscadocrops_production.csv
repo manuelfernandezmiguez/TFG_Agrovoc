@@ -1,0 +1,92 @@
+buscado,resultado,tempo
+legumes production,crop production,8.3
+feed legumes production,fodder conservation,6.26
+grain legumes production,crop production,12.37
+broad beans production,field preparation,6.27
+lima beans production,crop production,16.58
+pigeon peas production,crop production,16.62
+vegetable legumes production,crop production,12.47
+groundnuts production,crop production,12.48
+tropical legumes production,crop production,12.37
+grain crops production,crop production,8.31
+cereal crops production,crop production,12.43
+stimulant crops production,crop production,8.36
+shade plants production,crop production,8.4
+shade trees production,pruning,6.2
+spice crops production,crop production,8.33
+bee plants production,honey production,6.27
+calabash crops production,crop production,8.33
+cash crops production,crop production,8.33
+cover plants production,crop production,8.3
+protective plants production,crop production,8.4
+erosion control plants production,soil breaking,6.31
+root crops production,root pruning,6.25
+food crops production,food production,6.24
+fruit crops production,defruiting,6.26
+grapevines production,defruiting,10.36
+berry crops production,defruiting,10.43
+fruit trees production,defruiting,6.25
+sugar crops production,food production,10.35
+sugar palms production,food production,14.53
+beverage crops production,food production,10.4
+vegetable crops production,food production,10.34
+cole crops production,food production,14.53
+pole beans production,food production,14.5
+bush beans production,food production,14.43
+hedging plants production,crop production,8.23
+industrial crops production,crop production,8.33
+oil crops production,oil production,6.24
+safflower production,oil production,10.35
+oil palms production,oil production,6.27
+sunflowers production,oil production,10.37
+dye plants production,crop production,12.44
+fibre crops production,crop production,12.41
+wax plants production,crop production,12.42
+fuel crops production,crop production,12.39
+pesticide crops production,crop production,12.27
+essential oil crops production,crop production,12.29
+structural crops production,crop production,12.2
+medicinal plants production,crop production,12.25
+antibacterial plants production,crop production,16.38
+antifungal plants production,crop production,16.38
+antiviral plants production,crop production,16.48
+gum plants production,resin tapping,6.17
+tan plants production,crop production,12.41
+rubber crops production,crop production,12.52
+bioenergy crops production,crop production,12.36
+revegetation plants production,crop production,8.27
+rootstock crops production,crop production,8.34
+salad crops production,crop production,8.34
+seed crops production,seed stratification,6.24
+soil reclamation plants production,crop production,8.36
+browse plants production,fodder conservation,6.28
+herbage crops production,crop production,8.37
+field crops production,field preparation,6.28
+plantation crops production,crop production,8.35
+winter crops production,oversowing,6.23
+spring crops production,crop production,8.35
+companion crops production,crop production,8.39
+grass clover production,crop production,12.54
+lucerne grass production,crop production,12.51
+catch crops production,stubble tillage,6.15
+summer catch crops production,stubble tillage,10.3
+winter catch crops production,oversowing,6.28
+tree crops production,pruning,6.31
+tropical crops production,crop production,8.27
+mother plants production,crop production,8.36
+autochthonous crops production,crop production,8.33
+feed crops production,feed production,6.26
+sorghum production,feed production,10.35
+broom sorghum production,feed production,14.36
+sweet sorghum production,feed production,14.52
+grain sorghum production,feed production,14.57
+forage sorghum production,fodder conservation,6.22
+upland crops production,crop production,8.39
+trap crops production,crop production,8.37
+protein plants production,crop production,8.39
+greenhouse crops production,crop production,8.4
+pot plants production,pot planting,6.3
+starch crops production,crop production,8.41
+nut crops production,crop production,8.4
+prohibited crops production,crop production,8.22
+useful plants production,crop production,8.21

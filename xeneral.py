@@ -4,7 +4,7 @@ from parseCSV import escribir
 from pprint import pprint
 from anytree import Node, RenderTree
 from anytree.exporter import DotExporter
-from grafosDB import devolverLemma,devolverStemma,startsWithStem,devolverContaFillos,crearClasificación,devolverArtigo,crearArtigo,devolverNodoPoloNome,contidoNosConceptosSimilares,StringContenLexConcepto,buscarLexContidoConcepto,devolverLex,buscarTermoContidoConcepto,buscarConceptoContido,contidosNosFillos,crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion,busquedaPaisGrafo,paisContidosNosFillos,fixarAlcume,fixarAlcumeLexSte,fixarNomeLexSte,comprobarExistenciaNome
+from grafosDB import ContidoUnion,busquedaFillosGrafo,devolverLemma,devolverStemma,startsWithStem,devolverContaFillos,crearClasificación,devolverArtigo,crearArtigo,devolverNodoPoloNome,contidoNosConceptosSimilares,StringContenLexConcepto,buscarLexContidoConcepto,devolverLex,buscarTermoContidoConcepto,buscarConceptoContido,contidosNosFillos,crearNodo,crearRelacion,comprobarExistencia,comprobarExistenciaRelacion,busquedaPaisGrafo,paisContidosNosFillos,fixarAlcume,fixarAlcumeLexSte,fixarNomeLexSte,comprobarExistenciaNome
 from conversaLLM import funcionchat
 import time
 import os
@@ -85,27 +85,8 @@ def facerBusquedaDoConcepto(nome:str):
     print(resultado)
     return resultado
 def facerBusqueda2Concepto(nome1,nome2):
-    listaPais=[]
     resultado=[]
-    listaPais.append(nome1)
-    listaPais+=busquedaPaisGrafo(nome1)
-    contador=100
-    pprint(listaPais)
-    for lp in listaPais:
-        #print("concepto analizado: "+lp +"\t concepto a cotexar "+lista[1])
-        resultadoParcial=[]
-        resultadoParcial=buscarConceptoContido(lp,nome2)
-
-        if(len(resultadoParcial)==0):
-            resultadoParcial=buscarTermoContidoConcepto(lp,nome2)
-            if len(resultadoParcial)!=0:
-                #listaNova=contidosNosFillos(lp)
-                #pprint(listaNova)
-                #print(resultadoParcial)
-                contadorParcial=devolverContaFillos(lp)
-                if(contadorParcial<contador):
-                    contador=contadorParcial
-                    resultado=resultadoParcial
+    resultado=ContidoUnion(nome1,nome2)[0]
     return resultado
 #print(facerBusqueda2Concepto('honey bees','housing'))
 #print(buscarConceptoContido('chickens','housing'))
@@ -337,10 +318,13 @@ def TratamentoConcepto(nome,uri,pais,paiNome):
                         a=analizar[ij-1]
             if(busquedaNome(a) is None):
                 a=getSingular(a)
+                print(a)
             if(busquedaNome(a) is None):
                 a=aplicarPlural(a)
+                print(a)
             if(busquedaNome(a) is None):
                 a = a.capitalize()
+                print(a)
                 #print('entrou: '+a)
             if(busquedaNome(a) is not None):
                 #print('entrou2: '+a)
@@ -502,14 +486,17 @@ def gardarConceptoAmplioProximo(ascendente:str,nomeAconcatear: str):
     nome,uri = busquedaNome(ascendente)
     if(comprobarExistencia(uri)==False):
         print("non se atopou o concepto para facer a busqueda")
-    
+    print(uri)
+    #fillos = busquedaFillosGrafo(uri)
     fillos = busquedaExhaustiva(uri)
     print(f"este é o número de conceptos da mostra que imos analizar:  {len(fillos)} descendentes do seguinte concepto pai {nome}")
     for i,f in enumerate(fillos):
         buscado=f[0]+' '+nomeAconcatear
         print("analizamos o seguinte concepto: "+buscado+" que se está executando no número: "+str(i)+" da orde total")
         start_time = time.time()
-        auxiliar=facerBusquedaDoConcepto(buscado)
+        #auxiliar=facerBusquedaDoConcepto(buscado)
+        auxiliar=facerBusqueda2Concepto(f[0],nomeAconcatear)
+        tempo=round(time.time() - start_time, 2)
         listaAuxiliar.append(buscado)
         if auxiliar is not None:
             if len(auxiliar)>0:
@@ -518,16 +505,16 @@ def gardarConceptoAmplioProximo(ascendente:str,nomeAconcatear: str):
                 listaAuxiliar.append(' ')
         else:
             listaAuxiliar.append(' ')
-        listaAuxiliar.append(time.time() - start_time)
+        listaAuxiliar.append(tempo)
         listaNomes.append(listaAuxiliar)
         #print(listaNomes)
         listaAuxiliar=[]
-    gardar= "csvs/buscado"+ascendente+"_"+nomeAconcatear+".csv"
+    gardar= "csvs/buscado"+ascendente+"_"+nomeAconcatear+"novo.csv"
     #pprint(listaNomes)
     cabeceira=['buscado','resultado','tempo']
     print(listaNomes)
     escribir(gardar,listaNomes,cabeceira)
-#gardarConceptoAmplioProximo('useful animals','housing')
+gardarConceptoAmplioProximo('crops','agriculture')
 def probaHuggingface(descende,nome):
     name,uri = busquedaNome(descende)
     fillos=busquedaExhaustivaIncludesUse(uri)
@@ -550,11 +537,11 @@ def probaHuggingface(descende,nome):
         mensaxe=funcionchat(entrada,uri2)
         print(mensaxe)
         listaAux.append(mensaxe)
-        listaAux.append(time.time() - start_time)
+        listaAux.append(round(time.time() - start_time, 2))
         lista.append(listaAux)
         listaAux=[]
     escribir(gardar,lista,cabeceira)
-probaHuggingface('crops','production')
+#probaHuggingface('useful animals','housing')
 def gardadoXeralConsultaAccesos():
     listaEscribir: list[str]= []
     listaInicial=busquedaOrfos()

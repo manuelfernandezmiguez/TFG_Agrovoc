@@ -1,0 +1,124 @@
+buscado,resultado,tempo
+meat animals production,meat production,2.18
+beef cattle production,meat production,2.23
+ornamental fishes production,animal production,2.26
+pet animals production,animal production,2.22
+ornamental birds production,aviculture,2.22
+songbirds production,aviculture,2.23
+plumage birds production,aviculture,2.15
+zoo animals production,animal production,2.15
+domestic animals production,animal production,2.14
+poultry production,aviculture,2.27
+geese production,aviculture,2.23
+ganders production,aviculture,2.15
+goslings production,aviculture,2.29
+chickens production,aviculture,2.22
+capons production,animal production,2.27
+cocks production,animal production,2.18
+chicks production,aviculture,2.23
+broiler chickens production,meat production,2.4
+cockerels production,animal production,2.21
+hens production,animal production,2.31
+layer chickens production,aviculture,2.2
+pullets production,aviculture,2.17
+layer breeders production,aviculture,2.27
+broiler breeders production,aviculture,2.18
+guinea fowl production,aviculture,2.28
+quails production,aviculture,2.27
+turkeys production,aviculture,2.15
+turkey poults production,aviculture,2.17
+ducks production,aviculture,2.19
+drakes production,aviculture,2.28
+ducklings production,aviculture,2.21
+Muscovy ducks production,aviculture,2.38
+working animals production,livestock production,2.26
+draught animals production,livestock production,2.27
+pack animals production,livestock production,2.18
+livestock production,livestock production,2.14
+cattle production,livestock production,2.3
+bullocks production,animal production,2.16
+bulls production,animal production,2.2
+heifers production,animal production,2.16
+dairy cattle production,milk production,2.15
+dairy cows production,milk production,2.18
+zebu production,livestock production,2.19
+banteng production,livestock production,2.2
+calves production,livestock production,2.19
+cows production,animal production,2.16
+suckler cows production,animal production,2.14
+yearling bulls production,livestock production,2.22
+gaurs production,livestock production,2.3
+yaks production,livestock production,2.26
+goats production,livestock production,2.14
+billygoats production,animal production,2.29
+kids production,livestock production,2.28
+nannygoats production,milk production,2.2
+doelings production,livestock production,2.13
+female yearling (goat) production,livestock production,2.15
+male yearling (goat) production,livestock production,2.22
+dairy goats production,milk production,2.24
+fibre goats production,livestock production,2.39
+llamas production,livestock production,2.26
+sheep production,livestock production,2.26
+ewes production,milk production,2.18
+lambs production,livestock production,2.16
+hoggets production,livestock production,2.13
+rams production,animal production,2.22
+wethers production,animal production,2.2
+ewe hoggs production,livestock production,2.32
+gimmers production,livestock production,2.43
+dairy sheep production,milk production,2.44
+donkeys production,livestock production,2.29
+hinnies production,livestock production,2.35
+mules production,livestock production,2.26
+domestic buffaloes production,livestock production,2.27
+water buffaloes production,meat production,2.4
+camels production,livestock production,2.22
+dromedaries production,livestock production,2.26
+Bactrian camels production,livestock production,2.25
+swine production,livestock production,2.27
+piglets production,livestock production,2.21
+suckling piglets production,livestock production,2.31
+weaners production,livestock production,2.39
+boars production,animal production,2.18
+barrows production,animal production,2.27
+sows production,animal production,2.18
+gilts production,animal production,2.2
+dry sows production,animal production,2.23
+farrowing sows production,animal production,2.24
+miniature pigs production,livestock production,2.26
+fattening pigs production,livestock production,2.22
+horses production,livestock production,2.15
+fillies production,animal production,2.24
+racehorses production,livestock production,2.23
+saddle horses production,livestock production,2.24
+draught horses production,livestock production,2.27
+mares production,milk production,2.22
+geldings production,animal production,2.22
+stallions production,animal production,2.18
+ponies production,livestock production,2.2
+colts production,livestock production,2.3
+yearling (horse) production,livestock production,2.2
+foals production,livestock production,2.27
+milk yielding animals production,milk production,2.3
+furbearing animals production,animal production,2.3
+skin producing animals production,animal production,2.15
+oil producing animals production,oil production,2.23
+performing animals production,animal production,2.27
+pollinators production,animal production,2.26
+useful arthropods production,animal production,2.2
+biological control arthropods production,animal production,2.26
+useful insects production,animal production,2.24
+Lac insects production,animal production,2.17
+silkworms production,sericulture,2.36
+dung beetles production,animal production,2.24
+insects as food production,food production,2.35
+ornamental insects production,animal production,2.22
+medicinal insects production,animal production,2.35
+wool producing animals production,wool production,2.16
+breeding stock production,animal production,2.17
+laboratory animals production,animal production,2.16
+gnotobiotic animals production,animal production,2.13
+laboratory mammals production,animal production,2.15
+recipient animals production,animal production,2.23
+donor animals production,animal production,2.19

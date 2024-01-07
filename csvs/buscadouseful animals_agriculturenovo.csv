@@ -1,0 +1,124 @@
+buscado,resultado,tempo
+meat animals agriculture,livestock-raising,2.2
+beef cattle agriculture,livestock-raising,2.28
+ornamental fishes agriculture,pet care,2.51
+pet animals agriculture,pet care,2.34
+ornamental birds agriculture,pet care,2.17
+songbirds agriculture,pet care,2.48
+plumage birds agriculture,restraint of animals,2.21
+zoo animals agriculture,restraint of animals,2.48
+domestic animals agriculture,pet care,2.25
+poultry agriculture,poultry farming,2.43
+geese agriculture,poultry farming,2.31
+ganders agriculture,poultry farming,2.18
+goslings agriculture,poultry farming,2.24
+chickens agriculture,poultry farming,2.18
+capons agriculture,restraint of animals,2.15
+cocks agriculture,restraint of animals,2.25
+chicks agriculture,poultry farming,2.25
+broiler chickens agriculture,poultry farming,2.3
+cockerels agriculture,restraint of animals,2.25
+hens agriculture,restraint of animals,2.25
+layer chickens agriculture,poultry farming,2.15
+pullets agriculture,poultry farming,2.29
+layer breeders agriculture,poultry farming,2.28
+broiler breeders agriculture,poultry farming,2.19
+guinea fowl agriculture,poultry farming,2.22
+quails agriculture,poultry farming,2.25
+turkeys agriculture,poultry farming,2.22
+turkey poults agriculture,poultry farming,2.45
+ducks agriculture,poultry farming,2.23
+drakes agriculture,poultry farming,2.23
+ducklings agriculture,poultry farming,2.19
+Muscovy ducks agriculture,poultry farming,2.2
+working animals agriculture,livestock-raising,2.24
+draught animals agriculture,livestock-raising,2.19
+pack animals agriculture,livestock-raising,2.16
+livestock agriculture,livestock-raising,2.14
+cattle agriculture,livestock-raising,2.18
+bullocks agriculture,restraint of animals,2.21
+bulls agriculture,restraint of animals,2.2
+heifers agriculture,restraint of animals,2.22
+dairy cattle agriculture,dairy farming,2.19
+dairy cows agriculture,dairy farming,2.28
+zebu agriculture,livestock-raising,2.25
+banteng agriculture,livestock-raising,2.23
+calves agriculture,livestock-raising,2.21
+cows agriculture,restraint of animals,2.25
+suckler cows agriculture,restraint of animals,2.24
+yearling bulls agriculture,livestock-raising,2.18
+gaurs agriculture,livestock-raising,2.25
+yaks agriculture,livestock-raising,2.2
+goats agriculture,livestock-raising,2.3
+billygoats agriculture,restraint of animals,2.27
+kids agriculture,livestock-raising,2.23
+nannygoats agriculture,restraint of animals,2.27
+doelings agriculture,livestock-raising,2.35
+female yearling (goat) agriculture,livestock-raising,2.32
+male yearling (goat) agriculture,livestock-raising,2.17
+dairy goats agriculture,dairy farming,2.22
+fibre goats agriculture,livestock-raising,2.36
+llamas agriculture,livestock-raising,2.24
+sheep agriculture,shearing,2.2
+ewes agriculture,shearing,2.16
+lambs agriculture,shearing,2.26
+hoggets agriculture,shearing,2.31
+rams agriculture,shearing,2.3
+wethers agriculture,shearing,2.27
+ewe hoggs agriculture,shearing,2.33
+gimmers agriculture,shearing,2.2
+dairy sheep agriculture,dairy farming,2.29
+donkeys agriculture,livestock-raising,2.33
+hinnies agriculture,livestock-raising,2.25
+mules agriculture,livestock-raising,2.47
+domestic buffaloes agriculture,livestock-raising,2.3
+water buffaloes agriculture,livestock-raising,2.32
+camels agriculture,livestock-raising,2.46
+dromedaries agriculture,livestock-raising,2.36
+Bactrian camels agriculture,livestock-raising,2.46
+swine agriculture,livestock-raising,2.43
+piglets agriculture,livestock-raising,2.26
+suckling piglets agriculture,livestock-raising,2.29
+weaners agriculture,livestock-raising,2.19
+boars agriculture,restraint of animals,2.17
+barrows agriculture,restraint of animals,2.24
+sows agriculture,restraint of animals,2.21
+gilts agriculture,restraint of animals,2.2
+dry sows agriculture,restraint of animals,2.21
+farrowing sows agriculture,restraint of animals,2.19
+miniature pigs agriculture,livestock-raising,2.28
+fattening pigs agriculture,livestock-raising,2.19
+horses agriculture,livestock-raising,2.16
+fillies agriculture,restraint of animals,2.19
+racehorses agriculture,livestock-raising,2.22
+saddle horses agriculture,livestock-raising,2.22
+draught horses agriculture,livestock-raising,2.16
+mares agriculture,restraint of animals,2.18
+geldings agriculture,restraint of animals,2.19
+stallions agriculture,restraint of animals,2.23
+ponies agriculture,livestock-raising,2.27
+colts agriculture,livestock-raising,2.32
+yearling (horse) agriculture,livestock-raising,2.27
+foals agriculture,livestock-raising,2.19
+milk yielding animals agriculture,livestock-raising,2.16
+furbearing animals agriculture,fur farming,2.18
+skin producing animals agriculture,restraint of animals,2.17
+oil producing animals agriculture,restraint of animals,2.23
+performing animals agriculture,restraint of animals,2.12
+pollinators agriculture,insect farming,2.26
+useful arthropods agriculture,restraint of animals,2.35
+biological control arthropods agriculture,insect farming,2.32
+useful insects agriculture,insect farming,2.23
+Lac insects agriculture,insect farming,2.3
+silkworms agriculture,insect farming,2.34
+dung beetles agriculture,insect farming,2.25
+insects as food agriculture,insect farming,2.19
+ornamental insects agriculture,insect farming,2.35
+medicinal insects agriculture,insect farming,2.42
+wool producing animals agriculture,restraint of animals,2.38
+breeding stock agriculture,restraint of animals,2.38
+laboratory animals agriculture,restraint of animals,2.26
+gnotobiotic animals agriculture,restraint of animals,2.34
+laboratory mammals agriculture,restraint of animals,2.37
+recipient animals agriculture,restraint of animals,2.42
+donor animals agriculture,restraint of animals,2.24

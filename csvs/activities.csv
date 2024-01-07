@@ -1,0 +1,64 @@
+nome,uriVella,NovoElemento,uriNiovo
+growth control,http://aims.fao.org/aos/agrovoc/c_15980,growth,http://aims.fao.org/aos/agrovoc/c_3394
+growth regulation,http://aims.fao.org/aos/agrovoc/c_15980,growth,http://aims.fao.org/aos/agrovoc/c_3394
+growth regulation,http://aims.fao.org/aos/agrovoc/c_15980,regulations,http://aims.fao.org/aos/agrovoc/c_6493
+weather control,http://aims.fao.org/aos/agrovoc/c_8339,weather,http://aims.fao.org/aos/agrovoc/c_15292
+bacteria control (disinfection),http://aims.fao.org/aos/agrovoc/c_10397,Bacteria,http://aims.fao.org/aos/agrovoc/c_765
+catching fish,http://aims.fao.org/aos/agrovoc/c_26950,fish,http://aims.fao.org/aos/agrovoc/c_15903
+forestry operations,http://aims.fao.org/aos/agrovoc/c_3059,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+forestry practices,http://aims.fao.org/aos/agrovoc/c_3059,forestry,http://aims.fao.org/aos/agrovoc/c_3055
+fire control,http://aims.fao.org/aos/agrovoc/c_2908,fires,http://aims.fao.org/aos/agrovoc/c_2915
+fire fighting,http://aims.fao.org/aos/agrovoc/c_2908,fires,http://aims.fao.org/aos/agrovoc/c_2915
+fire strategy,http://aims.fao.org/aos/agrovoc/c_2908,fires,http://aims.fao.org/aos/agrovoc/c_2915
+fire strategy,http://aims.fao.org/aos/agrovoc/c_2908,strategies,http://aims.fao.org/aos/agrovoc/c_330991
+capture of animals,http://aims.fao.org/aos/agrovoc/c_24105,animals,http://aims.fao.org/aos/agrovoc/c_444
+income transfers,http://aims.fao.org/aos/agrovoc/c_3822,income,http://aims.fao.org/aos/agrovoc/c_3820
+market research,http://aims.fao.org/aos/agrovoc/c_4618,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market research,http://aims.fao.org/aos/agrovoc/c_4618,research,http://aims.fao.org/aos/agrovoc/c_6513
+market surveys,http://aims.fao.org/aos/agrovoc/c_4618,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market surveys,http://aims.fao.org/aos/agrovoc/c_4618,surveys,http://aims.fao.org/aos/agrovoc/c_7537
+market analysis,http://aims.fao.org/aos/agrovoc/c_4618,markets,http://aims.fao.org/aos/agrovoc/c_4626
+market analysis,http://aims.fao.org/aos/agrovoc/c_4618,analysis,http://aims.fao.org/aos/agrovoc/c_49928
+market studies,http://aims.fao.org/aos/agrovoc/c_4618,markets,http://aims.fao.org/aos/agrovoc/c_4626
+size determination,http://aims.fao.org/aos/agrovoc/c_4668,size,http://aims.fao.org/aos/agrovoc/c_7093
+weight reduction,http://aims.fao.org/aos/agrovoc/c_15301,weight,http://aims.fao.org/aos/agrovoc/c_8349
+weight reduction,http://aims.fao.org/aos/agrovoc/c_15301,reduction,http://aims.fao.org/aos/agrovoc/c_6483
+computer programming,http://aims.fao.org/aos/agrovoc/c_6220,computers,http://aims.fao.org/aos/agrovoc/c_1799
+development research,http://aims.fao.org/aos/agrovoc/c_6513,development,http://aims.fao.org/aos/agrovoc/c_331049
+seed treatment,http://aims.fao.org/aos/agrovoc/c_6940,seed,http://aims.fao.org/aos/agrovoc/c_6927
+ship routing,http://aims.fao.org/aos/agrovoc/c_15908,ships,http://aims.fao.org/aos/agrovoc/c_7040
+destruction of animals,http://aims.fao.org/aos/agrovoc/c_24016,animals,http://aims.fao.org/aos/agrovoc/c_444
+paper making,http://aims.fao.org/aos/agrovoc/c_28116,paper,http://aims.fao.org/aos/agrovoc/c_5548
+economic activities,http://aims.fao.org/aos/agrovoc/c_330888,economics,http://aims.fao.org/aos/agrovoc/c_2481
+accident reporting,http://aims.fao.org/aos/agrovoc/c_331462,accidents,http://aims.fao.org/aos/agrovoc/c_4121d8d0
+institutional reform,http://aims.fao.org/aos/agrovoc/c_9000086,reforms,http://aims.fao.org/aos/agrovoc/c_bb4738d4
+map making,http://aims.fao.org/aos/agrovoc/c_1344,maps,http://aims.fao.org/aos/agrovoc/c_b43d8acf
+plant establishment,http://aims.fao.org/aos/agrovoc/c_5965,plants,http://aims.fao.org/aos/agrovoc/c_5993
+stand development,http://aims.fao.org/aos/agrovoc/c_5965,development,http://aims.fao.org/aos/agrovoc/c_331049
+crop establishment,http://aims.fao.org/aos/agrovoc/c_5965,crops,http://aims.fao.org/aos/agrovoc/c_1972
+transformation (of products),http://aims.fao.org/aos/agrovoc/c_6195,transformation,http://aims.fao.org/aos/agrovoc/c_331037
+transformation (of products),http://aims.fao.org/aos/agrovoc/c_6195,products,http://aims.fao.org/aos/agrovoc/c_6211
+conservation (storage),http://aims.fao.org/aos/agrovoc/c_7427,resource conservation,http://aims.fao.org/aos/agrovoc/c_6523
+fishing operations,http://aims.fao.org/aos/agrovoc/c_2952,fishing,http://aims.fao.org/aos/agrovoc/c_26950
+operations on animals,http://aims.fao.org/aos/agrovoc/c_7533,animals,http://aims.fao.org/aos/agrovoc/c_444
+technology transfer,http://aims.fao.org/aos/agrovoc/c_7645,technology,http://aims.fao.org/aos/agrovoc/c_7644
+application of technology,http://aims.fao.org/aos/agrovoc/c_7645,application,http://aims.fao.org/aos/agrovoc/c_331436
+application of technology,http://aims.fao.org/aos/agrovoc/c_7645,technology,http://aims.fao.org/aos/agrovoc/c_7644
+cooperative activities,http://aims.fao.org/aos/agrovoc/c_1856,cooperatives,http://aims.fao.org/aos/agrovoc/c_10090
+monitoring and evaluation,http://aims.fao.org/aos/agrovoc/c_bea12d1e,monitoring,http://aims.fao.org/aos/agrovoc/c_4911
+monitoring and evaluation,http://aims.fao.org/aos/agrovoc/c_bea12d1e,evaluation,http://aims.fao.org/aos/agrovoc/c_2736
+dispute settlement,http://aims.fao.org/aos/agrovoc/c_487829e6,disputes,http://aims.fao.org/aos/agrovoc/c_95702bad
+ship conversion,http://aims.fao.org/aos/agrovoc/c_230f84ce,ships,http://aims.fao.org/aos/agrovoc/c_7040
+port operations,http://aims.fao.org/aos/agrovoc/c_2c4fa234,harbours,http://aims.fao.org/aos/agrovoc/c_3492
+acoustic tracking,http://aims.fao.org/aos/agrovoc/c_c4d65583,acoustics,http://aims.fao.org/aos/agrovoc/c_49911
+ultrasonic tracking,http://aims.fao.org/aos/agrovoc/c_c4d65583,ultrasonics,http://aims.fao.org/aos/agrovoc/c_8044
+recovery of wrecks,http://aims.fao.org/aos/agrovoc/c_20c81b80,recuperation,http://aims.fao.org/aos/agrovoc/c_aafbf0c8
+recovery of wrecks,http://aims.fao.org/aos/agrovoc/c_20c81b80,wrecks,http://aims.fao.org/aos/agrovoc/c_cecdd1f2
+wreck recovery,http://aims.fao.org/aos/agrovoc/c_20c81b80,wrecks,http://aims.fao.org/aos/agrovoc/c_cecdd1f2
+wreck recovery,http://aims.fao.org/aos/agrovoc/c_20c81b80,recuperation,http://aims.fao.org/aos/agrovoc/c_aafbf0c8
+explosive welding,http://aims.fao.org/aos/agrovoc/c_7eb51b94,explosives,http://aims.fao.org/aos/agrovoc/c_25724
+mooring ships,http://aims.fao.org/aos/agrovoc/c_c3c7073b,mooring systems,http://aims.fao.org/aos/agrovoc/c_29e64db2
+mooring ships,http://aims.fao.org/aos/agrovoc/c_c3c7073b,ships,http://aims.fao.org/aos/agrovoc/c_7040
+product recall,http://aims.fao.org/aos/agrovoc/c_74f047e5,products,http://aims.fao.org/aos/agrovoc/c_6211
+cost recovery,http://aims.fao.org/aos/agrovoc/c_bc882050,costs,http://aims.fao.org/aos/agrovoc/c_1922
+cost recovery,http://aims.fao.org/aos/agrovoc/c_bc882050,recuperation,http://aims.fao.org/aos/agrovoc/c_aafbf0c8

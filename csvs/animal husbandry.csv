@@ -1,0 +1,118 @@
+nome,uriVella,NovoElemento,uriNiovo
+barrier husbandry,http://aims.fao.org/aos/agrovoc/c_828,barriers,http://aims.fao.org/aos/agrovoc/c_b42bc3b7
+egg incubation,http://aims.fao.org/aos/agrovoc/c_2497,eggs,http://aims.fao.org/aos/agrovoc/c_2502
+feed yards,http://aims.fao.org/aos/agrovoc/c_2842,feeds,http://aims.fao.org/aos/agrovoc/c_2843
+sheep clipping,http://aims.fao.org/aos/agrovoc/c_2971,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+sheep shearing,http://aims.fao.org/aos/agrovoc/c_2971,sheep,http://aims.fao.org/aos/agrovoc/c_7030
+floor husbandry,http://aims.fao.org/aos/agrovoc/c_2981,floors,http://aims.fao.org/aos/agrovoc/c_2982
+slatted floor husbandry,http://aims.fao.org/aos/agrovoc/c_14328,slatted floors,http://aims.fao.org/aos/agrovoc/c_25685
+restraint of animals,http://aims.fao.org/aos/agrovoc/c_25751,animals,http://aims.fao.org/aos/agrovoc/c_444
+forced moulting,http://aims.fao.org/aos/agrovoc/c_32452,moulting,http://aims.fao.org/aos/agrovoc/c_4957
+induced moulting,http://aims.fao.org/aos/agrovoc/c_32452,moulting,http://aims.fao.org/aos/agrovoc/c_4957
+forced molting,http://aims.fao.org/aos/agrovoc/c_32452,moulting,http://aims.fao.org/aos/agrovoc/c_4957
+in vitro insemination,http://aims.fao.org/aos/agrovoc/c_34938,in vitro,http://aims.fao.org/aos/agrovoc/c_37563
+oestrus detection,http://aims.fao.org/aos/agrovoc/c_35694,oestrous cycle,http://aims.fao.org/aos/agrovoc/c_5322
+oestrus detection,http://aims.fao.org/aos/agrovoc/c_35694,detection,http://aims.fao.org/aos/agrovoc/c_a97eb278
+heat detection,http://aims.fao.org/aos/agrovoc/c_35694,heat,http://aims.fao.org/aos/agrovoc/c_3519
+heat detection,http://aims.fao.org/aos/agrovoc/c_35694,detection,http://aims.fao.org/aos/agrovoc/c_a97eb278
+cashmere harvesting,http://aims.fao.org/aos/agrovoc/c_77e427ca,cashmere,http://aims.fao.org/aos/agrovoc/c_16484
+cashmere harvesting,http://aims.fao.org/aos/agrovoc/c_77e427ca,harvesting,http://aims.fao.org/aos/agrovoc/c_3500
+poultry farming,http://aims.fao.org/aos/agrovoc/c_6148,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+poultry farming,http://aims.fao.org/aos/agrovoc/c_6148,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+poultry rearing,http://aims.fao.org/aos/agrovoc/c_6148,poultry,http://aims.fao.org/aos/agrovoc/c_6145
+bee keeping,http://aims.fao.org/aos/agrovoc/c_529,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+bee culture,http://aims.fao.org/aos/agrovoc/c_529,Apidae,http://aims.fao.org/aos/agrovoc/c_865
+hive management,http://aims.fao.org/aos/agrovoc/c_3639,hives,http://aims.fao.org/aos/agrovoc/c_3640
+hive management,http://aims.fao.org/aos/agrovoc/c_3639,management,http://aims.fao.org/aos/agrovoc/c_16086
+sea ranching,http://aims.fao.org/aos/agrovoc/c_550,Seas,http://aims.fao.org/aos/agrovoc/c_14148
+sea ranching,http://aims.fao.org/aos/agrovoc/c_550,extensive husbandry,http://aims.fao.org/aos/agrovoc/c_2764
+fish culture,http://aims.fao.org/aos/agrovoc/c_2918,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish farming,http://aims.fao.org/aos/agrovoc/c_2918,fish,http://aims.fao.org/aos/agrovoc/c_15903
+fish farming,http://aims.fao.org/aos/agrovoc/c_2918,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+bait culture,http://aims.fao.org/aos/agrovoc/c_db462b62,baits,http://aims.fao.org/aos/agrovoc/c_331029
+bait farming,http://aims.fao.org/aos/agrovoc/c_db462b62,baits,http://aims.fao.org/aos/agrovoc/c_331029
+bait farming,http://aims.fao.org/aos/agrovoc/c_db462b62,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+bait fish culture,http://aims.fao.org/aos/agrovoc/c_db462b62,bait fish,http://aims.fao.org/aos/agrovoc/c_98edcf11
+sea bream culture,http://aims.fao.org/aos/agrovoc/c_64872936,sea bream,http://aims.fao.org/aos/agrovoc/c_6894
+tilapia culture,http://aims.fao.org/aos/agrovoc/c_80b4ee13,tilapia,http://aims.fao.org/aos/agrovoc/c_32720
+eel culture,http://aims.fao.org/aos/agrovoc/c_8c842f98,eels,http://aims.fao.org/aos/agrovoc/c_2490
+carp culture,http://aims.fao.org/aos/agrovoc/c_970927c6,carp,http://aims.fao.org/aos/agrovoc/c_1334
+salmon culture,http://aims.fao.org/aos/agrovoc/c_a207cd23,salmon,http://aims.fao.org/aos/agrovoc/c_6756
+grouper culture,http://aims.fao.org/aos/agrovoc/c_a98e37d0,groupers,http://aims.fao.org/aos/agrovoc/c_3392
+flatfish culture,http://aims.fao.org/aos/agrovoc/c_abb35e83,flatfish,http://aims.fao.org/aos/agrovoc/c_2961
+snapper culture,http://aims.fao.org/aos/agrovoc/c_d478e877,snappers,http://aims.fao.org/aos/agrovoc/c_7123
+Asian sea bass culture,http://aims.fao.org/aos/agrovoc/c_e2f5dbc3,sea bass,http://aims.fao.org/aos/agrovoc/c_6893
+sea bass culture,http://aims.fao.org/aos/agrovoc/c_e5cf96c4,sea bass,http://aims.fao.org/aos/agrovoc/c_6893
+milkfish culture,http://aims.fao.org/aos/agrovoc/c_e7a5fff7,milkfish,http://aims.fao.org/aos/agrovoc/c_4834
+trout culture,http://aims.fao.org/aos/agrovoc/c_fef7c2f0,trout,http://aims.fao.org/aos/agrovoc/c_7983
+frog culture,http://aims.fao.org/aos/agrovoc/c_3111,frogs,http://aims.fao.org/aos/agrovoc/c_3112
+frog farms,http://aims.fao.org/aos/agrovoc/c_3111,frogs,http://aims.fao.org/aos/agrovoc/c_3112
+frog farms,http://aims.fao.org/aos/agrovoc/c_3111,farms,http://aims.fao.org/aos/agrovoc/c_2809
+pearl culture,http://aims.fao.org/aos/agrovoc/c_5642,pearls,http://aims.fao.org/aos/agrovoc/c_5644
+shellfish culture,http://aims.fao.org/aos/agrovoc/c_7034,shellfish,http://aims.fao.org/aos/agrovoc/c_7033
+crustacean culture,http://aims.fao.org/aos/agrovoc/c_1985,crustaceans,http://aims.fao.org/aos/agrovoc/c_eaa20250
+crayfish culture,http://aims.fao.org/aos/agrovoc/c_7f0c1311,crayfish,http://aims.fao.org/aos/agrovoc/c_1950
+crawfish culture,http://aims.fao.org/aos/agrovoc/c_7f0c1311,crawfish,http://aims.fao.org/aos/agrovoc/c_1949
+crayfish farming,http://aims.fao.org/aos/agrovoc/c_7f0c1311,crayfish,http://aims.fao.org/aos/agrovoc/c_1950
+crayfish farming,http://aims.fao.org/aos/agrovoc/c_7f0c1311,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+crab culture,http://aims.fao.org/aos/agrovoc/c_af70b89d,crabs,http://aims.fao.org/aos/agrovoc/c_1942
+freshwater crab culture,http://aims.fao.org/aos/agrovoc/c_af70b89d,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+saltwater shrimp culture,http://aims.fao.org/aos/agrovoc/c_6191669c,saline water,http://aims.fao.org/aos/agrovoc/c_16376
+shrimp farming,http://aims.fao.org/aos/agrovoc/c_6191669c,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+brine shrimp culture,http://aims.fao.org/aos/agrovoc/c_cee1caea,brines,http://aims.fao.org/aos/agrovoc/c_1091
+brine shrimp culture,http://aims.fao.org/aos/agrovoc/c_cee1caea,shrimp culture,http://aims.fao.org/aos/agrovoc/c_6191669c
+lobster culture,http://aims.fao.org/aos/agrovoc/c_a8b09196,lobsters,http://aims.fao.org/aos/agrovoc/c_4411
+mollusc culture,http://aims.fao.org/aos/agrovoc/c_4896,Mollusca,http://aims.fao.org/aos/agrovoc/c_4898
+cephalopod culture,http://aims.fao.org/aos/agrovoc/c_b02ea8e6,Cephalopoda,http://aims.fao.org/aos/agrovoc/c_1456
+squid culture,http://aims.fao.org/aos/agrovoc/c_14550,squids,http://aims.fao.org/aos/agrovoc/c_7343
+cuttlefish culture,http://aims.fao.org/aos/agrovoc/c_05b3a107,cuttlefish,http://aims.fao.org/aos/agrovoc/c_2049
+bivalve culture,http://aims.fao.org/aos/agrovoc/c_67a9a898,Bivalvia,http://aims.fao.org/aos/agrovoc/c_942
+oyster culture,http://aims.fao.org/aos/agrovoc/c_5483,oysters,http://aims.fao.org/aos/agrovoc/c_5484
+clam culture,http://aims.fao.org/aos/agrovoc/c_2d7e64ea,clams,http://aims.fao.org/aos/agrovoc/c_1650
+mussel culture,http://aims.fao.org/aos/agrovoc/c_f3bff2a9,mussels,http://aims.fao.org/aos/agrovoc/c_5010
+scallop culture,http://aims.fao.org/aos/agrovoc/c_186f5e6c,scallops,http://aims.fao.org/aos/agrovoc/c_6839
+gastropod culture,http://aims.fao.org/aos/agrovoc/c_0b85ab85,Gastropoda,http://aims.fao.org/aos/agrovoc/c_3201
+abalone culture,http://aims.fao.org/aos/agrovoc/c_fc92961e,abalones,http://aims.fao.org/aos/agrovoc/c_5
+ormer culture,http://aims.fao.org/aos/agrovoc/c_fc92961e,abalones,http://aims.fao.org/aos/agrovoc/c_5
+sponge culture,http://aims.fao.org/aos/agrovoc/c_7319,sponges,http://aims.fao.org/aos/agrovoc/c_7321
+turtle culture,http://aims.fao.org/aos/agrovoc/c_8022,turtles,http://aims.fao.org/aos/agrovoc/c_8023
+open ocean aquaculture,http://aims.fao.org/aos/agrovoc/c_585e556d,Oceans,http://aims.fao.org/aos/agrovoc/c_12890
+aquatic plant cultivation,http://aims.fao.org/aos/agrovoc/c_a1a5dac2,aquatic plants,http://aims.fao.org/aos/agrovoc/c_559
+aquatic plant culture,http://aims.fao.org/aos/agrovoc/c_a1a5dac2,aquatic plants,http://aims.fao.org/aos/agrovoc/c_559
+freshwater aquaculture,http://aims.fao.org/aos/agrovoc/c_8bab9dcf,freshwater,http://aims.fao.org/aos/agrovoc/c_3102
+inland water aquaculture,http://aims.fao.org/aos/agrovoc/c_8bab9dcf,inland waters,http://aims.fao.org/aos/agrovoc/c_3876
+echinoderm culture,http://aims.fao.org/aos/agrovoc/c_d1bdb6ca,Echinodermata,http://aims.fao.org/aos/agrovoc/c_2459
+sea urchin culture,http://aims.fao.org/aos/agrovoc/c_27f6d142,sea urchins,http://aims.fao.org/aos/agrovoc/c_6902
+sea cucumber culture,http://aims.fao.org/aos/agrovoc/c_8967a351,sea cucumbers,http://aims.fao.org/aos/agrovoc/c_6896
+coral farming,http://aims.fao.org/aos/agrovoc/c_dab8b694,corals,http://aims.fao.org/aos/agrovoc/c_1882
+coral farming,http://aims.fao.org/aos/agrovoc/c_dab8b694,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+coral culture,http://aims.fao.org/aos/agrovoc/c_dab8b694,corals,http://aims.fao.org/aos/agrovoc/c_1882
+zooplankton culture,http://aims.fao.org/aos/agrovoc/c_5d3f766f,zooplankton,http://aims.fao.org/aos/agrovoc/c_15490
+small-scale fish farming,http://aims.fao.org/aos/agrovoc/c_74f9ae7b,fish culture,http://aims.fao.org/aos/agrovoc/c_2918
+subsistence aquaculture,http://aims.fao.org/aos/agrovoc/c_74f9ae7b,subsistence,http://aims.fao.org/aos/agrovoc/c_e951c218
+artificial seeding of algae,http://aims.fao.org/aos/agrovoc/c_234f8b54,Algae,http://aims.fao.org/aos/agrovoc/c_258
+seaweed culture,http://aims.fao.org/aos/agrovoc/c_6914,seaweeds,http://aims.fao.org/aos/agrovoc/c_14154
+seaweed farming,http://aims.fao.org/aos/agrovoc/c_6914,seaweeds,http://aims.fao.org/aos/agrovoc/c_14154
+seaweed farming,http://aims.fao.org/aos/agrovoc/c_6914,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+seaweed cultivation,http://aims.fao.org/aos/agrovoc/c_6914,seaweeds,http://aims.fao.org/aos/agrovoc/c_14154
+seaweed cultivation,http://aims.fao.org/aos/agrovoc/c_6914,cultivation,http://aims.fao.org/aos/agrovoc/c_2018
+livestock rearing,http://aims.fao.org/aos/agrovoc/c_13750,livestock,http://aims.fao.org/aos/agrovoc/c_4397
+game farming,http://aims.fao.org/aos/agrovoc/c_24176,game,http://aims.fao.org/aos/agrovoc/c_3179
+game farming,http://aims.fao.org/aos/agrovoc/c_24176,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+game ranching,http://aims.fao.org/aos/agrovoc/c_24176,game,http://aims.fao.org/aos/agrovoc/c_3179
+game ranching,http://aims.fao.org/aos/agrovoc/c_24176,extensive husbandry,http://aims.fao.org/aos/agrovoc/c_2764
+reindeer husbandry,http://aims.fao.org/aos/agrovoc/c_331346,reindeer,http://aims.fao.org/aos/agrovoc/c_6494
+pet care,http://aims.fao.org/aos/agrovoc/c_36827,pet animals,http://aims.fao.org/aos/agrovoc/c_5742
+insect farming,http://aims.fao.org/aos/agrovoc/c_1387361594825,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+insect farming,http://aims.fao.org/aos/agrovoc/c_1387361594825,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+insect rearing,http://aims.fao.org/aos/agrovoc/c_1387361594825,insects,http://aims.fao.org/aos/agrovoc/c_8dcb26c2
+animal training,http://aims.fao.org/aos/agrovoc/c_442,animals,http://aims.fao.org/aos/agrovoc/c_444
+animal training,http://aims.fao.org/aos/agrovoc/c_442,training,http://aims.fao.org/aos/agrovoc/c_7861
+reptile culture,http://aims.fao.org/aos/agrovoc/c_87d897d5,reptiles,http://aims.fao.org/aos/agrovoc/c_6511
+crocodile farming,http://aims.fao.org/aos/agrovoc/c_e68f90f9,crocodiles,http://aims.fao.org/aos/agrovoc/c_1962
+crocodile farming,http://aims.fao.org/aos/agrovoc/c_e68f90f9,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+alligator culture,http://aims.fao.org/aos/agrovoc/c_b48c6468,alligators,http://aims.fao.org/aos/agrovoc/c_276
+fur farming,http://aims.fao.org/aos/agrovoc/c_b13d4b02,furs,http://aims.fao.org/aos/agrovoc/c_3155
+fur farming,http://aims.fao.org/aos/agrovoc/c_b13d4b02,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
+dairy farming,http://aims.fao.org/aos/agrovoc/c_68bf28f2,dairies,http://aims.fao.org/aos/agrovoc/c_34761
+dairy farming,http://aims.fao.org/aos/agrovoc/c_68bf28f2,farming systems,http://aims.fao.org/aos/agrovoc/c_2807
